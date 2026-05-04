@@ -64,6 +64,23 @@
           ]
         },
         {
+          "Title": "NBCSports.us",
+          "SubCategory": "Sports",
+          "Country": "USA",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://www.google.com/imgres?q=nbc%20sports%20logo&imgurl=https%3A%2F%2Fwww.nbcstore.com%2Fcdn%2Fshop%2Ffiles%2Fnbc-sports-mobile-min.jpg%3Fv%3D1689009421&imgrefurl=https%3A%2F%2Fwww.nbcstore.com%2Fcollections%2Fnbc-sports&docid=NqWcZUl0TQCvtM&tbnid=X3waWCSgS2Ir5M&vet=12ahUKEwiIwqDf68KIAxXtHzQIHcMPKogQM3oECDEQAA..i&w=750&h=500&hcb=2&ved=2ahUKEwiIwqDf68KIAxXtHzQIHcMPKogQM3oECDEQAA",
+          "Thumbnail": "https://www.google.com/imgres?q=nbc%20sports%20logo&imgurl=https%3A%2F%2Fwww.nbcstore.com%2Fcdn%2Fshop%2Ffiles%2Fnbc-sports-mobile-min.jpg%3Fv%3D1689009421&imgrefurl=https%3A%2F%2Fwww.nbcstore.com%2Fcollections%2Fnbc-sports&docid=NqWcZUl0TQCvtM&tbnid=X3waWCSgS2Ir5M&vet=12ahUKEwiIwqDf68KIAxXtHzQIHcMPKogQM3oECDEQAA..i&w=750&h=500&hcb=2&ved=2ahUKEwiIwqDf68KIAxXtHzQIHcMPKogQM3oECDEQAA",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
+            }
+          ]
+        },
+        {
           "Title": "DepEd TV",
           "SubCategory": "General Entertainment",
           "Country": "Philippines",
