@@ -1142,6 +1142,23 @@
           ]
         },
         {
+          "Title": "Cine Mo HD",
+          "SubCategory": "Movies",
+          "Country": "🇵🇭 PH",
+          "Description": "Cine Mo! is a Filipino pay television channel owned by ABS-CBN.",
+          "Poster": "https://i.imgur.com/KUwrSOH.png",
+          "Thumbnail": "https://i.imgur.com/KUwrSOH.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "SD",
+              "url": "https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd"
+            }
+          ]
+        },
+        {
           "Title": "Cine Mo!",
           "SubCategory": "Movies",
           "Country": "🇵🇭 PH",
