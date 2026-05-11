@@ -6,8 +6,8 @@
   },
   {
     "name": "CS-MovieSrc",
-    "movie": "https://movie-src.xyz/v1/embed/movie/{id}",
-    "tv": "https://movie-src.xyz/v1/embed/tv/{id}/{s}/{e}"
+    "movie": "https://www.vidfast.net/movie/{id}",
+    "tv": "https://www.vidfast.net/tv/{id}/{s}/{e}"
   },
   {
     "name": "CS-Vidsrc.icu",
