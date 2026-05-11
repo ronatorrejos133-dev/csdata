@@ -5,7 +5,7 @@
     "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
   },
   {
-    "name": "CS-MovieSrc",
+    "name": "Vidfast.net",
     "movie": "https://www.vidfast.net/movie/{id}",
     "tv": "https://www.vidfast.net/tv/{id}/{s}/{e}"
   },
