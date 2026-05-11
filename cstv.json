@@ -81,12 +81,114 @@
           ]
         },
         {
-          "Title": "DepEd TV",
+          "Title": "GMA PinoyTV",
           "SubCategory": "General Entertainment",
           "Country": "Philippines",
           "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
           "Poster": "https://i.imgur.com/Jinf00v.png",
           "Thumbnail": "https://i.imgur.com/Jinf00v.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd"
+            }
+          ]
+        },
+        {
+          "Title": "GMA PinoyTV",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://i.imgur.com/Jinf00v.png",
+          "Thumbnail": "https://i.imgur.com/Jinf00v.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd"
+            }
+          ]
+        },
+        {
+          "Title": "GMA PinoyTV",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://i.imgur.com/Jinf00v.png",
+          "Thumbnail": "https://i.imgur.com/Jinf00v.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd"
+            }
+          ]
+        },
+        {
+          "Title": "GMA PinoyTV",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://i.imgur.com/Jinf00v.png",
+          "Thumbnail": "https://i.imgur.com/Jinf00v.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd"
+            }
+          ]
+        },
+        {
+          "Title": "Jeepney TV",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jeepney_TV_logo.png",
+          "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jeepney_TV_logo.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+            }
+          ]
+        },
+        {
+          "Title": "ALLTV",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "",
+          "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVilBpvoSEsrFraDWPiH2LppRpJ8rR6TfGcw&s",
+          "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVilBpvoSEsrFraDWPiH2LppRpJ8rR6TfGcw&s",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+            }
+          ]
+        },
+        {
+          "Title": "DepEd TV",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20211103054645",
+          "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20211103054645",
           "Rating": 0.0,
           "Duration": "",
           "Year": 0,
