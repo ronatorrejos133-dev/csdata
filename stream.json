@@ -5,6 +5,11 @@
     "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
   },
   {
+    "name": "CS-Vidsrc.to",
+    "movie": "https://vidsrc.to/embed/movie/{id}",
+    "tv": "https://vidsrc.to/embed/tv/{id}/{s}/{e}"
+  },
+  {
     "name": "CS-Vidsrc.icu",
     "movie": "https://vidsrc.icu/embed/movie/{id}",
     "tv": "https://vidsrc.icu/embed/tv/{id}/{s}/{e}"
