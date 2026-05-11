@@ -5,9 +5,9 @@
     "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
   },
   {
-    "name": "CS-Vidsrc.to",
-    "movie": "https://vidsrc.to/embed/movie/{id}",
-    "tv": "https://vidsrc.to/embed/tv/{id}/{s}/{e}"
+    "name": "CS-MovieSrc",
+    "movie": "https://movie-src.xyz/v1/embed/movie/{id}",
+    "tv": "https://movie-src.xyz/v1/embed/tv/{id}/{s}/{e}"
   },
   {
     "name": "CS-Vidsrc.icu",
