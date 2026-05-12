@@ -25,6 +25,11 @@
     "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
   },
   {
+    "name": "CS-Win",
+    "movie": "https://vidsrc.win/watch/{id}",
+    "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
+  },
+  {
     "name": "Vidsrc.online",
     "movie": "https://vidsrc.online/embed/movie/{id}",
     "tv": "https://vidsrc.online/embed/tv/{id}/{s}/{e}"
