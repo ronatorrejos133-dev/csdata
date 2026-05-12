@@ -25,9 +25,19 @@
     "tv": "https://vidsrc.mov/embed/tv/{id}/{s}/{e}"
   },
   {
-    "name": "CS-Win",
-    "movie": "https://vidsrc.win/embed/{id}",
-    "tv": "https://vidlink.pro/tv/{id}/{s}/{e}"
+    "name": "CS-Server 6",
+    "movie": "https://superembed.stream/movie/{id}",
+    "tv": "https://embed.su/embed/tv/{id}/{s}/{e}"
+  },
+  {
+    "name": "CS-Server 7",
+    "movie": "https://embed.su/embed/movie/{id}",
+    "tv": "https://embed.su/embed/tv/{id}/{s}/{e}"
+  },
+  {
+    "name": "CS-Server 8",
+    "movie": "https://superembed.stream/movie/{id}",
+    "tv": "https://embed.su/embed/tv/{id}/{s}/{e}"
   },
   {
     "name": "Vidsrc.online",
