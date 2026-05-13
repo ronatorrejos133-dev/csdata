@@ -1193,6 +1193,703 @@
           ]
         },
         {
+    "Title": "Abante TV",
+    "SubCategory": "News",
+    "Country": "Philippines",
+    "Description": "Abante TV is a Filipino news and current affairs channel providing daily news coverage.",
+    "Poster": "https://logo.clearbit.com/abante.com.ph",
+    "Thumbnail": "https://logo.clearbit.com/abante.com.ph",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "FilAmTV Network",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "FilAmTV Network provides Filipino entertainment and cultural programming to overseas audiences.",
+    "Poster": "https://logo.clearbit.com/filamtv.com",
+    "Thumbnail": "https://logo.clearbit.com/filamtv.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://streams.comclark.com/pknsd/filamtv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "ANC HD",
+    "SubCategory": "News",
+    "Country": "Philippines",
+    "Description": "ANC HD is a 24-hour news channel providing comprehensive news coverage.",
+    "Poster": "https://logo.clearbit.com/anc.com.ph",
+    "Thumbnail": "https://logo.clearbit.com/anc.com.ph",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd"
+      }
+    ]
+  },
+  {
+    "Title": "MovieSphere",
+    "SubCategory": "Movies",
+    "Country": "UK",
+    "Description": "MovieSphere is a movie channel showcasing a variety of films.",
+    "Poster": "https://logo.clearbit.com/moviesphere.com",
+    "Thumbnail": "https://logo.clearbit.com/moviesphere.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "CLTV 36",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "CLTV 36 is a local television station providing regional news and programming.",
+    "Poster": "https://logo.clearbit.com/cltv36.tv",
+    "Thumbnail": "https://logo.clearbit.com/cltv36.tv",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Bilyonario News Channel",
+    "SubCategory": "News",
+    "Country": "Philippines",
+    "Description": "Bilyonario News Channel provides news and current affairs programming.",
+    "Poster": "https://logo.clearbit.com/bilyonario.ph",
+    "Thumbnail": "https://logo.clearbit.com/bilyonario.ph",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "EWTN Asia-Pacific",
+    "SubCategory": "Religious",
+    "Country": "International",
+    "Description": "EWTN Asia-Pacific is a religious broadcasting network providing faith-based content.",
+    "Poster": "https://logo.clearbit.com/ewtn.com",
+    "Thumbnail": "https://logo.clearbit.com/ewtn.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Arirang",
+    "SubCategory": "News",
+    "Country": "South Korea",
+    "Description": "Arirang is a Korean broadcaster providing international news and cultural programming.",
+    "Poster": "https://logo.clearbit.com/arirang.co.kr",
+    "Thumbnail": "https://logo.clearbit.com/arirang.co.kr",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Bloomberg Asia",
+    "SubCategory": "News",
+    "Country": "International",
+    "Description": "Bloomberg Asia provides financial and business news coverage for the Asia-Pacific region.",
+    "Poster": "https://logo.clearbit.com/bloomberg.com",
+    "Thumbnail": "https://logo.clearbit.com/bloomberg.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "BBC World News",
+    "SubCategory": "News",
+    "Country": "UK",
+    "Description": "BBC World News is a 24-hour English-language news channel providing global coverage.",
+    "Poster": "https://logo.clearbit.com/bbc.co.uk",
+    "Thumbnail": "https://logo.clearbit.com/bbc.co.uk",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "CGTN Documentaries",
+    "SubCategory": "Documentary",
+    "Country": "China",
+    "Description": "CGTN Documentaries provides documentary programming from China Global Television Network.",
+    "Poster": "https://logo.clearbit.com/cgtn.com",
+    "Thumbnail": "https://logo.clearbit.com/cgtn.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "BBC News Asia Pacific",
+    "SubCategory": "News",
+    "Country": "UK",
+    "Description": "BBC News Asia Pacific covers news relevant to the Asia-Pacific region.",
+    "Poster": "https://logo.clearbit.com/bbc.co.uk",
+    "Thumbnail": "https://logo.clearbit.com/bbc.co.uk",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Outdoor Channel",
+    "SubCategory": "Lifestyle",
+    "Country": "New Zealand",
+    "Description": "Outdoor Channel features outdoor sports and adventure programming.",
+    "Poster": "https://logo.clearbit.com/outdoorchannel.com",
+    "Thumbnail": "https://logo.clearbit.com/outdoorchannel.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Thrillers",
+    "SubCategory": "Movies",
+    "Country": "USA",
+    "Description": "Thrillers is a channel dedicated to thriller and suspense films.",
+    "Poster": "https://logo.clearbit.com/amcnetworks.com",
+    "Thumbnail": "https://logo.clearbit.com/amcnetworks.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Blues TV",
+    "SubCategory": "Music",
+    "Country": "USA",
+    "Description": "Blues TV showcases blues music and performances.",
+    "Poster": "https://logo.clearbit.com/bluestv.com",
+    "Thumbnail": "https://logo.clearbit.com/bluestv.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Persiana Junior",
+    "SubCategory": "Entertainment",
+    "Country": "International",
+    "Description": "Persiana Junior provides entertainment and youth programming.",
+    "Poster": "https://logo.clearbit.com/persiana.tv",
+    "Thumbnail": "https://logo.clearbit.com/persiana.tv",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://junhls.persiana.live/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Yahoo! Finance",
+    "SubCategory": "News",
+    "Country": "USA",
+    "Description": "Yahoo! Finance provides financial news and market information.",
+    "Poster": "https://logo.clearbit.com/finance.yahoo.com",
+    "Thumbnail": "https://logo.clearbit.com/finance.yahoo.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://yahoo-samsung.amagi.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "CNN",
+    "SubCategory": "News",
+    "Country": "USA",
+    "Description": "CNN is a leading 24-hour news network providing global coverage.",
+    "Poster": "https://logo.clearbit.com/cnn.com",
+    "Thumbnail": "https://logo.clearbit.com/cnn.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Japanim TV",
+    "SubCategory": "Animation",
+    "Country": "Japan",
+    "Description": "Japanim TV features Japanese anime and animation programming.",
+    "Poster": "https://logo.clearbit.com/japanim.com",
+    "Thumbnail": "https://logo.clearbit.com/japanim.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://foxkidstv.be:3369/stream/play.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Zarok TV Sorani",
+    "SubCategory": "Entertainment",
+    "Country": "Turkey",
+    "Description": "Zarok TV Sorani provides entertainment programming in Kurdish.",
+    "Poster": "https://logo.clearbit.com/zaroktv.com",
+    "Thumbnail": "https://logo.clearbit.com/zaroktv.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "EWTN Africa Asia",
+    "SubCategory": "Religious",
+    "Country": "International",
+    "Description": "EWTN Africa Asia is a religious broadcasting network serving Africa and Asia.",
+    "Poster": "https://logo.clearbit.com/ewtn.com",
+    "Thumbnail": "https://logo.clearbit.com/ewtn.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Fashion TV",
+    "SubCategory": "Lifestyle",
+    "Country": "International",
+    "Description": "Fashion TV showcases fashion, beauty, and lifestyle content.",
+    "Poster": "https://logo.clearbit.com/fashiontv.com",
+    "Thumbnail": "https://logo.clearbit.com/fashiontv.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd"
+      }
+    ]
+  },
+  {
+    "Title": "History",
+    "SubCategory": "Documentary",
+    "Country": "USA",
+    "Description": "History is a documentary channel featuring historical programs and events.",
+    "Poster": "https://logo.clearbit.com/history.com",
+    "Thumbnail": "https://logo.clearbit.com/history.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd"
+      }
+    ]
+  },
+  {
+    "Title": "Vegas Life TV",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "Vegas Life TV provides entertainment and lifestyle content.",
+    "Poster": "https://logo.clearbit.com/vegaslifetv.com",
+    "Thumbnail": "https://logo.clearbit.com/vegaslifetv.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "SportsGrid",
+    "SubCategory": "Sports",
+    "Country": "USA",
+    "Description": "SportsGrid provides sports news, analysis, and programming.",
+    "Poster": "https://logo.clearbit.com/sportsgrid.com",
+    "Thumbnail": "https://logo.clearbit.com/sportsgrid.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "ABC WWAY 3",
+    "SubCategory": "Local News",
+    "Country": "USA",
+    "Description": "ABC WWAY 3 is a local news station serving Wilmington, North Carolina.",
+    "Poster": "https://logo.clearbit.com/wway.tv",
+    "Thumbnail": "https://logo.clearbit.com/wway.tv",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "AssyriaSat",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "AssyriaSat is a satellite television service providing Assyrian programming.",
+    "Poster": "https://logo.clearbit.com/assyriasat.com",
+    "Thumbnail": "https://logo.clearbit.com/assyriasat.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "http://66.242.170.53/hls/live/temp/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Atlanta Channel",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "Atlanta Channel is a local television station serving Atlanta, Georgia.",
+    "Poster": "https://logo.clearbit.com/atlantachannel.tv",
+    "Thumbnail": "https://logo.clearbit.com/atlantachannel.tv",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Atlanta's 57 WATC TOO 57.2",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "Atlanta's 57 WATC TOO provides local programming for the Atlanta area.",
+    "Poster": "https://logo.clearbit.com/watctv.org",
+    "Thumbnail": "https://logo.clearbit.com/watctv.org",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Buena Park Television",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "Buena Park Television provides local news and community programming.",
+    "Poster": "https://logo.clearbit.com/ci.buena-park.ca.us",
+    "Thumbnail": "https://logo.clearbit.com/ci.buena-park.ca.us",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://buenapark.cablecast.tv/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "BUTV10 (Boston University)",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "BUTV10 is Boston University's student television station.",
+    "Poster": "https://logo.clearbit.com/bu.edu",
+    "Thumbnail": "https://logo.clearbit.com/bu.edu",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Carlsbad City TV Channel",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "Carlsbad City TV Channel provides local news and city programming for Carlsbad, California.",
+    "Poster": "https://logo.clearbit.com/carlsbadca.gov",
+    "Thumbnail": "https://logo.clearbit.com/carlsbadca.gov",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "City TV Capital City Connection",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "City TV Capital City Connection provides local programming for Montgomery.",
+    "Poster": "https://logo.clearbit.com/montgomery.gov",
+    "Thumbnail": "https://logo.clearbit.com/montgomery.gov",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Collier Television CTV",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "Collier Television CTV serves Naples, Florida with local news and community programming.",
+    "Poster": "https://logo.clearbit.com/colliercountyfl.gov",
+    "Thumbnail": "https://logo.clearbit.com/colliercountyfl.gov",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Concord TV",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "Concord TV provides local news and community programming for Concord, California.",
+    "Poster": "https://logo.clearbit.com/concordca.gov",
+    "Thumbnail": "https://logo.clearbit.com/concordca.gov",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://concordca.cablecast.tv/live/stream-2/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Cox Meriden Public Access Channel 15",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "Cox Meriden Public Access Channel 15 serves Meriden, Connecticut.",
+    "Poster": "https://logo.clearbit.com/cox.com",
+    "Thumbnail": "https://logo.clearbit.com/cox.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "http://applevalley.coxctv.com/live-1/live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Yuma AZ CH 73",
+    "SubCategory": "Local",
+    "Country": "USA",
+    "Description": "Yuma AZ CH 73 provides local programming for Yuma, Arizona.",
+    "Poster": "https://logo.clearbit.com/yuma.gov",
+    "Thumbnail": "https://logo.clearbit.com/yuma.gov",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "WJXT News4JAX",
+    "SubCategory": "Local News",
+    "Country": "USA",
+    "Description": "WJXT News4JAX is a local news station serving Jacksonville, Florida.",
+    "Poster": "https://logo.clearbit.com/news4jax.com",
+    "Thumbnail": "https://logo.clearbit.com/news4jax.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "WLNG Radio",
+    "SubCategory": "Radio",
+    "Country": "USA",
+    "Description": "WLNG Radio provides local radio broadcasting.",
+    "Poster": "https://logo.clearbit.com/wlng.com",
+    "Thumbnail": "https://logo.clearbit.com/wlng.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "WMGT-TV News",
+    "SubCategory": "Local News",
+    "Country": "USA",
+    "Description": "WMGT-TV News provides local news coverage for Macon, Georgia.",
+    "Poster": "https://logo.clearbit.com/wmgt.tv",
+    "Thumbnail": "https://logo.clearbit.com/wmgt.tv",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "World Harvest TV",
+    "SubCategory": "Religious",
+    "Country": "USA",
+    "Description": "World Harvest TV provides religious and faith-based programming.",
+    "Poster": "https://logo.clearbit.com/worldharvesttv.com",
+    "Thumbnail": "https://logo.clearbit.com/worldharvesttv.com",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
+      }
+    ]
+  },
+        {
           "Title": "CNN LIVE",
           "SubCategory": "",
           "Country": "",
