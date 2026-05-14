@@ -10,6 +10,11 @@
     "tv": "https://www.vidfast.net/tv/{id}/{s}/{e}"
   },
   {
+    "name": "111moviest",
+    "movie": "https://111movies.com/movie/{id}",
+    "tv": "https://111movies.com/tv/{id}/{s}/{e}"
+  },
+  {
     "name": "CS-Vidsrc.icu",
     "movie": "https://vidsrc.icu/embed/movie/{id}",
     "tv": "https://vidsrc.icu/embed/tv/{id}/{s}/{e}"
