@@ -1141,23 +1141,7 @@
             }
           ]
         },
-        {
-          "Title": "Cine Mo HD",
-          "SubCategory": "Movies",
-          "Country": "🇵🇭 PH",
-          "Description": "Cine Mo! is a Filipino pay television channel owned by ABS-CBN.",
-          "Poster": "https://i.imgur.com/KUwrSOH.png",
-          "Thumbnail": "https://i.imgur.com/KUwrSOH.png",
-          "Rating": 0.0,
-          "Duration": "",
-          "Year": 0,
-          "Servers": [
-            {
-              "name": "SD",
-              "url": "https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd"
-            }
-          ]
-        },
+        
         {
           "Title": "Cine Mo!",
           "SubCategory": "Movies",
@@ -1886,6 +1870,1315 @@
       {
         "name": "SD",
         "url": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
+      }
+    ]
+  },
+        {
+    "Title": "WPS TV",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "WPS TV is a local television channel providing entertainment and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "360p",
+        "url": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "WTVQ ABC 36 News",
+    "SubCategory": "News",
+    "Country": "USA",
+    "Description": "WTVQ ABC 36 News is a local news channel serving Lexington, Kentucky, providing news, weather, and sports coverage.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/ABC_2021_%28vertical%29.svg/1200px-ABC_2021_%28vertical%29.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/ABC_2021_%28vertical%29.svg/1200px-ABC_2021_%28vertical%29.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "WXXV-TV News",
+    "SubCategory": "News",
+    "Country": "USA",
+    "Description": "WXXV-TV News is a local news channel serving Biloxi, Mississippi, providing local news and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "YouDotGov",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "YouDotGov is a government and public affairs channel providing civic programming and government content.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Yuma77",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Yuma77 is a local community channel serving Yuma, Arizona, with local programming and community content.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Yuma AZ CH 72",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Yuma AZ Channel 72 is a local community channel serving Yuma, Arizona, with high-definition local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "White Plains Community Media",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "White Plains Community Media is a public access channel serving White Plains, New York, with local community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "360p",
+        "url": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Whittier CityTV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Whittier CityTV is a government access channel serving Whittier, California, with local government and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Cruz TV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Cruz TV is a community television channel providing local programming and community content.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Cypress Public Access Channel 36",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Cypress Public Access Channel 36 is a public access channel serving Cypress, California, with community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "360p",
+        "url": "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "FC Public Media",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "FC Public Media is a public media channel serving Fort Collins, Colorado, with local community programming in high definition.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Fernandina Beach City Meeting",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Fernandina Beach City Meeting is a government channel serving Fernandina Beach, Florida, with city council meetings and government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "FNX",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "FNX (First Nations Experience) is a television network featuring Native American and Indigenous programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Fort Pierce Live Stream",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Fort Pierce Live Stream is a government channel serving Fort Pierce, Florida, with local government and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "FOX 23 Cape Girardeau",
+    "SubCategory": "News",
+    "Country": "USA",
+    "Description": "FOX 23 Cape Girardeau (KBSI) is a Fox affiliate serving Southeast Missouri, Southern Illinois, and Western Kentucky with news and entertainment programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Fresno CMAC 1 Public Channel",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Fresno CMAC 1 Public Channel is a community media channel serving Fresno, California, with public access programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Gainesville Community 12TV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Gainesville Community 12TV is a community television channel serving Gainesville, Florida, with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Geb Tv",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "Geb Tv (KBPX LD5) is a television channel providing entertainment programming in high definition.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Gilroy CMAP TV Channel 17",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Gilroy CMAP TV Channel 17 is a community media channel serving Gilroy, California, with public access programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Gilroy CMAP TV Channel 18",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Gilroy CMAP TV Channel 18 is a community media channel serving Gilroy, California, with public access programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/cmap3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Gilroy CMAP TV Channel 19",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Gilroy CMAP TV Channel 19 is a community media channel serving Gilroy, California, with public access programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Gilroy CMAP TV Channel 20",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Gilroy CMAP TV Channel 20 is a community media channel serving Gilroy, California, with public access programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Glendale 11 AZ",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Glendale 11 AZ is a government access channel serving Glendale, Arizona, with local government and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "360p",
+        "url": "https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "God's Learning Channel",
+    "SubCategory": "Religious",
+    "Country": "USA",
+    "Description": "God's Learning Channel is a religious television network providing Christian programming and educational content.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Greensboro TV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Greensboro TV is a community television channel serving Greensboro, North Carolina, with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "HTV 1 Houston Television",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "HTV 1 Houston Television is a government access channel serving Houston, Texas, with local government and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "HTV 2 Houston Television",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "HTV 2 Houston Television is a government access channel serving Houston, Texas, with local government and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "KCAT Public Media TV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "KCAT Public Media TV is a public media channel providing community programming in high definition.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "KQSL Channel 8",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "KQSL Channel 8 is a television channel providing entertainment programming in high definition.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "KSCE Vida Cristiana",
+    "SubCategory": "Religious",
+    "Country": "USA",
+    "Description": "KSCE Vida Cristiana is a Christian religious television network providing Spanish-language Christian programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "KTOO 360TV 3",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "KTOO 360TV 3 is a television channel featuring FNX (First Nations Experience) programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Leominster TV Educational",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "Leominster TV Educational is an educational channel serving Leominster, Massachusetts, with educational programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Leominster TV Government",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Leominster TV Government is a government access channel serving Leominster, Massachusetts, with local government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Leominster TV Public",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Leominster TV Public is a public access channel serving Leominster, Massachusetts, with community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/leominster1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Life! Christian Broadcasting Network",
+    "SubCategory": "Religious",
+    "Country": "USA",
+    "Description": "Life! Christian Broadcasting Network is a Christian religious television network providing faith-based programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "LIFE! End Times TV",
+    "SubCategory": "Religious",
+    "Country": "USA",
+    "Description": "LIFE! End Times TV is a Christian religious television network providing eschatological and faith-based programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Long Beach Television",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Long Beach Television is a community channel serving Long Beach, California, with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Los Angeles Local Television Channel 36",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Los Angeles Local Television Channel 36 is a local community channel serving Los Angeles, California, with high-definition local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Miami Beach Tv",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Miami Beach Tv (MBTV) is a community channel serving Miami Beach, Florida, with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Midpen Media Center Channel 30",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Midpen Media Center Arts Issues and Lifestyles Channel 30 is a community channel serving the San Francisco Peninsula with arts and lifestyle programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Midpen Media Center Channel 75",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Midpen Media Center Diversity and Culture Channel 75 is a community channel serving the San Francisco Peninsula with diversity and culture programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Midpen Media Center Channel 26",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Midpen Media Center Government etc Channel 26 is a government channel serving the San Francisco Peninsula with government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Midpen Media Center Channel 29",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Midpen Media Center Government etc Channel 29 is a government channel serving the San Francisco Peninsula with government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Midpen Media Center Channel 28",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "Midpen Media Center Youth Education and Sports Channel 28 is a community channel serving the San Francisco Peninsula with youth, education, and sports programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Millbrae Community Television",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Millbrae Community Television (MCTV) is a community channel serving Millbrae, California, with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://685c08ed6d81a.streamlock.net/live/mp4:MCTV_aac/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Mobile County Public Schools TV Network",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "Mobile County Public Schools TV Network (MCPSS) is an educational channel serving Mobile County, Alabama, with school programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Monroe County Television MCTV",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Monroe County Television MCTV is a government channel serving Monroe County, Florida, with local government programming in high definition.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "myTV San Antonio",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "myTV San Antonio (KCWX-TV) is a MyNetworkTV affiliate serving San Antonio and Austin, Texas, with entertainment programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "NBC 10 Providence",
+    "SubCategory": "News",
+    "Country": "USA",
+    "Description": "NBC 10 Providence (WJAR) is an NBC affiliate serving Providence, Rhode Island, and surrounding areas with news, weather, and sports coverage.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "New Canaan Television 79",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "New Canaan Television 79 (NCTV79) is a community channel serving New Canaan, Connecticut, with local programming in high definition.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "NOTV New Orleans TV",
+    "SubCategory": "Entertainment",
+    "Country": "USA",
+    "Description": "NOTV New Orleans TV is a local television channel serving New Orleans, Louisiana, with entertainment and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Oceanside Community Television Channel 18",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Oceanside Community Television (KOCT) Community Channel 18 is a community channel serving Oceanside, California, with public access programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Oceanside Community Television Channel 19",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "Oceanside Community Television (KOCT) Education and Government Channel 19 is a community channel serving Oceanside, California, with education and government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Orange Government Access TV",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Orange Government Access TV is a government channel serving Orange, Connecticut, with local government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Pacific Coast TV HMB Coastside Channel 27",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Pacific Coast TV HMB Coastside Channel 27 is a community channel serving the Half Moon Bay coastside with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Palm Beaches TV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Palm Beaches TV is a community channel serving Palm Beach County, Florida, with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://live.feed.thepalmbeaches.tv/index.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Poudre School District TV",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "Poudre School District TV (PSD TV) is an educational channel serving Fort Collins, Colorado, with school district programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Rancho Cucamonga RCTV3",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Rancho Cucamonga RCTV3 is a community channel serving Rancho Cucamonga, California, with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Red Apple 21",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "Red Apple 21 is the educational channel for Fairfax County Public Schools, providing school programming and educational content.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Rifle Community TV RCTV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Rifle Community TV RCTV is a community channel serving Rifle, Colorado, with local programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Rocky Hill Government Access Channel 16",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Rocky Hill Government Access Channel 16 is a government channel serving Rocky Hill, Connecticut, with local government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Santa Maria Community Television Education Channel",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "Santa Maria Community Television Education Channel is an educational channel serving Santa Maria, California, with educational programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Santa Maria Community Television Government Channel",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Santa Maria Community Television Government Channel is a government channel serving Santa Maria, California, with local government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Santa Maria Community Television Public Access Channel",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Santa Maria Community Television Public Access Channel is a public access channel serving Santa Maria, California, with community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "SC Currents",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "SC Currents is a community television channel providing local programming and community content.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "SD",
+        "url": "https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "SCVTV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "SCVTV is a community channel serving Santa Clarita, California, with local programming in high definition.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "SF Commons Channel 29",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "SF Commons Channel 29 is a community channel serving San Francisco, California, with public access programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "SF Commons Channel 76",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "SF Commons Channel 76 is a community channel serving San Francisco, California, with public access programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "SLO County Channel 21",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "SLO County Channel 21 is a government channel serving San Luis Obispo County, California, with local government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "360p",
+        "url": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Sound View Community Media Education",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "Sound View Community Media Education is an educational community channel providing educational programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Sound View Community Media Government",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "Sound View Community Media Government is a government channel providing local government programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Sound View Community Media Public",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Sound View Community Media Public is a public access channel providing community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://livestream.telvue.com/soundviewcmt1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "Temecula TV",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "Temecula TV is a community channel serving Temecula, California, with local programming in high definition.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "UCTV University of California",
+    "SubCategory": "Education",
+    "Country": "USA",
+    "Description": "UCTV (University of California Television) is the broadcast and online media platform of the University of California, featuring educational programming from throughout the 10-campus system.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "WCBI",
+    "SubCategory": "News",
+    "Country": "USA",
+    "Description": "WCBI is a television station serving Columbus, Mississippi, and surrounding areas with news, weather, and sports coverage.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "WCCA 194 Worcester",
+    "SubCategory": "Community",
+    "Country": "USA",
+    "Description": "WCCA 194 Worcester (WCCA-TV) is a public access community channel serving Worcester, Massachusetts, known as 'The People's Channel'.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "480p",
+        "url": "https://worcester.vod.castus.tv/live/ch1.m3u8"
+      }
+    ]
+  },
+  {
+    "Title": "WCOT 13",
+    "SubCategory": "Government",
+    "Country": "USA",
+    "Description": "WCOT 13 is a government channel serving Tallahassee, Florida, with local government and community programming.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TV_icon.svg/1200px-TV_icon.svg.png",
+    "Rating": 0.0,
+    "Duration": "",
+    "Year": 0,
+    "Servers": [
+      {
+        "name": "HD",
+        "url": "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8"
       }
     ]
   },
