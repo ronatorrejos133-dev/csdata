@@ -1,0 +1,434 @@
+{
+  "Categories": [
+    {
+      "MainCategory": "LiveTV",
+      "SubCategories": [
+        "Entertainment"
+      ],
+      "Entries": []
+    },
+    {
+      "MainCategory": "Movies",
+      "SubCategories": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "Entries": []
+    },
+    {
+      "MainCategory": "TVSeries",
+      "SubCategories": [
+        "Anime",
+        "Action",
+        "Comedy",
+        "Drama",
+        "Action&Adventure"
+      ],
+      "Entries": [
+        {
+          "Title": "Descendants of the Sun",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+          "Poster": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+          "Rating": 8,
+          "Year": 2016,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Will You Be My Doctor?",
+                  "Duration": "1:00",
+                  "Description": "While on vacation after a sensitive military operation, soldier Si-jin senses a connection with Mo-yeon, a beautiful and strong-willed surgeon.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cbPzc5qli0iyOvIBjPgJq3CriDk.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1HiHPKtlDb79WtJ-jm2xhzgHFUgh1t-Pg/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "We Bump Into Each Other While Passing By",
+                  "Duration": "1:00",
+                  "Description": "Si-jin and Dae-young engage in a perilous operation in Afghanistan, while Mo-yeon assists in surgery. Later, Si-jin and Mo-yeon take in a movie.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zZTsDCuvWBTMk5vWy8xMRjrUWk8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1f5n_EsHIbe6fahug9R6vAamBMaHGsoH_/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "How Have You Been?",
+                  "Duration": "1:00",
+                  "Description": "Si-jin and Alpha Team join Mo-yeon and the doctors in Urk. Meanwhile, Myung-ju doesn't like how her father, Lt. Gen. Yoon, treats Dae-young.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zI0absqhHPgDX6xFVyC1UlJouDE.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1rGtKBZr3UkXXvJxtFxwbgkQuik66AwEu/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "I Will Find a Way to Drink",
+                  "Duration": "1:00",
+                  "Description": "Tempers flare over a dying man when Mo-yeon insists she can save the patient's life. Meanwhile, Dae-young and Myung-ju reunite at the airport.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tCfo6w7A9exHAeukfJ10PbsrQ0O.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1PdJjKh4KGLCgdupaoUK14nAjK8tK7RLm/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "What Should I Do About the Kiss",
+                  "Duration": "1:00",
+                  "Description": "After sharing a moment, Mo-yeon isn't sure what to think about her relationship with Si-jin. Later, Si-jin receives a panicked phone call.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4YiXDHILdrJZ9C8Wm34GViXFl7F.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1au4HEQIIjpjsHdGqG2k-NLQ-G7a3FqJz/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "I Shouldn't Have Received His Apology",
+                  "Duration": "59:00",
+                  "Description": "After a powerful earthquake strikes Urk, the country descends into chaos. It's up to the medical team and soldiers to search for survivors.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6EG89BO40yeccgWqAWQ4whoR9qg.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1Lm4TFI40coLE-T_pr2ZmT37QcvFmXbex/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "I Missed You",
+                  "Duration": "59:00",
+                  "Description": "In the earthquake's aftermath, heartbreaking decisions must be made by Si-jin and Mo-yeon, who both strive to save as many people as possible.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/a1Q6bV1ArNzFjQpS4TyLpPWKYX8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1W4OQI0X5rycOnDcYw8Z3P1p5kFkpGlIh/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Comfort the Deceased With a Silent Prayer",
+                  "Duration": "1:00",
+                  "Description": "When an aftershock strikes, Mo-yeon sees firsthand just how dangerous Si-jin's job can be. Later, an old phone message is accidentally broadcast.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/Ajb3TgeSwm9LAKGsLYLkhli10fd.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/12hsnCmri2QtqREkRAURIPBhLjeINQESP/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "That Wasn't Me",
+                  "Duration": "1:00",
+                  "Description": "Mo-yeon is embarrassed after her unintentional confession, but Si-jin isn't about to let her off the hook. Meanwhile, a visitor makes everyone nervous.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uYodWxXaOLZVSFrI2jSP4GvdhPy.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1goOSkvwb2ou9rcGto0dDFIyeYca0lRKc/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "You Got a Parcel From Shin Ji Young",
+                  "Duration": "1:00",
+                  "Description": "Dae-young is rattled after seeing an old nemesis, Mo-yeon shares a dark dinner with Si-jin, and an unusual package arrives from home.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xSYQAuD2pd9IAKDjCUqQKiGfrEI.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1l--dK1ygUAUAiC_QeU3OlXL35usfUw6u/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Who on Earth Stole It?",
+                  "Duration": "1:00",
+                  "Description": "While Dae-young and Myung-ju remain quarantined, the rest of the team fights the epidemic. Meanwhile, the supply truck with the cure disappears.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6eqPKGqnJIEc7HIsYOhRqiUIBBs.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1ies2AXD4RvKyHD8vueAn0bx5OaeIUywG/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "As of This Moment, Everyone Will Return to Team Alpha",
+                  "Duration": "59:00",
+                  "Description": "Dae-young has a bad feeling about Si-jin's solo mission into Argus's hideout. Mo-yeon wonders if she's capable of dealing with Si-jin's secrecy.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ee3hlcRP7taSaEjJp5ooyg6uL74.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1EbnkxNAw8qd_HlxI5Fv0l_NfTW6FBdlX/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "You're Not My Director Any More",
+                  "Duration": "59:00",
+                  "Description": "The medical team returns to their regular lives, but something's off. Meanwhile, Mo-yeon makes a bold career move, and Dae-young faces a tough choice.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pakSKZyU4gMKvcxzwcXCrszdnYr.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1pDf2nxd74MrJszhdbYYV1CVhftm1x6hB/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "The Movie We Missed",
+                  "Duration": "58:00",
+                  "Description": "After a patient is rushed to the hospital, Mo-yeon is shocked to see who is in need of care. Meanwhile, a microchip reveals unexpected information.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1iizaIR7Vc0g5PWOP0nTfPzQm7K.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1NFP3XM6pYTIl8u3NeydGqaCuDBm_DFyj/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "I Will Stay Alive",
+                  "Duration": "1:00",
+                  "Description": "Si-jin and Mo-yeon spend some much deserved time together. Dae-young and Myung-ju continue to have communication problems. Devastating news arrives.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1Hi447O8vf43D26aC-obVsEx0Ihg_PTkq/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "A Promise Made in the Dark",
+                  "Duration": "1:00",
+                  "Description": "As the team faces a new threat, Si-jin and Mo-yeon's relationship is tested like never before. Meanwhile, secrets from the past come to light.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1TPmROlIdNUUmpP7i12VfjbfMV3yGWkM5/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 17,
+                  "Title": "The Hardest Goodbye",
+                  "Duration": "1:00",
+                  "Description": "A mission goes wrong, forcing everyone to make impossible choices. Dae-young and Myung-ju finally confront their feelings for each other.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1jl_eDMsz6CNXawuNBbVk_ARqIVwBYd35/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 18,
+                  "Title": "When the Sun Sets",
+                  "Duration": "1:00",
+                  "Description": "In the aftermath of tragedy, the team must find a way to move forward. Si-jin makes a decision that will change everything.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1NXjXk3E-Wl1g8CHPcWBM77IZIDLGsi_y/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 19,
+                  "Title": "The Soldier's Vow",
+                  "Duration": "1:00",
+                  "Description": "As danger closes in, Si-jin and Mo-yeon fight to protect everything they love. A familiar face returns with shocking news.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1I4BmXxWkt1Ir2YExwzuS6Fv1rNI6_E1m/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 20,
+                  "Title": "This Is Unbelievable",
+                  "Duration": "1:00",
+                  "Description": "Mo-yeon and Myung-ju learn that not everything is what it seems. Meanwhile, a promotion is cause for celebration, and a trip reignites old passions.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ogo5XLnVyQACCaGeyo1jrhp9CA6.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/16Pp91bf1yv100mLi_59h4mAQbFlBu9Xq/preview"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "The WONDERfools",
+          "SubCategory": "Action&Adventure",
+          "Country": "",
+          "Description": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+          "Poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+          "Rating": 9,
+          "Year": 2026,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Every Life Comes With a Surprise Twist",
+                  "Duration": "1:08",
+                  "Description": "When news of the apocalypse spreads in Haeseong City, a cash-strapped and terminally ill young woman devises a kidnapping plot with two clumsy sidekicks.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3XxUF98a4LfE3Ts7ihpZjXwVXpe.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1yIRLaSiDI-kHZipgmPUW5SKsaY2_K209/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Secrets Are Meant To Be Kept",
+                  "Duration": "1:01",
+                  "Description": "Eun Chae-ni and her quirky friends Son Gyeong-hun and Kang Ro-bin are baffled by their sudden abilities. A wary Lee Un-jeong confronts his doubts.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6R0weF6IKgBDoVcnS61muYYdTf3.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/179bHSeUIChsvXruVz6Ui7l6ytlnMlIG5/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Brutes and Bad Luck Do Come in Droves",
+                  "Duration": "1:11",
+                  "Description": "The gang witnesses Un-jeong's superpower in a crisis. While they're thrilled after a daring rescue, Un-jeong senses danger nearby.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fmpIXulc7Y5QXhYRi4RPNHWs8ps.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1ADkm4lX4M800DDaykMxRtS8PnCreQ4S6/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Boonthe King Duck vs Wunderkinder",
+                  "Duration": "1:00",
+                  "Description": "Dr. Ha Won-do returns after 20 years, chasing secrets of the Child of Eternity. Later, the gang faces an attack—still unsure of their powers.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1rz5AIPpyjsUwb7v663XZS0H9K0.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1dIkEcJjTXtoqxm5wahS6zx2-RoMh2YTn/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "All We Need Is You",
+                  "Duration": "1:12",
+                  "Description": "Un-jeong leads a bootcamp for the gang to tap into their abilities. Chae-ni confronts her grandma about the superpower's secret.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ekFot91nUgf9gB9Fy6kXfzuwUaQ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1bVh2Bq-LRfYuCeqnRZyfz2Uer0E9w_pI/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "All Roads Lead to Chae-ni",
+                  "Duration": "1:17",
+                  "Description": "Chae-ni wakes up to danger—but finds a surprise lifeline in her pocket. Un-jeong plans with Gyeong-hun and Ro-bin to rescue Chae-ni.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tnIn0tEF92lNiYR1rHxj2zgQmQ9.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/10zYqQarm0-Lr_q83Uhti9xEszyb4hqRL/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "The Guardians of Haeseong City Part 1",
+                  "Duration": "1:01",
+                  "Description": "Un-jeong and the gang fight other superpowered followers, while Dr. Ha's risky plan targets Chae-ni.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/10Q6l84nDTkWgFj1cR025KUmvWj.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1hqe4k3WqAO2Jw_s5jvsVqj8P5QAx_sEp/preview"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "The Guardians of Haeseong City Part 2",
+                  "Duration": "1:32",
+                  "Description": "New Year's Eve 1999. Three misfits use their abilities to battle superpowered villains in an all-out brawl for Haeseong City.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xMUNsHZJUn1aeMtg0yj09bLHUIT.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Google Drive",
+                      "Link": "https://drive.google.com/file/d/1nNxCW55PQjYaEa2rn_EBPgEx29dFFIf1/preview"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
