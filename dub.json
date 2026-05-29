@@ -16,7 +16,182 @@
         "Horror",
         "Sci-Fi"
       ],
-      "Entries": []
+      "Entries": [
+        {
+          "Title": "Along with the Gods: The Two Worlds",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "Having died unexpectedly, firefighter Ja-hong is taken to the afterlife by 3 afterlife guardians. Only when he passes 7 trials over 49 days and proves he was innocent in human life, he’s able to reincarnate, and his 3 afterlife guardians are by his side to defend him in trial.",
+          "Poster": "https://image.tmdb.org/t/p/w500/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg",
+          "Rating": 8,
+          "Duration": "2:19",
+          "Year": 2017,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/oB1RwZqQ#rjve2qaE78J54PqezNdNKcNGwYHYESDPJeS7cPoP2Xw"
+            }
+          ]
+        },
+        {
+          "Title": "Bad Genius",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "Lynn, a brilliant student, after helping her friends to get the grades they need, develops the idea of starting a much bigger exam-cheating business.",
+          "Poster": "https://image.tmdb.org/t/p/w500/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg",
+          "Rating": 8,
+          "Duration": "2:10",
+          "Year": 2017,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/0ZFUjKgB#90W5ZNZ6_K-_2qUQb6kywy-QrrBT09eK8sUhopRU1zk"
+            }
+          ]
+        },
+        {
+          "Title": "Blade: Trinity",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existed—The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting him—the original vampire, Dracula.",
+          "Poster": "https://image.tmdb.org/t/p/w500/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg",
+          "Rating": 6,
+          "Duration": "1:53",
+          "Year": 2004,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/dEN1zKaB#heAGg9WFLdkI2JYLVG_tvVIqPKy-WVEU15nMNJpdyuM"
+            }
+          ]
+        },
+        {
+          "Title": "Chocolate",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "Zen, an autistic teenage girl with powerful martial arts skills, gets money to pay for her sick mother Zin's treatment by seeking out all the people who owe Zin money and making them pay.",
+          "Poster": "https://image.tmdb.org/t/p/w500/t6G2SGFZArIkMibcpGV9K8ke7rV.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/t6G2SGFZArIkMibcpGV9K8ke7rV.jpg",
+          "Rating": 7,
+          "Duration": "1:33",
+          "Year": 2008,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/gA1VVB5I#s68_n2Nd6Q39TD2wJoAh0UpOu7iR3kMam6MO8iVMDKg"
+            }
+          ]
+        },
+        {
+          "Title": "Pee Mak",
+          "SubCategory": "Comedy",
+          "Country": "",
+          "Description": "Mak's friends just want to protect him, but his wife Nak won't let a small thing like her own death get in the way of true love.",
+          "Poster": "https://image.tmdb.org/t/p/w500/5gY0EPvTdeGjEEIQ7337ZxHXV55.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5gY0EPvTdeGjEEIQ7337ZxHXV55.jpg",
+          "Rating": 7,
+          "Duration": "1:52",
+          "Year": 2013,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/AZFRlBpb#Etv-rx_kMiUbQM_7BI8VbGCu2E0imzWi6UVt4F5zfSE"
+            }
+          ]
+        },
+        {
+          "Title": "The Intruder",
+          "SubCategory": "Horror",
+          "Country": "",
+          "Description": "In an old house, a man is bitten to death by a snake. The special services and the media congregate but are only able to find a few snakes. Later, a group of cobras invade the building which threatens the lives of the habitants.",
+          "Poster": "https://image.tmdb.org/t/p/w500/96vFoTktDIUgAgR58dosnvTGI0L.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/96vFoTktDIUgAgR58dosnvTGI0L.jpg",
+          "Rating": 5,
+          "Duration": "1:46",
+          "Year": 2010,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/gVVEyCBA#RvcnnmoEMNUfFWOfGGPJSFXkknhcstwx428wyGZQGKA"
+            }
+          ]
+        },
+        {
+          "Title": "Van Helsing",
+          "SubCategory": "Horror",
+          "Country": "",
+          "Description": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.",
+          "Poster": "https://image.tmdb.org/t/p/w500/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+          "Rating": 6,
+          "Duration": "2:12",
+          "Year": 2004,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/BRd31LwQ#7Wi1SxjxICJuOKi1ZfOPGYyxsom40lQdd5Yhscl5emo"
+            }
+          ]
+        },
+        {
+          "Title": "White House Down",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "Capitol Policeman John Cale has just been denied his dream job with the Secret Service protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, when the complex is overtaken by a heavily armed paramilitary group. Now, with the nation's government falling into chaos and time running out, it's up to Cale to save the president, his daughter, and the country.",
+          "Poster": "https://image.tmdb.org/t/p/w500/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
+          "Rating": 7,
+          "Duration": "2:11",
+          "Year": 2013,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/file/xcEnjQIZ#owrV6d9u1LtO1KGtJ_2TVuN-0iToAUV-GBMvvTE4YNA"
+            },
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/xcEnjQIZ#owrV6d9u1LtO1KGtJ_2TVuN-0iToAUV-GBMvvTE4YNA"
+            }
+          ]
+        },
+        {
+          "Title": "Wonder Woman",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "On the mystical island of Themyscira, a proud and fierce warrior race of Amazons have raised a daughter of untold beauty, grace and strength: Princess Diana. When an Army fighter pilot, Steve Trevor, crash-lands on the island, the rebellious and headstrong Diana defies Amazonian law by accompanying Trevor back to civilization.",
+          "Poster": "https://image.tmdb.org/t/p/w500/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+          "Rating": 7,
+          "Duration": "1:14",
+          "Year": 2009,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/kJsXlQ7a#FOOZLV-yPAtzgzO8ZY0JYdlSO1h3wqWjDGN5rOfPlec"
+            }
+          ]
+        },
+        {
+          "Title": "Swapped",
+          "SubCategory": "Adventure",
+          "Country": "",
+          "Description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+          "Poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+          "Rating": 9,
+          "Duration": "1:42",
+          "Year": 2026,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/gVNg1CjB#cxR1Js-4GHWbXQPWYPsnw5arMGJKBGflCatL06Gd-j4"
+            }
+          ]
+        }
+      ]
     },
     {
       "MainCategory": "TV Series",
