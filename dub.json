@@ -2,31 +2,17 @@
   "Categories": [
     {
       "MainCategory": "LiveTV",
-      "SubCategories": [
-        "Entertainment"
-      ],
+      "SubCategories": ["Entertainment"],
       "Entries": []
     },
     {
       "MainCategory": "Movies",
-      "SubCategories": [
-        "Action",
-        "Comedy",
-        "Drama",
-        "Horror",
-        "Sci-Fi"
-      ],
+      "SubCategories": ["Action", "Comedy", "Drama", "Horror", "Sci-Fi"],
       "Entries": []
     },
     {
       "MainCategory": "TVSeries",
-      "SubCategories": [
-        "Anime",
-        "Action",
-        "Comedy",
-        "Drama",
-        "Action&Adventure"
-      ],
+      "SubCategories": ["Anime", "Action", "Comedy", "Drama", "Action&Adventure"],
       "Entries": [
         {
           "Title": "Descendants of the Sun",
@@ -50,8 +36,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/cbPzc5qli0iyOvIBjPgJq3CriDk.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/uc?export=download&id=1HiHPKtlDb79WtJ-jm2xhzgHFUgh1t-Pg"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/u2IhVI7Z#YWGh4uQRwwy1J1gPazzSToNcuVudsf6FtfQ6lwJXl74"
                     }
                   ]
                 },
@@ -63,8 +49,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/zZTsDCuvWBTMk5vWy8xMRjrUWk8.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1f5n_EsHIbe6fahug9R6vAamBMaHGsoH_/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/eqBjgSqS#g7n4PFfCOUYOBlvezYTIfi4JrflQaMEEgjQSaFpiN98"
                     }
                   ]
                 },
@@ -76,8 +62,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/zI0absqhHPgDX6xFVyC1UlJouDE.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1rGtKBZr3UkXXvJxtFxwbgkQuik66AwEu/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/zqJnTR5J#ulD3OPLCgeTIbQpPvxU4wjX9aRtZ2s3KKYINXnXJres"
                     }
                   ]
                 },
@@ -89,8 +75,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/tCfo6w7A9exHAeukfJ10PbsrQ0O.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1PdJjKh4KGLCgdupaoUK14nAjK8tK7RLm/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/2m5gTb5B#X46jlFTNRXTvQHot0MvAyDRWRT8E6qpf4vruK5_noY0"
                     }
                   ]
                 },
@@ -102,8 +88,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/4YiXDHILdrJZ9C8Wm34GViXFl7F.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1au4HEQIIjpjsHdGqG2k-NLQ-G7a3FqJz/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/jnRjVCRa#LWfOYs6kO-Rey9l0po7G4sc8fq98d7PAp96cin_tc70"
                     }
                   ]
                 },
@@ -115,8 +101,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/6EG89BO40yeccgWqAWQ4whoR9qg.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1Lm4TFI40coLE-T_pr2ZmT37QcvFmXbex/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/S2pyTTiR#_3r1Rbh4j1UE5MxkKOW3lpg9cvo6sbrp8ibEkeYKoa0"
                     }
                   ]
                 },
@@ -128,8 +114,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/a1Q6bV1ArNzFjQpS4TyLpPWKYX8.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1W4OQI0X5rycOnDcYw8Z3P1p5kFkpGlIh/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/23wmkbrZ#twh79Q3RjElg73O_IW681NB28HI6qaNQb2xnLD_B738"
                     }
                   ]
                 },
@@ -141,8 +127,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/Ajb3TgeSwm9LAKGsLYLkhli10fd.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/12hsnCmri2QtqREkRAURIPBhLjeINQESP/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/73BFHIrY#TtBvGN8rHlKbQIRnzOrY8yTsS9BJ2Z6wROBHd_xrZrU"
                     }
                   ]
                 },
@@ -154,8 +140,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/uYodWxXaOLZVSFrI2jSP4GvdhPy.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1goOSkvwb2ou9rcGto0dDFIyeYca0lRKc/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/iywDxCbC#_BKSQK5TadgB2w6XjitdPU0-Lxjv_dF3bnsB0qUWJ-w"
                     }
                   ]
                 },
@@ -167,8 +153,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/xSYQAuD2pd9IAKDjCUqQKiGfrEI.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1l--dK1ygUAUAiC_QeU3OlXL35usfUw6u/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/TyxDkKxI#un35_W92cENuktsso1yZZDffLY6Lnvq_vJyYa1ytX40"
                     }
                   ]
                 },
@@ -180,8 +166,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/6eqPKGqnJIEc7HIsYOhRqiUIBBs.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1ies2AXD4RvKyHD8vueAn0bx5OaeIUywG/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/bmZkgIZT#e7XNdcyusZg-EALh3oKtzb173lTxYPbApfjWX1b4ZuA"
                     }
                   ]
                 },
@@ -193,8 +179,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/ee3hlcRP7taSaEjJp5ooyg6uL74.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1EbnkxNAw8qd_HlxI5Fv0l_NfTW6FBdlX/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/WuIFWZLD#OqFZtxqgt9NWiBTybGeGDaYCJO8CD74KOUJcAp85-sY"
                     }
                   ]
                 },
@@ -206,8 +192,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/pakSKZyU4gMKvcxzwcXCrszdnYr.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1pDf2nxd74MrJszhdbYYV1CVhftm1x6hB/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/2r5D0B6J#i-Fms3BTUT8hq2iwlmo8YK99mmwNJvrdrpTEywz-AHM"
                     }
                   ]
                 },
@@ -219,8 +205,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/1iizaIR7Vc0g5PWOP0nTfPzQm7K.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1NFP3XM6pYTIl8u3NeydGqaCuDBm_DFyj/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Cjw1WDZY#uWK7O4QD-op1TRyd8lapggCz893GC9SUerRNK0Y88Yg"
                     }
                   ]
                 },
@@ -232,8 +218,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1Hi447O8vf43D26aC-obVsEx0Ihg_PTkq/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/C2hFwQTa#w0xdy3D3kbVK5uBu04Ca45N_vbFVUutS-TcoT0V_1hc"
                     }
                   ]
                 },
@@ -245,8 +231,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1TPmROlIdNUUmpP7i12VfjbfMV3yGWkM5/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/n24HjQqK#IFjkiFg6ENz0JrEbjq49h6rNKebPZeSXOpIVSG7O_cg"
                     }
                   ]
                 },
@@ -258,8 +244,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1jl_eDMsz6CNXawuNBbVk_ARqIVwBYd35/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/arZ1jAYI#Jbw31dDbPOEmRVJM5X713YpRhejxxRPy1aXcoU3M3SU"
                     }
                   ]
                 },
@@ -271,8 +257,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1NXjXk3E-Wl1g8CHPcWBM77IZIDLGsi_y/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/W6p3DSza#IoeSFfxNXy0CvISSjSqr9SuMo7KBeEItS7LIDBXworM"
                     }
                   ]
                 },
@@ -284,8 +270,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1I4BmXxWkt1Ir2YExwzuS6Fv1rNI6_E1m/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/KrYjFZgC#2-7881nUdwRRDVXZZvkXWK-ESu1l3e_zXvx9qZU1YPA"
                     }
                   ]
                 },
@@ -297,8 +283,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/ogo5XLnVyQACCaGeyo1jrhp9CA6.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/16Pp91bf1yv100mLi_59h4mAQbFlBu9Xq/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/D7YHRSgQ#jOBGwRlBnMFcS12OTKMVHIbwYrkotb1itV0sdI641fs"
                     }
                   ]
                 }
@@ -328,8 +314,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/3XxUF98a4LfE3Ts7ihpZjXwVXpe.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1yIRLaSiDI-kHZipgmPUW5SKsaY2_K209/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Cy53VYrC#NbyHHryGUaKuslWaVnks2G7zAxDl1rz2UDwPA4oSBEE"
                     }
                   ]
                 },
@@ -341,8 +327,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/6R0weF6IKgBDoVcnS61muYYdTf3.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/179bHSeUIChsvXruVz6Ui7l6ytlnMlIG5/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/33JymBCD#6hUpsVfjd0b6c5qJqVraP8EVAKXriKMUp1z_emZQK8k"
                     }
                   ]
                 },
@@ -354,8 +340,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/fmpIXulc7Y5QXhYRi4RPNHWs8ps.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1ADkm4lX4M800DDaykMxRtS8PnCreQ4S6/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/6qgQTDQa#uREt-BCzdZCp1yMpBdT0OYN1teRDy70G6tdaopmpgoM"
                     }
                   ]
                 },
@@ -367,8 +353,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/1rz5AIPpyjsUwb7v663XZS0H9K0.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1dIkEcJjTXtoqxm5wahS6zx2-RoMh2YTn/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/K74mTCzJ#VNzzRueXaKPH3Kl23-U28Y3EhcbjuPeRfH4Z8adMsWQ"
                     }
                   ]
                 },
@@ -380,8 +366,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/ekFot91nUgf9gB9Fy6kXfzuwUaQ.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1bVh2Bq-LRfYuCeqnRZyfz2Uer0E9w_pI/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/6mIFzKib#2UkFX-DAm13e4iUr246y4VN13SMi6NfR1B4hHe8YKIw"
                     }
                   ]
                 },
@@ -393,8 +379,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/tnIn0tEF92lNiYR1rHxj2zgQmQ9.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/10zYqQarm0-Lr_q83Uhti9xEszyb4hqRL/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/LyIUCRDI#CAx_4HRIFGP3FFTNxhNrQBT9Iub5o-dDcvGWldJivQM"
                     }
                   ]
                 },
@@ -406,8 +392,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/10Q6l84nDTkWgFj1cR025KUmvWj.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1hqe4k3WqAO2Jw_s5jvsVqj8P5QAx_sEp/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/LqxDVZ7I#inGsVh5YeDaKdHf4LOegMHSErSTg0J6GrbjUdP8uD2M"
                     }
                   ]
                 },
@@ -419,8 +405,8 @@
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/xMUNsHZJUn1aeMtg0yj09bLHUIT.jpg",
                   "Servers": [
                     {
-                      "Server": "Google Drive",
-                      "Link": "https://drive.google.com/file/d/1nNxCW55PQjYaEa2rn_EBPgEx29dFFIf1/preview"
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/O7A21K7b#kBTOrnhYisi1XthkrtT0JXQcrZ0SQzTDCqU9AjSn_Og"
                     }
                   ]
                 }
