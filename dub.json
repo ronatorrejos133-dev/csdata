@@ -1,19 +1,784 @@
 {
   "Categories": [
     {
-      "MainCategory": "LiveTV",
-      "SubCategories": ["Entertainment"],
+      "MainCategory": "Live TV",
+      "SubCategories": [
+        "Entertainment"
+      ],
       "Entries": []
     },
     {
       "MainCategory": "Movies",
-      "SubCategories": ["Action", "Comedy", "Drama", "Horror", "Sci-Fi"],
+      "SubCategories": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
       "Entries": []
     },
     {
-      "MainCategory": "TVSeries",
-      "SubCategories": ["Anime", "Action", "Comedy", "Drama", "Action&Adventure"],
+      "MainCategory": "TV Series",
+      "SubCategories": [
+        "Anime",
+        "Action",
+        "Comedy",
+        "Drama",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
       "Entries": [
+        {
+          "Title": "The K2",
+          "SubCategory": "Action & Adventure",
+          "Country": "",
+          "Description": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+          "Poster": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+          "Rating": 8,
+          "Year": 2016,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "1:05",
+                  "Description": "When Assemblyman Jang Se-joon comes under attack, a mysterious banner hanger suddenly comes to his rescue showing incredible signs of combat training.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/vedAt6ewh8ezMLZy6Cz5fNGOIg9.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "1:05",
+                  "Description": "President Park searches for Je Ha, who is on the run. Yoo Jin orders Anna be brought to Korea.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uPdikXc1HZITeZZCTKFfiKxPwQE.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "1:06",
+                  "Description": "Se Joon uses an assassination attempt against Yoo Jin to further his campaign. Chief Joo offers Je Ha a job with JSS.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ngcHT0Ol4uNpTJgs8cr15gxc3Pk.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "1:03",
+                  "Description": "Yoo Jin convinces Je Ha that they can both benefit from working together, even when he doesn't quite fit in at JSS.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/f9MDRxlW3s4tGK0mKTsp6O2Sw0G.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "1:05",
+                  "Description": "At a funeral, Yoo Jin falls into a trap that she cannot escape without Je Ha's help.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uKzSbn2AJFqYD67bbBSdvY5NwAi.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "1:09",
+                  "Description": "Yoo Jin offers Je Ha a chance to find out more about his past. Anna escapes the house with the intent of finding her father.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tutAnGnmadfCjgSbgZNg1bkxgZk.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "1:04",
+                  "Description": "After rushing to save Anna, Je Ha makes a difficult promise. Yoo Jin gives away information that could be used against her to secure an alliance.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/scutTLBAxoNyuE4IqkQ0STYYcGg.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "1:07",
+                  "Description": "The investigation that Se Joon asked for on Yoo Jin's family's company begins. As the search for Anna attracts more online attention, JSS scrambles to do damage control.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1KGSioX7fSWjgt3X886DEXktZsQ.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "1:07",
+                  "Description": "Anna meets a family member she didn't know she had who can change her life. Je Ha receives another employment offer.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AkG6cWCr7cGpBSPetFoJAM7aXgR.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "1:12",
+                  "Description": "Anna appeals to the public to find out more about her mother's death. The investigation of Se Joon takes a new turn.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/lR9D8p8166P2HSDDX2utX60eE4w.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Episode 11",
+                  "Duration": "1:07",
+                  "Description": "The assassination does not turn out as planned, but Yoo Jin manages to turn it to her and Se Joon's advantage. Je Ha makes a deal with Park.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1vDDWwQljeWRIVPDnFVelzbQ8ZN.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Episode 12",
+                  "Duration": "1:12",
+                  "Description": "Anna asks Chairman Choi to help her get justice for her mother. An online post that goes viral results in a re-investigation of Hye Rin's death that may get Yoo Jin arrested.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/llTTPVXsC5T5Vbh12yWYdbTTy9Z.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Episode 13",
+                  "Duration": "1:07",
+                  "Description": "Se Joon's explanation of Yoo Jin's statement to the press may not be enough to save his candidacy. Yoo Jin tries to convince Anna to leave the country.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/DoDY5oTdFThFmzmcvDUsfEL9ud.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 14,
+                  "Title": "Episode 14",
+                  "Duration": "1:09",
+                  "Description": "Je Ha is seriously wounded trying to get Kim Suk Han's memory card. Park decides to take advantage of the confusion and bring down JSS.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/69hJoiUMRoGvFvC7Av4P0srhwB1.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Episode 15",
+                  "Duration": "1:05",
+                  "Description": "Yoo Jin refuses to give up Cloud Nine without a fight. Je Ha agrees to give Park Kwan Soo the memory card.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/iRyutmwDtkrrff8x1TFziLKDjKQ.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Episode 16",
+                  "Duration": "1:13",
+                  "Description": "Chairman Choi takes Anna hostage, but ends up trapped in Cloud Nine with Se Joon, Yoo Jin, and the bomb.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3vm1sMxqZchpsz9cB0qAUgBhVgT.jpg",
+                  "Servers": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "The K2",
+          "SubCategory": "Action & Adventure",
+          "Country": "",
+          "Description": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+          "Poster": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+          "Rating": 8,
+          "Year": 2016,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "1:05",
+                  "Description": "When Assemblyman Jang Se-joon comes under attack, a mysterious banner hanger suddenly comes to his rescue showing incredible signs of combat training.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/vedAt6ewh8ezMLZy6Cz5fNGOIg9.jpg",
+                  "Servers": ["https://mega.nz/embed/3rBATbhZ#AFgeJ2y4UvwrENgkZ05xXWFUokaxhvbA1ZmY88gPFlU"]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "1:05",
+                  "Description": "President Park searches for Je Ha, who is on the run. Yoo Jin orders Anna be brought to Korea.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uPdikXc1HZITeZZCTKFfiKxPwQE.jpg",
+                  "Servers": ["https://mega.nz/embed/i2I1TSCT#Ub4SJwYS6xOzCSt0jJOWnSrgoOMvMxyNLqjKpxT4PMA"]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "1:06",
+                  "Description": "Se Joon uses an assassination attempt against Yoo Jin to further his campaign. Chief Joo offers Je Ha a job with JSS.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ngcHT0Ol4uNpTJgs8cr15gxc3Pk.jpg",
+                  "Servers": ["https://mega.nz/embed/OqYUhBhC#vnouog1divaJy0hzpoYG31nmir9K5CLpb1e3K0smH4w"]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "1:03",
+                  "Description": "Yoo Jin convinces Je Ha that they can both benefit from working together, even when he doesn't quite fit in at JSS.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/f9MDRxlW3s4tGK0mKTsp6O2Sw0G.jpg",
+                  "Servers": ["https://mega.nz/embed/HyBVCZII#upyx6z-wZlWBaTZlH4-OotQZpFI6Qkr18RNTe2Y395w"]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "1:05",
+                  "Description": "At a funeral, Yoo Jin falls into a trap that she cannot escape without Je Ha's help.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uKzSbn2AJFqYD67bbBSdvY5NwAi.jpg",
+                  "Servers": ["https://mega.nz/embed/bnxzEarD#tUVy3zfqnWRtlsIaNqq_aw4aRHXZD1HtTme1UqByAFs"]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "1:09",
+                  "Description": "Yoo Jin offers Je Ha a chance to find out more about his past. Anna escapes the house with the intent of finding her father.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tutAnGnmadfCjgSbgZNg1bkxgZk.jpg",
+                  "Servers": ["https://mega.nz/embed/XrIQCYqY#dOa5_JHqpHgtM9qdGlAmirwOQptlvmyE5WoNBWA8fy8"]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "1:04",
+                  "Description": "After rushing to save Anna, Je Ha makes a difficult promise. Yoo Jin gives away information that could be used against her to secure an alliance.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/scutTLBAxoNyuE4IqkQ0STYYcGg.jpg",
+                  "Servers": ["https://mega.nz/embed/OqRQwajZ#4y00A4ncxChZvI-63CVfd3E4vWH53igvAqn3_BwxmqA"]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "1:07",
+                  "Description": "The investigation that Se Joon asked for on Yoo Jin's family's company begins. As the search for Anna attracts more online attention, JSS scrambles to do damage control.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1KGSioX7fSWjgt3X886DEXktZsQ.jpg",
+                  "Servers": ["https://mega.nz/embed/WmRHTC7S#kA9fsHe8ZAmx0WNx2hecpIx-zCcUsW0c6gRxVNuBzhU"]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "1:07",
+                  "Description": "Anna meets a family member she didn't know she had who can change her life. Je Ha receives another employment offer.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AkG6cWCr7cGpBSPetFoJAM7aXgR.jpg",
+                  "Servers": ["https://mega.nz/embed/SiYAmAaR#nHmZOmk3_lVjmKfe7PKzuEcQDbjZatd-9I7CH-d2iE4"]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "1:12",
+                  "Description": "Anna appeals to the public to find out more about her mother's death. The investigation of Se Joon takes a new turn.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/lR9D8p8166P2HSDDX2utX60eE4w.jpg",
+                  "Servers": ["https://mega.nz/embed/fvhVjIQZ#ihcAK9PvQHbMeKVLnSGz1ZUdaNLR27pWjUv_4T0NKzE"]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Episode 11",
+                  "Duration": "1:07",
+                  "Description": "The assassination does not turn out as planned, but Yoo Jin manages to turn it to her and Se Joon's advantage. Je Ha makes a deal with Park.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1vDDWwQljeWRIVPDnFVelzbQ8ZN.jpg",
+                  "Servers": ["https://mega.nz/embed/2mxGzT6I#CMPfmt1O7QeIn9a73w2MgLKIyIVugKGvZaunVJ8KZgs"]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Episode 12",
+                  "Duration": "1:12",
+                  "Description": "Anna asks Chairman Choi to help her get justice for her mother. An online post that goes viral results in a re-investigation of Hye Rin's death that may get Yoo Jin arrested.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/llTTPVXsC5T5Vbh12yWYdbTTy9Z.jpg",
+                  "Servers": ["https://mega.nz/embed/Wz41zTBD#SjF9FWxXh_eQu0LjS0IWl97nunuwZeGztEUJfLpYth0"]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Episode 13",
+                  "Duration": "1:07",
+                  "Description": "Se Joon's explanation of Yoo Jin's statement to the press may not be enough to save his candidacy. Yoo Jin tries to convince Anna to leave the country.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/DoDY5oTdFThFmzmcvDUsfEL9ud.jpg",
+                  "Servers": ["https://mega.nz/embed/PuYBhZ4Q#6ZVYVJ2bv2gDTZQ9INnQ18GF9GdYYONdAvhhr7dVTCg"]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "Episode 14",
+                  "Duration": "1:09",
+                  "Description": "Je Ha is seriously wounded trying to get Kim Suk Han's memory card. Park decides to take advantage of the confusion and bring down JSS.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/69hJoiUMRoGvFvC7Av4P0srhwB1.jpg",
+                  "Servers": ["https://mega.nz/embed/qywjzZrK#tl-ghYjgU28qEuXyx5am3nHA5g7EAuyu2F089d4ImJ0"]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Episode 15",
+                  "Duration": "1:05",
+                  "Description": "Yoo Jin refuses to give up Cloud Nine without a fight. Je Ha agrees to give Park Kwan Soo the memory card.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/iRyutmwDtkrrff8x1TFziLKDjKQ.jpg",
+                  "Servers": ["https://mega.nz/embed/SrBimRyJ#AjJUAGydEropb97_MtefqA7dXKeC_S6XFX7nXvD24vA"]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Episode 16",
+                  "Duration": "1:13",
+                  "Description": "Chairman Choi takes Anna hostage, but ends up trapped in Cloud Nine with Se Joon, Yoo Jin, and the bomb.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3vm1sMxqZchpsz9cB0qAUgBhVgT.jpg",
+                  "Servers": ["https://mega.nz/embed/e7oFDQZZ#Gz9nHkEECs0dzXSmqPYLB7fB6o01G7-k1_USo3-jKDc"]
+                },
+                {
+                  "Episode": 17,
+                  "Title": "Episode 17",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/m7piSIJC#dp_qXuCQzJ79ZvmYJqajM_n7QgHROXF0RuqlDvbBsVw"]
+                },
+                {
+                  "Episode": 18,
+                  "Title": "Episode 18",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/OrhQHCLa#fGASk6sFUTZNK7Rx2Iyr82BqsAmE8TYEmO-zpsZx0RM"]
+                },
+                {
+                  "Episode": 19,
+                  "Title": "Episode 19",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/2zw3BLgb#y-j9krd4fV9N_65MWAWJ3DDBWFXZSTHeHeXU-XGud6s"]
+                },
+                {
+                  "Episode": 20,
+                  "Title": "Episode 20",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/uqhVTIIR#GIpa5tAieLzpkpCDHB_h8zJWHJkwdgxsy-HozU_NnxY"]
+                },
+                {
+                  "Episode": 21,
+                  "Title": "Episode 21",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/zmx3zTTI#wJ7yNmx1Ey3T4n3TupdeqjR8tA3pCeMlSqwMKMapVis"]
+                },
+                {
+                  "Episode": 22,
+                  "Title": "Episode 22",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/ijwHQIwL#7KpsAeP0O5yuRUIehHPuqzJhNM-Gl60688GYw1Iu-5w"]
+                },
+                {
+                  "Episode": 23,
+                  "Title": "Episode 23",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/ijRiRC4Q#dxQzo-rI0iAz8QgQVAoVGZrHQqdThYyyXEW-UAoO9es"]
+                },
+                {
+                  "Episode": 24,
+                  "Title": "Episode 24",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/fjhgRbCA#-ldEh_v2byqLbhEpN8AC0DOl5UyCx88G0losiKWPoQM"]
+                },
+                {
+                  "Episode": 25,
+                  "Title": "Episode 25",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/fmRFxaLY#fpGFx4HAxqpRAfSq62hCSw8XrRRSugkKuayoP5kqU7c"]
+                },
+                {
+                  "Episode": 26,
+                  "Title": "Episode 26",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/DqgliDgQ#ykXXIaeo0sgeJjbkKaTj5gbqZcr4hz-m1JWG1vEiN0w"]
+                },
+                {
+                  "Episode": 27,
+                  "Title": "Episode 27",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/WuoTELAb#H1ZtlDm5s77dgzH9GPMVIqSYhq3j-F_l8gaE8UD9OrY"]
+                },
+                {
+                  "Episode": 28,
+                  "Title": "Episode 28",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/HrYyGRKD#Gcp1pA7NzF_lhw-eB01VmyNtUmw16HUQwVVaoAL0BCs"]
+                },
+                {
+                  "Episode": 29,
+                  "Title": "Episode 29",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/nupQ1J6b#qxQ-DHXnmziwYiCDG7tn06R7uZYYkrHRMr4ae_Dhsl0"]
+                },
+                {
+                  "Episode": 30,
+                  "Title": "Episode 30",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/Lm5BQboA#-r87QuKs3EZFILujTpYsFcsmklfDtWrsvyVpMsKV0Pg"]
+                },
+                {
+                  "Episode": 31,
+                  "Title": "Episode 31",
+                  "Duration": "Unknown",
+                  "Description": "Additional episode content.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+                  "Servers": ["https://mega.nz/embed/amwAiKzT#pWLKlvBHvoQ6er5qHP3hdccdPRpsgqw63GQxuLlUNto"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Fireworks of My Heart",
+          "SubCategory": "Action & Adventure",
+          "Country": "",
+          "Description": "Fire chief Song Yan and emergency doctor Xu Qin were separated by family opposition when they were younger. Now ten years later, they meet again due to their professions. After experiencing life and death together, they manage to find their way back, working together and encouraging each other. They acknowledge each other's individual growth after years apart, but will they be able to overcome the obstacles in their path this time to stay together?",
+          "Poster": "https://image.tmdb.org/t/p/w500/ecF1kGP2tlCpoWXVsaeYP3W6dZb.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ecF1kGP2tlCpoWXVsaeYP3W6dZb.jpg",
+          "Rating": 8,
+          "Year": 2023,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/ecF1kGP2tlCpoWXVsaeYP3W6dZb.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Long Time No See",
+                  "Duration": "43:00",
+                  "Description": "The Shili Tai Fire and Rescue Station is in a festive scene. Suddenly the alarm rang, and firefighters were dispatched immediately. In the early morning, ER doctor Xu Qin had just returned from the emergency room after a major operation. A few firefighters covered in mud rushed in, begging her to treat his comrade who has a toothache. When she told the man to remove his mask, the man turned away and left the emergency room.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qQoCxiWqarOYtmYIrp7G9GXGoF8.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Under The Same Roof",
+                  "Duration": "42:00",
+                  "Description": "Song Yan was called to the Captain's Office. The team received complaints. Thanks to the persuasion from the staff officer, Song Yan got out of the siege. In the locker room, several colleagues were talking about Xu Qin, and it was rumored that she was the next person to be promoted. It was said that Xu Qin's family had an unusual background, and her colleagues were stunned. Xu Qin encountered a traffic accident on the way off from work, Xu Qin stopped immediately and prepared to enter the scene.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9E44MqSmoV4xWIQh60rd6okNU98.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Revival",
+                  "Duration": "45:00",
+                  "Description": "Song Yan came back from a mission and couldn't find the lighter, he ran to the garbage station to look for it. Song Yan told Suo Jun that the two had broken up due to family issues. Suo Jun comforted him. Xu Qin and Meng Yanchen came to the bar opened by Xiao Yixiao. After hearing that the fire department came to do a fire inspection, Xu Qin thought she could see Song Yan and ran out immediately. Seeing that Song Yan was not the one who came to check, Xu Qin felt depressed.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/r5vStSmEUfdBWGX5ABJIH07KRR1.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 4,
+                  "Title": "I Still Have You in My Heart",
+                  "Duration": "46:00",
+                  "Description": "Xu Qin learned that Song Yan was on vacation. So she came to his aunt's house again, hoping to reconcile with him. Song Yan refused. In the fire station, Song Yan complained to Suo Jun about the poor performance of the recruits. Song Yan firmly believed that he and Suo Jun could turn Shili Tai into the best fire station in the country. Suo Jun dodged his eyes.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kVGwaUVmTTTGaNfXHqIrxmbateZ.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Risk of Infection",
+                  "Duration": "44:00",
+                  "Description": "The driver who caused the accident surived, but the HIV-positive result of the blood test made everyone break out in a cold sweat. Not only were the doctors and nurses involved in the rescue at risk of infection, but the firefighters involved in the rescue that day were more likely to be infected. Xu Qin called the fire station, and all firefighters who participated in the rescue and were injured had to be checked. Xu Qin was worried and drew blood for Song Yan.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/hJVOssyoMegLOZC7rjvigpZoGvo.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Home Accident",
+                  "Duration": "46:00",
+                  "Description": "Xu Qin was awakened by knocking on the door. It turned out a child's hand was stuck in the anti-theft fence of the balcony upstairs. Song Yan led the firefighters to launch a rescue from the balcony of Xu Qin's house. The child was saved. After the firefighters completed their task and extracted, Song Yan turned back, which surprised Xu Qin.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fgbgVEjjyZQzfVTIMldx2dQCtIU.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Stayed The Same",
+                  "Duration": "44:00",
+                  "Description": "Song Yan mistakenly thought it was his younger sister who came to bring him clothes and went out immediately. When the other firefighters heard that it was the female doctor Song Yan knows, they couldn't help but hide behind and peek. Xu Qin asked Song Yan to invite her to dinner, Song Yan reluctantly agreed. The two prepared for the date and came to a fried chicken shop they used to visit in high school. Time brings the two back to ten years ago.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/q6v020GGp8dAB8VKgF4I1soLFJF.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 8,
+                  "Title": "My Closest Comrade",
+                  "Duration": "46:00",
+                  "Description": "Suo Jun told Song Yan about his difficulty, and Song Yan finally understood why Suo Jun wanted to be transferred. Suo Jun also advised Song Yan to get married soon. The two settled their suspicions. Looking at the honors of the fire station and listened to the thanks of the girl he saved, he tore up the transfer application he had written.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/j5cNIaQwtV9ofyIUeHHE5l7dTl6.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Warning",
+                  "Duration": "45:00",
+                  "Description": "Fu Wenying learns that Xu Qin doesn’t go on a date because of her busy work, and needs her to change her job. Xu Qin confesses that she has someone she likes. Fu Wenying warns Xu Qin not to force herself to be a villain again.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1VmyiQzE3j0Kpnmc8CCCR8EZ1P6.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Back to The Square One",
+                  "Duration": "46:00",
+                  "Description": "Due to her mother's strict discipline, Xu Qin hasn’t dared to disobey her mother since she was a child. Although she is independent now, she is still stressed and afraid of facing her mother. She asks Song Yan to come out. Song Yan already knows she is in a dilemma before she speaks. Therefore, Song Yan agrees to go back to  square one.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/bl0G9SMu71cT9i0ocFDKm2hg8gf.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Tamed Beast",
+                  "Duration": "45:00",
+                  "Description": "Xu Qin speaks her mind to Meng Yanchen. She thinks she has been like a tame beast since she was a kid so she didn't dare to resist her mother and also doesn’t know what love is. Meng Yanchen proposes to her to go abroad with him but she refuses.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/33KTn4MYnFQKRRfewQnNQ6IbfT0.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Meaningless Sacrifice",
+                  "Duration": "45:00",
+                  "Description": "In order to speed up the replacement of old teammates and new blood, Jiang Yu proposes an idea to Song Yan but he disagrees with him. Song Yan thinks a fire scene is extremely dangerous and the new blood don’t have enough experience so they only are the reserves. Jiang Yu just wishes to avoid more meaningless sacrifices between the firefighters.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4gdVBZecAmjpPhTbvq7vpx0UlFo.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 13,
+                  "Title": "You're Not Her Brother",
+                  "Duration": "45:00",
+                  "Description": "Meng Yanchen finds Xu Qin in the hospital, and he meets Song Yan by chance. He warns Song Yan to keep his distance from Xu Qin. Song Yan understands what he means and tells him not to interfere with Xu Qin’s life since he is not her biological brother. Meng Yanchen advises her not to end the relationship with her family because of Song Yan.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1QGMG4gZgYtOa7dtsu8sM0AP9Ov.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 14,
+                  "Title": "A Blind Date",
+                  "Duration": "41:00",
+                  "Description": "Since Xu Qin is reluctant to go on the blind date arranged by her mother, she arranges for the parents of both parties to meet. Xu Qin tells Jiang Yu that she has a crush on a man. He promises to help her.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/n8TSE3R1Iy2jepiYoJaV5vJrJ7I.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 15,
+                  "Title": "A Thankless Job",
+                  "Duration": "45:00",
+                  "Description": "A few college backpackers are stuck in a mountain and needed rescuing. Even the local civilian rescue team goes missing after looking for them. Without knowing the exact location, the firefighters face a tough rescue with the weather conditions and terrain. Meanwhile, Xu Qin receives a lesson on reading patients, not just treating them.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/hfBo9HQtNd5klEF9nfgZ7aFctVo.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Setting Up a Joint Rescue Team",
+                  "Duration": "43:00",
+                  "Description": "Shilitai Fire and Rescue Station proposes a joint rescue effort with the city's First People's Hospital. Xu Qin volunteers to join the training. At the fire station, both firefighters and medical staff learn from one another to improve the efficiency and efficacy of rescue operations.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pAWaUv6k2LYJDi1IwoSriFzNJQi.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 17,
+                  "Title": "Duality",
+                  "Duration": "46:00",
+                  "Description": "After a bus flips over, a passenger named Chen Yu rescues many people before the firefighters arrive, but he is thrown out of the bus when it falls off a cliff and is seriously injured. He is called a hero by everyone, but he has an unknown side to him. Meanwhile, after the rescue, reporters want to interview Song Yan, but he introduces Xu Qin as the rescue team leader and gives the opportunity to her instead.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pH75pZXRrriyKQlgOzVOb4Gxzj8.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 18,
+                  "Title": "Dignity",
+                  "Duration": "42:00",
+                  "Description": "Jiang Yu and Li Meng went to a fire scene for a second inspection, but found some problems. The person in charge of the warehouse called a group of hooligans to beat them up but the firefighters can't fight or talk back, so they felt down in the dumps. Song Yan figured out a way to resolve their grievances, and they trained even harder.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gGQDDMu6bOTF2TjyukGAAYgsurs.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 19,
+                  "Title": "Gifts",
+                  "Duration": "44:00",
+                  "Description": "Wu Xuan Yang calls 119 to rescue him and his alpaca, but Dr. Xu discovers that he has a serious condition called aortic dissection. His family doubts Dr. Xu's diagnosis but ends up being thankful to her for saving him. Meanwhile, Song Yan and Xu Qin exchange gifts with one another.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/jAkgwbpKSh14swMU0jeuTOVaY9h.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 20,
+                  "Title": "Mission",
+                  "Duration": "45:00",
+                  "Description": "Xu Qin's mom discovers about Xu Qin staying the fire station. She goes to Song Yan to tell him to stop seeing Xu Qin. However, Xu Qin tries to rekindle with Song Yan who shuts her down in return. Later, they get into an argument about the mission of public servants.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kXbsxLZKeoDqH18xDbjMZONj9uB.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 21,
+                  "Title": "Drill",
+                  "Duration": "46:00",
+                  "Description": "With the medical staff gone from the fire station, Song Yan misses Xu Qin even though he refuses to admit it. However, a fire drill at the hospital reunites them again. Meanwhile, Dr. Xu contemplates her profession.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/m5Vh4FCTDJy4dUpfqikPFYsPPVb.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 22,
+                  "Title": "Rescue Team",
+                  "Duration": "45:00",
+                  "Description": "Teams are organized to help with the disaster rescue of earthquake victims in Wangxiang. The place is in bad shape, with many collapsed houses and structures and missing people. That includes Jiang Yi's mom, who's in Wangxiang with her sister, Jiang Yi's aunt.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/arMVkMwxQUq8bPeZ8blVZH11QSx.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 23,
+                  "Title": "Missing",
+                  "Duration": "46:00",
+                  "Description": "Meng Yan Chen's mom wants her son and husband to let people know about the help they've been giving to disaster relief. Meanwhile, Song Yan and Xu Qin are both exhausted from the disaster rescue. Then, Song Yan gets seriously injured.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/mzpk3t42wnb33T0x2sEl2QfSg6l.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 24,
+                  "Title": "Duty",
+                  "Duration": "45:00",
+                  "Description": "Despite knowing Song Yan's life is in danger, Xu Qin chooses not to stay by his side and continues fulfilling her duty as a doctor. The firefighters continue doing their mission in earthquake relief. Later, Xu Qin and Jiang Yi receive news that put their mind at ease.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/u1tH3Lobyjj8zUS5ORvBImgmTC5.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 25,
+                  "Title": "Falling into Place",
+                  "Duration": "40:00",
+                  "Description": "After the successful disaster relief operation, Song Yan and Xu Qin go back to their lives. However, they can't continue setting aside their feelings for each other anymore. Things are beginning to fall into place, even in Dr. Xu's work.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/eINX0Eg9vkWVnphEN1jbZ5Bq4un.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 26,
+                  "Title": "Overcoming Trauma",
+                  "Duration": "43:00",
+                  "Description": "Some firefighters struggle to get over their traumatic experience after providing the disaster relief at Wangxiang and are forced to overcome their anxiety by Yang Chi. Xu Qin is annoyed that Song Yan doesn't contact her for a day and doubts their relationship.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wC9Auric3K4lgy7vxzfOLGtVG3t.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 27,
+                  "Title": "Caterpillars",
+                  "Duration": "44:00",
+                  "Description": "Meng Yan Chen finds out that Song Yan and Xu Qin are back together and tries to discourage Song Yan from being with her. He feels like he's been abandoned since Xu Qin went to find her happiness. Meanwhile, Xu Qin has learned to appreciate the process even if there might be no good outcome.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uHhVpgU4lyZakvgVZVeGSvUv28E.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 28,
+                  "Title": "Staying Together",
+                  "Duration": "44:00",
+                  "Description": "Xu Qin confesses to her parents that she is dating Song Yan who highly disapprove of their relationship. As a result, she moves out from home into Song Yan's. His aunt and uncle welcome her happily.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6SLPfUAcO7Aup0vh8CbFYcORhyS.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 29,
+                  "Title": "Progress",
+                  "Duration": "45:00",
+                  "Description": "Xu Qin is welcomed warmly in the home of Song Yan's uncle and aunt. Xu Qin wants Meng Yan Chen to speak to their mom for her, but he refuses. Meanwhile, things seem to be progressing between Meng Yan Chen and Ye Zi.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/iBLH78CqIflK4HwViV1SKr4tqQ2.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 30,
+                  "Title": "Assurance",
+                  "Duration": "44:00",
+                  "Description": "Yan Chen tries to persuade his mom to let Xu Qin live her life, btu she doesn't back down. She invites Xu Qin to go shopping with her as a pretense to introduce her to another guy. Later, a mother and son threatens to jump off the hospital building Xu Qin works at.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/7CkzMbEtkJ38PpZtLuuJMS8fkSz.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 31,
+                  "Title": "Danger",
+                  "Duration": "46:00",
+                  "Description": "There's a cyanide leak at an electroplating plant. Firefighters are dispatched to save the three workers who have been poisoned and resolve the issue. However, Song Yan also gets poisoned during the process.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kzopJa9cLPX2FXyzOPDb89cVsUG.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 32,
+                  "Title": "New Year",
+                  "Duration": "44:00",
+                  "Description": "Song Yan tells Xu Qin his future plans for them. Everyone is busy preparing and celebrating New Year, but the firefighters are still on duty to protect people. Xu Qin also goes home to visit her family for New Year.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2OWw32Px3xX58qDaFl06DyjMpg9.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 33,
+                  "Title": "Flashover",
+                  "Duration": "45:00",
+                  "Description": "Xu Qin is having a difficult time because her mom is interfering with her work at the hospital. Meanwhile, Song Yan is preparing for his transfer. However, a huge fire breaks out with a flashover that endangers the firefighters' lives.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5oEYFdNPCjK8mITWYMhmMO71zCc.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 34,
+                  "Title": "Making Choices",
+                  "Duration": "44:00",
+                  "Description": "A life is lost in the fire at Junguang Square, which is owned by Guokun Group. Song Yan has to decide whether to report about the truth of the fire which caused a death of his comrade. However, that decision will sow more discord between him and Xu Qin's family.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/sERaT6lwK4xIb5JcxlOkSxkRe6t.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 35,
+                  "Title": "New Developments",
+                  "Duration": "46:00",
+                  "Description": "Song Yan is being suspended from work due to accusations of bribery. A new development in Shilitai Fire and Rescue Station also makes Song Yan's decision to transfer waver. And Xu Qin starts asking for explanations of things that happened in the past.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9vaWag4ea9AO9cFC4zA1qjeG1sw.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 36,
+                  "Title": "Gunshot Truth",
+                  "Duration": "45:00",
+                  "Description": "A patient at the hospital gets worked up and injures Xu Qin's wrist. Meanwhile, despite being in an argument over his past, Song Yan still does not want to tell Xu Qin how he got his gunshot wound. Zhai Miao is worried for him and goes to see Xu Qin to help patch up their relationship.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/t8HjaXb6jcR3ZEhODNSafJx8a1X.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 37,
+                  "Title": "Accusations",
+                  "Duration": "44:00",
+                  "Description": "Xu Qin finds out what her family did to Song Yan and confronts her parents. Meanwhile, Meng Yan Chen frankly tells Ye Zi his thoughts about her and makes her angry. So she comes up with a plan to take revenge on him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/enpBVkL1SdYqIoA0nv5alRbzq3P.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 38,
+                  "Title": "An Eye for an Eye",
+                  "Duration": "44:00",
+                  "Description": "Zhai Miao holds the evidence to prove Yan Chen's innocence. The choice is in her hands whether to give it up and help the Meng family that ruined Song Yan's life, or do the same and destroy the Meng family.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nSYKjeMqRlGbXcElfws0l8LkwZu.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 39,
+                  "Title": "Typhoon",
+                  "Duration": "43:00",
+                  "Description": "Song Yan and Xu Qin are busy working with little time to prepare for their wedding. Meanwhile, a super typhoon makes landfall in Yancheng and causes many people to be trapped or injured. Both the firefighters and medical staff have their hands full to help the people of Yancheng.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1oE875YRrUISQoqEWwwTFZxdhGd.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 40,
+                  "Title": "The Reaching Hand",
+                  "Duration": "44:00",
+                  "Description": "A typhoon causes disasters in the city. Floods and fallen trees slow down Xu Qin and Song Yan from rescuing civilians. At this moment, Mrs. Meng is trapped in her car under a collapsing tunnel. Will rescuers get to her in time?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/98Pj624klzbEibcAQp2gPe5OCHy.jpg",
+                  "Servers": []
+                }
+              ]
+            }
+          ]
+        },
         {
           "Title": "Descendants of the Sun",
           "SubCategory": "Drama",
@@ -34,12 +799,7 @@
                   "Duration": "1:00",
                   "Description": "While on vacation after a sensitive military operation, soldier Si-jin senses a connection with Mo-yeon, a beautiful and strong-willed surgeon.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/cbPzc5qli0iyOvIBjPgJq3CriDk.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/u2IhVI7Z#YWGh4uQRwwy1J1gPazzSToNcuVudsf6FtfQ6lwJXl74"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 2,
@@ -47,12 +807,7 @@
                   "Duration": "1:00",
                   "Description": "Si-jin and Dae-young engage in a perilous operation in Afghanistan, while Mo-yeon assists in surgery. Later, Si-jin and Mo-yeon take in a movie.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/zZTsDCuvWBTMk5vWy8xMRjrUWk8.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/eqBjgSqS#g7n4PFfCOUYOBlvezYTIfi4JrflQaMEEgjQSaFpiN98"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 3,
@@ -60,12 +815,7 @@
                   "Duration": "1:00",
                   "Description": "Si-jin and Alpha Team join Mo-yeon and the doctors in Urk. Meanwhile, Myung-ju doesn't like how her father, Lt. Gen. Yoon, treats Dae-young.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/zI0absqhHPgDX6xFVyC1UlJouDE.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/zqJnTR5J#ulD3OPLCgeTIbQpPvxU4wjX9aRtZ2s3KKYINXnXJres"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 4,
@@ -73,12 +823,7 @@
                   "Duration": "1:00",
                   "Description": "Tempers flare over a dying man when Mo-yeon insists she can save the patient's life. Meanwhile, Dae-young and Myung-ju reunite at the airport.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/tCfo6w7A9exHAeukfJ10PbsrQ0O.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/2m5gTb5B#X46jlFTNRXTvQHot0MvAyDRWRT8E6qpf4vruK5_noY0"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 5,
@@ -86,12 +831,7 @@
                   "Duration": "1:00",
                   "Description": "After sharing a moment, Mo-yeon isn't sure what to think about her relationship with Si-jin. Later, Si-jin receives a panicked phone call.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/4YiXDHILdrJZ9C8Wm34GViXFl7F.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/jnRjVCRa#LWfOYs6kO-Rey9l0po7G4sc8fq98d7PAp96cin_tc70"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 6,
@@ -99,12 +839,7 @@
                   "Duration": "59:00",
                   "Description": "After a powerful earthquake strikes Urk, the country descends into chaos. It's up to the medical team and soldiers to search for survivors.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/6EG89BO40yeccgWqAWQ4whoR9qg.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/S2pyTTiR#_3r1Rbh4j1UE5MxkKOW3lpg9cvo6sbrp8ibEkeYKoa0"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 7,
@@ -112,12 +847,7 @@
                   "Duration": "59:00",
                   "Description": "In the earthquake's aftermath, heartbreaking decisions must be made by Si-jin and Mo-yeon, who both strive to save as many people as possible.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/a1Q6bV1ArNzFjQpS4TyLpPWKYX8.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/23wmkbrZ#twh79Q3RjElg73O_IW681NB28HI6qaNQb2xnLD_B738"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 8,
@@ -125,12 +855,7 @@
                   "Duration": "1:00",
                   "Description": "When an aftershock strikes, Mo-yeon sees firsthand just how dangerous Si-jin's job can be. Later, an old phone message is accidentally broadcast.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/Ajb3TgeSwm9LAKGsLYLkhli10fd.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/73BFHIrY#TtBvGN8rHlKbQIRnzOrY8yTsS9BJ2Z6wROBHd_xrZrU"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 9,
@@ -138,25 +863,15 @@
                   "Duration": "1:00",
                   "Description": "Mo-yeon is embarrassed after her unintentional confession, but Si-jin isn't about to let her off the hook. Meanwhile, a visitor makes everyone nervous.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/uYodWxXaOLZVSFrI2jSP4GvdhPy.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/iywDxCbC#_BKSQK5TadgB2w6XjitdPU0-Lxjv_dF3bnsB0qUWJ-w"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 10,
-                  "Title": "You Got a Parcel From Shin Ji Young",
+                  "Title": "You Got A Parcel From Shin Ji Young",
                   "Duration": "1:00",
                   "Description": "Dae-young is rattled after seeing an old nemesis, Mo-yeon shares a dark dinner with Si-jin, and an unusual package arrives from home.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/xSYQAuD2pd9IAKDjCUqQKiGfrEI.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/TyxDkKxI#un35_W92cENuktsso1yZZDffLY6Lnvq_vJyYa1ytX40"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 11,
@@ -164,25 +879,15 @@
                   "Duration": "1:00",
                   "Description": "While Dae-young and Myung-ju remain quarantined, the rest of the team fights the epidemic. Meanwhile, the supply truck with the cure disappears.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/6eqPKGqnJIEc7HIsYOhRqiUIBBs.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/bmZkgIZT#e7XNdcyusZg-EALh3oKtzb173lTxYPbApfjWX1b4ZuA"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 12,
                   "Title": "As of This Moment, Everyone Will Return to Team Alpha",
                   "Duration": "59:00",
-                  "Description": "Dae-young has a bad feeling about Si-jin's solo mission into Argus's hideout. Mo-yeon wonders if she's capable of dealing with Si-jin's secrecy.",
+                  "Description": "Dae-young has a bad feeling about Si-jin's solo mission into Agus's hideout. Mo-yeon wonders if she's capable of dealing with Si-jin's secrecy.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/ee3hlcRP7taSaEjJp5ooyg6uL74.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/WuIFWZLD#OqFZtxqgt9NWiBTybGeGDaYCJO8CD74KOUJcAp85-sY"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 13,
@@ -190,12 +895,7 @@
                   "Duration": "59:00",
                   "Description": "The medical team returns to their regular lives, but something's off. Meanwhile, Mo-yeon makes a bold career move, and Dae-young faces a tough choice.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/pakSKZyU4gMKvcxzwcXCrszdnYr.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/2r5D0B6J#i-Fms3BTUT8hq2iwlmo8YK99mmwNJvrdrpTEywz-AHM"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 14,
@@ -203,12 +903,7 @@
                   "Duration": "58:00",
                   "Description": "After a patient is rushed to the hospital, Mo-yeon is shocked to see who is in need of care. Meanwhile, a microchip reveals unexpected information.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/1iizaIR7Vc0g5PWOP0nTfPzQm7K.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/Cjw1WDZY#uWK7O4QD-op1TRyd8lapggCz893GC9SUerRNK0Y88Yg"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 15,
@@ -216,199 +911,161 @@
                   "Duration": "1:00",
                   "Description": "Si-jin and Mo-yeon spend some much deserved time together. Dae-young and Myung-ju continue to have communication problems. Devastating news arrives.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/C2hFwQTa#w0xdy3D3kbVK5uBu04Ca45N_vbFVUutS-TcoT0V_1hc"
-                    }
-                  ]
+                  "Servers": []
                 },
                 {
                   "Episode": 16,
-                  "Title": "A Promise Made in the Dark",
-                  "Duration": "1:00",
-                  "Description": "As the team faces a new threat, Si-jin and Mo-yeon's relationship is tested like never before. Meanwhile, secrets from the past come to light.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/n24HjQqK#IFjkiFg6ENz0JrEbjq49h6rNKebPZeSXOpIVSG7O_cg"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 17,
-                  "Title": "The Hardest Goodbye",
-                  "Duration": "1:00",
-                  "Description": "A mission goes wrong, forcing everyone to make impossible choices. Dae-young and Myung-ju finally confront their feelings for each other.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/arZ1jAYI#Jbw31dDbPOEmRVJM5X713YpRhejxxRPy1aXcoU3M3SU"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 18,
-                  "Title": "When the Sun Sets",
-                  "Duration": "1:00",
-                  "Description": "In the aftermath of tragedy, the team must find a way to move forward. Si-jin makes a decision that will change everything.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/W6p3DSza#IoeSFfxNXy0CvISSjSqr9SuMo7KBeEItS7LIDBXworM"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 19,
-                  "Title": "The Soldier's Vow",
-                  "Duration": "1:00",
-                  "Description": "As danger closes in, Si-jin and Mo-yeon fight to protect everything they love. A familiar face returns with shocking news.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rEwyssPOg9mCC1n8mOR9dJL3fWA.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/KrYjFZgC#2-7881nUdwRRDVXZZvkXWK-ESu1l3e_zXvx9qZU1YPA"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 20,
                   "Title": "This Is Unbelievable",
                   "Duration": "1:00",
                   "Description": "Mo-yeon and Myung-ju learn that not everything is what it seems. Meanwhile, a promotion is cause for celebration, and a trip reignites old passions.",
                   "Thumbnail": "https://image.tmdb.org/t/p/w500/ogo5XLnVyQACCaGeyo1jrhp9CA6.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/D7YHRSgQ#jOBGwRlBnMFcS12OTKMVHIbwYrkotb1itV0sdI641fs"
-                    }
-                  ]
+                  "Servers": []
                 }
               ]
             }
           ]
         },
         {
-          "Title": "The WONDERfools",
-          "SubCategory": "Action&Adventure",
+          "Title": "Twinkling Watermelon",
+          "SubCategory": "Sci-Fi & Fantasy",
           "Country": "",
-          "Description": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-          "Poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+          "Description": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
+          "Poster": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
           "Rating": 9,
-          "Year": 2026,
+          "Year": 2023,
           "Seasons": [
             {
               "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
               "Episodes": [
                 {
                   "Episode": 1,
-                  "Title": "Every Life Comes With a Surprise Twist",
-                  "Duration": "1:08",
-                  "Description": "When news of the apocalypse spreads in Haeseong City, a cash-strapped and terminally ill young woman devises a kidnapping plot with two clumsy sidekicks.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3XxUF98a4LfE3Ts7ihpZjXwVXpe.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/Cy53VYrC#NbyHHryGUaKuslWaVnks2G7zAxDl1rz2UDwPA4oSBEE"
-                    }
-                  ]
+                  "Title": "Passion Is Born",
+                  "Duration": "1:05",
+                  "Description": "Eun-gyeol and his family move into a new neighborhood. He meets a man who offers to teach him how to play the guitar, and Eun-gyeol works hard to learn it. As he deals with bullies at school, he practices playing the guitar until he is as good as the man who taught him. However, tragedy strikes, and he and his family are forced to move again.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pKJzmUUrN0BXtiieU7K4nuSXst1.jpg",
+                  "Servers": []
                 },
                 {
                   "Episode": 2,
-                  "Title": "Secrets Are Meant To Be Kept",
-                  "Duration": "1:01",
-                  "Description": "Eun Chae-ni and her quirky friends Son Gyeong-hun and Kang Ro-bin are baffled by their sudden abilities. A wary Lee Un-jeong confronts his doubts.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6R0weF6IKgBDoVcnS61muYYdTf3.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/33JymBCD#6hUpsVfjd0b6c5qJqVraP8EVAKXriKMUp1z_emZQK8k"
-                    }
-                  ]
+                  "Title": "Eun-gyeol Quits Music",
+                  "Duration": "1:09",
+                  "Description": "Eun-gyeol tries his best to quit music, but it's not easy for him to do. He gets scouted to join SPINE9, an indie band in Hongdae. To make things worse, he finally gets his hands on the guitar promised by the Viva Music store owner. He is torn by which path to take and finds himself walking into a suspicious music store.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3EaAJzcCi4NiwLh4GMszCNjUdx8.jpg",
+                  "Servers": []
                 },
                 {
                   "Episode": 3,
-                  "Title": "Brutes and Bad Luck Do Come in Droves",
-                  "Duration": "1:11",
-                  "Description": "The gang witnesses Un-jeong's superpower in a crisis. While they're thrilled after a daring rescue, Un-jeong senses danger nearby.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fmpIXulc7Y5QXhYRi4RPNHWs8ps.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/6qgQTDQa#uREt-BCzdZCp1yMpBdT0OYN1teRDy70G6tdaopmpgoM"
-                    }
-                  ]
+                  "Title": "Seoul 1995",
+                  "Duration": "59:00",
+                  "Description": "Eun-gyeol gets stuck in 1995 and doesn't know how to return to the present. What's worse is that he meets his young father, Yi-chan, who can talk and wants to start a band to impress a girl who isn't Eun-gyeol's mother. Eun-gyeol poses as Yoon Dong-jin, a musical genius, in order to try to become a member of Yi-chan's band.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dwJTpQLFK1od4e6p4z2OSsvgVS4.jpg",
+                  "Servers": []
                 },
                 {
                   "Episode": 4,
-                  "Title": "Boonthe King Duck vs Wunderkinder",
-                  "Duration": "1:00",
-                  "Description": "Dr. Ha Won-do returns after 20 years, chasing secrets of the Child of Eternity. Later, the gang faces an attack—still unsure of their powers.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1rz5AIPpyjsUwb7v663XZS0H9K0.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/K74mTCzJ#VNzzRueXaKPH3Kl23-U28Y3EhcbjuPeRfH4Z8adMsWQ"
-                    }
-                  ]
+                  "Title": "Eun-gyeol Becomes Yi-chan's Tutor",
+                  "Duration": "1:03",
+                  "Description": "Eun-gyeol encounters Se-gyeong in her teens and learns a few things about her life that don't make sense in the future. Meanwhile, Yi-chan meets Chung-ah for the first time, but she doesn't say a word. Yi-chan tries to get away from Eun-gyeol, but Eun-gyeol follows him to the Snail Guesthouse and ends up becoming Yi-chan's math tutor.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ieCQiqtj24kQtswqT2F5cuFzkQv.jpg",
+                  "Servers": []
                 },
                 {
                   "Episode": 5,
-                  "Title": "All We Need Is You",
-                  "Duration": "1:12",
-                  "Description": "Un-jeong leads a bootcamp for the gang to tap into their abilities. Chae-ni confronts her grandma about the superpower's secret.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ekFot91nUgf9gB9Fy6kXfzuwUaQ.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/6mIFzKib#2UkFX-DAm13e4iUr246y4VN13SMi6NfR1B4hHe8YKIw"
-                    }
-                  ]
+                  "Title": "Se-gyeong Leaves the Country",
+                  "Duration": "1:03",
+                  "Description": "Eun-gyeol resolves to stop the accident that caused Yi-chan to become deaf and clings to him, vowing to teach him everything he needs to know. He even promises to gift him the band Yi-chan needs. However, the school festival is in one month, and the person Yi-chan is doing this for has left the country and isn't going to return.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5MHp5AovdydnJfj8HywMipakbQ2.jpg",
+                  "Servers": []
                 },
                 {
                   "Episode": 6,
-                  "Title": "All Roads Lead to Chae-ni",
-                  "Duration": "1:17",
-                  "Description": "Chae-ni wakes up to danger—but finds a surprise lifeline in her pocket. Un-jeong plans with Gyeong-hun and Ro-bin to rescue Chae-ni.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tnIn0tEF92lNiYR1rHxj2zgQmQ9.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/LyIUCRDI#CAx_4HRIFGP3FFTNxhNrQBT9Iub5o-dDcvGWldJivQM"
-                    }
-                  ]
+                  "Title": "Se-gyeong Returns",
+                  "Duration": "1:02",
+                  "Description": "Everyone is confused at Se-gyeong's return, especially Eun-gyeol, who sternly warns her to stay away from Yi-chan. However, it doesn't work, and Se-gyeong approaches Yi-chan with different intentions. Meanwhile, Chung-ah can only stand by and watch as she realizes she's lost her chance to tell Yi-chan how she feels.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nJehEPeA9s15K2pLWqt37X4VlIk.jpg",
+                  "Servers": []
                 },
                 {
                   "Episode": 7,
-                  "Title": "The Guardians of Haeseong City Part 1",
-                  "Duration": "1:01",
-                  "Description": "Un-jeong and the gang fight other superpowered followers, while Dr. Ha's risky plan targets Chae-ni.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/10Q6l84nDTkWgFj1cR025KUmvWj.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/LqxDVZ7I#inGsVh5YeDaKdHf4LOegMHSErSTg0J6GrbjUdP8uD2M"
-                    }
-                  ]
+                  "Title": "Where Are You Eun-gyeol?",
+                  "Duration": "1:06",
+                  "Description": "Chung-ah wakes up, realizing she's lying on a hospital bed, with the revelation that Yi-chan carried her there on his back. Later, Yi-chan learns her name from her tag for the first time. Meanwhile, Eun-gyeol has been silent for days, causing concern for Yi-chan. Attempting to locate him, Yi-chan hands out flyers and ends up facing trouble with local thugs. Se-gyeong desperately meets with each band member to verify something important.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ceijUHfEpE3xiwTNb3YDwImV9V.jpg",
+                  "Servers": []
                 },
                 {
                   "Episode": 8,
-                  "Title": "The Guardians of Haeseong City Part 2",
-                  "Duration": "1:32",
-                  "Description": "New Year's Eve 1999. Three misfits use their abilities to battle superpowered villains in an all-out brawl for Haeseong City.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xMUNsHZJUn1aeMtg0yj09bLHUIT.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/O7A21K7b#kBTOrnhYisi1XthkrtT0JXQcrZ0SQzTDCqU9AjSn_Og"
-                    }
-                  ]
+                  "Title": "I Found Ha Eun-gyeol",
+                  "Duration": "1:03",
+                  "Description": "Eun-gyeol wakes up at the house of the Jinsung Family after the accident. He finds out that Chung-ah was the daughter of Chairman Yoon Gun-hyung. Meanwhile, Yi-chan is hospitalized after getting beat up by the local thugs. Se-gyeong tells him that Chung-ah was the one who called for help to save him. Meanwhile, Eun-gyeol decides to help Chung-ah learn the sign language.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/Ab4b6jQWoRqOTFMzxtcxDse0yJj.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Friendship or Love?",
+                  "Duration": "59:00",
+                  "Description": "Astounded by Eun-gyeol's candid love confession for Se-gyeong, Yi-chan retaliates with a spirited punch. Eun-gyeol's attempts at self-defense lead to Yi-chan having a bleeding nose on both sides. The schoolyard transforms into a battleground as students try to intervene, and the entire situation gains momentum. Se-gyeong (actually Eun-yu) is left in shock by the unexpected confession. Meanwhile, Eun-gyeol uncovers a hidden secret about Chung-ah.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/s5DZwU7ZPbPYQtIFYzYkuTwLaDg.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Let Yourself Twinkle",
+                  "Duration": "1:00",
+                  "Description": "Eun-gyeol can't hide his feelings for Se-gyeong and ends up kissing her. Chung-ah's stepmother calls Eun-gyeol separately and tells him to quit before he teaches Chung-ah sign language. The members of the band decide to change their band name and theme right before the festival and ask Se-gyeong and Chung-ah for help. Meanwhile, Eun-gyeol learns that Master has sent a helper for him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3qwGcg5n6bzSdHSXXJEUWES11BF.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Dangerous Rehearsal",
+                  "Duration": "1:03",
+                  "Description": "As the festival draws near, the boys are intensely focused on fine-tuning their band performance. Meanwhile, Eun-gyeol reflects on a pivotal clue related to a potential accident leading to hearing loss. Believing Dong-jin to be the helper that Master mentioned, he pleads with Yi-chan to skip the rehearsal, but his request is dismissed. Meanwhile, Eun-yu grapples with the challenge of uncovering her mother's genuine first love.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yDPxV8jXuD71ZPbay5OFHQUTB3s.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 12,
+                  "Title": "The Day of Decision",
+                  "Duration": "1:03",
+                  "Description": "Eun-gyeol successfully cancels the rehearsal and prevents Yi-chan from getting seriously hurt. Chairman Yoon extends the contract with Eun-gyeol and changes the terms and conditions. The day of the festival is finally here, and Se-gyeong has to choose between Eun-gyeol and Yi-chan. Chung-ah decides not to show up at the festival.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qU2NZk798peFNAPQT4YIWKznTqk.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 13,
+                  "Title": "The Final Festival",
+                  "Duration": "1:04",
+                  "Description": "As the enchanting glow of their festival fades, Eun-gyeol and Eun-yu acknowledge the depth of their feelings, hoping for a lasting connection. Meanwhile, the anticipated disbandment takes an unexpected turn, giving the boys another shot at the stage. The hurdle now is creating their own song, and Yi-chan suggests a gathering for this endeavor while musing on how to persuade Chung-ah to join.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/niLXedPmYMYDnb6IrJC64YFstLL.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 14,
+                  "Title": "Another Time Traveler",
+                  "Duration": "1:04",
+                  "Description": "Eun-gyeol and Se-gyeong realize that they’re both time travelers. He learns that Se-gyeong also had a mission to accomplish while she was in 1995. Eun-gyeol finds out that Chung-ah has been confined and abused for the past 12 years. Meanwhile, Se-gyeong tells Eun-gyeol that Yi-chan’s accident didn’t happen on the day before the festival and that it hasn’t happened yet.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rGluphQYFuNfvwxm9ecxRun3F1r.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 15,
+                  "Title": "The Hints",
+                  "Duration": "1:06",
+                  "Description": "Eun-yu drops clues about Yi-chan's real hearing loss incident to Eun-gyeol. Knowing that Eun-gyeol tends to shoulder blame for everything, she pledges to support him through this tough time. However, suspicions linger in her mind about the complexity of her connection with Eun-gyeol. Together, they methodically investigate everyone linked to the accident in search of the truth. Meanwhile, Yi-chan assures Eun-gyeol that he won't leave the house for the entire day.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zewAoWXcyrqVtP0kyfmhFScIAn7.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Everything You Hoped for and More",
+                  "Duration": "1:14",
+                  "Description": "Yi-chan gets hit by a car and loses his hearing. Master tells Eun-gyeol to go back to his time, but he refuses, determined to catch the guy who hit Yi-chan. Se-gyeong convinces Eun-gyeol to return to 2023, and when he finally does, a completely different life awaits him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zDKcgwXCxZ3GZzQz6HOy24zrYz7.jpg",
+                  "Servers": []
                 }
               ]
             }
