@@ -29,8 +29,8 @@
           "Year": 2017,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/oB1RwZqQ#rjve2qaE78J54PqezNdNKcNGwYHYESDPJeS7cPoP2Xw"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/oB1RwZqQ#rjve2qaE78J54PqezNdNKcNGwYHYESDPJeS7cPoP2Xw"
             }
           ]
         },
@@ -46,8 +46,8 @@
           "Year": 2017,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/0ZFUjKgB#90W5ZNZ6_K-_2qUQb6kywy-QrrBT09eK8sUhopRU1zk"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/0ZFUjKgB#90W5ZNZ6_K-_2qUQb6kywy-QrrBT09eK8sUhopRU1zk"
             }
           ]
         },
@@ -63,8 +63,8 @@
           "Year": 2004,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/dEN1zKaB#heAGg9WFLdkI2JYLVG_tvVIqPKy-WVEU15nMNJpdyuM"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/dEN1zKaB#heAGg9WFLdkI2JYLVG_tvVIqPKy-WVEU15nMNJpdyuM"
             }
           ]
         },
@@ -80,8 +80,8 @@
           "Year": 2008,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/gA1VVB5I#s68_n2Nd6Q39TD2wJoAh0UpOu7iR3kMam6MO8iVMDKg"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/gA1VVB5I#s68_n2Nd6Q39TD2wJoAh0UpOu7iR3kMam6MO8iVMDKg"
             }
           ]
         },
@@ -97,8 +97,8 @@
           "Year": 2013,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/AZFRlBpb#Etv-rx_kMiUbQM_7BI8VbGCu2E0imzWi6UVt4F5zfSE"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/AZFRlBpb#Etv-rx_kMiUbQM_7BI8VbGCu2E0imzWi6UVt4F5zfSE"
             }
           ]
         },
@@ -114,8 +114,8 @@
           "Year": 2010,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/gVVEyCBA#RvcnnmoEMNUfFWOfGGPJSFXkknhcstwx428wyGZQGKA"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/gVVEyCBA#RvcnnmoEMNUfFWOfGGPJSFXkknhcstwx428wyGZQGKA"
             }
           ]
         },
@@ -131,8 +131,8 @@
           "Year": 2004,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/BRd31LwQ#7Wi1SxjxICJuOKi1ZfOPGYyxsom40lQdd5Yhscl5emo"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/BRd31LwQ#7Wi1SxjxICJuOKi1ZfOPGYyxsom40lQdd5Yhscl5emo"
             }
           ]
         },
@@ -147,13 +147,10 @@
           "Duration": "2:11",
           "Year": 2013,
           "Servers": [
+            
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/file/xcEnjQIZ#owrV6d9u1LtO1KGtJ_2TVuN-0iToAUV-GBMvvTE4YNA"
-            },
-            {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/xcEnjQIZ#owrV6d9u1LtO1KGtJ_2TVuN-0iToAUV-GBMvvTE4YNA"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/xcEnjQIZ#owrV6d9u1LtO1KGtJ_2TVuN-0iToAUV-GBMvvTE4YNA"
             }
           ]
         },
@@ -169,8 +166,8 @@
           "Year": 2009,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/kJsXlQ7a#FOOZLV-yPAtzgzO8ZY0JYdlSO1h3wqWjDGN5rOfPlec"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/kJsXlQ7a#FOOZLV-yPAtzgzO8ZY0JYdlSO1h3wqWjDGN5rOfPlec"
             }
           ]
         },
@@ -186,8 +183,8 @@
           "Year": 2026,
           "Servers": [
             {
-              "name": "Mega.nz",
-              "url": "https://mega.nz/embed/gVNg1CjB#cxR1Js-4GHWbXQPWYPsnw5arMGJKBGflCatL06Gd-j4"
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/gVNg1CjB#cxR1Js-4GHWbXQPWYPsnw5arMGJKBGflCatL06Gd-j4"
             }
           ]
         }
