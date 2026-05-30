@@ -30,7 +30,7 @@
           "Servers": [
             {
               "Server": "Mega.nz",
-              "Link": "https://mega.nz/embed/oB1RwZqQ#rjve2qaE78J54PqezNdNKcNGwYHYESDPJeS7cPoP2Xw"
+              "Link": "https://mega.nz/file/cys03QAa#MNUyrznMb1RAjc_OqW5rjh-cW3hhoLcE4_yRJbxiIHo"
             }
           ]
         },
@@ -81,7 +81,7 @@
           "Servers": [
             {
               "Server": "Mega.nz",
-              "Link": "https://mega.nz/embed/gA1VVB5I#s68_n2Nd6Q39TD2wJoAh0UpOu7iR3kMam6MO8iVMDKg"
+              "Link": "https://mega.nz/file/1nlnhbIY#7sBCuMZz8shTTF4pXNnvhrAdPrKrz48HFTwjPJx7QvM"
             }
           ]
         },
@@ -137,20 +137,70 @@
           ]
         },
         {
-          "Title": "White House Down",
+          "Title": "Fullmetal Alchemist",
+          "SubCategory": "Fantasy",
+          "Country": "",
+          "Description": "Two alchemist brothers go on a quest for the Philosopher's Stone after an attempt to revive their dead mother goes horribly wrong.",
+          "Poster": "https://image.tmdb.org/t/p/w500/kWJtS0XFHxH2ADkWX8P7WISDnX3.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kWJtS0XFHxH2ADkWX8P7WISDnX3.jpg",
+          "Rating": 5,
+          "Duration": "2:15",
+          "Year": 2017,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/UmE2UKzQ#H1IzDwT0GXMAkRjIOhEWk8GPHmDM1-HSkPzO4ArD-24"
+            }
+          ]
+        },
+        {
+          "Title": "Resident Evil: Retribution",
           "SubCategory": "Action",
           "Country": "",
-          "Description": "Capitol Policeman John Cale has just been denied his dream job with the Secret Service protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, when the complex is overtaken by a heavily armed paramilitary group. Now, with the nation's government falling into chaos and time running out, it's up to Cale to save the president, his daughter, and the country.",
-          "Poster": "https://image.tmdb.org/t/p/w500/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
-          "Rating": 7,
-          "Duration": "2:11",
-          "Year": 2013,
+          "Description": "The Umbrella Corporation’s deadly T-virus continues to ravage the Earth, transforming the global population into legions of the flesh eating Undead. The human race’s last and only hope, Alice, awakens in the heart of Umbrella’s most clandestine operations facility and unveils more of her mysterious past as she delves further into the complex. Without a safe haven, Alice continues to hunt those responsible for the outbreak; a chase that takes her from Tokyo to New York, Washington, D.C. and Moscow, culminating in a mind-blowing revelation that will force her to rethink everything that she once thought to be true. Aided by new found allies and familiar friends, Alice must fight to survive long enough to escape a hostile world on the brink of oblivion. The countdown has begun.",
+          "Poster": "https://image.tmdb.org/t/p/w500/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg",
+          "Rating": 6,
+          "Duration": "1:35",
+          "Year": 2012,
           "Servers": [
-            
             {
-              "Server": "Mega.nz",
-              "Link": "https://mega.nz/embed/xcEnjQIZ#owrV6d9u1LtO1KGtJ_2TVuN-0iToAUV-GBMvvTE4YNA"
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/h7sAACYZ#eEp4KrbX99j5QmMXXgShwBKNJhzXHMERRkyd0jXdEpQ"
+            }
+          ]
+        },
+        {
+          "Title": "Resident Evil: The Final Chapter",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "Picking up immediately after the events in Resident Evil: Retribution, Alice is the only survivor of what was meant to be humanity's final stand against the undead. Now, she must return to where the nightmare began - The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.",
+          "Poster": "https://image.tmdb.org/t/p/w500/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg",
+          "Rating": 6,
+          "Duration": "1:47",
+          "Year": 2016,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/h7tyHQhK#OB_wXc7urX-6LviUcWLjZOnDKQvxux0f6dMVtkjsq9M"
+            }
+          ]
+        },
+        {
+          "Title": "Along with the Gods: The Last 49 Days",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "As the deceased soul Ja-hong and his three afterlife guardians prepare for their remaining trials for reincarnation, the guardians soon come face to face with the truth of their tragic time on Earth 1,000 years earlier.",
+          "Poster": "https://image.tmdb.org/t/p/w500/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9BnqBHFGDv3WlCPB2qQwzAWdy7y.jpg",
+          "Rating": 8,
+          "Duration": "2:21",
+          "Year": 2018,
+          "Servers": [
+            {
+              "name": "Mega.nz",
+              "url": "https://mega.nz/embed/dr0QQRAQ#dQVYp-_4r6P-JjrBUNOZ2mrgd3H4QLyXVDE9fJLVJrM"
             }
           ]
         },
