@@ -1599,6 +1599,752 @@
           ]
         },
         {
+          "Title": "The WONDERfools",
+          "SubCategory": "Action&Adventure",
+          "Country": "",
+          "Description": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+          "Poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+          "Rating": 9,
+          "Year": 2026,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Every Life Comes With a Surprise Twist",
+                  "Duration": "1:08",
+                  "Description": "When news of the apocalypse spreads in Haeseong City, a cash-strapped and terminally ill young woman devises a kidnapping plot with two clumsy sidekicks.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3XxUF98a4LfE3Ts7ihpZjXwVXpe.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Cy53VYrC#NbyHHryGUaKuslWaVnks2G7zAxDl1rz2UDwPA4oSBEE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Secrets Are Meant To Be Kept",
+                  "Duration": "1:01",
+                  "Description": "Eun Chae-ni and her quirky friends Son Gyeong-hun and Kang Ro-bin are baffled by their sudden abilities. A wary Lee Un-jeong confronts his doubts.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6R0weF6IKgBDoVcnS61muYYdTf3.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/33JymBCD#6hUpsVfjd0b6c5qJqVraP8EVAKXriKMUp1z_emZQK8k"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Brutes and Bad Luck Do Come in Droves",
+                  "Duration": "1:11",
+                  "Description": "The gang witnesses Un-jeong's superpower in a crisis. While they're thrilled after a daring rescue, Un-jeong senses danger nearby.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fmpIXulc7Y5QXhYRi4RPNHWs8ps.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/6qgQTDQa#uREt-BCzdZCp1yMpBdT0OYN1teRDy70G6tdaopmpgoM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Boonthe King Duck vs Wunderkinder",
+                  "Duration": "1:00",
+                  "Description": "Dr. Ha Won-do returns after 20 years, chasing secrets of the Child of Eternity. Later, the gang faces an attack—still unsure of their powers.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1rz5AIPpyjsUwb7v663XZS0H9K0.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/K74mTCzJ#VNzzRueXaKPH3Kl23-U28Y3EhcbjuPeRfH4Z8adMsWQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "All We Need Is You",
+                  "Duration": "1:12",
+                  "Description": "Un-jeong leads a bootcamp for the gang to tap into their abilities. Chae-ni confronts her grandma about the superpower's secret.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ekFot91nUgf9gB9Fy6kXfzuwUaQ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/6mIFzKib#2UkFX-DAm13e4iUr246y4VN13SMi6NfR1B4hHe8YKIw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "All Roads Lead to Chae-ni",
+                  "Duration": "1:17",
+                  "Description": "Chae-ni wakes up to danger—but finds a surprise lifeline in her pocket. Un-jeong plans with Gyeong-hun and Ro-bin to rescue Chae-ni.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tnIn0tEF92lNiYR1rHxj2zgQmQ9.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/LyIUCRDI#CAx_4HRIFGP3FFTNxhNrQBT9Iub5o-dDcvGWldJivQM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "The Guardians of Haeseong City Part 1",
+                  "Duration": "1:01",
+                  "Description": "Un-jeong and the gang fight other superpowered followers, while Dr. Ha's risky plan targets Chae-ni.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/10Q6l84nDTkWgFj1cR025KUmvWj.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/LqxDVZ7I#inGsVh5YeDaKdHf4LOegMHSErSTg0J6GrbjUdP8uD2M"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "The Guardians of Haeseong City Part 2",
+                  "Duration": "1:32",
+                  "Description": "New Year's Eve 1999. Three misfits use their abilities to battle superpowered villains in an all-out brawl for Haeseong City.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xMUNsHZJUn1aeMtg0yj09bLHUIT.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/O7A21K7b#kBTOrnhYisi1XthkrtT0JXQcrZ0SQzTDCqU9AjSn_Og"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "The WONDERfools",
+          "SubCategory": "Action&Adventure",
+          "Country": "",
+          "Description": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+          "Poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+          "Rating": 9,
+          "Year": 2026,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Every Life Comes With a Surprise Twist",
+                  "Duration": "1:08",
+                  "Description": "When news of the apocalypse spreads in Haeseong City, a cash-strapped and terminally ill young woman devises a kidnapping plot with two clumsy sidekicks.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3XxUF98a4LfE3Ts7ihpZjXwVXpe.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Cy53VYrC#NbyHHryGUaKuslWaVnks2G7zAxDl1rz2UDwPA4oSBEE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Secrets Are Meant To Be Kept",
+                  "Duration": "1:01",
+                  "Description": "Eun Chae-ni and her quirky friends Son Gyeong-hun and Kang Ro-bin are baffled by their sudden abilities. A wary Lee Un-jeong confronts his doubts.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6R0weF6IKgBDoVcnS61muYYdTf3.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/33JymBCD#6hUpsVfjd0b6c5qJqVraP8EVAKXriKMUp1z_emZQK8k"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Brutes and Bad Luck Do Come in Droves",
+                  "Duration": "1:11",
+                  "Description": "The gang witnesses Un-jeong's superpower in a crisis. While they're thrilled after a daring rescue, Un-jeong senses danger nearby.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fmpIXulc7Y5QXhYRi4RPNHWs8ps.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/6qgQTDQa#uREt-BCzdZCp1yMpBdT0OYN1teRDy70G6tdaopmpgoM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Boonthe King Duck vs Wunderkinder",
+                  "Duration": "1:00",
+                  "Description": "Dr. Ha Won-do returns after 20 years, chasing secrets of the Child of Eternity. Later, the gang faces an attack—still unsure of their powers.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1rz5AIPpyjsUwb7v663XZS0H9K0.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/K74mTCzJ#VNzzRueXaKPH3Kl23-U28Y3EhcbjuPeRfH4Z8adMsWQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "All We Need Is You",
+                  "Duration": "1:12",
+                  "Description": "Un-jeong leads a bootcamp for the gang to tap into their abilities. Chae-ni confronts her grandma about the superpower's secret.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ekFot91nUgf9gB9Fy6kXfzuwUaQ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/6mIFzKib#2UkFX-DAm13e4iUr246y4VN13SMi6NfR1B4hHe8YKIw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "All Roads Lead to Chae-ni",
+                  "Duration": "1:17",
+                  "Description": "Chae-ni wakes up to danger—but finds a surprise lifeline in her pocket. Un-jeong plans with Gyeong-hun and Ro-bin to rescue Chae-ni.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tnIn0tEF92lNiYR1rHxj2zgQmQ9.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/LyIUCRDI#CAx_4HRIFGP3FFTNxhNrQBT9Iub5o-dDcvGWldJivQM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "The Guardians of Haeseong City Part 1",
+                  "Duration": "1:01",
+                  "Description": "Un-jeong and the gang fight other superpowered followers, while Dr. Ha's risky plan targets Chae-ni.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/10Q6l84nDTkWgFj1cR025KUmvWj.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/LqxDVZ7I#inGsVh5YeDaKdHf4LOegMHSErSTg0J6GrbjUdP8uD2M"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "The Guardians of Haeseong City Part 2",
+                  "Duration": "1:32",
+                  "Description": "New Year's Eve 1999. Three misfits use their abilities to battle superpowered villains in an all-out brawl for Haeseong City.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xMUNsHZJUn1aeMtg0yj09bLHUIT.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/O7A21K7b#kBTOrnhYisi1XthkrtT0JXQcrZ0SQzTDCqU9AjSn_Og"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "True Beauty",
+          "SubCategory": "Comedy",
+          "Country": "",
+          "Description": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
+          "Poster": "https://image.tmdb.org/t/p/w500/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
+          "Rating": 8,
+          "Year": 2020,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "The Errand Girl",
+                  "Duration": "1:27",
+                  "Description": "Kids hate her just because she’s ugly. And for the same reason, her crush cruelly rejects her confession. Thinking of ending her life, Ju Kyung stands at the edge of a rooftop. That’s when Su Ho jumps in to save her. Days later, Ju Kyung comes across some makeup techniques, and she can’t believe her own eyes. On her first day as a transfer student, kids are captivated by Ju Kyung’s looks.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3a9GqnAjzfBlBjiERXxSL5KrprJ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/VnMSFAaK#SqvDH-CcibSAjmstV1CbxiizwOWmjc-E0GTucqdKb1Y"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "With or Without Make-Up",
+                  "Duration": "1:25",
+                  "Description": "As soon as Su Ho sees Ju Kyung at the comic book store, he recognizes that it’s the same girl he saw on the rooftop. He’s kind of disappointed that she doesn’t seem to remember him. Ju Kyung is anxious to see how Su Ho will react at school the next day, but strangely he doesn’t seem to recognize her at all.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/scJfGyeBGmdWhIVJtYeaTSWaoUU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/p3dH2bQK#DQ73kF4ReoPeljtyEEnbz2FZ88JMmr1xE8FPQTaB5QU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Revenge Is a Dish Best Served Cold",
+                  "Duration": "1:23",
+                  "Description": "It seems Su Ho knows that the no makeup Ju Kyung at the comic store is the same person as the made up Ju Kyung at school. Ju Kyung feels anxious that he might tell everyone about how ugly she actually is. She promises him that she’ll do anything he asks, but it starts to wear her out.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/bPvwPJ4qZTRGzR4PUYlwfa8scMQ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/Y2cQWBDL#FWlO6b-Irz47ozI9J5aKq0ZjF0zMKSQZJnqeAlaQFiU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Ju Kyung Goes on a Blind Date",
+                  "Duration": "1:23",
+                  "Description": "Ju Kyung prepares to go on a blind date. She asks her mother for help at her hair salon, but then Seo Jun steps into the salon when Ju Kyung’s not wearing makeup on her face. She tries to avoid meeting him. Meanwhile, Su Ho participates in a maths competition, but he keeps feeling bothered by the fact that Ju Kyung is meeting with a man on a blind date.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kI4xtpjolAAOeFO0x364E440Uh6.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/sn9nEKKK#di9v7KudXdDkyLjFbf-V8j5CoRF1nn-WZ56H-lr49lU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "If He Has Feelings for Me",
+                  "Duration": "1:22",
+                  "Description": "Su Ho goes all the way to meet Ju Kyung late at night with a lame excuse. Ju Kyung starts to wonder if Su Ho has feelings for her. She asks him out. Meanwhile, a first-year student is bullied by her classmates for her ugly looks. This reminds Ju Kyung of her past school life and she decides to offer help.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/83XxlOW2TzbweRbrHlhqzga6ruD.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/RqlHULJS#wXlg2rcvoBax3uDRZy9sQrX4VDMNlB0z0dkIazpSZJ0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Ju Kyung Runs into Bullies",
+                  "Duration": "1:22",
+                  "Description": "Su Ho’s father visits Saebom High School to meet Su Ho’s teacher. Everyone at school gets surprised by the fact that Su Ho’s father is actor Lee Joo Hun. Meanwhile, Ju Kyung runs into the bullies who used to harass her before transferring to Saebom High School. Su Ho happens to see them and decides to help Ju Kyung.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cZSvso71vRIsP8AphPy2k7YOiyd.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/snsXXZIR#ZBbaR85kVHHHVb5cqO3CNIvR2sUrVK0GeMh0-e-VgyY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Mutual Feelings of Love",
+                  "Duration": "1:22",
+                  "Description": "Ju Kyung’s heart doesn’t seem to calm down whenever she sees Su Ho. Unfortunately, she finds out that there is already someone whom Su Ho likes. Devastated and disappointed, Ju Kyung begins to naturally avoid him. Meanwhile, Hyung Jin, the ace baseball player from Seonil High, confesses his feelings to Ju Kyung. Knowing this, Seo Jun and Su Ho also feel the surge of affectionate feelings for Ju Kyung.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/caHAHEIU2LUgz2z2q6C0xoSOBl7.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/wrNTiKqR#sycXPnYtgmsXPmY5KrVSdlpOKsrMEjVDt_NUCORSAZQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Misunderstanding",
+                  "Duration": "1:20",
+                  "Description": "The students of Saebom High School go on a school trip. Su Ho makes up his mind to tell Ju Kyung that he has feelings for her and even buys jewellery for her. However, Ju Kyung gets heartbroken, thinking that Su Ho likes Soo Jin. Meanwhile, Hee Kyung gets transferred to a different department at work without prior notice.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qdivcSIQTRkGX8vTHwXI64fmXLY.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/hvFwgSqB#x0CsnyQhzrpEzRBX4gu41GYuQQbHyBcz0CwSyJPLwR8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Secret Boyfriend",
+                  "Duration": "1:26",
+                  "Description": "Not long after reassuring each other’s feelings, Ju Kyung and Su Ho initiate a movie-like plan to keep their relationship secret at school. However, doing so makes it difficult for them to enjoy a typical ordinary date. Su Ho even puts up with embarrassing moments for Ju Kyung. Meanwhile, Seo Jun is having trouble getting over Ju Kyung when he bumps into her at the least expected place.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/au2E330f1kiWqySxNjqkWAsodH5.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/dmFSzQZL#lbcS4eZDv-hPc0eubrS6lrac3CNKD5BlTo3k3zkMWnw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Between Love and Friendship",
+                  "Duration": "1:16",
+                  "Description": "Ju Kyung still doesn’t want to let her friends know that her boyfriend is Su Ho. Soo Jin tells Ju Kyung that she plans to tell Su Ho that she has feelings for him. Ju Kyung gets torn between love and friendship. Meanwhile, Su Ho and Seo Jun happen to meet at Ju Kyung’s house and start to make dumplings with Ju Kyung’s family.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/b7D9EvIqm6GaK7r55HvvYKvJ6OB.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/Z6shECDJ#XE1IpeahuW1Sg8N5PbTmoVJOjvrJe3c_-2IKXeKZIIg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "The Truth About Se Yeon",
+                  "Duration": "1:15",
+                  "Description": "After stumbling upon the truth behind Se Yeon’s death, Su Ho gets into an accident as he runs out of his dad’s office, and Seo Jun also gets involved while trying to save Su Ho. Hospitalized in the same room, Soo Ho and Seo Jun get to know each other a little better. Meanwhile, Ju Kyung and Su Ho come to an agreement that they are both responsible for the fight earlier. However, Su Ho can’t seem to shake off a bitter feeling.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/l326CzKfL34rhWp8iSS0J19c5Oo.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/pilyUJbJ#9CnCzYMIUQevdChyU_An_QY2eu99IanbMs2Q0mNSO9o"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Transfer Student",
+                  "Duration": "1:14",
+                  "Description": "At school, Su Ho comes back to his class, and Ju Kyung runs into Hye Min who just transferred. Hye Min asks Ju Kyung if they know each other, but Ju Kyung denies and keeps avoiding her at school. Meanwhile, Soo Jin and Se Mi make a deal, and Se Mi shares with Soo Jin the photos of Ju Kyung without makeup on her face.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/lQgJRwG3K0NKon5uLGkNHIH5IYn.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/Z6Ug0ISA#8ILB6N1Hx2G6rxWg0quQzzBjDvrUkTF9qqBq0u5avVc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Only Fools Judge Others",
+                  "Duration": "1:20",
+                  "Description": "A video of Ju Kyung sends the whole school in turmoil. When Ju Kyung finds out that her past from the old school has been exposed, she runs away. However, it doesn’t bother Su Ho a bit what others are saying. The only thing that worries him is whether Ju Kyung is okay or not. Meanwhile, Seo Jun does whatever he can to get to the bottom of this happening and is shocked when he finds the person responsible for the video.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qw7x4KqMbbm2FLwIKy6oKnpAe8E.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/Jj901BTa#BabB9hkLt-Gkq2uvp8sKw9paRMz5lkHvU6z5T4ZC_dE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "Trip to the Sea",
+                  "Duration": "1:21",
+                  "Description": "Ju Kyung comes back to school and makes up with Soo Ah. Everyone at school finally finds out that Soo Jin was the one who uploaded the photos and videos of Ju Kyung being bullied. Meanwhile, Soo Ho and Ju Kyung go on a trip to the sea, but Su Ho forgets to bring his cell phone. Seo Jun desperately tries to reach Su Ho.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/swxXz5sFywkY5Neuoxv351Vms6B.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/9uV0mKiJ#k-l5rW1xkS5nc87nyFjKWwIUtmjYumJtFZCXjXOmsZ0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Unexpected Encounter",
+                  "Duration": "1:20",
+                  "Description": "Ju Kyung and Su Ho have no other option but to accept the breakup. After, Ju Kyung stumbles upon the fact that Su Ho is the very boy she met at the Prince Comics when she was young and struggles even more. Meanwhile, Seo Jun finds it difficult to hide feelings towards Ju Kyung and decides to act upon it. Confused by Seo Jun’s unexpected confession, Ju Kyung heads out to Namsan where she bumps into someone.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qblD956EZj0nYINLBSmbxzSPZb4.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/dvVlkIrA#TjD2GD2Td0W2bPoMRlCU6qLXHCFrkKTFTKn_bmcbsbM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Happy Ending",
+                  "Duration": "1:21",
+                  "Description": "Ju Kyung and Su Ho finally confirm that their feelings for one another haven't changed after all these years. After shedding tears from their reunion, they start their happy relationship, which is more grown-up from their high school days. Meanwhile, Seo Jun, who has now moved on from his unrequited love, gets ready to debut while Hee Kyung asks Su Ho to include \"Missing Love\" on Seo Joon's debut album.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/36nhKe9zIKeSCZitc3ot0f5fwHR.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/1jMyzajY#_QOI0bBFr3sij5OMQjSqEodb8s2gT4wjRJbp2vB6E1E"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Kingdom",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people.",
+          "Poster": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+          "Rating": 8,
+          "Year": 2019,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "57:00",
+                  "Description": "Officials find notices in Hanyang alleging the king is dead. Crown Prince Lee Chang tries to check on his father, but the young queen stands in his way.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/lyEmWQRS#LSDNPylbfrLnV04ubY0Jcxqb3tDAvv9VfHjbdvOt0ho"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "55:00",
+                  "Description": "Prince Chang and Mu-yeong arrive at Jiyulheon, where they make a horrific discovery. Seo-bi’s story of what she saw eerily resonates with Prince Chang.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nmJpwNj7G7Y2ez07zLCo1M1Qst3.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/VykHyBpQ#LTlIJokLgm-Ojaf-I5LD1BfUXIZ0FoaZcfl2tlg-eNI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "56:00",
+                  "Description": "Night leads to chaos in Dongnae. Cho Hak-ju and the queen oversee the king’s care. Prince Chang reaches a disquieting conclusion and vows to fight back.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/eX7P4CAsF8TbTIPpafmM28X0BGg.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/gm8QharR#KlYnbg5KIgFUXIS2mc4-hnmksKLPKx_dvqa0FzSV3MQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "47:00",
+                  "Description": "On his way to seek Lord Ahn Hyeon’s help, Prince Chang encounters a group of stranded survivors and leads them to Jiyulheon, following Seo-bi’s advice.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/z0ZAgsJo8i5n4hBpc8hVI8hhKKx.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/J70iyJSZ#C527T5xDtQzm9a_7QgmgaFWn7z1kC-k5ixzadKpHkzM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "53:00",
+                  "Description": "Prince Chang’s group comes across a village that oddly seems to be well-fed. While taking refuge at Lord Ahn Hyeon’s, Seo-bi notes something peculiar.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/abJXlyCHWuuOrUfIjdjNocX6Fu.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/Ums0WSwD#yYZotht6vagCqoE_V6V-hYp-5-j0AH_x8NhMUtxzy9w"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "44:00",
+                  "Description": "Cho Hak-ju has chilling words for the queen, who’s hiding a sinister secret. Prince Chang orders Sangju’s defenses, but Seo-bi senses something awry.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xgx2KLg4P5dBjiniqR3Ai1opAAh.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/U7s1QQrB#V_JvTP_caw12UmkyzWBYjpl3KO7WmvaPbMNeXvNDRk0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 2,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "52:00",
+                  "Description": "An unexpected setback in Sangju poses new problems for Prince Chang and the others. Seo-bi and Cho Beom-pal seek safety with Cho Hak-ju.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/f3E1Zha8bViI5q5rYmJc79KjFHi.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/czcWWbrY#7vOtSFudddPI7gsKVvxmdNWwHdy3Rouk6yxpxqs-6Vw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "40:00",
+                  "Description": "After Prince Chang breaks into Mungyeong Saejae, a nightmare unfolds. Officials search the queen's home, suspecting she is hiding something.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uXWZjheUd8pE9BH9cZB3dZP7VYS.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/ZnUhWKaa#Hj4NrZkntAOBbHM2KqLunCrtQb8qtQDPZltY4SOwGcg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "49:00",
+                  "Description": "When Cho Hak-ju is taken from his custody, Prince Chang goes after him. Seo-bi looks for a way to treat the disease. The queen awaits her prince.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/grrxiFa4iMUJYSaS3GSTT85RWfv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/d7FjUZKI#OpyrcSj_AjZxJphoqBJioRUACJc75-qD77iyeYKP-VY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "43:00",
+                  "Description": "Seo-bi shares a critical discovery with Prince Chang, who has a favor to ask of her. Cho Hak-ju visits the queen and demands she tell him the truth.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/mQeYC7mZd7pCPSILM48IJTNZH4G.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/BiNQTCZB#NEkVd_HMlUjLfF7my_pP3fYHD65iLirO5o46Jn0_VCE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "36:00",
+                  "Description": "To save innocent lives, Prince Chang and his men take over Hanyang. The queen determines that if she can't have the throne, no one can.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/62nqP7OwJ2ubIsgLi0yNH91qpUW.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/Rm0yTR5Z#wOibGZdNkqKfhS8y1-59Q5YY_rLqR_39iS4Ckc50pVc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "53:00",
+                  "Description": "With the palace painted red with blood, Prince Chang is forced to pursue a risky strategy. Seo-bi takes the baby and hides.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yOv8DjRT03osiWWogjCOwIH6LiD.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/o6s3SLyL#jkSOyJPj2X0TEk8cXzoIMGutfaNSevFYR9Vfw04Jm5A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Parasyte: The Grey",
+          "SubCategory": "Sci-Fi & Fantasy",
+          "Country": "",
+          "Description": "When unidentified parasites violently take over human hosts and gain power, humanity must rise to combat the growing threat.",
+          "Poster": "https://image.tmdb.org/t/p/w500/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
+          "Rating": 7,
+          "Year": 2024,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "1:01",
+                  "Description": "After a brutal attack, Jeong Su-in learns she may not be the same person as before. Choi Jun-kyung discovers the monsters are forming an organization.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wPY1prusshQWlw8ZUXRYvy2163c.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/E6kXlRga#403oGimaFFbeMphc_FRl9dNJmHogDNwPsMNMq4RFrd0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "43:00",
+                  "Description": "Looking for his sister, Seol Kang-woo investigates Saejin Church, where he finds Su-in. But he soon encounters trouble — and the two fight to escape.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/jJUU2vzfv4nO3g34ccFGzMLuZfA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/RqUnXRhA#DT1PdsDZNfo4Pac6YFF2YGRLvQtMFe1jzvVpPevgJZI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "43:00",
+                  "Description": "After raiding Saejin Church, Jun-kyung begins suspecting Kim Chul-min is hiding something — later tracking him down meeting with Su-in and Kang-woo.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oieqOsgBMnaQWn3SECcjgkXQcF9.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/Urdi0T6a#vJ2-S0DQQLHcJEVKPyUEVwuUQAgVnQ68iZRdoms3tzU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "53:00",
+                  "Description": "After revealing everything he knows to Chul-min, Kang-woo agrees to help save Su-in. But when the plan goes awry, lives are put at risk.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2YT98VYtwxraHXUUN8ICvlW3UpQ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/83kjyQQS#mw_5wrVqck5GRO4lMP5Rztq6z6qK-KjWxT3MiQ3zxBA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "48:00",
+                  "Description": "Despite being on the run, Su-in tries to warn Jun-kyung. But as Team Grey's raid plays out, Su-in and Kang-woo realize it's all part of a bigger plan.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/I7fJxDVF49JJa4RJuH0NOPW3h0.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/l2E0mIbS#5oYyCRK5GHfwuSZhTEPkLUDZb00BSDUvFuhxEdBZQjQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "52:00",
+                  "Description": "Su-in meets with Seol Kyung-hee, who requests an alliance. But the parasites' ploy for power goes into full effect — and it's up to Heidi to stop them.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gzArIKUreaXMzAKu0MZMzbbGW0y.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      ""Link": "https://mega.nz/embed/suFD3BZB#iOYv-ySGcGgDReGcSmZYDimYkwsbn3i_dd1fBFp1ewc"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "Title": "Boruto: Naruto Next Generations",
           "SubCategory": "Animation",
           "Country": "",
