@@ -1761,120 +1761,503 @@
           ]
         },
         {
-          "Title": "If Wishes Could Kill",
-          "SubCategory": "Mystery",
+          "Title": "Welcome to Waikiki",
+          "SubCategory": "Drama",
           "Country": "",
-          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Description": "Kang Dong-Goo dreams of becoming a movie director, but he is cynical due to bad luck. Cheon Joon-Ki wanted to follow in his father's footsteps and become an actor, but he is now just a minor actor. Bong-Doo-Sik came to Seoul to become a scenario writer, but things have not been easy for him.",
+          "Poster": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
           "Rating": 8,
-          "Year": 2026,
+          "Year": 2018,
           "Seasons": [
             {
               "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
               "Episodes": [
                 {
                   "Episode": 1,
                   "Title": "Episode 1",
-                  "Duration": "43:00",
-                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Duration": "1:06",
+                  "Description": "Three young men running a guesthouse make a shocking discovery in one of their rooms. Later, one of them, a newbie actor, begins filming with his idol.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                      "Link": "https://mega.nz/embed/9csSGYbS#5ZnlJK4GJmBySaKvOeGqM6ordQPmi-cpKS7neui4VSc"
                     }
                   ]
                 },
                 {
                   "Episode": 2,
                   "Title": "Episode 2",
-                  "Duration": "37:00",
-                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Duration": "1:03",
+                  "Description": "Han Yun-a's attempt to prove her worth to the household backfires. A filming delay forces Lee Jun-ki to live in scary costume makeup for 24 hours.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                      "Link": "https://mega.nz/embed/5Q0yHBwA#8pFghkTOEjilAJkqlszAMmdawYCiPh9zunCZ_VgJ6QE"
                     }
                   ]
                 },
                 {
                   "Episode": 3,
                   "Title": "Episode 3",
-                  "Duration": "48:00",
-                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Duration": "1:05",
+                  "Description": "Kang Seo-jin learns that her crush is just as imperfect as she is. Jun-ki makes a painful sacrifice for a movie role. Yun-a reveals her life's dream.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                      "Link": "https://mega.nz/embed/5U8RhDAb#VjtAPqDaVAN-El-WSlmGxmStc-WM47HbxPpWOn26J_k"
                     }
                   ]
                 },
                 {
                   "Episode": 4,
                   "Title": "Episode 4",
-                  "Duration": "49:00",
-                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Duration": "1:06",
+                  "Description": "An embarrassing photo of Jun-ki goes viral, but leads to an opportunity. Yun-a tells her housemates about her past. Seo-jin interviews for a job.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                      "Link": "https://mega.nz/embed/8RNUlagb#Q921I_eAX2uFSe_Zx5iUetjMMJzHPHjsCrbaxEYDcGw"
                     }
                   ]
                 },
                 {
                   "Episode": 5,
                   "Title": "Episode 5",
-                  "Duration": "45:00",
-                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Duration": "1:07",
+                  "Description": "A text message mishap threatens Bong Du-sik's chances with a new crush. Yun-a and Kang Dong-gu get the flu and are quarantined in a tent.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                      "Link": "https://mega.nz/embed/NUsklBAA#pp9q8b7e2EnX9b4FaO_zwarx1pMrKQx_zgysPpE5-8E"
                     }
                   ]
                 },
                 {
                   "Episode": 6,
                   "Title": "Episode 6",
-                  "Duration": "52:00",
-                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Duration": "1:04",
+                  "Description": "A fellow culinary student takes an interest in Yun-a. To buy more time to pay the rent, Jun-ki tells a lie that snowballs into a sudden engagement.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                      "Link": "https://mega.nz/embed/IFUkhAgQ#fVh6d990dOQvkHUWkfXkdepRjZKmwRSyTBZNhLa1dP4"
                     }
                   ]
                 },
                 {
                   "Episode": 7,
                   "Title": "Episode 7",
-                  "Duration": "36:00",
-                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Duration": "1:04",
+                  "Description": "Misfortune brings Min Su-a to the guesthouse. Du-sik runs into his first love. Desperate to pay back the landlady, Jun-ki accepts a questionable job.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                      "Link": "https://mega.nz/embed/9Akl2Q6S#upEXBZWTp__byDru4H7pYtQovmPo_nkA4F1Nm0vvHhs"
                     }
                   ]
                 },
                 {
                   "Episode": 8,
                   "Title": "Episode 8",
-                  "Duration": "45:00",
-                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Duration": "1:08",
+                  "Description": "As Du-sik tries to express his feelings to Yun Mal-geum, Dong-gu struggles to hide his from Yun-a. To earn cash, Jun-ki tries his hand at meokbang.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                      "Link": "https://mega.nz/embed/gVNixIbI#d8SQz3UnBzMUm1M7wqAjwXjdLKophOqdzvy6jLI0rU4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "1:08",
+                  "Description": "Dong-gu runs into problems while babysitting Han Sol. After hurting Seo-jin's chance at getting a journalism job, Jun-ki sets out to make things right.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ME1FzZLA#EFnP5qwpaRO9pI9sALP9ruVKZTGn74uyE0FHavdqflg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "1:06",
+                  "Description": "Seo-jin and Jun-ki agonize over what happened the previous evening -- but for totally different reasons. Dong-gu comes to a realization about Yun-a.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/tQcHlAoA#QyH2zHwQic8kMZMqSnQWf0VfUHTCbhYFa7RF11dQZZo"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Episode 11",
+                  "Duration": "1:10",
+                  "Description": "Yun-a leaves Dong-gu with more questions than answers. Jun-ki hides from a UFC fighter whose girlfriend he stole. Su-a's undercover work pays off.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/gcEyCLyI#CdFmyjuCG4bvCI8OltOapg54C-8IyQcrFKbo22twU9I"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Episode 12",
+                  "Duration": "1:10",
+                  "Description": "Jun-ki tries to view Seo-jin as a woman, but memories of her as a girl get in the way. A jealous Dong-gu challenges Song Hyeon-jun to a duel of sorts.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/sRM1wLKT#uO9Yq-BjxPBkMkpGjnK32-_C-QA0quRNY8TK5Si4_HE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Episode 13",
+                  "Duration": "1:05",
+                  "Description": "Su-a ropes Du-sik into helping her launch an online shopping mall. From a distance, Dong-gu spots his sister kissing a man, and demands to meet him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/JU1mSQTC#tzInKial2YAtU116_xv-3kRHuPOOlkMQ__iug0htRc0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "Episode 14",
+                  "Duration": "1:08",
+                  "Description": "Jun-ki and a co-worker compete to star in a commercial. Du-sik helps Su-a practice her driving skills. Dong-gu gets a lunch date with Yun-a.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/0Idx2AAK#iDMRDNBoHVM7U-GqwZ7xBUzueu_qb27_nT0b9TxDDMU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Episode 15",
+                  "Duration": "1:06",
+                  "Description": "While Seo-jin and Jun-ki secretly go on a weekend getaway together, the rest of the Waikiki crew visit another guesthouse to get ideas for their own.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/0Idx2AAK#iDMRDNBoHVM7U-GqwZ7xBUzueu_qb27_nT0b9TxDDMU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Episode 16",
+                  "Duration": "1:08",
+                  "Description": "When Dong-gu refuses to speak to his sister, she declares she's going on a shaving strike until he does. Hyeon-jun has something to tell Yun-a.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/dYFCFLQa#CAGtaVZbGU0kqqzwplpGrd7SEWhxMYei53myGRDFXrE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 17,
+                  "Title": "Episode 17",
+                  "Duration": "1:03",
+                  "Description": "Dong-gu and Yun-a go on their first official date. A romantic declaration that Du-sik makes to a new Ukrainian houseguest gets lost in translation.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/BVVyRAxS#GASLW0WoAbHrSyIkR08u4d3nXIjOVRhMAD5vDz_FZBE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 18,
+                  "Title": "Episode 18",
+                  "Duration": "1:08",
+                  "Description": "An obsessed fan begins to stalk Jun-ki. Dong-gu and Yun-a struggle to have their first kiss. Su-a gives Du-sik good -- and bad -- dating advice.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/9V0TnTLY#eZ2Ew23RwrDq9yxXTGVDfrfjq52e8gL5ZdR12WCoI9I"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 19,
+                  "Title": "Episode 19",
+                  "Duration": "1:06",
+                  "Description": "Su-a starts her own fashion line. Jun-ki is given a publicity stunt to perform -- involving a pole dance. Yun-a meets her idol, a rapper.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/oUMynIKL#pG2p_YY0fv-GGdhKdH_9IT-adU3ZE0cmg5lBGDVp9ys"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 20,
+                  "Title": "Episode 20",
+                  "Duration": "1:11",
+                  "Description": "Sol's father begs Yun-a to forgive him. Seo-jin asks Jun-ki for time to reconsider their relationship. Su-a makes a confession to Du-sik.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/YVkwmTqD#Dx-muvFLA3F6FLF5UwwJUhzHXqGM5S4M3fXfiEumAfA"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 2,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "1:09",
+                  "Description": "A struggling actor, an aspiring singer and a baseball hopeful scramble to keep their guesthouse afloat after an unlucky blow from Mother Nature.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/9J1UVBwC#PJVO0qFclUgi8-zfJt5u_LQmpW_OczIbaddbeGLn07A"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "1:09",
+                  "Description": "Caught between two women, Cha U-sik comes up with a rather sloppy plan to impress one and avoid the other. Lee Jun-ki faces a major acting challenge.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/9dVF2TyJ#h7VNUfZPeCVcEOw6PMqmWe0NaGxcD9tqGGHREmF6Zk0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "1:06",
+                  "Description": "Han Su-yeon jumps into the job market. Kook Ki-bong and Jun-ki try to promote their guesthouse by appearing on TV.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/pEMjBSrZ#0HghB4PgHkqVJF4VRRrSwfZteQG4Cv1mpowC3qPy_fs"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "1:08",
+                  "Description": "Ki-bong suffers the consequences of letting Cha Yu-ri in the house, while poor U-sik spirals out of control as old feelings creep back into his heart.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/cBt0UKjA#l1TyfklajFVEwxz2ZbL321-l1Tq7jjkq_sbX1wBC5hk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "1:06",
+                  "Description": "Su-yeon sets U-sik up for a blind date. But could this be a trap? Jun-ki and Ki-bong battle for the ownership rights to ... a blanket.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/lVElRDIL#FHrymZEIpEWw9YsWuJtJbM1tS2ykEx-y8lkFQxqckDE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "1:02",
+                  "Description": "In an effort to protect their friends' feelings, U-sik and Jun-ki hide the truth and bear the heavy burden of silence.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/BM1F2Bpb#6hCRUoc6UEXz-DiZWzRQryPhKnVrnqw-mbXUN-KIQvM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "1:06",
+                  "Description": "Jun-ki immerses himself in the world of his character. U-sik's attempt to help Su-yeon keep her job gets slightly out of hand.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ZVsGHI4J#Zg5pAlSEZY3SuDeoV5KYYwTclTQLZI6ZGNmd4fBSmVE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "1:03",
+                  "Description": "An invitation to a birthday party puts U-sik's life in jeopardy. Ki-bong seeks comfort in a box of chocolates.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/NdVnxYKK#MCXnpopXTmC8Vr3iPYsaF56sZMeCwYfIBTJiEH2xnms"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "1:05",
+                  "Description": "Kim Jeong-eun finds it hard to admit her feelings for a longtime friend. Su-yeon meets a speech coach with an unfortunate habit.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/AAU0AT4D#QXPFsDGuuguB1hPS-QxOTlfmerb70jLGpY59Uf6wOZk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "1:06",
+                  "Description": "A quiz show awakens Yu-ri's competitive side. Jun-ki's sudden rise to stardom comes at a price as young fans keep a watchful eye on him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/IAUxGD7Q#GrTKkOqQCU3MGmw19fsXeJkXTw6K7yFwHxaBOlVaAkM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Episode 11",
+                  "Duration": "1:06",
+                  "Description": "Jun-ki seeks the help of a professional to bring Rebecca back to life. U-sik jumps through impossible hoops to confess his feelings to a friend.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/RR0FyRiI#JYxFRuNsc_yK9JCwqJtseaQRuM0g7untbqEmFrVtrw8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Episode 12",
+                  "Duration": "1:04",
+                  "Description": "Ki-bong's search for employment continues in blissful ignorance. Jun-ki's inability to remember the name of a classmate takes him down a rabbit hole.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/lA8QwbJZ#dabNNMUsyYgjDnMCwVehTOFdS4VlddBKzlwZVKMr7bM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Episode 13",
+                  "Duration": "1:05",
+                  "Description": "An exciting opportunity comes knocking, but a moral dilemma keeps Jun-ki from taking the job. Ki-bong finds himself unable to get out of bed.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/RQU1WKgT#gQiK6j_708iUrfTzsrP_nJ1COELTOvmSoGE8l2TF244"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "Episode 14",
+                  "Duration": "1:04",
+                  "Description": "In an effort to cheer up a friend, Jeong-eun spills her deepest, darkest secrets. Yu-ri and Ki-bong's first date gets off on the wrong foot.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xJdj2Bqa#GwNGbz9AkZ6NdfvpJsebe7KPDrXC3iiKstMMWavzGQk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Episode 15",
+                  "Duration": "1:05",
+                  "Description": "Jun-ki learns to develop feelings for an acting partner. Su-yeon prepares a pitch for a new show, while unsettling feelings of jealousy distract her.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xVMGDATb#ow-L3D1odl7VXQPy_LFcTC27YmIthvvmkWI7lY4-atE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Episode 16",
+                  "Duration": "1:06",
+                  "Description": "Terrible timing keeps Su-yeon from coming clean to her crush. U-sik discovers that there is more to Yu-ri and Ki-bong's relationship.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/tJ9TyRpI#F3gclLHHMBaeg6g_4va8stzz7EmvUiP9A1ozn3dbYkY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 17,
+                  "Title": "Episode 17",
+                  "Duration": "1:06",
+                  "Description": "Terrible timing keeps Su-yeon from coming clean to her crush. U-sik discovers that there is more to Yu-ri and Ki-bong's relationship.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/MFk3RDQY#jnsY80S0zJDNMqY5zesV68c2e591qv8BY91Sfgc7b6g"
                     }
                   ]
                 }
