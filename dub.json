@@ -1,9 +1,15 @@
 {
   "Categories": [
     {
-      "MainCategory": "Live TV",
+      "MainCategory": "Movies",
       "SubCategories": [
-        "Entertainment"
+        "Action",
+        "Comedy",
+        "Drama",
+        "Horror",
+        "Sci-Fi",
+        "Adventure",
+        "Romance"
       ],
       "Entries": []
     },
@@ -537,8 +543,9 @@
         "Action",
         "Comedy",
         "Drama",
+        "Sci-Fi & Fantasy",
         "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Mystery"
       ],
       "Entries": [
         {
