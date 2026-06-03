@@ -20,7 +20,9 @@
         "Comedy",
         "Drama",
         "Horror",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Adventure",
+        "Romance"
       ],
       "Entries": [
         {
@@ -1092,120 +1094,536 @@
           ]
         },
         {
-          "Title": "If Wishes Could Kill",
-          "SubCategory": "Mystery",
+          "Title": "You Are My Hero",
+          "SubCategory": "Drama",
           "Country": "",
-          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Description": "A story that follows Mi Ka, a new resident at the hospital who meets special ops agent Xing Kelei during an emergency rescue training organized by the SWAT team.",
+          "Poster": "https://image.tmdb.org/t/p/w500/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
           "Rating": 8,
-          "Year": 2026,
+          "Year": 2021,
           "Seasons": [
             {
               "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
               "Episodes": [
                 {
                   "Episode": 1,
-                  "Title": "Episode 1",
-                  "Duration": "43:00",
-                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Title": "Lifesaver",
+                  "Duration": "46:00",
+                  "Description": "Two years ago, a medical student, Mi Ka, got caught up in a jewelry heist and was abducted by criminals. A SWAT member, Xing Kelei, risked his life to rescue her. After Mi Ka's escape, she never crossed paths with her rescuer again, but she vividly remembered his deep eyes beneath the protective gear. Two years later, she encountered the Chief Instructor, Xing Kelei at, an emergency rescue training camp.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/o26kY3D7oIscUSclftEDPQT1M45.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                      "Link": "https://mega.nz/embed/70QnBCrR#jxSSq6GhYXRquunGmaS5D_R4nADy9aC2Y9Mivz_RGXs"
                     }
                   ]
                 },
                 {
                   "Episode": 2,
-                  "Title": "Episode 2",
-                  "Duration": "37:00",
-                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Title": "Confrontation",
+                  "Duration": "46:00",
+                  "Description": "Xing Kelei informed the group of trainees that someone had sneaked out of the base. He made it clear that one person's mistake would result in punishment for the entire group. Mi Ka felt that Xing Kelei was cunning, but to obtain her certificate of completion, she had to swallow her pride and admit her fault. As the training continued, tension rose between them as they clashed, each unwilling to yield.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9TZ4btpg4yhvXdNNgpuo96RjCqH.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                      "Link": "https://mega.nz/embed/o71iUDBR#cB0-nu8vTCwBFgIvmFWjgl94oXu6HqUYceBsSfX_DSc"
                     }
                   ]
                 },
                 {
                   "Episode": 3,
-                  "Title": "Episode 3",
-                  "Duration": "48:00",
-                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Title": "Saved Her for the Second Time",
+                  "Duration": "46:00",
+                  "Description": "Mi Ka got lost in the mountains and injured her foot. Hearing that Mi Ka hadn't returned, Xing Kelei became anxious and went to look for her. Eventually, he discovered her trail at the foot of the mountain. Xing Kelei finally understood Mi Ka's reasons for leaving the base without permission. Seeing Mi Ka's warmth and enthusiasm, he finally understood her.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/lInbAlOV3FEVeO2qCGaK9nYOVQx.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                      "Link": "https://mega.nz/embed/5v12yC5a#eHEi2YH_ofKP4ooaJqHB7TfjCa9JKHMCqVAuRfOiK6I"
                     }
                   ]
                 },
                 {
                   "Episode": 4,
-                  "Title": "Episode 4",
-                  "Duration": "49:00",
-                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Title": "Fearlessly",
+                  "Duration": "46:00",
+                  "Description": "Mi Ka suddenly received an urgent signal on the rescue app. There was an accident nearby in urgent need of rescue, but the surroundings were perilous. Mi Ka insisted on going to help, so Xing Kelei had no choice but to tie her with a rope and guide her safely to the accident scene.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/f4t7slkH4SiqYqIY6jjVxFcGmXS.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                      "Link": "https://mega.nz/embed/70QnBCrR#jxSSq6GhYXRquunGmaS5D_R4nADy9aC2Y9Mivz_RGXs"
                     }
                   ]
                 },
                 {
                   "Episode": 5,
-                  "Title": "Episode 5",
-                  "Duration": "45:00",
-                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Title": "Courage",
+                  "Duration": "46:00",
+                  "Description": "Under the guidance of Shao Yuhan and with the help of Xu Yanshan, MiKa successfully performed a thoracentesis and saved the patient's life. Shao Yuhan decided to have Mi Ka and Xu Yanshan join the Neurosurgery Department for rotation. Meanwhile, Xing Kelei's Tiger Commando Team was in pursuit of a group of drug traffickers.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9zEupuicd8kbbAoSQRa6emWvlrD.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                      "Link": "https://mega.nz/embed/Mj9mQZJK#TnsiQYyw-jN2qyR5W9TvSrzFaEoS4Ref18hG_X2cKIY"
                     }
                   ]
                 },
                 {
                   "Episode": 6,
-                  "Title": "Episode 6",
-                  "Duration": "52:00",
-                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Title": "Blaming Oneself",
+                  "Duration": "46:00",
+                  "Description": "Xiao Chao's injury left Xing Kelei overwhelmed with guilt. Consequently, he poured out his heart to Mi Ka, who shared her journey as a doctor to comfort him. Later, Mi Ka found a certificate of completion tucked inside the undershirt that Xing Kelei had returned to her. This made her believe even more that Xing Kelei was a warm hearted person.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wQn3hVXcYYegtCKvfYEnj0PkdVJ.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                      "Link": "https://mega.nz/embed/Bi1ARSDL#E8u2pvDq-f1Z-JLiiyoN-BCy9iDgAI6x8AlfAvt2bcs"
                     }
                   ]
                 },
                 {
                   "Episode": 7,
-                  "Title": "Episode 7",
-                  "Duration": "36:00",
-                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Title": "Reconciliation",
+                  "Duration": "46:00",
+                  "Description": "Mi Ka was working hard to adapt to the busy and unpredictable situations in the Emergency Department, and she gained a deeper understanding of the importance of emergency work. Her efforts had finally earned recognition from Wei Lan. Xing Kelei waited for Mi Ka at the hospital entrance, wanting to apologize to her. They ended up arguing, but eventually reconciled.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rk1sJ3iIxBsJCljRKhiSg64amFi.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                      "Link": "https://mega.nz/embed/47FiXRCK#79VkLQ2RWHDdKRkKqroJr7Bl9rKYkQTNBNJkHWgIl2E"
                     }
                   ]
                 },
                 {
                   "Episode": 8,
-                  "Title": "Episode 8",
-                  "Duration": "45:00",
-                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Title": "Teamwork",
+                  "Duration": "46:00",
+                  "Description": "A girl named Mumu drank insecticide and was rushed to the emergency room. Mi Ka, along with all available medical staff in the hospital, assisted in preparing the atropine. Meanwhile, Xing Kelei contacted Li Nian and others on duty, personally leading the team to deliver the medication.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/aOlITcDwezprisqoGQbW9AxUbKU.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                      "Link": "https://mega.nz/embed/w3EBmTqS#zjO1cRw_TstQdRtj1NXk-a2Me7nXYuQ1DwyLch8dH1Y"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "The Weird Landlord",
+                  "Duration": "46:00",
+                  "Description": "Upon hearing from Qing Xia that Mi Ka was homeless, Xing Kelei rented his house cheaply to Mi Ka and moved to Xing Keyao's house across the street. After moving in, Mi Ka noticed something was off. Every daily necessity she mentioned would mysteriously appear in the house the next day. Qing Xia even suspected that the landlord was a weirdo.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/y7MRImcx0bew2KqRIp1ucpkmUvI.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/c21ByL5Q#-wHaQriDtE7R8ksSwGFOJO0VIuMmg1ZddxLLCfc1sGQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "The One She Idolized",
+                  "Duration": "46:00",
+                  "Description": "A crazed fan had kidnapped an idol in the city, prompting Xing Kelei to lead the team in tracking and rescuing work. Mi Ka went to the scene to provide support as a paramedic. Seeing Xing Kelei wearing protective gear, she was reminded of the SWAT officer who saved her two years ago.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oisjpV6Hi7j1IL88gj3CrXL8PB0.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Irtg1TRY#q6WPFR2H4Ls2VsF6tCubnSVIouMk3TBur8lPFwmgl5Q"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Weekend Outing",
+                  "Duration": "46:00",
+                  "Description": "Xing Kelei made plans to go out with Mi Ka over the weekend, but little did he know that on the day of their outing, he received an urgent mission and had to leave abruptly. He asked Lu Feng to help take care of Mi Ka. Coincidentally, Mi Ka asked Qingxia to accompany her. Lu Feng was drawn to Qingxia's straightforward and capable demeanor.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fGtvKnKj5sbYZDC5eVvEmkp5cup.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Eyk1kLTa#8AobMmshKH1lCQaYrsftzPZlfFBNaBymZD6IhUrHKbo"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "New Recruits",
+                  "Duration": "46:00",
+                  "Description": "There were new recruits to fill Xiao Chao's position. One of them turned out to be the lady Xing Kelei met at the supermarket the other day, Zhuo Wenjing. Zhuo Wenjing performed exceptionally well in the shooting competition, causing everyone to take notice of her.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dE4KxciIaoEvu1RsGcFZ2JFkBx8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/pv0XTZhK#wFWAxqHHoW-brz3SLL8oIOn9SNgKmAkiIn71q4yOqwM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Earthquake",
+                  "Duration": "46:00",
+                  "Description": "A sudden earthquake struck Linan County. Xing Kelei led the Tiger Commando Team into Linan for rescue efforts. Meanwhile, at Renxin Hospital, Shao Yuhan also led Mi Ka, Xu Yanshan, Chen Tao, and others to the disaster area to join in the rescue work.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ybeMmNx8bizwIbHqpDMzs1Rfoiu.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/cycHwJxa#Ik7mXb0TgDzONXA2kAcR9OOFiST5cN29ANkV6I3BBBE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "The Rescue Work",
+                  "Duration": "46:00",
+                  "Description": "Mi Ka, Shao Yuhan, and the others arrived at the rescue headquarters in the earthquake zone. However, the number of casualties was overwhelming, and they couldn't cope. Meanwhile, Xing Kelei led the team into Mao Village. Zhuo Wenjing fell from a cliff and was injured, so Xing Kelei descended to the bottom of the cliff to stay with her and await help.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/mT11ba72AJudfHM77xpgldFPjKG.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/l3FhUDxC#A_Ka7PSIE2dCHKYRLX4Drnu5U8J882zewxYhQjFkgmM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Opposing Stances",
+                  "Duration": "46:00",
+                  "Description": "Due to heavy rain, the water level of the upstream reservoir in Xinguan Village surged rapidly. Xing Kelei received orders to evacuate all residents of Xinguan Village immediately. However, Shao Yuhan insisted on completing the surgery for a patient before leaving. Their opposing stances led to an argument.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/sQ6A9Gc9R1awWesQkcxkSShVYhh.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/IzEGkRoZ#hyzG3A3Vjmj6cNPWUDqsrQej1Xd522L8SPDvaXGrzdk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Trapped",
+                  "Duration": "46:00",
+                  "Description": "Xing Kelei and Mi Ka ventured into the mine for a rescue mission. Just as they were about to exit the mine, a sudden aftershock damaged the elevator. With the auxiliary shaft blocked off, both of them were trapped inside the mine.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tJoziekO6q1UyowivgBniiqsZq5.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/8j8TCKZJ#0GHw3U3zX01MEClQG0O7GHK9P8bV0ApL9kz3cFznZz8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 17,
+                  "Title": "Life-And-Death Situation",
+                  "Duration": "46:00",
+                  "Description": "Xing Kelei and Mi Ka exhausted their strength but couldn't get out of the mine. As the oxygen in the mine gradually depleted, they felt their lives were nearing an end. It was then that Xing Kelei confessed his feelings to Mi Ka.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/aig0q8sJN6AXW8t46JUGFWmDpfl.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/87cjGQyD#baosIgSvH4nSivSZWxQhbu47mP771AVpdiOaJdT6ba8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 18,
+                  "Title": "Sweet Moments After the Disaster",
+                  "Duration": "46:00",
+                  "Description": "After safely leaving the mine, Xing Kelei and Mi Ka had their first date. They then resumed their duties at work. Mi Ka embraced her remaining time in the Emergency Department.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/swskWF0k4Ka8uVpaBjZ5uFcdXWV.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/4ut3HZYS#wk7CLErp6rgtiuQao67fQTiJ9NECUzOPdnlhLVzBbyI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 19,
+                  "Title": "Professional Attitude",
+                  "Duration": "46:00",
+                  "Description": "Mi Ka had been performing well in Neurosurgery, so Shao Yuhan asked Xu Yanshan to delegate some patients to Mi Ka to handle. However, Xu Yanshan had assigned Mi Ka only basic tasks. Nonetheless, MiKa still took them seriously.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uqC9eqDrd6DTTyM60GmzYwaHzXV.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/wmFllRAL#w8y9eO3DjLzrozgZ91A5qWBE4aPCLKh5IEeB7Q4hSkA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 20,
+                  "Title": "Impartiality",
+                  "Duration": "46:00",
+                  "Description": "Actress Chen Feifei was admitted to the hospital due to lower back pain, and tests revealed a possible diagnosis of astrocytoma. Undaunted by the trouble, Mi Ka made great efforts to persuade Chen Feifei to undergo surgery. Meanwhile, Xing Kelei showcased exceptional response during the simulated hostage rescue training.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gp2mHFliGslbaqBuAUXyqG3k97r.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/liFEVKgJ#lD_7QzR8QcmLRKdes4GMPvLuuSiidskDdhDV-rY2s3g"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 21,
+                  "Title": "Getaway",
+                  "Duration": "46:00",
+                  "Description": "Xing Kelei invited Mi Ka to go to the resort for a getaway. Mi Ka was surprised to find out about the past romantic relationship between Shao Yuhan and Xing Keyao. The couple plotted to bring Xing Keyao and Shao Yuhan together by arranging for them to go to the resort at the same time.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yHcf00shlbirDUwxVGfTKoEheZb.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/li9VTCBS#IwKJAw4Yk93hXoCs8f1NyDTp4AMxM6OzANOhszl78RY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 22,
+                  "Title": "True Feelings",
+                  "Duration": "46:00",
+                  "Description": "The group had a barbecue at the resort. Mi Ka and Xing Kelei made every effort to matchmake Shao Yuhan and Xing Keyao. Qingxia and Shu Wenbo felt a bit awkward watching. After the barbecue, Mi Ka suggested playing Truth or Dare to help Shao Yuhan and Xing Keyao confront their true feelings.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/eNdUjsP4MPSHHNDvKKnvA7M4Hkj.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/F78RBC4C#71oCR7hf1IE2PuG6wAEz6OmtxLwKd8HmEws0tU1q1BU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 23,
+                  "Title": "Jealousy",
+                  "Duration": "46:00",
+                  "Description": "Upon hearing others talk about Shao Yuhan admiring Mi Ka, Xu Yanshan felt disheartened. Xing Kelei had blurred vision very frequently. He went for an examination and discovered a pituitary adenoma.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xHcIR7dqITbVTXZLMBHtH7wbg7H.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/R2tmgDaB#Re00EyL5yJhQxC8hOnlKwuQC5ZZk1lKQ2c-hewxdyDY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 24,
+                  "Title": "Emotional Distress",
+                  "Duration": "46:00",
+                  "Description": "The doctor suggested that Xing Kelei undergo a craniotomy to remove the tumor. However, there might be complications afterward, and Xing Kelei may no longer be fit for frontline work. Xing Kelei felt extremely disheartened.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tJyO56n7cgWrThMwZYH2QJWEzo3.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Vq8DXIiJ#5oloPbMuELpJpwzQJOdOQJhAEvU3f3SsRMKVk3EVPLI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 25,
+                  "Title": "Inner Conflict",
+                  "Duration": "46:00",
+                  "Description": "Xing Kelei felt that his calling was to serve in the frontline of the SWAT Team, and if he were to give up that role, he truly didn't know what to do. On the other hand, Xu Yanshan's mom was admitted to the hospital. During her stay, she learned of Xu Yanshan's resignation and criticized the latter for being worthless. This led to an argument between the mother and daughter.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oGzHgd7jgUpUe0BliPGYeU2yLEw.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/s39R3JLK#Wz6SYh2hOMZp1OECBxyb5gV9OVUol-HxbqH9WAa9Aag"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 26,
+                  "Title": "Initial Aspirations",
+                  "Duration": "46:00",
+                  "Description": "Xing Kelei confided his condition to Mi Ka. He thanked her for inadvertently saying things that lifted his spirits. Even if he couldn't continue frontline work in the future, his initial aspirations would remain unchanged.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pvbpFF67CgLFMDLkPwwbLNgQuAL.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/x6lxzQyY#uUZiMsYlT57o0AM8Nsmb6VYD-jIFMICxwPxzU5pBCg0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 27,
+                  "Title": "Protecting His Dreams",
+                  "Duration": "46:00",
+                  "Description": "Mi Ka actively sought better surgical options for Xing Kelei, and Shao Yuhan offered to perform minimally invasive surgery for him. Despite its difficulty, he was confident in his abilities. Xing Kelei thanked Mi Ka for protecting his dreams with her professionalism.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/biBdow6DSj4D9yiukYexRsaTZW1.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/sr9ERSxR#Nkyu5oTcn9NfJ5j5kpg0_B3sJ-EJXyWSR--hRiKn8Jw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 28,
+                  "Title": "Strive to the Fullest",
+                  "Duration": "46:00",
+                  "Description": "Under Mi Ka's care, Xing Kelei recovered rapidly. After working tirelessly for over 10 hours, Shao Yuhan faced a challenging surgery with a patient. Encouraged by Xing Keyao, both Shao Yuhan and Xing Keyao felt the care from each other.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/y3lveGgkNQ3uwEWyzI2LvTsWMop.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/c2lEzQLQ#g_QbKB0FqWmZA3ExTzOwhqdAJ6ljEPb6jnOEUY9RMR8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 29,
+                  "Title": "Don't Give up on Your Dreams",
+                  "Duration": "47:00",
+                  "Description": "Pianist Zhang Wei was hospitalized due to a car accident. She suffered functional damage to her right hand, which may hinder her ability to perform. Emotionally distressed, Zhang Wei attempted suicide, prompting Xing Kelei and Mi Ka to intervene.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nsZkf3trnTvvGK25a2of6KAzYSq.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ki12mSCR#e6uSmHcIVPCv3ffJYNRJz34ht_7cQPG39p7wVuRXsi4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 30,
+                  "Title": "Emotionally Attached",
+                  "Duration": "46:00",
+                  "Description": "Under Mi Ka's guidance, Xing Kelei made great progress in training. Xing Keyao and Shao Yuhan met at a class reunion. As they reminisced about the past, they both realized they hadn't let go of each other.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6oGdCPHcJsN9TpWOKwRa5PsTlm5.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/UnVFgD6C#OPRg_SbLlkibC5ZKElh-xQZtfd2TrWKXVVV8UPy_H7g"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 31,
+                  "Title": "Childhood Friend",
+                  "Duration": "46:00",
+                  "Description": "Xing Kelei suggested moving in with Mi Ka, and she agreed. Xing Kelei's childhood friend, Shen Jianing, came to him seeking financial assistance. Unbeknownst to Xing Kelei, Shen Jianing had harbored feelings for him since they were young and hoped to take their relationship to the next level.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ecoNPSqPjSBb2vIj7pXyQyvleU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/VrkBkA7A#8MawqixmSyRWtwjeyW0sRaUOgfdVBnRe6JzdEB5cdVs"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 32,
+                  "Title": "Gossip",
+                  "Duration": "45:00",
+                  "Description": "Xing Ke Lei explained his relationship with the Shen sisters to Mi Ka. The latter reassured him that she never doubted him. Xing Kelei bore all of Shen Jianing's medical expenses, and she was successfully admitted to the hospital. However, her overreliance on Xing Kelei caused gossip to spread throughout the hospital.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uqhgHUhOf7M6GGLssfciznAKUqG.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/U6k3QQQR#hyr6v18mQmScj87rxwVjkqxhHbl8g17n8yOO74yyPbI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 33,
+                  "Title": "Patience",
+                  "Duration": "47:00",
+                  "Description": "With Shen Jianing's surgery approaching, Shen Jianan's sudden disappearance left Shen Jianing in a complete state of despair. Meanwhile, Xing Kelei had to return to the team for closed-door training. Mi Ka took on the responsibility of caring for Shen Jianing without hesitation.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/e4mWwf00fAGgAGR8QcgaOkbatge.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/tyEXjYaL#dRQc2jOnwOKUHi-OUDTemnlPJdytv45WMXGkCeyNkyg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 34,
+                  "Title": "Peaceful Pace",
+                  "Duration": "45:00",
+                  "Description": "Shen Jianan showed up after Shen Jianing's surgery was over. Shen Jianing finally recovered. After seeing off the Shen sisters, Xing Kelei and Mi Ka's life resumed its peaceful pace.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6h5bNaROAh00g1pkjzbHkHVkXF4.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Zy1DxT6D#Ka_UCz7rr3ZB1zod-eM9ON5mbvWuLRY9uszWUGjAR2Q"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 35,
+                  "Title": "Isolation",
+                  "Duration": "45:00",
+                  "Description": "There was a suspected MERS patient in the Emergency Department at Renxin Hospital. The hospital decided to seal the department, and Mi Ka was trapped inside. Meanwhile, Xing Kelei suddenly received a mission, and Mi Ka couldn't get in touch with him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6rhlz8gBLqnMzJlHWTi3uzjlJlu.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/EnEz2Swa#sWJwwxpyOD7vKJS869ykI1-sZh6y6ZyG_Jd0vZPJ2Vk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 36,
+                  "Title": "Support and Tolerate",
+                  "Duration": "47:00",
+                  "Description": "Xing Kelei came to Renxin Hospital to apprehend Wu Keming. Zhuo Wenjing informed him that the Emergency Department was temporarily sealed due to a suspected case of MERS, and Mi Ka, who was experiencing fever, was isolated. Xing Kelei was worried and guilty at the same time.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/esEy36rPwl0MVbLyYXKrXCqnaCy.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/knshFKrA#JYpsMjLflYA_pdD_T6UkVp6rBLZIc7HsYQhDZSqxLFQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 37,
+                  "Title": "A Challenge",
+                  "Duration": "46:00",
+                  "Description": "Mi Ka passed the preliminary exam for Allen Medical Center. If she got selected, she would have to go abroad for further studies. However, Mi Ka was hesitant to pursue it because she didn't want to be separated from Xing Kelei.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/eO4WgLRvmDkCcU2roqKG2wLe1QC.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/RnEhwaiQ#lghK2aFf1NcujsSivRorDZmi6jvV7q564CS_Yez8PRk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 38,
+                  "Title": "Long-Distance Relationship",
+                  "Duration": "46:00",
+                  "Description": "After marriage, Shu Wenbo and Qingxia enjoy a happy life together. Mi Ka successfully passed the second round of interviews at Allen Medical Center and went abroad for further studies. For the following year and a half, Mi Ka and Xing Kelei had to maintain a long-distance relationship.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/y74FSlwzet6628D8kQEOSgxxpI8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/UyVAGaKR#4uGG-9XR7J1cdjWWr90TwY6QHewZIa4Zr1pqOQ-gpIQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 39,
+                  "Title": "Held Hostage",
+                  "Duration": "46:00",
+                  "Description": "Upon returning to the country, Mi Ka was unexpectedly held hostage by drug dealers while on a bus journey. Xing Kelei arrived at the scene and learned that Mi Ka was trapped inside the bus. He proposed disguising himself as a medical professional to board the bus along with several doctors.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/icGOYk93s5cmoS5GXV9O2Fir2lZ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/FjVU3SzJ#QxGJRwe7SsvE4Th-27T8JN41aGKuP-cipX1lSCbXdZI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 40,
+                  "Title": "On the Brink of Death",
+                  "Duration": "46:00",
+                  "Description": "Amidst a shootout, the head of drug dealers seized Mi Ka and Xing Kelei, forcing them back onto the bus. Xing Kelei engaged in a fierce fight with the former but found himself at a disadvantage. He was stabbed while protecting Mi Ka.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/TEtzokpAVgsORQ5BSeMMcp9Vcp.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/M2FQVL4I#sPYXphlOzsZtjKZehmq7TCgBuAGkvegrgXX-agc2epk"
                     }
                   ]
                 }
@@ -1214,120 +1632,560 @@
           ]
         },
         {
-          "Title": "If Wishes Could Kill",
-          "SubCategory": "Mystery",
+          "Title": "The Boys",
+          "SubCategory": "Sci-Fi & Fantasy",
           "Country": "",
-          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+          "Poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
           "Rating": 8,
-          "Year": 2026,
+          "Year": 2019,
           "Seasons": [
             {
               "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
               "Episodes": [
                 {
                   "Episode": 1,
-                  "Title": "Episode 1",
-                  "Duration": "43:00",
-                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Title": "The Name of the Game",
+                  "Duration": "1:02",
+                  "Description": "When a Supe kills the love of his life, A/V salesman Hughie Campbell teams up with Billy Butcher, a vigilante hell-bent on punishing corrupt Supes — and Hughie’s life will never be the same again.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/goKrbjePcjv6eJ7covjw0MPT62V.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                      "Link": "https://mega.nz/embed/P15UmAKC#ok95TRuoGU04-rKtY1WJNNHWxALIxeOJjSny2S7_C0M"
                     }
                   ]
                 },
                 {
                   "Episode": 2,
-                  "Title": "Episode 2",
-                  "Duration": "37:00",
-                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Title": "Cherry",
+                  "Duration": "59:00",
+                  "Description": "The Boys get themselves a Superhero, Starlight gets payback, Homelander gets naughty, and a Senator gets naughtier.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nNfmRSQp42V6AS5bO1S7LMv2QOd.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                      "Link": "https://mega.nz/embed/GwgjQRxY#6FOPbjuSmpDcC6aIAKgjU1PSVaasCD5G741y0H9cxpM"
                     }
                   ]
                 },
                 {
                   "Episode": 3,
-                  "Title": "Episode 3",
-                  "Duration": "48:00",
-                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Title": "Get Some",
+                  "Duration": "55:00",
+                  "Description": "It’s the race of the century. A-Train versus Shockwave, vying for the title of World’s Fastest Man. Meanwhile, the Boys are reunited and it feels so good.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                      "Link": "https://mega.nz/embed/axBUkZjI#JeDmq93MszVcfYbaeCyhoxGf3E2mgBHuVFTOydEkdNk"
                     }
                   ]
                 },
                 {
                   "Episode": 4,
-                  "Title": "Episode 4",
-                  "Duration": "49:00",
-                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Title": "The Female of the Species",
+                  "Duration": "56:00",
+                  "Description": "On a very special episode of The Boys… an hour of guts, gutterballs, airplane hijackings, madness, ghosts, and one very intriguing Female. Oh, and lots of heart — both in the sentimental sense, and in the gory literal sense.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1JvhnZyeQkIUrhr0OUL6S3sN5Kt.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                      "Link": "https://mega.nz/embed/qtI2UYiY#FPoRDBq3BDPLmMGbIX1ZkqtRPsDIA4CRHTy-Ti2EzYI"
                     }
                   ]
                 },
                 {
                   "Episode": 5,
-                  "Title": "Episode 5",
-                  "Duration": "45:00",
-                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Title": "Good for the Soul",
+                  "Duration": "1:00",
+                  "Description": "The Boys head to the “Believe” Expo to follow a promising lead in their ongoing war against the Supes. There might — MIGHT — be a homicidal infant, but you’ll have to see for yourself.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8eimUVjdXKtVb4OMzQn3aj3I0XN.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                      "Link": "https://mega.nz/embed/7lokxCIK#3MYg_k5VyfuJ1h197R_Pw-jNQmlp7SU3na-kRwIMvzs"
                     }
                   ]
                 },
                 {
                   "Episode": 6,
-                  "Title": "Episode 6",
-                  "Duration": "52:00",
-                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Title": "The Innocents",
+                  "Duration": "1:00",
+                  "Description": "SUPER IN AMERICA (2019). Vought Studios. Genre: Reality. Starring: Homelander, Queen Maeve, Black Noir, The Deep, A-Train, Starlight, Tara Reid, Billy Zane.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/vWZAUXUszcg4EdmptxCk0ycKOMI.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                      "Link": "https://mega.nz/embed/KwoCRa7a#KzvSZyrV-UqfZYbiFREL0O1gH2-JXewBAFUNja2cdMM"
                     }
                   ]
                 },
                 {
                   "Episode": 7,
-                  "Title": "Episode 7",
-                  "Duration": "36:00",
-                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Title": "The Self-Preservation Society",
+                  "Duration": "56:00",
+                  "Description": "Never trust a washed-up Supe — the Boys learn this lesson the hard way. Meanwhile, Homelander digs into his past, Starlight discovers that love hurts, and if you’re ever in Sandusky, Ohio and a girl asks if she can touch your gills, say NO.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                      "Link": "https://mega.nz/embed/3hpjEA7a#NWkleo_M2B594EpNXqAoVysxeTPrdMvR57M33XfwBRA"
                     }
                   ]
                 },
                 {
                   "Episode": 8,
-                  "Title": "Episode 8",
-                  "Duration": "45:00",
-                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Title": "You Found Me",
+                  "Duration": "1:06",
+                  "Description": "Season Finale Time! Questions answered! Secrets revealed! Conflicts… conflicted! Characters exploded! And so much more!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gGNAbWmON1zOa2mZcBdu9gYrDCg.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                      "Link": "https://mega.nz/embed/y8RQkJxT#UxlxdGFJVK9Idy4yMX5ZUCOCB692qs1p54NxHY5_zzo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 2,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "The Big Ride",
+                  "Duration": "1:03",
+                  "Description": "Season 2! New and improved! Now with 50% more explosive decapitations, terrorists, S&M hookers, cults, and a new pine fresh scent! But wait, there’s more! 2X MORE blood, guts and gore than the other leading brands! This exclusive offer is available only on Amazon Prime Video! Don’t delay! Order now!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3N5CZhL6jXbuSA3qS7G46PiAZND.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/n1hEkLCK#Eyvv2IERuYDsoatBi5Z80GRGO9ribQvFe7pxzKQDbl8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Proper Preparation and Planning",
+                  "Duration": "59:00",
+                  "Description": "The Boys get themselves a Super Terrorist, Starlight gets evidence against Vought, The Deep gets in touch with his feelings, and Homelander gets himself a family (sort of).  All that, and a hard-hitting exposé on why Super Suits don’t have pockets.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/m6LSiAimRiST07sC0vsUDITojT3.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/jh4DnIDY#o295HTwh7hl2uXCTETAWtT7iTPaAhGISPnxaIa4oqZ8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Over the Hill with the Swords of a Thousand Men",
+                  "Duration": "1:01",
+                  "Description": "Attention: If you or a loved one were exposed to Compound V, you may be entitled to financial compensation. Vought has given the drug to multiple victims, without their knowledge or consent. If you believe that you or a loved one were administered Compound V, call the law firm of Bremmer & Bremmer at 1-888-177-2774 for a free legal consultation. Know your rights!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/theLFUijxwD0uzdiNiJVzOpCVSG.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/n8hByZDY#78GqIp4sYr05aDsRJ_lWk2V_YhxUdaS7LBgNH8OlPPg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Nothing Like It in the World",
+                  "Duration": "1:10",
+                  "Description": "Road trip! The Boys head to North Carolina to follow a lead on a mysterious Supe named Liberty. And did you know a person’s choice of candy bars might tell you if they’re a serial killer? Watch and learn the warning signs! This episode could save your life!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6cAdAEomp2I0JwSYNcobAB1NIdm.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/j5BjATRT#oYviIcwzUUind2yKFqk1fBrjsdBDg0v-BVaRogRbrn0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "We Gotta Go Now",
+                  "Duration": "1:03",
+                  "Description": "VoughtStudios is pleased to announce that filming has begun on #DawnOfTheSeven. 12 years of VCU movies have led to this. If you like movies about One Hero, you’ll love a movie about Seven Heroes. Introducing newest member @RealStormfront! See how the legend began! In theaters Summer 2021!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pn5adU2bTuMvBUZoEx2qDmSS8dv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/j8QhVDhL#lunSjesRa0Ydic4gkY1vun9sKq39YfaA1rgmvhCBCEw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "The Bloody Doors Off",
+                  "Duration": "1:06",
+                  "Description": "The Sage Grove Center® is dedicated to caring for those struggling with mental illness. Our compassionate doctors and counselors provide personalized services to help patients live their best lives. If you or a loved one need help, call the Sage Grove Center today at 1-800-122-8585. A proud subsidiary of Global Wellness Services®, which is a proud subsidiary of Vought International®",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ApfUQLbraTvHT1ZQ5qSafKkJC9Z.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/O8R23YzY#fy5n2G-bQywFo0dn9g70wv-Su7p_uxJqRmcSCm-p8eg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Butcher, Baker, Candlestick Maker",
+                  "Duration": "56:00",
+                  "Description": "Congresswoman Victoria Neuman’s sham Congressional Hearing against Vought takes place in 3 DAYS. Are we going to let her criminalize Superheroes when we need them most? We have to stand up against such blatant partisan politics. Please join fellow Patriotic Americans and send $20 to VOUGHTPROMISE.COM to tell Neuman and her Kangaroo Court Cronies that they won’t win, “Not On Our Watch”™.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/z2npefs7R96VwfgvhGWoPYpdLFj.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/K5pHWBjQ#FlNwBezz6sDZQzW402tlB6SKHS_lRZKQWsG8YKga640"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "What I Know",
+                  "Duration": "1:10",
+                  "Description": "***SUPER VILLAIN ALERT*** YOU ARE RECEIVING THIS NOTIFICATION FROM THE DEPARTMENT OF HOMELAND SECURITY. A SUPER VILLAIN ALERT HAS BEEN ISSUED FOR YOUR AREA. PLEASE BE VIGILANT AND REPORT ANY SUSPICIOUS PERSONS OR ACTIVITY. IF YOU BELIEVE YOU HAVE SEEN A SUPER VILLAIN, DO NOT APPROACH OR ATTEMPT TO APPREHEND THEM. CONTACT LAW ENFORCEMENT IMMEDIATELY",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tnFmYgTVkUnYGxzzN6b5YW0BxS6.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/O8xAXJBb#Ty2y9HgTGdthDFMHCrJA70sbSzeqbYbmuoC914sU56I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 3,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Payback",
+                  "Duration": "1:04",
+                  "Description": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! Screening will be followed by a Q&A with director Adam Bourke and an after-party with Supe DJ Malchemical on the turntables! Join us for the greatest true origin story ever told about America’s number one Superhero team and see how the legend began!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yeAHbQ11ExTFWg34gnP4dGNwfk5.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/vxhHDRIT#VKX-RPeNThxz2qK9e6IoiZHk-jZWrpq3HwzqH7tgI08"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "The Only Man in the Sky",
+                  "Duration": "1:02",
+                  "Description": "Homelander. America’s greatest Superhero. Defending our shores from sea to shining sea. Today, America honors him on his birthday. And the Vought Shopping Network is celebrating by offering the exclusive Homelander Limited Birthday Edition Gold Coin for only $99.95 (plus tax and shipping) while supplies last. Vought Gold Commemorative Coins: An investment that lasts a lifetime.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zszqaeKmSNB24q2tZigx29GH7zs.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/GsY0BCqK#M6GAbYMp_AHqwx08vOb1LKlGOnOC-NrXaaqiBnQoltU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Barbary Coast",
+                  "Duration": "1:03",
+                  "Description": "Tonight at 9/8C on Vought Plus, it’s the season finale of #AmericanHero! Three contestants remain, but only TWO will join #TheSeven! Will Starlight choose her old flame Supersonic? Or will someone else be moving into the Seven Tower? Tune in tonight for the SHOCKING final episode, brought to you by Lean Lady Frozen Dinners by Vought: Where slim tastes super!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ro9cmO9k5g6ZnPYSTu31juUhpRF.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/foBxSIYI#Tc6_AcduYrkhcmIw_ZkmPjCb_wb7UPpd-bVaezTf3tc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Glorious Five Year Plan",
+                  "Duration": "1:02",
+                  "Description": "Tonight, streaming live exclusively for Supeporn.com Super-Subscribers, it’s the #ClashOfTheDildos! Which of The Seven-inspired dildos will crush the competition in this tip-to-tip challenge? Will it be the reigning champion Homelander Star-Spangled Banger or Starlight’s electrified Star-Brator? Join us as we put these pleasure-pounding penetrators through their paces! Only on Supeporn.com!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/adNh9TIlLKh0uUug3KOiuhFINAh.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/bpghGYyb#ly8RiAtM7F0FOQJO-AFLvZK6XXCE-rJciLYH5nYLkJ4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "The Last Time to Look on This World of Lies",
+                  "Duration": "1:03",
+                  "Description": "Did you know chimpanzees are an endangered species largely because of human activity? But you can help by supporting construction costs for Crimson Countess’s Chimp Country! This beautiful refuge for chimpanzees will feature a banana plantation, four daily stunt shows, and a petting zoo! And when you donate, you’ll be entered to win a private video chat with Crimson Countess! Donate today!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/m5hFjth3uqHRdDQmFr4xDhMPyzc.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/fpRWAABA#tZI4YOtNZMJeKyMLWiDUyYzA-2cXIlmCDptu4mnJBH8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Herogasm",
+                  "Duration": "1:03",
+                  "Description": "You’re invited to the 70th Annual Herogasm! You must present this invitation in order to be admitted! Same rules as always: no cameras, no non-Supe guests unless they sign an NDA and they’re DTF, and no telling any news media! It’s BYOD, but food, alcohol and lube will be provided! And please remember to RSVP so we can get an accurate headcount for the caterer!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xmGw9EVZ6jSeWz0K9vyfim3KvhZ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/T4Rw2KzQ#KxjvFoZHx4WAOzX8nI1F9S2qbKygNAXYgTGX0PQ83g8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Here Comes a Candle to Light You to Bed",
+                  "Duration": "1:07",
+                  "Description": "Did someone say birthday? Come celebrate at Buster Beaver’s with our new Deluxe VIP Birthday Package, with seating for up to 30 guests, ten large two-topping pizzas, and ten pitchers of your choice of soda! And of course, a special birthday play starring Buster Beaver and his cast of furry forest friends! All for only $199.99 + tax! Buster Beaver’s Pizza! Where Kids Make the Rules®!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/u8PIO0omODZrNDqe5QXozBgjmAJ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/f4QUhITY#c924zfd1CTZKFpFuBlARhM8SRfm-dX4Az6Jl9sL1FqY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "The Instant White-Hot Wild",
+                  "Duration": "1:04",
+                  "Description": "Calling all patriots! Let’s show Homelander we’ve got his back and we’re not going to let Starlight and her Starlight House of Horrors get away with trafficking children and drinking their adrenaline! It’s time for real Americans to fight back! Join the Hometeamers and Stormchasers tomorrow at Vought Square! Stand back and stand by!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9P4mzgcMj0XrmXldeuqmTlnKWbI.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/jgohHRIT#Bal7WExAAFgTva628Sc0TrbunJy7xqzb4i9x_nPK510"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 4,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Department of Dirty Tricks",
+                  "Duration": "1:06",
+                  "Description": "CALLING ALL PATRIOTS. BE AT THE COURTHOUSE TOMORROW FOR HOMELANDER'S #VERDICT AND BE READY. IF THE CORRUPT \"JUSTICE\" SYSTEM WANTS TO F**K AROUND, THEY'RE GONNA FIND OUT. #HOMEFREE",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1LngDWtMVzS1Mw3os1KCDVnI7G9.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/CghHxTiR#90PkpXa05W9bPHw09DWJUn-cmGDZ774FhLKMGm_eVdg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Life Among the Septics",
+                  "Duration": "1:02",
+                  "Description": "Did you know globalists put chemicals in food to make us gay, Dakota Bob is a demon from hell, and the Moon isn't real? Find out what they don't want you to know at #TruthCon!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3VwsB3ZXPpFnGw3omnGpqPJMkLe.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/a9AFRYDZ#GG84ipHnUjwCRb29E9cGze3TU7PtbkHbt9Ugoummev4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "We'll Keep the Red Flag Flying Here",
+                  "Duration": "1:01",
+                  "Description": "This December at VoughtCoin Arena, experience the story of Christmas the way it was meant to be told... on ice! Vought Presents Vought on Ice! Tickets available now at VoughtOnIce.com!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/k3ixtDia595oabaPZQBOmsrwiAb.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ftA3xCpD#BoYgudzGnWLOmMOLze52wWviWKp517V4wcYb7pO7hMc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Wisdom of the Ages",
+                  "Duration": "1:07",
+                  "Description": "Vought News Network is proud to announce its new series #Truthbomb! Join host Firecracker and her celebrity guests for the live 6-hour premiere as they expose Starlight's Adrenochrome Parties!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/n4xTP8x24KeKNhCOSuBAHrUPSNw.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/C8Al3KKY#px6IKZAeFhrN9WqPXTU9nTI_GGNTnPOLP3Pt42A-mN0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Beware the Jabberwock, My Son",
+                  "Duration": "1:09",
+                  "Description": "Attention #superfans! This year at #V52 see A-Train live and in person, as he presents an exclusive sneak peek at his powerful, true-life story: TRAINING A-TRAIN! V52: Powered by fans, for fans!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fHeFRfcd21yOzCR5JBclaN8LuQs.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/3541iZQL#QBlZKcWxI8Khq6CRg5NQS90SGC2G2gjrCyKX9lQeHQY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Dirty Business",
+                  "Duration": "1:06",
+                  "Description": "Vernon Correctional Services provides compassionate rehabilitation to those in our care to prepare them for successful community reentry. At Vernon, it's not about custody. It's about family.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cFrUAYssPVPCsgHVFzIrxrkOELW.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/bpZGCKhR#7n-Uv0q_ZVRUE46Cdfi19iMYqta7Gxritl_FQC2VoTM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "The Insider",
+                  "Duration": "1:05",
+                  "Description": "Hey kids! Did you know your neighbor, uncle, or even Mom and Dad might be trying to destroy America? Find out how to stop them on the Avenue V Christmas Special! If you see something, say something!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8bUDuBfDouc2A8Dm0495ad21v2w.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/C5QUhDiZ#LiADmxlEacdsLHBL9Fe8u_ox2O5iJkzcbKLSh4NWULU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Season Four Finale",
+                  "Duration": "1:09",
+                  "Description": "Calling all patriots! We will not allow this stolen election to be certified tomorrow! We must stop Bob Singer's woke anti-Supe agenda! PREPARE FOR WAR! #WhereWeGoOneWeGoVought",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kv7DTgyuKz5gsSwfoH92Tnam0lA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/jphQWAYJ#qAjYERZxlaBcsB9kLSd6bRzTs9d8JSxj6tNafy2geeo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 5,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Fifteen Inches of Sheer Dynamite",
+                  "Duration": "1:04",
+                  "Description": "ATTENTION FREEDOM CAMPERS: ESCAPE ATTEMPTS WILL BE MET WITH DEADLY FORCE. Have a super day!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/brDJrC1Bm7oD3Pr7TL7Do0sL5yB.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/28YFgCRS#Kr0w82vKVautS_PiGjjJpIW0hy-JcPELYIEG4iPJGKU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Teenage Kix",
+                  "Duration": "1:03",
+                  "Description": "Tonight at 9/8C a @VoughtNews special report: Is your loved one a secret Starlighter terrorist?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6SGsPDrZlNoMz1QLMEvkJHcksGg.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/6spDXRAS#Jtr5GUNsY2LcxgN2L9NBhsv4gg7esFIaMiKC_LPHe9I"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Every One of You Sons of Bitches",
+                  "Duration": "1:06",
+                  "Description": "Storm her senses with V-Bro Mango Thunder Body Spray by Vought! She'll never know what hit her!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5SaDyFtoR7aWuS340Cq0W3K5uBx.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/e0RiXCAb#x_1uEfGGmsa_8f51mZ6TrPouzEVq5g-DXtrPzth1edg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "King of Hell",
+                  "Duration": "1:06",
+                  "Description": "IN THIS HOUSE, WE BELIEVE IN HOMELANDER!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/L0Qj3TyL#vvyT-KA-W_X1vFXOGn9SNtNLuN90nmLfdInPIxV8SuM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "One-Shots",
+                  "Duration": "1:09",
+                  "Description": "Tonight at 9/8C a @VoughtNews special report: Treason in Tinseltown! Find out which of your favorite Hollywood stars are rumored to be Starlighters!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/u5RSDYiZ#RHjcLLV2ZHOgbq-xU7yOdLWTMz05MmlvtX-uZvwPskg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Though the Heavens Fall",
+                  "Duration": "1:05",
+                  "Description": "Available now, EXCLUSIVELY at @VMCtheaters, get the new #DeepPopcornBucket for only $32.99!",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Hph0UKCb#6szpbz-IkBj3epaM7gBJpvLPNpgj7UEfZpypfe8oOVg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "The Frenchman, the Female, and the Man Called Mother's Milk",
+                  "Duration": "1:11",
+                  "Description": "WARNING: EXERCISE CAUTION WHEN ENTERING SOUNDSTAGE. PERFORMERS MAY BE USING SUPERPOWERS.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/H4QiWJbC#xmwiPsNiH61d9jLiuJZzPCBysOupJagunEP28LbEAHU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Blood and Bone",
+                  "Duration": "1:07",
+                  "Description": "Easter Sunday. 2PM. Live on @VoughtNews. Bear witness as Homelander reboots the universe.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/K0wBWJxC#dE68qk-fQq8PgIja6tegswS7B3ZAPN99_GlmTuBjuzE"
                     }
                   ]
                 }
