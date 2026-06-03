@@ -70,6 +70,108 @@
           ]
         },
         {
+          "Title": "Allegiant",
+          "SubCategory": "Adventure",
+          "Country": "",
+          "Description": "Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.",
+          "Poster": "https://image.tmdb.org/t/p/w500/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+          "Rating": 6,
+          "Duration": "2:00",
+          "Year": 2016,
+          "Servers": [
+            {
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/ahBmjKrD#hC5atXG3Y384pueRMmuo12appOQU37l1DF-FUtxQesc"
+            }
+          ]
+        },
+        {
+          "Title": "20th Century Girl",
+          "SubCategory": "Romance",
+          "Country": "",
+          "Description": "In 1999, a teen girl keeps close tabs on a boy in school on behalf of her deeply smitten best friend – then she gets swept up in a love story of her own.",
+          "Poster": "https://image.tmdb.org/t/p/w500/od22ftNnyag0TTxcnJhlsu3aLoU.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/od22ftNnyag0TTxcnJhlsu3aLoU.jpg",
+          "Rating": 8,
+          "Duration": "1:59",
+          "Year": 2022,
+          "Servers": [
+            {
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/hVMEXKAI#kX5RIxpPEviaiCJiJwE6I9D83cpWW3_Kb5DjjoP9YRQ"
+            }
+          ]
+        },
+        {
+          "Title": "The Executioner",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "An executioner questions his profession in response to an absurd accusation against a suspect.",
+          "Poster": "https://image.tmdb.org/t/p/w500/othQ01Gez3o4A08k6vZphtj8ucl.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/othQ01Gez3o4A08k6vZphtj8ucl.jpg",
+          "Rating": null,
+          "Duration": "16:00",
+          "Year": 2020,
+          "Servers": [
+            {
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/RIs2FRbT#CY4dGNTaBbKfqZLR9QuJpc0QvYJiJgimFVyCpHk_a0M"
+            }
+          ]
+        },
+        {
+          "Title": "War Machine",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+          "Poster": "https://image.tmdb.org/t/p/w500/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
+          "Rating": 7,
+          "Duration": "1:50",
+          "Year": 2026,
+          "Servers": [
+            {
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/BAt0RYAQ#ZWMXJwb2lwpa2n3FGMDaCZ3Mu3w1ytLn4j-XxrSY0Pw"
+            }
+          ]
+        },
+        {
+          "Title": "We Can Be Heroes",
+          "SubCategory": "Adventure",
+          "Country": "",
+          "Description": "Ben never knew his father; he was killed in 9/11 when Ben was just a baby. Eleven years later, Ben goes to spend the summer with his grandparents, hanging out with Priti, the girl next door, and his wayward cousin, Jed. Priti is a livewire and a Muslim who gradually begins to suspect her older brother is a terrorist. The trio set out to investigate and uncover more than they expected in this family film.",
+          "Poster": "https://image.tmdb.org/t/p/w500/bO7lDTWjboDpanEFxAJXwuThTqK.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bO7lDTWjboDpanEFxAJXwuThTqK.jpg",
+          "Rating": null,
+          "Duration": "1:37",
+          "Year": 2017,
+          "Servers": [
+            {
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/pBU1ESgK#uwDHkxuwiq5bkOvM0TCnpz0isbbVzeIU6FAi7LDl8FE"
+            }
+          ]
+        },
+        {
+          "Title": "Men in Black: International",
+          "SubCategory": "Comedy",
+          "Country": "",
+          "Description": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
+          "Poster": "https://image.tmdb.org/t/p/w500/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+          "Rating": 6,
+          "Duration": "1:55",
+          "Year": 2019,
+          "Servers": [
+            {
+              "Server": "Mega.nz",
+              "Link": "https://mega.nz/embed/s3VUHDoD#uUDhosqTv9hHCbygB9_1FqC_3VA045sCtoT3NyrTNDY"
+            }
+          ]
+        },
+        {
           "Title": "#Alive",
           "SubCategory": "Action",
           "Country": "",
@@ -853,6 +955,1142 @@
                     {
                       "Server": "Mega.nz",
                       "Link": "https://mega.nz/embed/amwAiKzT#pWLKlvBHvoQ6er5qHP3hdccdPRpsgqw63GQxuLlUNto"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "If Wishes Could Kill",
+          "SubCategory": "Mystery",
+          "Country": "",
+          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Rating": 8,
+          "Year": 2026,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "43:00",
+                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "37:00",
+                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "48:00",
+                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "49:00",
+                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "45:00",
+                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "52:00",
+                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "36:00",
+                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "45:00",
+                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "If Wishes Could Kill",
+          "SubCategory": "Mystery",
+          "Country": "",
+          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Rating": 8,
+          "Year": 2026,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "43:00",
+                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "37:00",
+                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "48:00",
+                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "49:00",
+                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "45:00",
+                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "52:00",
+                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "36:00",
+                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "45:00",
+                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "If Wishes Could Kill",
+          "SubCategory": "Mystery",
+          "Country": "",
+          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
+          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Rating": 8,
+          "Year": 2026,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "43:00",
+                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "37:00",
+                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "48:00",
+                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "49:00",
+                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "45:00",
+                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "52:00",
+                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "36:00",
+                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "45:00",
+                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "My Boss",
+          "SubCategory": "Comedy",
+          "Country": "",
+          "Description": "Cheng Yao, aspiring to be a lawyer, joins a top law firm and moves into an apartment near work—only to discover her housemate is her new boss, Qian Heng. Initially harsh and suspicious, Qian Heng puts her through rigorous training, believing she got the job through connections. As Cheng Yao proves her talent and determination, she changes his impression, and a reluctant admiration slowly turns into romance.",
+          "Poster": "https://image.tmdb.org/t/p/w500/uqHgWQZ0WAAsJZxzlOctvp5rH2O.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uqHgWQZ0WAAsJZxzlOctvp5rH2O.jpg",
+          "Rating": 7,
+          "Year": 2024,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/uqHgWQZ0WAAsJZxzlOctvp5rH2O.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "I Didn't Expect the Idol Drama Plot Would Actually Happen to Me",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/hYZpObCCyoMRxPaEkYou0n2ZBfT.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/hjBRTLaL#TMJ8nT8j1Kt0Nie70FBWSz6Zbsh1Dg8kWagXzR4B7Rc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "I'll Give You a Chance. Join the Case",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xF4p6fVgdqhrHmRt3gp3ygXtgEO.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/4jQC1QgK#QQZulVAJ_W9VlO8tKxF7cLdtlLAJwXHcojEXfjhzxxQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Is it Because of Cheng Yao that I Fell Asleep?",
+                  "Duration": "47:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oSiSUxV6AkaD9SwDQunw6skzlKa.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ovwTiSBY#cuSZFgmjMxTkewd8A9jFlOV9M2a85sDOD9CXdzYLX7Y"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qzuifqEt8my7GK1Cgds45AlDlEY.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/kyYDABhB#PincISmc2eKrukOhJOwCcbkeIG51rk_wSIOi-Zvx77s"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nI0BreAFdgkgSjLDpXLUTleSe6J.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/JngyDSDI#ctkRW8aaSCV8DIgjkgztIYJUhno8mEHW5qmyX0EnfUY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3i5ltMLXpj9QyiOLrSRT6EJ3FOX.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/BnRXjQZQ#tT3p9984nLuvcj-k5LaINOiNCrkWf05YeF3JPRVYOJQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/sr49AUQ54pWRFCO31ol9TiYjEaL.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/R6RC0TgL#1eO8ai1UGI8Gm-xmur2KV7XFmlSJM2dU2sRrHmpUT3k"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yWaBqGSO4vKLsdzP2sYAV1xjAED.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/l25CECRJ#Dxhr4MhwUEeZOdJN4cxbcnj5-TAj5WzWBOIPISn4c_Q"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/j9hTygzPiF6e5S3ANpMh4ePezBb.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/puokyJgD#2EhYKfsFKtfRdiPGNSOUYQMWhRuDtXj_FC7nqQ4Dld4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/40aKdJ4Jhp3ztJDmBocNqI5fCNs.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/BnxUjQgS#1lDBFlN6USa7zFIK29ElBUmEyngYpabBSztPtA21X6M"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Episode 11",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/vKUSpKGtW663rME4MorRYUKxrln.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xFsQQRSb#1t0WejgPROLWRlgnkIY3dPweHu_IXPlFlcEnsr8LEgA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Episode 12",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rbsouXGRMMKBI6FIICfTt0i0Hkl.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/FQVkRBob#M7SyxgwOQUxdw6bnzfyjVUBXrCT65T_tJKrqKFwd-S4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Episode 13",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4DfilJNPY69sEX17tV1sKmKKCFj.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/FAtFAahA#DC66D7IYS5Qeh9A661-YVzMeqBZ1yAhw_pe5xjzUG7o"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "Episode 14",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gaRAZie7rgOwJpYvMdKpoxUqJyS.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/8J9CSIQY#nyk1sVTk8X9vNjfCnFRJGn0J0RZ9fJVthhAiReipIM4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Episode 15",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/hTolD7Mdp5mB86ioKQsArP6wpq9.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Fd1kGJQJ#v4cOVW-QMKHpkkFyu7idbDBFPoSD_iDiBb3A_hhVpKE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Episode 16",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yBmFFV8rbNK9buCJaDpdxzUS3Hr.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/BBFgQDSY#RRjy6PlDTk0-In7hgvXXZad9YPO1hHbSL030gCpHtRQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 17,
+                  "Title": "Episode 17",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AdE3mdockIb3Jwepk0RLbsBTAkD.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Bc9AVaBK#CYon15HjyfyUcJhbvkgzhDcxITGJgcjK-Zcnoap-TIw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 18,
+                  "Title": "Episode 18",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oYwlfEDVcWQgSUWi2tw3tKt0jEF.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ZA1UVABZ#aqdFloZFvtRRwIO2RHu7LIFGGzLw4SG8tqS2Xm8oakU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 19,
+                  "Title": "Episode 19",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wqjdS9HOYgGPBthdGqmgteGT9dV.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/hVtRAaqZ#gAp-sKyfVW4X280806fViIKtUrqX5K3CH1zMAotMR54"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 20,
+                  "Title": "Episode 20",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2VHEATEiapA8S31JCJr4ohtmxKm.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/sYMUkAzK#KYKdF9JDQxIryfvyjmP4U3spwP3ddRmZCB51OK-qmzc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 21,
+                  "Title": "Episode 21",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2WrS8UAR22AMptelX148qumQGR8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/IRc3BKYR#tYSZZS3D090n0HmiEQqzI5u2g8rmCH81t7uwofpHjfE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 22,
+                  "Title": "Episode 22",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xUNIHPy2FAzPSUV4pRcCPrdNJUt.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/4E9RVALI#OyqRBzWSJbFCbmVMTfKySGpVxhvOucUEb5k5j_hPVAk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 23,
+                  "Title": "Episode 23",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/eaK7gzLhLuMZV0plM13BUZ3IJ4h.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/oENzWRiJ#8F7BRo-974GL1bnrl0qHnCJ6ytNDcg_VaQfRI0AHeWc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 24,
+                  "Title": "Episode 24",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fLAJ2ubEQv4o13FswR2M1PgRcKD.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/YRMzGbwC#UDsZ-seeHyb_GjhBVqhtl7AhuZ4q7YQsTFR6LouTQ3w"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 25,
+                  "Title": "Episode 25",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/lPMWZbQHko6O0j0RaT8JyWERpRo.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/pA9hiKyJ#i3tzI1xy23rVprPC-H88seU-w4jkIo6jIyQcMo4YHfo"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 26,
+                  "Title": "Episode 26",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1oDTPXlrAabIydLwH5lRVpsVsG6.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/NJERCSqL#Io83OVl7QmhtJD5KudjkIR4m23ZF3ZKjygVEkOfQ-ms"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 27,
+                  "Title": "Episode 27",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oUsBozuhrhYH6SaPLL2f8EeeitK.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/Qcs2zCZQ#ZXbU5k99_2zbh6IZQ3ki7wKVCGSnVQm9-o1LYlXSbuU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 28,
+                  "Title": "Episode 28",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qfqO9q9fotJsbrKte07ccDl5B5l.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/UE00FKTK#gIbE3yAKT7iLNoCj4NRu58SYL-oXWo20le4HRMMnsvw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 29,
+                  "Title": "Episode 29",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ztlUJqR2UsevYBmiGQueRljxroQ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/lEdkgJjA#hT0wp-p5W-3IQ7orErDrDUYlsNq1OKhbOuIsiXzJ6sU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 30,
+                  "Title": "Episode 30",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/c1cOM4RliTdskJc02l4NUsbieta.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ABMGSaQK#C5xeAq-FjKVW244pxQxKWA0Zbixm036ytGROMeFMtiM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 31,
+                  "Title": "Episode 31",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/l13XrAxOTI63d5fKGtUxkS2Ao0N.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/JVFyCJgR#OsS2u8BEzLUHpKZWGpLxauRvfK_eji8SW2Kt8GcNKTs"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 32,
+                  "Title": "Episode 32",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/pIFy8HkFubQdXkL3C0h9qkYfMFU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/8MkVVRqY#I6RjVEFrek9a9PXAsN8dcemgnMGrbhO2JKOqyAVr57s"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 33,
+                  "Title": "Episode 33",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/r1v1D03qG243U3ob880aN0evIhK.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/dVE0lAxY#gVLNIzlCljbw1D8b4Yf_8fu4-Kmnbk7RyGIwRVG4tFE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 34,
+                  "Title": "Episode 34",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cUNhngKPju7lfWW6Av92vMS7rS3.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/8c8k1SSL#b_wD4yceiRV4g-fBLnXZPRnnAcLBOFp1znW2H3Cp9cg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 35,
+                  "Title": "Episode 35",
+                  "Duration": "46:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/7yWoWH35uEKe5YvPicsWlGsrmoE.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/gBc0SAIA#MPRPV23Y0Q-SV8qKfALBzjjSfPNOZrC6-cz8i1aP8TA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 36,
+                  "Title": "Episode 36",
+                  "Duration": "41:00",
+                  "Description": "No description available",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfeDJQx6X2lgNRaFzzPnQANz4eI.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/NdlXwBIR#nP-CL5LjVLxB64XpG8XBRodx9R16cRdJAvjJXPP0OT8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Bitch X Rich",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "Kim Hye-in has to transfer to Cheongdam International High School after witnessing a murder. She crosses paths with Baek Je-na, a bully who happens to be connected to the case.",
+          "Poster": "https://image.tmdb.org/t/p/w500/gigYIx6DCgs9cFmvFEXTBo2Zwkm.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gigYIx6DCgs9cFmvFEXTBo2Zwkm.jpg",
+          "Rating": 8,
+          "Year": 2023,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/gigYIx6DCgs9cFmvFEXTBo2Zwkm.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Dirt Poor",
+                  "Duration": "32:00",
+                  "Description": "Hye-in, a student of Seonwoo Girls' High School, works as a part-timer to make ends meet. One day, she gets a tutoring job for a wealthy middle schooler who wants to go to Cheongdam International High School. While her student is away, Hye-in takes a photo with the student's designer bag, and the photo goes viral.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kBTVv3Qx7MjSZB78KPBsavPMMHs.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/v8hXxSKL#tTOzjVsFiER8PDbLQDIYALt0NbQVIMNk92XZyYaKZqk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "The Guilty One",
+                  "Duration": "35:00",
+                  "Description": "Hye-in starts posting more pictures taken with Na-yeon's expensive stuff. She goes overboard and even tries on Cheongdam High's uniform. Na-yeon catches her in the uniform and finds the pictures Hye-in's been uploading. Hye-in begs Na-yeon not to tell her mom about it, and Na-yeon makes Hye-in run errands for her instead.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/54reTUIoagk6P67hzNFHd7hLCq2.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ikg0iTob#ykW6_9R5lPMrWuUWxbgBO9d1o_8kuXnlzZKwdmM_rQY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "The Witness",
+                  "Duration": "34:00",
+                  "Description": "Na-yeon's family makes complaints to Hye-in's school about her forgery and fraud. Hye-in is on the verge of getting expelled, so she meets the school director of Cheongdam High and begs for mercy. There, she witnesses something she shouldn't have.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/Ph8yxGb8ZbMlKbkYTuaVOi7SEI.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ylw1lDzS#DXApL7ztpooSWFCe0ks-wHdgGYVedMD5MpzkjP6TXbk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Barking Up The Wrong Tree",
+                  "Duration": "34:00",
+                  "Description": "Hye-in is offered a place in Cheongdam International High School in return for keeping silent about the incident she witnessed. She buys a new pair of shoes for her new school but accidentally loses them. She runs into Je-na, who happened to be wearing the same shoes and mistakes her for a thief.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/7y9zmcCkYcnvElEiFyhi1e4sBlc.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/295UWTxS#OoJSyZsUdydJjpbOQhWM7ZgbEGPB1JyssuITDFLyNy8"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "The Fiery Pit",
+                  "Duration": "30:00",
+                  "Description": "Hye-in forcefully takes the designer shoes off of Je-na and hurts her without knowing who she is. Je-na is determined to make Hye-in's life miserable at school. Do-eon sees Hye-in's application for enrolment in his father's study and decides to approach her.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/7CNazpPw36ps90nUcuBnMOGWYAU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ysgAAQ6A#Qa3fDZLNmjjWeuf-66wzfuOST26e2EGoKnkJMY5JE-Y"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "The Sorority Party",
+                  "Duration": "34:00",
+                  "Description": "Do-eon asks Hye-in to tell him what happened on the night Hae-in fell from the rooftop. But Hye-in sets a condition in exchange for telling the truth. Hye-in gets invited to the sorority party, an exclusive party for the rich. There, she runs into Je-na again.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ie4OBMw1xXTVPnCu7cLVmeIPWEE.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/u1hwERhZ#tWxG2R-sqU2QYnmruf2MIJ48rp7-F4rU49EK3rB_MSk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "The Deal",
+                  "Duration": "38:00",
+                  "Description": "Je-na teaches Hye-in a lesson by ruining her dress and humiliating her at the party. After finding out what happened to Hye-in, Do-eon warns Je-na to stop bullying her. But Je-na pushes Hye-in further and tells her to drop out.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/h0PfGImLfsqu3ZF7YVsUxx4t3BF.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/zoxUFByJ#WbNdyGTfiByLitTqxUdBVoG69SvFaYtlmRq9b3J-G_s"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "The Part-time Job",
+                  "Duration": "37:00",
+                  "Description": "Si-eun tells Hye-in about Lee Duk-min who lends money to the kids in urgent need of money. Hye-in ends up borrowing money from Duk-min without knowing the consequences it could bring. Meanwhile, Do-eon asks Hye-in to help him one more time...",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nJVWuIudhAEG3GHnPzIw6nM5ZAL.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/DooD2Qya#hee9QQRvb-O5cDnL3Qb4LZz6Y12Y4XWM31iE5RzhZQs"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Oh Si-eun's True Colours",
+                  "Duration": "35:00",
+                  "Description": "Je-na confronts Si-eun, telling her to leave Hye-in alone, but Si-eun backs her off with the story of her brother. Hye-in is shocked to find out what Si-eun wanted in the first place, but she doesn't back down and finds a way to make it through.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/eKz5bxmDZ47NpKRo7ocSVOdvx7E.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/PkRQiQyQ#bjfmq26AfIyuftka6WaVRuQO2bzMli8M60FJ1IWNDhE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Déjà Vu",
+                  "Duration": "40:00",
+                  "Description": "So-mang catches Si-eun and Hye-in in the secluded restroom. After hearing how Si-eun blackmailed Hye-in, he promises to help her. On the day of Yul-hee and Woo-jin's anniversary, the ugly truth gets revealed. Hye-in witnesses something she shouldn't have again.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/y6mUY1dZOk03tYGO2ksbkvg7uD1.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/nhox1ThR#VUAdlBsI7pvMWF4qblJAKtSnMyTYIt-OkTzSdQkRN-A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 2,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/gigYIx6DCgs9cFmvFEXTBo2Zwkm.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Vengeance Ignited by the Privileged",
+                  "Duration": "35:00",
+                  "Description": "After Oh Si Eun's death, Kim Hye In becomes the prime suspect in the murder investigation. At school, her classmates harass her with scorn, labeling her an 'Equal Opportunity loser.' Realizing that she may never be able to change the course of her life, Hye In resolves to fight back.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/iErNO1D2l4p5colTqFxEnASl1jC.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/PkAE1SBa#s5fLImbJoC2a_XQs5-pU4T9yeZ7PPDMGS4pxDU5qUIQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "New Members of Diamond 6 Unveiled",
+                  "Duration": "36:00",
+                  "Description": "Je Na goes through daily distress caused by her family. Her father is on the verge of divorce, and Cha Jin Uk, a suitor with a contract marriage in mind, suddenly enters the picture. Meanwhile, facing expulsion, Hye In proposes a deal to Je Na to include her as a member of Diamond 6. Would Je Na accept Hye In’s offer?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5IdKczmZLPp9Es52tx3AQGN9MK8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/q5Y2AIzJ#NBRtiCAuZgZQmju0BLXcNQuLPCEk9Ctc0i6EFi03yGc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Secrets Unfold At Cheongdam High School",
+                  "Duration": "37:00",
+                  "Description": "With Je Na’s help, Hye In makes it into Diamond 6 and decides to act accordingly. Meanwhile, Hae In regains consciousness in the hospital and returns to Cheongdam International High School, but she appears to have lost her memory. Another new student, Jin Uk becomes the subject of gossip. As the backstories of the main characters gradually come to light, will Hye In be able to make it through school life safely?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/z3AqhzDzAhXsL0n6MPM2jAZhjrY.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/nxADXRQD#ARyZbtttaYugB7zIROm8KyD9idRUElQfkENbEEZ-QRQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Secrets Unveiled, Bold Moves At The Party",
+                  "Duration": "35:00",
+                  "Description": "Amidst being mistreated and looked down upon for her memory loss, Hae In seems to make up her mind and asks Do Eon to take her as his partner to the party. Meanwhile, Je Na joins the party and reveals her secret in front of everyone. As the main characters make bold moves, what is the secret that Hae In is hiding? And what kind of consequences will it bring?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ua1z5I3BDA4kLFQelnEOGPGOLDq.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/i14xyZzD#z6KjqoFQI4Hz8QI9C9mSV7Cyuxz2lPVqwoMEMRvBjPA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Friend Or Foe, Who Can Be Trusted",
+                  "Duration": "38:00",
+                  "Description": "As relationships twist and allegiances shift, Yul Hui begins reaching out to Je Na’s enemies, determined to bring her down. On Je Na’s side, her once dismissive attitude toward Jin Uk begins to soften and the two form a reluctant yet increasingly cooperative alliance. In a tangled web of betrayal, manipulation, and shifting loyalties, no one can tell who is truly a friend or an enemy.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/7cU7Eg1lWzLud6v6Va62OlbEqJh.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/WkJkGSRa#30JfwIDTF6e-x2EmHt_MVO7WHWjbnJmSA5DaLzAGBKc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Rumours Of Baek Je Na",
+                  "Duration": "36:00",
+                  "Description": "Hye In interrogates Sa Rang about whether he is actually Black Dog. Ultimately, Sa Rang confesses the truth regarding Oh Si Eun’s cellphone. After hearing Sa Rang’s account, Hye In is convinced that the person who took Si Eun’s phone is the one who pushed Si Eun. Meanwhile, rumours begin to spread about Baek Je Na’s drug abuse.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zwpKrC0D4vbTke4AwTM933hZAxz.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/jo40EJwI#RguxA5qOoOeiopZnGa91ueQsaw54dIxVfcWNj7mvzhk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Unravelling The Truth Behind A Murder",
+                  "Duration": "37:00",
+                  "Description": "Framed in a drug scandal orchestrated by Yul Hui, Je Na’s downfall seems imminent, until her allies step in. Meanwhile, Hye In follows a clue tied to a wrist injury and begins to suspect who holds Si Eun’s phone. With everyone hiding their true loyalties and intentions, can Hye In uncover the truth and protect herself before it’s too late?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9gWzq5r4SI0pe1KH8cRkPnZaFT8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/SxYWyBDA#1GZRhrSVxTCfiJ11SJQbJWh2bPL0uryPzrj38QNcA8c"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Ties That Strangle",
+                  "Duration": "36:00",
+                  "Description": "Tensions escalate as Hye In is forced into submission, becoming Yul Hui's pawn. However, Yul Hui's schemes unravel when her role in a setup against Je Na is exposed, putting her in a desperate position. Meanwhile, a new strategy emerges to take down Diamond 6 members, with plans to leak the truth through Black Dog's channel.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5YrlWjzCQiPUIiHpezKibkO3rl1.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ThIhRCwQ#o-CS4nKBVPCdZd4EHhCzmfyaQ3WzUacHTmnbj87gPao"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Truth, Betrayal, And A Choice That Changes Everything",
+                  "Duration": "33:00",
+                  "Description": "After Hae In's death, the fragile balance between the characters starts to collapse. Yul Hui pressures Hye In to expose Je Na with a lie during her engagement ceremony with Jin Uk, using a video as leverage. As the fateful day approaches, Hye In stands at a crossroads. With everyone watching, Hye In’s next move could change everything. Will she betray and bring Je Na down, or choose the truth?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/lEq38TzMasCAzdYoznvA0P6STm9.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/GoRAna4Z#I9maB_TVRmvb16ENojmERGhbG5gPiXVi95MuildknxE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "The Reckoning",
+                  "Duration": "36:00",
+                  "Description": "Despite the risk of revealing herself, Hye In bravely exposes Yul Hui and the web of corruption festering within the school during Je Na's wedding. As her meticulous plan sets off a chain reaction, buried truths begin to surface, drawing everyone deeper into chaos. Loyalties get tested, and tension simmers dangerously close to exploding. Meanwhile, Yul Hui seethes with rage as damning accusations come at her from all sides.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rK8RBLdkV2D2Q6chbkcz2qNgL7p.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/H8oBgRjQ#1UvhiaXl3RByFfEZpvwxKX7jxsIpIrEPjYgY0PbNUqY"
                     }
                   ]
                 }
@@ -7365,107 +8603,131 @@
           ]
         },
         {
-          "Title": "If Wishes Could Kill",
-          "SubCategory": "Mystery",
+          "Title": "Love Between Fairy and Devil",
+          "SubCategory": "Drama",
           "Country": "",
-          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Description": "When a low-ranked fairy accidentally resurrects a powerful demon, their fates become cosmically entangled as the world is thrown into turmoil.",
+          "Poster": "https://image.tmdb.org/t/p/w500/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
           "Rating": 8,
-          "Year": 2026,
+          "Year": 2022,
           "Seasons": [
             {
               "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/9iigsYwHsBlU1As6ChDHHTJmVKd.jpg",
               "Episodes": [
                 {
                   "Episode": 1,
                   "Title": "Episode 1",
-                  "Duration": "43:00",
-                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Duration": "38:00",
+                  "Description": "Xiao Lanhua is just a low-ranked fairy. But when her crush is in trouble, she makes a bold move that unwittingly leads her to face a notorious demon.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/omgic7fcDQbbEFaGW3mVYtPn2L2.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                      "Link": "https://mega.nz/embed/mLAGkYCI#npFV_WOB7v0OdUlIVPdqETaahHiXdDnYwZkCFAl-50M"
                     }
                   ]
                 },
                 {
                   "Episode": 2,
                   "Title": "Episode 2",
-                  "Duration": "37:00",
-                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Duration": "42:00",
+                  "Description": "Trapped in a sealed dimension, Xiao Lanhua and the infamous demon try to figure out an escape plan. Dongfang Qingcang revisits his past defeat.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3a6thJDfUe4CnxWRVpGJU7numoZ.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                      "Link": "https://mega.nz/embed/jLATCA7L#DMfqh3xiZ7zQhio7OTgALzi9i5odY8T2NLX0LH6Shi0"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/TfxzzRxB#LmCqRrKkd6NIJiSR6FdA_nCgbzKPwJxSNq_8c0JkE4g"
                     }
                   ]
                 },
                 {
                   "Episode": 3,
                   "Title": "Episode 3",
-                  "Duration": "48:00",
-                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Duration": "39:00",
+                  "Description": "With their fates cosmically linked, Dongfang Qingcang races to save Xiao Lanhua from danger. Changheng continues the search for a missing prisoner.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zEeGCiyHdcTu1DgjR8cgI2scgNf.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                      "Link": "https://mega.nz/embed/2fpmhLYR#DflMqYgxaGaOjHMUx9R4lASdpmLh44QeTGSb-SP_H8s"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/XCZWWD4a#fXama5_Wyk4tjvcPFfXq54hVZzig7VjKD0YEkXXn_jQ"
                     }
                   ]
                 },
                 {
                   "Episode": 4,
                   "Title": "Episode 4",
-                  "Duration": "49:00",
-                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Duration": "42:00",
+                  "Description": "The magic bond between the fairy and demon proves to be more powerful than expected. Oblivious to Dongfang's identity, Xiao Lanhua keeps annoying him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1nEWPFdSW5twZn4PkwmzxSIQ9FX.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                      "Link": "https://mega.nz/embed/3bhgVJJT#hz9TFgBH3EdZTBm6iH992-hhFgh8MS94Ny87J2_MNlU"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/vf4SRS4B#sDmeh4ptM4rDmE7nffsiGuTnEC_HKvzgIJPMYjpogxU"
                     }
                   ]
                 },
                 {
                   "Episode": 5,
                   "Title": "Episode 5",
-                  "Duration": "45:00",
-                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Duration": "41:00",
+                  "Description": "Dongfang Qingcang makes efforts to heal Xiao Lanhua's injury. The two grow closer as they are increasingly used to each other's company.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rxrGRHlG98kNtxqOOtFA9lzwZaz.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                      "Link": "https://mega.nz/embed/TfhxWBYb#DONbgj1r5esCZUkHYVNq17B76VDpkHXcODHtcoYK5sc"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/TDYSHBZQ#Chq4uF6L33a8u5wCnCXMJ5FgIJvC9EIYJWRN-iFqqPk"
                     }
                   ]
                 },
                 {
                   "Episode": 6,
                   "Title": "Episode 6",
-                  "Duration": "52:00",
-                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Duration": "46:00",
+                  "Description": "To get closer to Changheng, Xiao Lanhua joins a qualifying test for fairies. When a saboteur steps in, the exam goes wildly off the rails.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/awkE8wOx1a13JLXbHMSEb50Ok08.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                      "Link": "https://mega.nz/embed/2D4FRajK#VU9WmlBIG7LCNq2CQ7VsaQL8rGpUI4HBQ8_UG_nmhIY"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/2PwimBrD#KViosAHarT8_dOpPrMz3SNpN_a9UzhhqbohdWiUzmNo"
                     }
                   ]
                 },
                 {
                   "Episode": 7,
                   "Title": "Episode 7",
-                  "Duration": "36:00",
-                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Duration": "44:00",
+                  "Description": "Xiao Lanhua's caring heart makes her a standout in the fairy exam. A chat unexpectedly stirs up Dongfang Qingcang's emotions.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1KIsGrObhzZJkLZ3PmvuX9vYpzs.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                      "Link": "https://mega.nz/embed/3SJmFJAb#t7ICy15mcPrTu81mPa_PkYORw7fGtb1ZEVsaUZ3bw4w"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/uGRTEJZA#l0qg4uXkFxEGuc4VT0E4Xf4Rbpu1j0jsP48jliT9rfw"
                     }
                   ]
                 },
@@ -7473,134 +8735,424 @@
                   "Episode": 8,
                   "Title": "Episode 8",
                   "Duration": "45:00",
-                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Description": "A rejection from Changheng leaves Xiao Lanhua shattered. While fleeing from his foes, Dongfang Qingcang makes a daring move that reveals his feelings.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/de8HQj63GAm3IxToMZNizGRGBJ0.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                      "Link": "https://mega.nz/embed/KDJmhbwb#pfWZQpCzr8t-rMzG5iZJ6Ma4qOhxdN3gClelukV57c4"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/TagxFRLA#NdqfXp9lyixZKbZPBqejtRdv5aKN3_OzOFHcrVhWNS8"
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "Title": "If Wishes Could Kill",
-          "SubCategory": "Mystery",
-          "Country": "",
-          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-          "Rating": 8,
-          "Year": 2026,
-          "Seasons": [
-            {
-              "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-              "Episodes": [
+                },
                 {
-                  "Episode": 1,
-                  "Title": "Episode 1",
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "44:00",
+                  "Description": "Xiao Lanhua's connection to the wanted prisoner makes her a public enemy. When Qingcang rushes to help, he is confronted about his real identity.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ug3ahcOtIbFfeZleRslDzxsacJn.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/nOo0yAhD#Zlx6XP4M3F3Myq9pr9BTKPRh9q6xCN7B1qHTK6TpDEw"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/2eBTgK6I#L7DM_4GrPwyDNFbdka1A8WolEFnddeCdRDHOm5Tp10Y"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "46:00",
+                  "Description": "Taken to a different world as a prisoner, Xiao Lanhua struggles to process her revelation about the real identity of Dongfang Qingcang.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/bRy3QfMnliG4iAjPAPHMX5a5XWe.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/2eBTgK6I#L7DM_4GrPwyDNFbdka1A8WolEFnddeCdRDHOm5Tp10Y"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/nOo0yAhD#Zlx6XP4M3F3Myq9pr9BTKPRh9q6xCN7B1qHTK6TpDEw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Episode 11",
+                  "Duration": "40:00",
+                  "Description": "Xiao Lanhua's risky move puts her in a tricky situation. Assuming a new identity, she entangles herself in a series of dangerous political games.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qzgcPhpO9tCFUoJOV0ESe1FmYfV.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/TagxFRLA#NdqfXp9lyixZKbZPBqejtRdv5aKN3_OzOFHcrVhWNS8"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/KDJmhbwb#pfWZQpCzr8t-rMzG5iZJ6Ma4qOhxdN3gClelukV57c4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Episode 12",
                   "Duration": "43:00",
-                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Description": "Xiao Lanhua and Qingcang scramble to hide their secret identities. Meanwhile, Changheng's rescue plan goes horribly wrong.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/duQRcwJNo5QBo1ifD7tRuLaBgyZ.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                      "Link": "https://mega.nz/embed/uGRTEJZA#l0qg4uXkFxEGuc4VT0E4Xf4Rbpu1j0jsP48jliT9rfw"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/3SJmFJAb#t7ICy15mcPrTu81mPa_PkYORw7fGtb1ZEVsaUZ3bw4w"
                     }
                   ]
                 },
                 {
-                  "Episode": 2,
-                  "Title": "Episode 2",
+                  "Episode": 13,
+                  "Title": "Episode 13",
                   "Duration": "37:00",
-                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Description": "Stuck in an awkward situation, Xiao Lanhua and Dongfang Qingcang have no choice but to face Changheng as someone else.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/jdz87ZXMRD7wTWeiV2ZLkxyV5Vh.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                      "Link": "https://mega.nz/embed/2PwimBrD#KViosAHarT8_dOpPrMz3SNpN_a9UzhhqbohdWiUzmNo"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/2D4FRajK#VU9WmlBIG7LCNq2CQ7VsaQL8rGpUI4HBQ8_UG_nmhIY"
                     }
                   ]
                 },
                 {
-                  "Episode": 3,
-                  "Title": "Episode 3",
+                  "Episode": 14,
+                  "Title": "Episode 14",
+                  "Duration": "45:00",
+                  "Description": "Jieli pays a visit to a good friend. As their bond grows deeper, Xiao Lanhua gets a glimpse of Dongfang Qingcang's tragic past.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yW4SrpPMtAX2RS13eknBF5oUyIJ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/TDYSHBZQ#Chq4uF6L33a8u5wCnCXMJ5FgIJvC9EIYJWRN-iFqqPk"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/TfhxWBYb#DONbgj1r5esCZUkHYVNq17B76VDpkHXcODHtcoYK5sc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Episode 15",
+                  "Duration": "44:00",
+                  "Description": "Jieli grows closer to someone who understands her upbringing. Against Qingcang's warning, Xiao Lanhua unwittingly walks into a trap.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/73n7zEhRlXEpOTllJUtPWKHUdty.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/vf4SRS4B#sDmeh4ptM4rDmE7nffsiGuTnEC_HKvzgIJPMYjpogxU"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/3bhgVJJT#hz9TFgBH3EdZTBm6iH992-hhFgh8MS94Ny87J2_MNlU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Episode 16",
+                  "Duration": "44:00",
+                  "Description": "Qingcang begins to notice a small but vital change in himself. This sudden shift brought in cruel consequences to people around him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6JrenAEmS2xR8SZb3QwWSQ836Kt.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/XCZWWD4a#fXama5_Wyk4tjvcPFfXq54hVZzig7VjKD0YEkXXn_jQ"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/2fpmhLYR#DflMqYgxaGaOjHMUx9R4lASdpmLh44QeTGSb-SP_H8s"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 17,
+                  "Title": "Episode 17",
+                  "Duration": "44:00",
+                  "Description": "To find out the truth about Qingcang's childhood, Xiao Lanhua ventures into a tabooed palace and summons a deity from the past.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/enphQqsnZfFWi2HpSuq5Y2tOfRM.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/TfxzzRxB#LmCqRrKkd6NIJiSR6FdA_nCgbzKPwJxSNq_8c0JkE4g"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/jLATCA7L#DMfqh3xiZ7zQhio7OTgALzi9i5odY8T2NLX0LH6Shi0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 18,
+                  "Title": "Episode 18",
+                  "Duration": "45:00",
+                  "Description": "The father-son encounter leaves Dongfang Qingcang shattered. After revisiting his trauma, Qingcang learns to express his newfound emotions.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/76WRPJJsM9lY80VAtIPpovmyy1c.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/mLAGkYCI#npFV_WOB7v0OdUlIVPdqETaahHiXdDnYwZkCFAl-50M"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/PGAGVD7D#06b44F9ufXZfsbP7PhWl1HewMk9MSTpOWj9260DxZjQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 19,
+                  "Title": "Episode 19",
+                  "Duration": "50:00",
+                  "Description": "A shocking discovery sends Changheng to the human realm, where Xiao Lanhua and Dongfang Qingcang also happen to end up in.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/z8S6DXTacIPMBHIp1aK8XiGoKXw.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/aag02IaR#79zCRNz2fhSZ8nSYKu2YBxsKADQSGnaGsJmUaod6NMA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 20,
+                  "Title": "Episode 20",
+                  "Duration": "46:00",
+                  "Description": "Several eternal beings embark on their own adventures in the human realm, where Qingcang approaches a special woman marked by a mythical seal.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/vSSNNXQDL3ND3DjFEmwwd7Ee9nI.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/nTR0GRBJ#lfTRKP5ep49zs2tt2BezI1Cv6oZdOeW3aRqNIuNtvEU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 21,
+                  "Title": "Episode 21",
+                  "Duration": "44:00",
+                  "Description": "Xiao Lanhua accidentally disrupts a destined encounter, leaving several people's souls in dire peril. Luckily, there are ways to remedy the situation.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/mUSNFTbkM5wmakc3xgqkdbaxb8h.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/ebgxxQIA#FsCSRJa4D0730iygwZ12-Oc1qR37CyNZHKzCk-h79n0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 22,
+                  "Title": "Episode 22",
+                  "Duration": "45:00",
+                  "Description": "As Xiao Lanhua and Dongfang Qingcang make detailed plans to clean up their mess, the fates they derailed become even more convoluted.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kaYHupkhhHO6odrgtCALlmoGMyL.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/6DgnAKhS#bnBsJt24Mu10HE1aE9la5HeDhrqRz391iL8DV-15y9w"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 23,
+                  "Title": "Episode 23",
+                  "Duration": "40:00",
+                  "Description": "To assuage Xiao Run's feelings for Xiao Lanhua, Qingcang makes an abrupt announcement. A pretend couple spend some genuine good time together.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dG9KtbTORI2WZgaQohIVUN31S86.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/0RlTXI6S#oukmSyYTGG146y9EetN48s1fsDspgRaK4net0rf27hE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 24,
+                  "Title": "Episode 24",
+                  "Duration": "41:00",
+                  "Description": "Qingcang's plan is obstructed by an idea from Jieli. Meanwhile, Xiao Lanhua struggles to understand her own feelings toward two eternal beings.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xS6mxFMJHnDjER2Be7x9YmwuPDt.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/MYV1zCBL#p2JX-pD0hWq5d1SGE0_mVwZ2Tk1-Af13YW3pWoj3iPQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 25,
+                  "Title": "Episode 25",
+                  "Duration": "47:00",
+                  "Description": "Xiao Lanhua and Xie Wanqing are marrying their matches in the human realm, but a series of conspiracies end up breaking out on their big day.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9P12SePHPqJruXeW71qyyXcjedT.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/5BllCDBK#ppOs2r-SjhWHQQU6ITVmutmC_y8wXe635mGYBO6ZJ8A"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 26,
+                  "Title": "Episode 26",
+                  "Duration": "47:00",
+                  "Description": "As Xiao Lanhua steps in to protect Dongfang Qingcang, her past Iife is unexpectedly revealed. Yun Zhongjun İssues a cruel order.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rdPv9aPunQFciKT3DRRiQYeBYhZ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/8VNASbqa#ItUDh8bqKg4Gpd15zxyQc65LA571lpXBt89gjjR41Es"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 27,
+                  "Title": "Episode 27",
+                  "Duration": "46:00",
+                  "Description": "After the experience in the human realm, two nemeses develop a complicated friendship. Changheng's loyalty is rewarded with a draconian punishment.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4X5Irsg4CcMmNcGArVROa6C4Dom.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/tE001JCS#Pz6LMl7jyz_O-1rmqNnv0LxzkQfH0SspjiVGxULTk9k"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 28,
+                  "Title": "Episode 28",
+                  "Duration": "46:00",
+                  "Description": "To prove his love, Dongfang Qingcang goes through gruesome tortures for Xiao Lanhua, who also makes a daring proposal despite overwhelming objections.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/vbgy50qXVK8sMZi5IDBYUFO8kbP.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/8A8zASyB#sd90o8rGDVjRbo9EvqQrKKLAKGfdD6qVUzBwFcMFBEY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 29,
+                  "Title": "Episode 29",
+                  "Duration": "47:00",
+                  "Description": "Under a painful test, Xiao Lanhua proves her unwavering Conviction. Meanwhile, Xunfeng's resentment toward Xiao Lanhua builds up to a boiling point.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gx4wn0TTNB7nIYkaZrV14sHrft8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/sZdlDYaB#6ii9ji3l_9loIarULP4Ari9ylYMKcom8V3RIR_VHYck"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 30,
+                  "Title": "Episode 30",
                   "Duration": "48:00",
-                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Description": "In a world of illusion, an eternal being attempts to corrupt Qingcang's mind. The identity of Xiao Lanhua's past life is revealed before her eyes.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rz7sxtdD6P6g4aHpybYzGkW4DS9.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                      "Link": "https://mega.nz/embed/sZdlDYaB#6ii9ji3l_9loIarULP4Ari9ylYMKcom8V3RIR_VHYck"
+                    },
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/xIc1EBBZ#8_20mWvJvnNxQYsTYFBD-ESlcKf7tMopBr8-sANbUxU"
                     }
                   ]
                 },
                 {
-                  "Episode": 4,
-                  "Title": "Episode 4",
-                  "Duration": "49:00",
-                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Episode": 31,
+                  "Title": "Episode 31",
+                  "Duration": "48:00",
+                  "Description": "Betrayed and captured, a determined Xiao Lanhua makes a tearful decision to save her loved ones at a costly price.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ndS5mCTq0e0sgtQ6fs6Q6wUTMXO.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                      "Link": "https://mega.nz/embed/ZZ8lBa7R#abRKQUimomUj-3HYi6l30e-It0eqx9rucpD2g9KNERc"
                     }
                   ]
                 },
                 {
-                  "Episode": 5,
-                  "Title": "Episode 5",
-                  "Duration": "45:00",
-                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Episode": 32,
+                  "Title": "Episode 32",
+                  "Duration": "42:00",
+                  "Description": "Mulling over his tragic loss, Dongfang Qingcang resigns himself to living in a dream dimension. Meanwhile, Changheng delivers him a message of hope.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5t4z62WPLyP8YJCQgcCUNTp62QN.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                      "Link": "https://mega.nz/embed/FV9nGCKZ#ekSQ-RvobjNOCtYdXxxjW0xKF5CAnwHjJyA6NYS58EM"
                     }
                   ]
                 },
                 {
-                  "Episode": 6,
-                  "Title": "Episode 6",
-                  "Duration": "52:00",
-                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Episode": 33,
+                  "Title": "Episode 33",
+                  "Duration": "43:00",
+                  "Description": "A tragedy reverses its course due to Qingcang's tremendous efforts. But the returned lover is nothing like whom he used to know.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rmrR5bAdHOPwtYqY4wbWAzfuz3.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                      "Link": "https://mega.nz/embed/oF1ESDDA#kv5Mv38dKWYx8GHLakAGvLUg3TAaLwU0NLrvNAQjm74"
                     }
                   ]
                 },
                 {
-                  "Episode": 7,
-                  "Title": "Episode 7",
-                  "Duration": "36:00",
-                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Episode": 34,
+                  "Title": "Episode 34",
+                  "Duration": "46:00",
+                  "Description": "Teamed up to confront a powerful enemy, two estranged siblings rebuild their bond at long last. Xiyun realizes a deviant deity is at large.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wNwnRKosJFnpEOoM1Y1dBXdUhgt.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                      "Link": "https://mega.nz/embed/oUdwiDqb#i502fmJVK5Fw8Wz_R1w4bLVARMO9iYaeFUCHZ4Gh-Cw"
                     }
                   ]
                 },
                 {
-                  "Episode": 8,
-                  "Title": "Episode 8",
-                  "Duration": "45:00",
-                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Episode": 35,
+                  "Title": "Episode 35",
+                  "Duration": "42:00",
+                  "Description": "To end his master's misery, Rong Hao resorts to an extreme act. Meanwhile, Dongfang Qingcang makes a plea to Xiyun–for old time's sake.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6IZ79HaVrpkQrOQdK5RmE1HYgOK.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                      "Link": "https://mega.nz/embed/cUEg3BYS#Fr0GurvalgN_Smt4lzjhbJbIvmMybsFuqms0geoteFs"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 36,
+                  "Title": "Episode 36",
+                  "Duration": "42:00",
+                  "Description": "Qingcang and Xiao Lanhua team up to save the three realms from a deviant god, but one of them must pay the ultimate price.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xi5xe6J8FeC5N12ykY0r4eYrRjA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                      "Link": "https://mega.nz/embed/MItElZSR#3VUv_eEXniUkI1yMDZhzcnlg74wnti4MMq6TXHxo5jM"
                     }
                   ]
                 }
