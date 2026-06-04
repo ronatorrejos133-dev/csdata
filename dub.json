@@ -972,68 +972,481 @@
           ]
         },
         {
-          "Title": "If Wishes Could Kill",
-          "SubCategory": "Mystery",
+          "Title": "Catch The Ghost",
+          "SubCategory": "Comedy",
           "Country": "",
-          "Description": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-          "Poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+          "Description": "A romantic investigative drama about rookie detective Yoo-Ryung who solves cases with her overflowing sense of justice and exceptional spatial perception but always gets herself into trouble because of her rash actions. She meets the Wangsimni station constabulary chief, a man who avoids cases and seeks stability who always ends up cleaning up after the problems caused by Yoo Ryung and holds the key to solving the cases.",
+          "Poster": "https://image.tmdb.org/t/p/w500/7CbhB19d9PlcxAW8YRzKSDBK1RG.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7CbhB19d9PlcxAW8YRzKSDBK1RG.jpg",
           "Rating": 8,
-          "Year": 2026,
+          "Year": 2019,
           "Seasons": [
             {
               "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/7CbhB19d9PlcxAW8YRzKSDBK1RG.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Job Interview & Audition",
+                  "Duration": "1:09",
+                  "Description": "The Subway Police of Wangsoori Station is led by Chief Inspector Ko Ji Seok. He is the best of the best, although his only goal in life is to have a stable, uneventful career. However, a serial killer, nicknamed “the Subway Ghost”, strikes the Subway Police 30 Year Anniversary event. An applicant shows up for a job interview to join the team.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3pFw9D68BZUqVZTWfkMDiyrbEON.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/yeAlFBgD#s5iyfMGCdV3wh3YFv8R2lzizrzErJBYbr2sfEodo0f0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Going Home to Family",
+                  "Duration": "1:06",
+                  "Description": "Ryung officially becomes a member of the Wangsoori Subway Police and Ji Seok’s partner. Ryung gets into trouble from the start, because she sneaks into the tunnels. Meanwhile, an elderly man who delivers packages via subway becomes the victim of an assault. Ji Seok realizes that the package is related to criminal activities. While Ji Seok wants to hand the case over, Ryung acts before she thinks, as always.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4jpgFfFOEXwAJ1SfKv1Eq80ZmxJ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/SagElTbT#Oh1_CtDtjvPlA6WClT8YhHgSwqES8Tgzd8MHZVFD_h4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Disciplinary Hearing",
+                  "Duration": "1:04",
+                  "Description": "Ryung and Ji Seok attend the disciplinary committee hearing and return to the station for night duty. Thanks to Ji Seok’s martial arts demonstration and a pot of noodles, Ryung gets her hands on the screen door keys once more. Meanwhile, an ordinary father, whose livelihood takes place on the subway, goes missing.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/euMgPh9MSeUJYQiQ259zNzlJh4D.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/XD4yjb7a#PPog0tDrHZ9OdXGtDvZaY1xq6PAX9PdJ7NY6022sPEk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Tracking Down the Grasshoppers",
+                  "Duration": "1:07",
+                  "Description": "Ryung and Ji Seok save Choi Do Chul just in time. Throughout their investigation, Ji Seok miraculously learns to appreciate Ryung’s over-the-top nature. Meanwhile, a star professional fighter becomes the PR Ambassador for the Subway Police. By chance, Ryung comes across his dirty secret and the Wangsoori Subway Police finally get a lead on the Grasshoppers.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dYr4f8aDCzRaWubBBfFbelwofUx.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/vbpTCZSK#A3Wznx9N8uHDYPafKQgMTZN3OEbFpX9Fp6dgvq1eCpA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Club Day",
+                  "Duration": "1:08",
+                  "Description": "Ji Seok makes up his mind to kick Ryung out of the Subway Police for taking investigations into her own hands all the time. However, Ryung is attacked while out on an investigation by herself and there is something weird about the man who seems to be following her. Meanwhile, the Wangsoori Subway Police get dressed up to go out on Club Day, the best day to boost their arrest records.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5TzHqQ3u6BNqBQHO3XN3wa6vub0.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/2Oxn0aYR#F8UyFN2b6Qh2EPSeVFof7HVUk8invjy93dqXHW9Ynlk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "A Petty Thief?",
+                  "Duration": "1:00",
+                  "Description": "A rumor circulates about people disappearing after they party all night on Club Day, then taking the first train home. Ryung and Ji Seok get on the first train to find out whether the rumor is true. During their train ride, they run into a suspicious petty thief and the truth about the first train rumor comes to light. Meanwhile, Ryung finally meets the Subway Ghost a month after joining the Subway Police.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nTODxsIrNEedQE0OspjFxQowntD.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/XPJDga5J#qRFCSkP20mEkBt-rcxuD6Qaa3igDptMl7qvOKsOK69s"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Jealousy & Confusion",
+                  "Duration": "1:05",
+                  "Description": "Subway Police and the Metropolitan Detective Division come together for a joint investigation. Despite Ji Seok’s jealousy, the joint investigation team switch partners. Ji Seok and Ma Ri become one team, while Ryung and Woo Hyuk become another. Meanwhile, Ji Seok decides to let Ryung transfer to a different team. As Ma Ri approaches him again, Ji Seok feels confused.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xYEEEMVnMZEIdUpA9JsPvnqUNbB.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/jX5CzBZA#lvsTEoL4tdCTsSeto-94j34YnsBcTy3fYWxfTJ7iI7g"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Facing the Harsh Truth",
+                  "Duration": "1:00",
+                  "Description": "Ma Ri leaves Ryung after saying harsh words that keep replaying in Ryung’s mind. Still, Ryung continues her search for the Subway Ghost. But this time, she comes across someone willing to help. Meanwhile, an autistic boy goes missing from the bakery in Wangsoori Station and the Grasshoppers are on a pickpocketing spree once again. Ji Seok and Ryung have different priorities in which case to pursue.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/29UXj3cErRLwsvtKO7QH3xjxMJo.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/sN0UCLZK#4if9FiJ0u-Spu-Ux91EGoCI-yK2iOKbJgeB5XkQE1wk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Getting Closer to the Subway Ghost",
+                  "Duration": "1:01",
+                  "Description": "Ryung and Ji Seok work together to save Jung Hoon and catch the kidnapper. With their great partnership, they discover the identity of the person who helps the kidnapper hide from the police. Meanwhile, the Subway Ghost marks his next target and Ryung activates her subway search skills to track him down.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6Bi2OmVGuSayrUewwJOqSxK7hyC.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/9U9USJob#OnnqSbuIVEUjr2q6LytYuxHF8ZSWvLJEVg4Alugs30o"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "The Hideout",
+                  "Duration": "1:07",
+                  "Description": "The Subway Ghost’s hideout is finally uncovered. Through the evidence found in the hideout, the police slowly start to piece together the Subway Ghost’s identity. Meanwhile, Ryung’s illegal investigations in the tunnels come to the attention of the commissioner and Ji Seok faces the biggest crisis in his career.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6SE4mFXFSK0YRZzNzIpkfUfEFmY.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/pFEjmJyK#3LCyJkIioexg9JIdGsWvRPV_GxL1BCBz3TSKQHyiGCw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Going After the Grasshoppers",
+                  "Duration": "1:01",
+                  "Description": "The police make headway on the Subway Serial Murders and narrow down the suspect list. After getting a tip about the identity of one of the Grasshoppers, Ryung and the Metropolitan Detective Division chase him down as he might be the Subway Ghost. Meanwhile, Ji Seok’s investigative instincts start acting up again, despite his suspension.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cuq1QfV0rQoxnnnkV7all5JVNR7.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/sUcWER5b#MOL0KPfJ0U-Z38ctsTJrbFGSEcxq7D2sAMgJjDglkYM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "The One that Got Away",
+                  "Duration": "1:01",
+                  "Description": "One of the Grasshoppers gets away from the police. The other two Grasshoppers confess that they only know him as Han Tae Woong, although that name turns out to be a fake identity. The investigation reaches a dead end and Ji Seok is about to be reassigned to a remote island. Ryung comes up with a plan to save Ji Seok and to catch the Subway Ghost.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gi8HT6lrrwQWZgqtm9AWGeOjdsw.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/0dMllTAI#yx-N8Z8fqlx06oBuWFuuLh3hXIAsrvX0QRW-ZXO7hQA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "The Grasshoppers Are Behind Bars",
+                  "Duration": "1:02",
+                  "Description": "Ji Seok and Ryung catch the remaining Grasshopper who everyone believes is the Subway Ghost. However, while being interrogated, the Captain of the Grasshoppers makes a shocking statement. The truth about the Subway Serial Murder Case finally begins to reveal itself and Ryung is hopeful that she may find out what happened to her sister.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4SUjkR5tXMgaGvcfai2o5qyIhnm.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/gdMTQQpA#DULnZiEQ3ZQorxDHc0SIf8LEx5gR-JqHv5bR51vhN-Q"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "The Subway Ghost Reveals Himself",
+                  "Duration": "59:00",
+                  "Description": "The police believe the Subway Ghost is in a mental hospital and that he plans to commit another murder. They chase him down and search the entire hospital building. Amid the chaos, Ji Seok’s mom and her caretaker are nowhere to be found. The Subway Ghost leaves behind a video clip, revealing himself and the shocking truth.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/rSGqs6NbFFa5estY7vasmVGE3be.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/EF8A2abJ#HSsLFL68XEUuZNRdCLI9t-bpZLgm9gCrJu6UVlLQA34"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "The Subway Ghost’s Method",
+                  "Duration": "1:01",
+                  "Description": "Ryung and Ji Seok make their way into Kyung Hee’s house and find a room that looks like a young girl’s. After sharing the new evidence with Ma Ri and her team, they split up into two groups to chase both Kyung Hee and Yi Joon. Meanwhile, Ryung’s hopes of finding Jin alive begin to grow and Ji Seok gets a call from the hospital about his mom.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9rScSIU0DFiN8MhnGuW0JnC6cvH.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/EFdWnCAa#XbWYxxm1TpCx4nNr9KNF2GSrNQvSDDS0Qe03R8eCsdc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Finally Catching the Subway Ghost",
+                  "Duration": "1:01",
+                  "Description": "Finally, Ryung and the Subway Ghost come face to face. As his rage explodes, the Subway Ghost attacks Ryung, but another tragedy puts a stop to his actions in the end. Meanwhile, Jin appears at the scene, only to run away amidst the chaos. Ryung, the Subway Police, and Ma Ri’s team put in all their efforts into reuniting the twin sisters.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cMndTBbnGskQrEYYq3uja7qU2zv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/MNcEyACJ#qwWZHLJbyxhtV53-5JoAnpmy3b1vTmKp8ZS-bFAeU2A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Genie, Make a Wish",
+          "SubCategory": "Sci-Fi & Fantasy",
+          "Country": "",
+          "Description": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+          "Poster": "https://image.tmdb.org/t/p/w500/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+          "Rating": 8,
+          "Year": 2025,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
               "Episodes": [
                 {
                   "Episode": 1,
                   "Title": "Episode 1",
-                  "Duration": "43:00",
-                  "Description": "After Girigo grants Choi Hyeong-wook a wish, he introduces the app to his friends, who brush him off. But soon, his behavior grows concerning.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/erDGFY3r8vvF6H7JhjyfpLfHRIU.jpg",
+                  "Duration": "54:00",
+                  "Description": "After a lifetime of abandonment, Ki Ka-young confronts her mother in Dubai. During her trip, she releases Iblis, indifferent to any wish he might grant.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2Io92Buv2OxAFf2k2dpULp4jSOP.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/JjskFDIR#A3foPedAgHqxefVKfhbN-M9rZVqYctfm_xZdchcwL7s"
+                       "Link": "https://mega.nz/file/7k43XBSK#bJliP_iPj_5EAY2e7SIux4OjyE93Zpb2Yz2oo1oYkrQ"
                     }
                   ]
                 },
                 {
                   "Episode": 2,
                   "Title": "Episode 2",
-                  "Duration": "37:00",
-                  "Description": "After a sudden tragedy, Yoo Se-ah realizes Kim Geon-woo may be next and rallies her friends to find a solution. But Girigo proves too sinister to stop.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wJBaYdqgVRSKz72EasSJUGK5pYo.jpg",
+                  "Duration": "58:00",
+                  "Description": "Back at Ka-young's home, Iblis learns about her past from the locals — and navigates modern Korean society while trying to threaten a wish from her.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tswPoMyLCRLtVu8yOw1zCW66MUA.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xyNBwa6J#WeknQNLcT1_AVrsbzk0l--xFiP6TjWxka6rmaY5B_dA"
+                       "Link": "https://mega.nz/file/j45WRKob#4YPsV0epiCONRY0oUxt4Tc9AKQAlCO0fwW_4DI961kE"
                     }
                   ]
                 },
                 {
                   "Episode": 3,
                   "Title": "Episode 3",
-                  "Duration": "48:00",
-                  "Description": "Seeking to cast out evil, Kang Ha-joon takes Se-ah to his shaman sister — sending her to a cursed space filled with fear, trauma and abandonment.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gxfOGVMubrZmW36QxkxB2fOXCYh.jpg",
+                  "Duration": "59:00",
+                  "Description": "Iblis agrees to grant Ka-young's first wish — to corrupt others — although she remains an enigma. Meanwhile, Ejllael plots his revenge against Iblis.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3Co23iZef8gePWC0BUhVIwTdy8s.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/AjEH2CgT#P7LVCm_CpybU0X2KLf4F1apmbj9bAEfn5KXB8vrJBcY"
+                       "Link": "https://mega.nz/file/WlpR1D7C#NPYOM5lCKDLMR4Sag2PNg9fTQEw5oss5NUeKYx_Qw_0"
                     }
                   ]
                 },
                 {
                   "Episode": 4,
                   "Title": "Episode 4",
-                  "Duration": "49:00",
-                  "Description": "Ha-joon, Se-ah and Bangwool investigate Girigo's origins, chasing an online friend of Hyeong-wook's. They soon discover a house that may hold clues.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/dCAAt9JDHuezCYnSezWosLsHtEU.jpg",
+                  "Duration": "59:00",
+                  "Description": "After sharing her first kiss with Iblis, Ka-young searches for any excuse to kiss him again. Ejllael struggles to sway Ka-young to his long-held plan.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wMEImZb8Zg7dcWaS7vGYcdOXzSP.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/5m0CiJ5a#vCsiGvErc4kaDDDnDDtSySPHd8XvvD5sEtPU8jvao7Q"
+                       "Link": "https://mega.nz/file/DlYnlDCB#Tc5c95EnsVsFSsgNvTza76jJHUevG3djGizDWbCEYx0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "1:01",
+                  "Description": "Ka-young makes her second wish — this time for her grandmother. Meanwhile, Iblis continues corrupting others in a bid to win his bet with Ka-young.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tNjZBA5uR8jDadE3JI3svzpbVWd.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/file/iohADaqZ#i7_H8kzRY10D8YRrD6oF6IZXlX8zCFPpvLQpI2BchME"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "1:00",
+                  "Description": "Iblis seeks Ejllael to probe his missing years with Ka-young. Meanwhile, Ka-young faces memories of her past life — and a fateful wish.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/iA4no44KCZayup8HdnzHLbLbBOt.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/file/PtRHESBD#ncdm3lUW4iiwxaXsqw-BXJezs3kDRNax4LbezZe4nmE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "58:00",
+                  "Description": "Despite learning of her past, Ka-young suspects there's more to her story with Iblis. Ejllael and Iblis discover a secret force lurking in the shadows.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ieCTrpJ3Pzem9yKXwfBdVYFOeIx.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/file/z85RAAbR#opwGsEAFmDXXGaJ8GESmN89a2Cyimjvx4e9g_Yip4Qg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "58:00",
+                  "Description": "Iblis and Ka-young travel to Dubai for answers about their unaccounted past. Soon, Ka-young begins to feel an unexpected bond with him.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/G9JOy4GSADGyfT3qqIsm1pF2lw.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/file/WsQGBDSL#UoMq4kP043hMo8IOAKTaCMk-Ko-0vjiY2IJNMh3RiDQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "1:02",
+                  "Description": "Ejllael uses Oh Pan-geum as bait to bring down Iblis. As Khalid's threat grows, Iblis and Ka-young uncover a major clue about their past connection.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/584VZSA0ieMIg7uAnEuZUEmICvw.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/file/X4hEVQyD#PNpxwJs0U0B8QqogePEAr01wUUkpTxVOnsvyN-BtoSk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "58:00",
+                  "Description": "With Khalid's next move imminent, Iblis and Ka-young dig into their blurry past. Meanwhile, Pan-geum prepares for her fate, stoking suspicion around her.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8h86gCHbYONjsZnoD7VBeYBL3Sv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/file/a5QRAJ4A#cykSTPGdYzxD7Et0h9QuwQYIvnTYHpMUjT9bxIBOC4A"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Episode 11",
+                  "Duration": "59:00",
+                  "Description": "A millennia ago, Ka-young's past self survives certain death — reconnecting with Iblis and falling in love, until greed tragically tears them apart.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/66DsbQRfEfwVZj5k8EjkHKaoXJR.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/file/qshQ2IQS#HxzaFO-9RmfAg0SdE2jrudl4N45zVanoz7XoTaVjrWs"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Episode 12",
+                  "Duration": "56:00",
+                  "Description": "As Khalid's endgame nears, Ka-young, Iblis and their loved ones face grave danger — but their hidden plan can seal a destiny forged over a thousand years.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kYGdL1x9NN6TMe5RfyTRVJnrNvk.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/file/TwxE1aRB#_Sc4uHMIrgEctEb8KbwZrUPMOemylnQ3YW8H30cGsZ4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Episode 13",
+                  "Duration": "1:02",
+                  "Description": "With her life turned upside down, Ka-young searches for Iblis to make her final wish. Will they find eternal happiness, or be bound by cruel fate?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1y1jTwaPjUUDpwIkD1iVt0UGnp3.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/VJMVwLpD#pJ9oIgG7XzbCuS3W60Gnxevmjiha80s-v_ytyNk-LLE"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Sweet Home",
+          "SubCategory": "Sci-Fi & Fantasy",
+          "Country": "",
+          "Description": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humanity.",
+          "Poster": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+          "Rating": 8,
+          "Year": 2020,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "50:00",
+                  "Description": "Cha Hyun-su moves into the run-down Green Home by himself. Not long after, he witnesses a disturbing sight in his neighbor's apartment.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/bUp6tm52k7RbvrayfDZc0Z0GJ8O.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/tmFgFapT#65pWaPGUs3D_6Q2cPJ74XUsSWb85M8gaGsnXoAtyJ4Y"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "56:00",
+                  "Description": "As a state of emergency is declared, the residents tie up Pyeon Sang-wook for being bitten. Hyun-su is unable to ignore a family in distress.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/bI4M6vXzSEDvKqc4DoiZvbYZV8W.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/0iNQVTAY#m3IArPy5ICBieMTbZCPUyYMt7AgG1ZHMn_PrYRiH-oc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "46:00",
+                  "Description": "An unexpected savior protects the children from harm as Hyun-su, together with Yoon Ji-su and Jung Jae-heon, tries to bring them to safety.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/q8jl5VcnKTdmJt8Odz3YnvT9ujx.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/9z8X1IhJ#yXy7AMlXDmj5FzLFfTIOaWtNr47QfXKkq8WkhbGV5Q0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "46:00",
+                  "Description": "Critical information about the monsters is made public. When residents are split on what to do with Hyun-su, Lee Eun-hyeok suggests they hold a vote.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/k9JSQb1w7qyNK9Dg9FoSSYY1to0.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/hi0TxbJB#AoItNqZ-7oE2EY2KMzZmqth0BV2xWA15Ig9wvt9CuP4"
                     }
                   ]
                 },
@@ -1041,51 +1454,619 @@
                   "Episode": 5,
                   "Title": "Episode 5",
                   "Duration": "45:00",
-                  "Description": "After a wild night out, Lim Na-ri discovers a terrifying truth. Soon, her jealousy takes hold of her as she navigates her feelings for Geon-woo.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AfOrPSUQt0YVOsCiYSDHt3qexBC.jpg",
+                  "Description": "Tasked to carry out dangerous missions, Hyun-su heads back to retrieve Han Du-sik. Sang-wook stops at nothing to finish what he started.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/nC31oJXAt1JShpn1AvssLdz723o.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/xjMC2IbZ#4fXJW9CN6nyZ7ijppzINyUOqPhO2HRJ0kI3IGEJsxtI"
+                       "Link": "https://mega.nz/embed/Yjk10T7S#rAVK257PbUfWIbYDm4_KS6fsM0EydLX_GhyDlb38pB8"
                     }
                   ]
                 },
                 {
                   "Episode": 6,
                   "Title": "Episode 6",
-                  "Duration": "52:00",
-                  "Description": "Born from innocence, Kwon Si-won's friendship with Do Hye-ryung — steeped in jealousy, resentment and revenge — gives rise to Girigo and the curse.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/20Vc4jkOXPpxfZlPQGoVOxjtTAG.jpg",
+                  "Duration": "53:00",
+                  "Description": "An Seon-yeong confronts the greatest monster in her life. Leaving the building, Seo Yi-kyung heads to her fiancé's office in search of answers.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/aR7ANXWo37G2qyiCaPFVdVpLhc9.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/FvVjBRRA#8VHPTnuNDqxaJy2Al6iCBk3sTRsqM1oWBAAGcXrypKE"
+                       "Link": "https://mega.nz/embed/8jUjiYzD#wXfxr4ZrYWRMB9llLh0bnkyMmw2IQ_XjeT-83UKEHg0"
                     }
                   ]
                 },
                 {
                   "Episode": 7,
                   "Title": "Episode 7",
-                  "Duration": "36:00",
-                  "Description": "Facing sabotage from spirits, the group hunts for the original phone. But as they close in on their goal, danger and darkness lurk at every turn.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w5rlDCPYHjnxAnvaVejd0JlPS8v.jpg",
+                  "Duration": "49:00",
+                  "Description": "Hyun-su saves the others from a deadly attack. Running out of necessities, Eun-hyeok announces a plan to venture outside for resources.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cvOGLAjbLfLe4CZxz4cOtyfQuTu.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/92Mx1bjS#MjILzV1F84egjMZD_GBCDMr-FlQxLyIRCrDO8Yk8_vY"
+                       "Link": "https://mega.nz/embed/8nNT1LRT#i7hnPKhurqdSzPHv5Px0S-uU_8a7RIdYvhwtJVj2OzA"
                     }
                   ]
                 },
                 {
                   "Episode": 8,
                   "Title": "Episode 8",
-                  "Duration": "45:00",
-                  "Description": "On the brink of defeat, Se-ah confronts the evil behind the curse. Can she stop the unending deaths once and for all?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/poxWtCZdoHVgb8oGa3g5Spicedb.jpg",
+                  "Duration": "52:00",
+                  "Description": "Having little options in her state of being, Ji-su agrees to take a big risk. Yi-kyung returns to Green Home just in time.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/xTcSFXfRloUXTiVjU4MfpybebjG.jpg",
                   "Servers": [
                     {
                       "Server": "Mega.nz",
-                      "Link": "https://mega.nz/embed/M79zVbgR#4w7M_JrzJbwwswbKihP6CRnZlnKUlUyiNVJdJ2zb_Qk"
+                       "Link": "https://mega.nz/embed/42dTxZIZ#9_yfbD9SvWvLOdQPFIYlGcCl4MQBCGlB84hYczQEgZw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "55:00",
+                  "Description": "When a team of outlaws take over the building, the residents are shown how humans can be even more barbaric than the monsters.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/w6C2vzpZFkwaB55WY6Dk6KOOGk4.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/My8mEZTD#4nIl1e6UtptzeRGkRRvbE9iEKiKajHuhV28ZcGbzLKs"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "59:00",
+                  "Description": "A military leaflet promises a route to safety, but the group is reluctant to trust it. Hyun-su is exposed to a new perspective on his condition.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5JoGcZQjVIE2xCYpMRkGqhHfBhj.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/8qUFFLTL#f53Bo8dAWtEb3WAHU3L7Inei0mg1P5P_GXT1NyLHW7Y"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 2,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "1:05",
+                  "Description": "Hyun-su wakes up to find Sang-wook, who has a new goal for them. Lee Eun-yu and Ji-su escape a violent evacuation and commandeer their next destination.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/32fHvZb8XHZAUSmYJNT7SoaZZq4.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/N61FACYB#FxDw5kLYJbVe987CguFfaRYOXy_3vUlVwPZYsBIBpDY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "1:03",
+                  "Description": "Eun-yu finds a hint of Eun-hyeok’s fate at a stop in her journey. During an experiment, Hyun-su finds that he has a special effect on another monster.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/na4DtXnaUr0EWnD60G0tXkKMZtA.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/m85kXLqJ#nNOqR1ygaC9voCcu6-yujfG2N-SEQDU_0WRqZjYOjhQ"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "1:02",
+                  "Description": "On a mission to find her husband, Yi-kyung makes a shocking discovery. The battered Ji-su and Eun-yu arrive at a new shelter, but catastrophe awaits them.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/maOMY95gF2KvfKslCd1xXUICIeH.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/u0QhDJYY#WIdbLsSqGbMIW3z94Df92oxf9UAh2vkF7EgA_-jk8gw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "1:11",
+                  "Description": "The survivors take shelter underground, where supplies run low. In her continued search for Eun-hyeok, Eun-yu encounters a young girl.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/AvkXY44Cav2ojBptGW0eF9BKzKr.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/vsAFADqC#nDMG5ujU6y1KCvxxcTERkeQB-B2_iQgPGzTGj0KZC-0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "1:10",
+                  "Description": "Sergeant Kim and Master Sergeant Tak clash on how to protect their men. The mysterious girl approaches Eun-yu with an enticing offer.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fapQyfXzT0SLZ2V4nPlKSRMV7vH.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/fgZRlIYS#lOCJzSnaW_sTnANIIge7C887-vhix4SsmjRb4ypIBfs"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "1:15",
+                  "Description": "Eun-yu chases Yi-kyung and the girl, with Park Chan-yeong right behind her. The death of survivors and a missing soldier throws the stadium into unrest.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/bm9uQ2AbPeQdR78jAEZaXZQkKWv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/zlRTmCKR#doydBJv0qyJAsvlvbAzAF_9p3UdE5W7O1k0haztsuI0"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "1:27",
+                  "Description": "Eun-yu shares a terse reunion with Hyun-su. While the platoon embarks on their search for a missing soldier, the stadium experiences a monster threat.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/tfjf1KGCYFkResgcfGzClDmY6SU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/uhAyiDxI#hh_4H7lZ0VNg2LNgFI7PjT8C_bHSN674QcYpBqEx1SE"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "1:15",
+                  "Description": "As Yi-kyung faces death, the young girl tries to save her. In the ruins of the lab, the soldiers discover other survivors who aren't what they seem.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gIwu23HOiwll1llovvoROMdbTk.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/zgwDCCSI#TKXhtvbk22kUIeYf23P9JrcYnliAwsavLovfaJz0lZk"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 3,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "49:00",
+                  "Description": "Hyun-su gives it his all to bring Yi-kyung’s humanity back. Sergeant Kim faces countless monsters in an effort to make it out alive with his men.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ciIWfnVdeQHqDXqnvyGeqBka4ZN.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/Sp5C3A5J#RxbEtHs6Qo4UFmkecnAYZ9fBHzUK7alj4JtRGdgG5gw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "1:09",
+                  "Description": "Resolved to find his child, Jung Ui-myeong heads to the stadium. Despite Hyun-su's unpredictability, Eun-yu tries to wake him up during a sudden crisis.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8llJmMg2wnD9FOdq53WW4lQqnZb.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/OpQinYjB#0Yt9b4BP9gt_D1D11sw-KpnDfrJDGoIJMds7lPY9ylI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "59:00",
+                  "Description": "Yi-kyung discovers Ui-myeong's true motive for him and their daughter. Eun-yu accepts a challenge from Hyun-su's alter ego and heads to the stadium.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8xRiDIFXGgSAkHZk6MLFpt39r5q.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/T0gl3IKR#c69Y5koBWF3lzybaMytR7fsBMYHQ80L0cZHiV4V_K9U"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "52:00",
+                  "Description": "The girl contemplates her future with Yi-kyung — and a life away from Ui-myeong. Sergeant Kim encounters Eun-hyeok, who reveals a new kind of being.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8V2hlxnRMrrgB9z7E0CgvHuDW46.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/Oh4BibrY#p1kR6UPWDPzswx2HZBhWnp8mPj1adxS-gjR5_XZg4xA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "49:00",
+                  "Description": "Eun-hyeok's reunion with Hyun-su and Eun-yu turns into chaos. Ui-myeong prepares for his body transfer, while Sergeant Tak carries out his own plan.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/g2RSgWhFU6HwpfW6qUOKM8O6ZHD.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/KlAWzLrJ#e8c1gJlZRB5iiK-RvxdRd7iZ6qMNtUbacb6wpdW3HPY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "50:00",
+                  "Description": "In her trek to the stadium, Eun-yu begins to feel a personal worry. While Ui-myeong searches for the girl, she plans a counterattack in the background.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qcOpjw2A5hRrjWvTsNjWjaSAbak.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/atIETKSL#uadpEL80l34h2OF9EOF0RDvZmecBbh3ZtoS0QfDMLHA"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "48:00",
+                  "Description": "Hyun-su and Eun-hyeok arrive at the stadium, splitting up to find Ui-myeong. During the great escape, Sergeant Tak commits the ultimate sacrifice.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zu0wxd8PFBXqrHKfrc25B4BV3my.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/expjnJCK#MGLz50l_h_d_0EOLZJgUvb7b_fUqM73mg0RO9mzUHwk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "47:00",
+                  "Description": "In the final battle, Hyun-su and Eun-hyeok confront the girl head-on — getting an assist from an old friend. Will they finally succeed?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/i68Xnnzp48QRkPpTDPZoUyWbFga.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/m55gVAra#ZIT6qb3Tubx9cXTd8cohnHiYqnVr4o8y-YJJtU3DaXE"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Mercy for None",
+          "SubCategory": "Action & Adventure",
+          "Country": "",
+          "Description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
+          "Poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+          "Rating": 8,
+          "Year": 2025,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "42:00",
+                  "Description": "After Nam Gi-seok's mysterious death, Nam Gi-jun emerges from seclusion on a mission to find the perpetrator — no matter the cost.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/deAoPnh27iXhhAHLHQ5fMIx8ueO.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/j852ASAC#Z0DR7v13Qi5mjkqNvT19NqmH283w0vZwFOGKbEFGbek"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "44:00",
+                  "Description": "After tracking down Gi-seok's hit, Gi-jun discovers the scheme's origin — forcing him to enforce a rule he established more than a decade ago.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cpkYXknjwFEfD7QSrp5RmS9VNwy.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/24AFlR4Q#CTiMgZcshlLR__-6fs5DPtB4yGPkiTyHJF31JKaCqdI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "37:00",
+                  "Description": "Despite his father's precautions, Gu Jun-mo underestimates the threat he faces. Frustrated and desperate, he decides to handle Gi-jun himself.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gyX8F65noDDKzEMfqX44zHV8vVb.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/CloDhCIT#8fOI78Hke6VKm4pR45RuOc1YWyenzjR-XW7L2NvFW7g"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "39:00",
+                  "Description": "Desperate to save his son, Chairman Gu digs deeper into Gi-seok's hit. After Jun-mo attacks his friends, Gi-jun goes head-to-head with Jun-mo's army.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kA3klhd0lWe3hwT3Ye2npJGHPe8.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/i9wj0ZTQ#cxvLrzaEDBqptf3zyV4EoFtN87PMPtctQJu8VYUgxhg"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "42:00",
+                  "Description": "Gi-jun quickly learns that his problems don't end with Jun-mo. A gang war breaks out after Chairman Lee suspects the real architect behind recent events.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9AkMOkYxy2XdMHE9ntmAUMvOFKQ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/L4ZC1aRI#hEM99hC9kYXOZDAsR7tU9t3T4D0aKL5LUp5Gt0OO1PY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "45:00",
+                  "Description": "Cha Yeong-do sets his plan in motion. As Lee Geum-son seizes power, Gi-jun faces betrayal, danger, and a race to uncover the truth behind it all.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yEIwOhRIbnUU0CqZlkqgzUwzfhO.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/SsBhiAQa#U7tBXUWyNipouPOIxhpCE57crQFG3yEQo4b8p3AaadI"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "49:00",
+                  "Description": "With all his obstacles cleared, Geum-son puts his endgame into play. Will Gi-jun succeed in stopping him, or go down trying?",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wPfVh84KxZmfGlaX00O08md2y0W.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/zp4HyABb#8krZWge979_MTALEW7gmwi1iTreuQw9NyzOPvdvG7_o"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Title": "Strong Woman Do Bong-Soon",
+          "SubCategory": "Comedy",
+          "Country": "",
+          "Description": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
+          "Poster": "https://image.tmdb.org/t/p/w500/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+          "Rating": 8,
+          "Year": 2017,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Ridiculous Punks",
+                  "Duration": "1:09",
+                  "Description": "For generations, a superpower has been passed down the maternal line in Bong-soon's family. But for 27 years, she has always tried to keep it hidden.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/6zXhFepEZ7FWwGc3bQnvZs9DYTZ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/mOgwXIaK#Zht7K3l2Odnz6BXNBKl26amEtsluwxnrRFRcuzhScLo"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "A Criminal's Heart",
+                  "Duration": "1:07",
+                  "Description": "As Min-hyuk spends the day shopping and playing, Bong-soon is forced to follow him around. While at a park, they spot a suspicious man spying on them.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kyaSfuj7IHbXW2XRjmnsEiQ4F4S.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/XH510BpR#aK9U8pbYFamvUVPB2edSK70DRnbWq4PpAuiYsYD2qbM"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "That Jerk's Secret",
+                  "Duration": "1:06",
+                  "Description": "Bong-soon finds a painting in Min-hyuk's closet that seems out of place. The next day, the two visit the owner of the motorcycle they saw at the park.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/t4tyggG842cxiVSYs6XVmtye61I.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/rPoVGDJY#T4Xy8h5AfSDHvkA4o8yswvwXA2dAXz1h-Egi3reMiRU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Her True Identity",
+                  "Duration": "1:06",
+                  "Description": "Bong-soon struggles to control not just her power, but also her emotions. To make matters worse, Min-hyuk keeps giving her a hard time.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/fbdrmJChNtAtEmGHznY5j1GP0QU.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/KHRjFRba#qoDtWBdG_Ze_P-jUMwtRMB8GbxZpL9VM4CEeHDmj62I"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Seems As If They're a Friend, and Yet Not",
+                  "Duration": "1:06",
+                  "Description": "The criminal at large seems to be attacking only certain people. Concerned for Bong-soon's safety, Min-hyuk and Guk-doo clash over how to protect her.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kueGaWu7H4bJsstPjnhd0ZUI7nH.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/SDJy2LoB#scFUxd8V07X85dBOLC3wOj-aPrN9rOPFHa4t7g1riVk"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Happy Together",
+                  "Duration": "1:06",
+                  "Description": "Not able to trust one another overnight, Bong-soon, Min-hyuk and Guk-doo decide to play games instead, evoking the two men's competitive spirits.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/mLvmv2dgLXxmxYFGjrlB75vyJwk.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/3TZRkCwS#K2ldC41HI6EVZEFzpMdE2bBq5fPg-g-bzBqGTQ8a3Uc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Changes",
+                  "Duration": "1:10",
+                  "Description": "Osung Group's shareholders get angry when Min-hyuk fails to show up on time to the meeting to discuss his qualifications as the next company leader.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/42s3BZcdqJJNlN1B31NtJcNThgN.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/XSx2USrT#Jl3q44hQICne4BdqE3RlcPokZwg4A4q1jXq7auy6xJ4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "One Step Closer",
+                  "Duration": "1:09",
+                  "Description": "Profilers suggest misogyny motivated the recent crimes. Bong-soon decides to put her dream of developing games second to catching the culprit.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/vp3JKehqxLSXr7N62PvOOJQzR62.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/yaIWQYbK#pJ_KhTiDwR4u6qinA48iBxGqs6jY6MhpenNoKHEM1hw"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Love Risking One's Life",
+                  "Duration": "1:07",
+                  "Description": "Both Min-hyuk and Guk-doo arrive at the fight scene just before one of Baek Tak's men starts running toward Bong-soon with a dagger in hand.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zsec04ZYXthWt0KhBT3xtZWrzHQ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/Xf4EwKoI#BbL7dEzfgkNRYIy7z29kst95vUQl1CvfTI2XTjo7VqU"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Find A Hidden Heart",
+                  "Duration": "1:07",
+                  "Description": "Frustrated with police legalism, Guk-doo takes drastic measures. Bong-soon is preoccupied with catching the culprit herself, which worries Min-hyuk.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ovNhKnWCOHoglJ8x65zCXm5R27w.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/KHojhaSA#RMlx_Fx_VeXC-Jd_Sco-AKH_q00u2G0cBFNdvGhIK3U"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 11,
+                  "Title": "Timing",
+                  "Duration": "1:08",
+                  "Description": "With the kidnapping case still unsolved and both Min-hyuk and Guk-doo asking to see her that night, Bong-soon finds her life is full of dilemmas.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zVKZstRCYoGoSPZdINLbeYpGS9i.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/ieAyDDRI#D9ojhVmVHQxDbCXhzxv86YQQidFqubvRUCLytdGp25E"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Help Me",
+                  "Duration": "1:05",
+                  "Description": "Guk-doo's police team keeps hitting roadblocks while chasing down their suspect. Bong-soon senses something is off from Kyung-shim's text messages.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8JVnxjVCnR7mFu0fK8ijSamyaio.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/KWhHnBZL#tbRL9Zk5hnh_Y4KJH-U9LMy7u7RSV3nJpUVGTFWqSZY"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Nevertheless",
+                  "Duration": "1:04",
+                  "Description": "Replaying the video of Kyung-shim, Bong-soon hears a strange background noise. Following his hunch, Guk-doo decides to check out the junkyard again.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/3H8zOyGCkptuEMZGC0dCLH8fx8C.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/KWYhGAyA#7beW0-ln9Bqd6PYvvOyxgkLYQKb7yhhR-yX8OFSTiQo"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 14,
+                  "Title": "A Prelude to the Battle",
+                  "Duration": "1:07",
+                  "Description": "When Bong-soon doesn't come home late into the night, her dad gets worried. Guk-doo is conflicted over what to include on Kyung-shim's case report.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/g1ZIDUaW5O7ovI9skOWq4xsTyYO.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/zbRnnTRJ#LGUrHaeXO1aLoQcFqEAbPAPO3ApoKdZU2Ni19Z1COrc"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Level Up",
+                  "Duration": "1:07",
+                  "Description": "With the case unresolved, Guk-doo's team visits Min-hyuk's company to gather clues. Guk-doo hears from Bong-soon the details of last night's events.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9xM6UuvazMP5KS8zFQ4tlitoP7m.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Mega.nz",
+                       "Link": "https://mega.nz/embed/2CQxzRZL#O4ybfnVizybLw_mjNerWRsVhsaF5XH0JoIivhNBEKhU"
                     }
                   ]
                 }
