@@ -1952,6 +1952,20 @@
             }
           ]
         },
+        {
+          "Title": "Lovely Runner",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
+          "Poster": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+          "Rating": 9,
+          "Year": 2024,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+              "Episodes": [
 {
     "Episode": 1,
     "Title": "Episode 1",
