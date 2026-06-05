@@ -1298,108 +1298,147 @@
             }
           ]
         },
-                {
-          "Title": "Mercy for None",
-          "SubCategory": "Action & Adventure",
-          "Country": "",
-          "Description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
-          "Poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-          "Rating": 8,
-          "Year": 2025,
-          "Seasons": [
-            {
-              "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-              "Episodes": [
-                {
-                  "Episode": 1,
-                  "Title": "Episode 1",
-                  "Duration": "42:00",
-                  "Description": "After Nam Gi-seok's mysterious death, Nam Gi-jun emerges from seclusion on a mission to find the perpetrator — no matter the cost.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/deAoPnh27iXhhAHLHQ5fMIx8ueO.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/j852ASAC#Z0DR7v13Qi5mjkqNvT19NqmH283w0vZwFOGKbEFGbek"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 2,
-                  "Title": "Episode 2",
-                  "Duration": "44:00",
-                  "Description": "After tracking down Gi-seok's hit, Gi-jun discovers the scheme's origin — forcing him to enforce a rule he established more than a decade ago.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cpkYXknjwFEfD7QSrp5RmS9VNwy.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/24AFlR4Q#CTiMgZcshlLR__-6fs5DPtB4yGPkiTyHJF31JKaCqdI"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 3,
-                  "Title": "Episode 3",
-                  "Duration": "37:00",
-                  "Description": "Despite his father's precautions, Gu Jun-mo underestimates the threat he faces. Frustrated and desperate, he decides to handle Gi-jun himself.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gyX8F65noDDKzEMfqX44zHV8vVb.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/CloDhCIT#8fOI78Hke6VKm4pR45RuOc1YWyenzjR-XW7L2NvFW7g"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 4,
-                  "Title": "Episode 4",
-                  "Duration": "39:00",
-                  "Description": "Desperate to save his son, Chairman Gu digs deeper into Gi-seok's hit. After Jun-mo attacks his friends, Gi-jun goes head-to-head with Jun-mo's army.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kA3klhd0lWe3hwT3Ye2npJGHPe8.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/i9wj0ZTQ#cxvLrzaEDBqptf3zyV4EoFtN87PMPtctQJu8VYUgxhg"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 5,
-                  "Title": "Episode 5",
-                  "Duration": "42:00",
-                  "Description": "Gi-jun quickly learns that his problems don't end with Jun-mo. A gang war breaks out after Chairman Lee suspects the real architect behind recent events.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9AkMOkYxy2XdMHE9ntmAUMvOFKQ.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/L4ZC1aRI#hEM99hC9kYXOZDAsR7tU9t3T4D0aKL5LUp5Gt0OO1PY"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 6,
-                  "Title": "Episode 6",
-                  "Duration": "45:00",
-                  "Description": "Cha Yeong-do sets his plan in motion. As Lee Geum-son seizes power, Gi-jun faces betrayal, danger, and a race to uncover the truth behind it all.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yEIwOhRIbnUU0CqZlkqgzUwzfhO.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/SsBhiAQa#U7tBXUWyNipouPOIxhpCE57crQFG3yEQo4b8p3AaadI"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 7,
-                  "Title": "Episode 7",
-                  "Duration": "49:00",
-                  "Description": "With all his obstacles cleared, Geum-son puts his endgame into play. Will Gi-jun succeed in stopping him, or go down trying?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wPfVh84KxZmfGlaX00O08md2y0W.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/zp4HyABb#8krZWge979_MTALEW7gmwi1iTreuQw9NyzOPvdvG7_o"
+{
+  "Title": "Reborn Rich",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
+  "Poster": "https://image.tmdb.org/t/p/w500/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+  "Rating": 8,
+  "Year": 2022,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Soonyang's Loyal Servant",
+          "Duration": "1:19",
+          "Description": "Coming from a poor background, Hyun-woo works for Soonyang Group and serves the owner family. Chairman Jin Young-ki of Soonyang Group suddenly faints, and everyone in the family quickly looks for a chance to take the position. Meanwhile, Hyun-woo finds the paper company that's been creating slush funds for Soonyang and is sent on a mission to retrieve them.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wpArNIHkXe6xe2tXQjwtDGt2dxN.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/RddGWZQY#NNxnnMuXiRpoWLKyqjtoJS9yxkdSOZgKMWmb6DihshQ"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Can You See the Future?",
+          "Duration": "1:13",
+          "Description": "Hyun-woo realizes that he was reborn as the youngest grandson of the Soonyang family, Jin Do-jun. As he comes from the future, he gives useful advice to Chairman Jin Yang-chul, the founder of Soonyang who is now his grandfather. He quickly wins the chairman's confidence, becoming Chairman Jin's most adored grandson.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/zC8AMerBZHIlZJXzV4OydgOGup0.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ccdHQBiT#Sbn8vD5DMm6jxSQq7EycfC7x7od001RN96gXSqa2Qhc"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Foresight or Just Luck",
+          "Duration": "1:01",
+          "Description": "Do-jun gets into the law school of the most prestigious university at the top of his class as he promised Chairman Jin. The land he received in return provides him enough money to start investing in companies. He goes on a trip to the US with his father and meets Oh Se-hyun, an investment manager.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fY6tjAX9yTot95geyvrOBAuMXOu.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/FQ90BRqJ#je2p0lgYKaHd6PFWkXfRKSr7bpBVFxLvMrqFmI4V7J8"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Chairman Jin's Lifetime Goal",
+          "Duration": "1:05",
+          "Description": "Soonyang Motors has been Chairman Jin Yang-chul's long dream. Knowing that, Do-jun fully supports Chairman Jin and earns more trust from him. Soonyang's longtime rival, Daeyoung bids to acquire Hando Steel, and Chairman Jin learns later that one of his sons was helping Daeyoung behind his back.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eyN2IFtL1ScnMxX3k3lGIBmcos6.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/cV0QQDjL#nwpF0LITg-6uQJuZnS_9mkWSBuuqCPK6T1S8IcjTlz4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Opportunity or Miracle",
+          "Duration": "1:06",
+          "Description": "The IMF crisis causes Ahjin Motors to file for court receivership. Chairman Jin Yang-chul wants to acquire the company, but Do-jun stops him at all costs because he knows it will bring misery to his family from his previous life. However, things get difficult for Do-jun as Cheongwadae steps in to mediate the acquisition.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ePEgN2lGi0RvdJHVNQqnpGLARkB.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/kAtTXTab#4mVXHmyEmRFWmIYJ7HqYcKrrvPOwC1EloD9JY8sRfBc"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "The Man Behind Chang-je",
+          "Duration": "1:13",
+          "Description": "Seong-joon joins Soonyang Construction with ulterior motives. Do-jun convinces Se-hyun to acquire Jaea Construction to build a digital media city in Sangam-dong. Soonyang also eyes that area, but they need the new Seoul mayor to give the project to them. Chang-je gets elected as the new mayor of Seoul, but he goes against Chairman Jin and gives the project to Jaea Construction.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6E9vtbvrfbUH2QKaEGUTLIJDAKe.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/9UkGWKQB#FyKfgph9Pmeek12BkD0OlTkGQerDEPpr7ILI7CVnGuY"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Do-jun's Declaration of War",
+          "Duration": "1:10",
+          "Description": "Do-jun appears in front of Chairman Jin as the majority shareholder of Miracle Investment. Chairman Jin tells Do-jun that he'll never be able to buy Soonyang with his money. Then he hurries with the succession of the company to his eldest grandson, Seong-joon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/m6fdvmQ9tSVoxFEroQctx1fQUdz.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/EZEUQRYT#VhBumUMSZw0q4JgD6j64knkZaUm-f4TBdaPb4rAYRxg"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "The Rule of Primogeniture",
+          "Duration": "1:20",
+          "Description": "On the day of Seong-joon's wedding, Chairman Jin announces that he will no longer follow the rule of primogeniture and pass the company down to whoever proves their competence. The siblings of the Jin family eye on each other's shares, while Do-jun eggs on the siblings to mistrust each other.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/tDWvjzYbUMPkgeHsWPogakTwJ8x.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/cFcV0KyS#AOI-DRQdaemZ1GFxdxTQbCcR1XoOI8Cpc-r8gemMWro"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Falling in Your Own Trap",
+          "Duration": "1:11",
+          "Description": "The stock price of New Data Technology plummets, and Hwa-young suffers a huge loss. She is soon accused of embezzling company funds. Miracle Investment offers to pay back the money she owes, only to acquire her shares of her department store. Do-jun asks Min-young to investigate Hwa-young's embezzlement case.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ah2irryVxw5sFEw6UrEBBRDa6zA.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/QFUlRCgJ#doUddtTxlfJNAXkjcjYbbPQnP6-g3g0DcUS0kArtLIU"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Don't Trust Anyone",
+          "Duration": "1:13",
+          "Description": "Chairman Jin initiates a plan to establish Soonyang Financial Holding Company to begin his succession process. He puts his trust in his second son, Dong-ki. Dong-ki tries to sabotage Do-jun by spreading a false rumor about Miracle Investment. However, Dong-ki only ends up disappointing Chairman Jin even more.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/44ovtUBx88qRCNgQylbdOBAacTd.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/JMs3XZRb#L3QL-sv2g3NR2wLYE_NDuj10GBpEj0WBryZ9a2b3fOI"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Who Tried to Kill Me?",
+          "Duration": "1:07",
+          "Description": "After Chairman Jin and Do-jun survive the car accident, Chairman Jin secretly looks for the culprit who tried to kill him. The three children of Chairman Jin, who do not know that their father is fine, begin a war of succession on their own.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2ASpT4xz8xkltZ2UkmmtKBwwUjI.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/dIEG0JBC#hS2IwZxrLFlR6QRrR8PYXkWjEc15peDo2Do4VT64H94"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "The Hidden Agenda",
+          "Duration": "1:14",
+          "Description": "The board meeting to decide the establishment of Soonyang Financial Holding Company is held, and Chairman Jin Yang-chul shows up, surprising everyone. Do-jun continues to look for the culprit who instigated the murder of Chairman Jin and himself. When he finds out the culprit, he rushes to Jeongsimjae.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/aF2gIlheyKGW5h2BjZoE1GZbhY4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/hMcFzKLC#HiFI2qCKyQvU-a8TEE6biKaVsVz941QYUZE6bgXtI2M"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "His Last Dream",
+          "Duration": "1:14",
+          "Description": "Do-jun insists on using an aggressive marketing strategy on Soonyang Motors using the 2002 World Cup results he knows from his previous life. Upon hearing the success of Apollo, Soonyang Motors' new car, Chairman Jin Yang-chul decides to fix his will, which puts everyone in the family in an ordeal.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/u0wHDWVDdVoa4hdqsRfhfQP1up.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ZIsFlKjT#x3X43SeYKPKUarB1oPMbmS6uxaZ3O3PggVQwC4531r4"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "The Brothers' War",
+          "Duration": "1:13",
+          "Description": "Do-jun fails to become the CEO of Soonyang Financial Holding Company because of Seong-joon's scheme. Just when he was despondent over the loss, Mr. Lee Hang-jae handed over the will Chairman Jin Yang-chul left for him separately.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4bOyzWWiHIFJP1boZM7MHuLaC1R.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/IUkjiCZB#Y_eeTaAZrm4KJ_214QqC4WCgWOLJpUc4nz2R_nXAPaE"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Family Feud",
+          "Duration": "1:03",
+          "Description": "Just when Vice-Chairman Jin Young-ki thinks he has won the fight to own Soonyang, Do-jun shares the news that he bought out all of Soonyang Corporation's shares. The fight to win the management rights of Soonyang continues, and the fight between the Jin brothers becomes dirtier.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6X3H3E3qpomo3q3VUZWsXSnPOTU.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/0FsjCLwC#sH--qmYTyPPBym7vOGyjwv4qgAdT6DhYMefRwijLkRk"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "The Repentance",
+          "Duration": "1:27",
+          "Description": "After the car accident, Do-jun returns to his old self, Hyun-woo. Hyun-woo needs to clear himself of the charge of embezzling 700 billion won. The Jin family is still in a family feud to win the management rights of Soonyang, and Hyun-woo decides to end the war once and for all.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/niOWhPZS7QfUC8tV59eppsFYNMh.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ZVNzgICI#nVA7eJDcR_pYHG0dkc2iVar6jfpJ64xOTo2_xX8efH8"
                     }
                   ]
                 }
@@ -1407,108 +1446,267 @@
             }
           ]
         },
-                {
-          "Title": "Mercy for None",
-          "SubCategory": "Action & Adventure",
-          "Country": "",
-          "Description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
-          "Poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-          "Rating": 8,
-          "Year": 2025,
-          "Seasons": [
-            {
-              "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-              "Episodes": [
-                {
-                  "Episode": 1,
-                  "Title": "Episode 1",
-                  "Duration": "42:00",
-                  "Description": "After Nam Gi-seok's mysterious death, Nam Gi-jun emerges from seclusion on a mission to find the perpetrator — no matter the cost.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/deAoPnh27iXhhAHLHQ5fMIx8ueO.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/j852ASAC#Z0DR7v13Qi5mjkqNvT19NqmH283w0vZwFOGKbEFGbek"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 2,
-                  "Title": "Episode 2",
-                  "Duration": "44:00",
-                  "Description": "After tracking down Gi-seok's hit, Gi-jun discovers the scheme's origin — forcing him to enforce a rule he established more than a decade ago.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cpkYXknjwFEfD7QSrp5RmS9VNwy.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/24AFlR4Q#CTiMgZcshlLR__-6fs5DPtB4yGPkiTyHJF31JKaCqdI"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 3,
-                  "Title": "Episode 3",
-                  "Duration": "37:00",
-                  "Description": "Despite his father's precautions, Gu Jun-mo underestimates the threat he faces. Frustrated and desperate, he decides to handle Gi-jun himself.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gyX8F65noDDKzEMfqX44zHV8vVb.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/CloDhCIT#8fOI78Hke6VKm4pR45RuOc1YWyenzjR-XW7L2NvFW7g"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 4,
-                  "Title": "Episode 4",
-                  "Duration": "39:00",
-                  "Description": "Desperate to save his son, Chairman Gu digs deeper into Gi-seok's hit. After Jun-mo attacks his friends, Gi-jun goes head-to-head with Jun-mo's army.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kA3klhd0lWe3hwT3Ye2npJGHPe8.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/i9wj0ZTQ#cxvLrzaEDBqptf3zyV4EoFtN87PMPtctQJu8VYUgxhg"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 5,
-                  "Title": "Episode 5",
-                  "Duration": "42:00",
-                  "Description": "Gi-jun quickly learns that his problems don't end with Jun-mo. A gang war breaks out after Chairman Lee suspects the real architect behind recent events.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9AkMOkYxy2XdMHE9ntmAUMvOFKQ.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/L4ZC1aRI#hEM99hC9kYXOZDAsR7tU9t3T4D0aKL5LUp5Gt0OO1PY"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 6,
-                  "Title": "Episode 6",
-                  "Duration": "45:00",
-                  "Description": "Cha Yeong-do sets his plan in motion. As Lee Geum-son seizes power, Gi-jun faces betrayal, danger, and a race to uncover the truth behind it all.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yEIwOhRIbnUU0CqZlkqgzUwzfhO.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/SsBhiAQa#U7tBXUWyNipouPOIxhpCE57crQFG3yEQo4b8p3AaadI"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 7,
-                  "Title": "Episode 7",
-                  "Duration": "49:00",
-                  "Description": "With all his obstacles cleared, Geum-son puts his endgame into play. Will Gi-jun succeed in stopping him, or go down trying?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wPfVh84KxZmfGlaX00O08md2y0W.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/zp4HyABb#8krZWge979_MTALEW7gmwi1iTreuQw9NyzOPvdvG7_o"
+{
+  "Title": "Please Be My Family",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "Qi Sile strives to secure a project to pay for her daughter's surgery while pursuing Maolin's boss, Song Haoyu. When he discovers a connection between his son and her daughter, he proposes to her, hoping to create a complete family for the children, leading them into an uncertain future together.",
+  "Poster": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+  "Rating": 8,
+  "Year": 2023,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "At the Age of Five, Wishes Come True",
+          "Duration": "37:00",
+          "Description": "Qi Sile takes her daughter Xuanxuan to pick out a birthday gift, where she and Song Haoyu cross paths because of a brooch. Later, when Qi Sile and Song Haoyu join a parent-child activity, they end up mocking each other.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/4AUEHIwL#CaGwm_BJE5jzeUdQEu6wU6yutzLBo5uExWQ_QesHs3s"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Mommy is Back",
+          "Duration": "31:00",
+          "Description": "Qi Sile keeps pressing Song Haoyu for the contract. Chenchen becomes convinced that Qi Sile is his mother, leading Song Haoyu to propose to her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/pMNGkDhD#OXij9eQDK7W399f3EYDVrAE3Qo9l7DvraZNt05alb5E"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "The Two-Faced Mr. Song",
+          "Duration": "31:00",
+          "Description": "Song Haoyu's proposal leaves Qi Sile feeling insulted. Li Xin pretends to be Hao Jun's fiancée to help him out of an awkward situation. Qi Sile is hospitalized after a pollen allergy attack.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/gId3jQpT#gHb77HljJbYDNs6d9wpV-rKKM1bvC1iMqKn08P_adTw"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Don't Mess with a Woman",
+          "Duration": "30:00",
+          "Description": "Li Xin asks Qi Sile to help her on a blind date, but Song Haoyu intervenes. After Qi Sile is terminated from her contract, she has an emotional breakdown and is mocked by Tong Luoqi, leading to yet another misunderstanding with Song Haoyu.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/VRFnmY4I#67C7hE2HVZIx8cFUErzH_sCjT4FN6fDDqxsQt90UmT4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "I Will",
+          "Duration": "31:00",
+          "Description": "Qi Sile's company goes bankrupt. When Xuanxuan's condition turns critical, Song Enmao willingly gives up a surgery slot. Qi Sile then proposes to Song Haoyu.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/VdVgCBQI#aKvB_Gp1NjB38KDAE9FoPNI_KtakCtaNkoi8FfCwFSU"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "What is Marriage?",
+          "Duration": "31:00",
+          "Description": "Song Haoyu and Qi Sile register their marriage. Qi Sile moves into the Song household to begin a new life together, and the two start their \"public display of affection\" mode.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/dMNh1ZQK#BkNXHo0T8JEku9pG3la3ci146J-r8EevYS8e_T71gFo"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "The Best Actor",
+          "Duration": "30:00",
+          "Description": "Song Haoyu wins Li Xin's approval with a string of romantic words, but Hao Jun senses something is off. Qi Sile sees through it all, realizing that everything Song Haoyu has done is only for the sake of the children and his grandpa.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/VYkj1T5D#eGu5-5w8gGLozQXsppmyjOxqv8cRe5oaH2hScLgvFt0"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "I Don't Agree with Your Marriage",
+          "Duration": "31:00",
+          "Description": "Qi Sile kisses Song Haoyu to declare her claim over him. Meanwhile, Qi Sile's parents confront their daughter for hiding her marriage.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/hVcACS7C#MDheBsErzURgXZ10ohbg9v5vjgfY9oMvnFf1WE2LbnM"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "I'll Leave Her in Your Care",
+          "Duration": "34:00",
+          "Description": "Qi Sile's parents question Song Haoyu, while Chenchen firmly insists that he only recognizes Qi Sile as his mother. Li Xin mistakenly takes Hao Jun for her fiancé. After reading the letter, Qi Sile is moved to tears and reconciles with her father.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/MENHTAhB#vRVnfq0zSmboSsFL2mZTlFBRSuEq-A20J8jSfMpOhEE"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Don't Let Girls Cry",
+          "Duration": "32:00",
+          "Description": "Song Haoyu moves Qi Sile with a custom-made wedding ring. By accident, Qi Sile overhears Song Haoyu's innermost thoughts, leaving her heartbroken but silent. On the day of Xuanxuan's surgery, Song Haoyu returns just in time to give his support.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/1N0lwbIC#GxU7Ll-J406CPZw8VFwv1h8CXKhbSPlrjQ_jDaML2pM"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "I Defeated the Little Monster",
+          "Duration": "33:00",
+          "Description": "Xuanxuan's surgery is a success, and the family's bond grows even stronger. Qi Sile looks for a job in the jewelry industry but faces repeated setbacks because of Song Haoyu, and in the end, she accidentally ends up at Tong Luoqi's store.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/8NNDARBK#gvdZNNqEahsD-5PB99puIt1Wda7rE5jaQDpx-Omt2Gc"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Where's All That Jealousy Coming From?",
+          "Duration": "33:00",
+          "Description": "Qi Sile comes under pressure from Tong Luoqi. Song Haoyu tries to recruit Qin Tian but is turned down, only to witness his wife's interactions with Qin Tian and become consumed by jealousy. Li Xin, still wounded from past love, rejects Hao Jun's confession.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/FBtg0DjS#cu3H5ZxfmipNR_8ed6m4vRUtEB85gfQSBMD3NPNgJPE"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Sincerity Is the Ultimate Weapon",
+          "Duration": "32:00",
+          "Description": "Qin Tian approaches Qi Sile to buy jewelry, stirring Song Haoyu's jealousy. When workers cause a disturbance over unpaid wages, Qi Sile steps forward to protect her husband, but is attacked. Song Haoyu is injured while saving her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/FYkTVKhZ#bVajGMjHukVL9hksxpxhUN5lT_8A8--RJRCMcZmjWVs"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Do You Like Me?",
+          "Duration": "34:00",
+          "Description": "Qi Sile uses alcohol to test Song Haoyu, but ends up drunkenly confessing her feelings instead, only to regret it when she sobers up. Hao Jun faces repeated setbacks in pursuing Li Xin. Qi Sile meets the requirements and secures her full-time position.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/kIUAjDKa#2ZBwf8e7AJLjtaplIhyaewfLf3sl7i03Ka_224GigKA"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "I Didn't Lie This Time",
+          "Duration": "37:00",
+          "Description": "Heartbroken, Qi Sile returns to her hometown to honor her late sister, and Song Haoyu follows her to confess his feelings. Hao Jun and Li Xin quarrel out of spite. Song Haoyu's former love, Jin Xichen, returns to the country.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/pU8BxATD#zt8vt1Y7GVHvACFoIh_Yo5sKMXH2hwR0Rwj6EZQ3YVA"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "We're Dating",
+          "Duration": "32:00",
+          "Description": "Hao Jun sets a trap to provoke Li Xin, but ends up being given the cold shoulder. The relationship between Song Haoyu and Qi Sile grows closer. Song Haoyu learns that Qin Tian has signed Jin Xichen as a brand ambassador, and Hao Jun takes the initiative to handle the partnership.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/UAtFQTiI#yXMwIBD-JEMH7efwCVLiSiER0SXkHelMGzaVDcITCC4"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Long Time No See",
+          "Duration": "32:00",
+          "Description": "Li Xin visits the ailing Hao Jun, easing the tension between them. Jin Xichen tries to approach Chenchen but is met with indifference. Qi Sile is promoted to designer.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/hFkWibKR#zfH73WwT3CSu3VjvdY_09He0bOhUEqSPQe88bw4OmNk"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "She's Trying to Steal My Husband",
+          "Duration": "32:00",
+          "Description": "Jin Xichen brings up Chenchen in front of Song Haoyu, prompting Qi Sile to assert her identity as his wife. After getting drunk, Qi Sile is taken home by Song Haoyu. Jin Xichen attempts to win Song Haoyu back but is rejected.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/sQkCmajK#ehhd56O59RFm2tgXAtluz4wqZzdMICScmAv27fQnmqY"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "I'II Give You the Answer You Seek",
+          "Duration": "31:00",
+          "Description": "Hao Jun helps Li Xin come to terms with her past by confronting her ex-fiancé and demanding an explanation from him. They then acknowledge their feelings for each other. Song Haoyu and Qi Sile open up about Chenchen's and Xuanxuan's identities.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/VclQwaQT#xXOeEK-ntnjk3lIiVTjkQSApS4_HipP67Ve8pOXOk5E"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "A Trip Down Memory Lane",
+          "Duration": "33:00",
+          "Description": "Qi Sile and Tong Luoqi become closer. Qi Sile encourages Song Haoyu to star on a reality show with Jin Xichen.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/5Ftg0BrC#S_Y9tZNILEVmttbXhu3eKJyjQGqbJd_kcc2m1ExMfnE"}]
+        },
+        {
+          "Episode": 21,
+          "Title": "Reason Behind the Ambition",
+          "Duration": "34:00",
+          "Description": "Tong Luoqi, Qi Sile, and Li Xin become besties. Song Haoyu visits Jin Xichen, who is suffering from anxiety. Jin Xichen asks Qi Sile to divorce her husband.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/EI8wWbYJ#ktTV4j9Lvxufq_2MJbCzq7g-bxRaMYwpQPvF_Ow2Iqo"}]
+        },
+        {
+          "Episode": 22,
+          "Title": "Secrets in the Marital Home",
+          "Duration": "31:00",
+          "Description": "Hao Jun's carefully planned proposal triggers Li Xin's past trauma. Qi Sile and her best friends see Song Haoyu leaving Jin Xichen's residence. Qi Sile learns more about her elder sister's past from Qin Tian.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ZZVjmLTb#_DPo9xT7U8UNepkWi9JMUH3-Qy2m2j4K39zXh_f4Dgg"}]
+        },
+        {
+          "Episode": 23,
+          "Title": "I Wish You a Bright Future",
+          "Duration": "30:00",
+          "Description": "Song Haoyu gives Qin Tian a warning. Jin Xichen confesses but is later rejected by Song Haoyu. Nevertheless, Song Haoyu wishes her all the best. Li Xin tries to make up with Hao Jun by pretending to be drunk. The latter sees through the ruse right away.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/9ItwjToD#Ad5WlPbRcSnNH0jfrpDN9j_plMe0fPftj4u9GRXXCZw"}]
+        },
+        {
+          "Episode": 24,
+          "Title": "Not the One I Want to See",
+          "Duration": "36:00",
+          "Description": "Song Haoyu sets up a work studio for Qi Sile at home. Li Xin meets her ex-boyfriend but she no longer feels anything towards him. She confesses her love for Hao Jun. Jin Xichen makes Qi Sile's product go viral.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/JUNhlLSa#1qkDWd0-JrKSM8647x40WONs7Cwqm_5NTts6T5NidvI"}]
+        },
+        {
+          "Episode": 25,
+          "Title": "Let's Divorce",
+          "Duration": "30:00",
+          "Description": "The Song family plan a surprise part for Song Enmao. Qin Tian launches a coop to remove Song Haoyu. He also reveals the truth of the marriage to Song Enmao and Qi Sile. Feeling betrayed, Qi Sile asks for a divorce.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/RRMACIrY#qbrR27heWzv_cx8NbMNjlclybtuVm3JWAg9qmDK0DCM"}]
+        },
+        {
+          "Episode": 26,
+          "Title": "Don't Go, Mommy",
+          "Duration": "34:00",
+          "Description": "Qi Si Le packs up and leaves with Xuanxuan. Xuanxuan and Chenchen contact each other using their smart watches. But later, they become lost.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/IFN2zb4D#YvR_9rBTkW_M7573XwYsFZxBELKPeLIVdUfsAyyJVdI"}]
+        },
+        {
+          "Episode": 27,
+          "Title": "A Real Family Hugs Like This",
+          "Duration": "35:00",
+          "Description": "Qi Sile finds out Qi Sitian's past. She investigates further with Song Haoyu and discovers that Qin Tian and Qi Sitian go way back.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/4IdFhBwb#lZQ3o5xhtOPL61sD5mglp0V93bydMarJPadN0jaoXCI"}]
+        },
+        {
+          "Episode": 28,
+          "Title": "Protect My Family",
+          "Duration": "36:00",
+          "Description": "Tong Luoqi and Qi Sile turn the tide and manage to keep Maolin intact. Using the audio recording of the accident, Qin Tian reveals that Song Haochen killed Qi Sitian. However, Song Haoyu notices a discrepancy in the recording.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/oJ9mmbYS#aVBm1buL-mqDyyJGZ0NkO9Ns1U1mj70TSW4xOfABgH8"}]
+        },
+        {
+          "Episode": 29,
+          "Title": "This Game is Not Fun",
+          "Duration": "33:00",
+          "Description": "Song Enmao reveals the whole recording. Qi Sile faints upon learning the truth. Qin Tian kidnaps the children to the orphanage.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/VdFw0JCS#zLmtlcjDOIT2iG7OMgT55DgGnEJi_sJkGKjNaDkqaw8"}]
+        },
+        {
+          "Episode": 30,
+          "Title": "Please Be My Family",
+          "Duration": "31:00",
+          "Description": "Qi Sile and Song Haoyu made up. The pregnant Qi Sile helms her own jewelry brand. Song Haoyu plans a surprise proposal party.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/EB9W2aKZ#QRflyk4GAIpOnUIvJyinVfywcceYjk3ZQevLBOAak2A"}]
+        },
+        {
+          "Episode": 31,
+          "Title": "Episode 31",
+          "Duration": "Unknown",
+          "Description": "Additional episode content.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AgLg3su8nVmvq39SGaN5xflJsYJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/sBEDxRLA#4DO5RnvUPRaHY2N1KGYe0K1kBEBXo1H6cL3wJVxVlUo"
                     }
                   ]
                 }
