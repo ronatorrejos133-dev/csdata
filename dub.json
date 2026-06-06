@@ -42,7 +42,74 @@
             }
           ]
         },
-        
+        {
+          "Title": "Mortal Engines",
+          "SubCategory": "Adventure",
+          "Country": "",
+          "Description": "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.",
+          "Poster": "https://image.tmdb.org/t/p/w500/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+          "Rating": 6,
+          "Duration": "2:08",
+          "Year": 2018,
+          "Servers": [
+            {
+              "Server": "Mega",
+              "Link": "https://mega.nz/embed/X7gU0KiB#b1izF_jP398eD4Xpgf5-f4FOMe2C-4EWxyimzx8Wnog"
+            }
+          ]
+        },
+        {
+          "Title": "Finding Nemo",
+          "SubCategory": "Animation",
+          "Country": "",
+          "Description": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+          "Poster": "https://image.tmdb.org/t/p/w500/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+          "Rating": 8,
+          "Duration": "1:40",
+          "Year": 2003,
+          "Servers": [
+            {
+              "Server": "Mega",
+              "Link": "https://mega.nz/embed/ShRwhByT#s40LNuEW01Y9VzbyxagQVXU43-w094p1KDueeHTEhTY"
+            }
+          ]
+        },
+        {
+          "Title": "Mortal Kombat",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+          "Poster": "https://image.tmdb.org/t/p/w500/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+          "Rating": 7,
+          "Duration": "1:50",
+          "Year": 2021,
+          "Servers": [
+            {
+              "Server": "Mega",
+              "Link": "https://mega.nz/embed/voAXlLBI#guLfiC_Wp9XN3_L2_YObx7xayobx_jLPMoteJmnwfyM"
+            }
+          ]
+        },
+        {
+          "Title": "The Shallows",
+          "SubCategory": "Horror",
+          "Country": "",
+          "Description": "While surfing on a secluded beach, Nancy finds herself in the feeding grounds of a great white shark. Though stranded only 200 yards from shore, survival proves to be the ultimate test of wills, requiring all of her ingenuity, resourcefulness, and fortitude.",
+          "Poster": "https://image.tmdb.org/t/p/w500/bnBV7hZmLuA0Si5Aop481sPF2RY.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bnBV7hZmLuA0Si5Aop481sPF2RY.jpg",
+          "Rating": 6,
+          "Duration": "1:26",
+          "Year": 2016,
+          "Servers": [
+            {
+              "Server": "Mega",
+              "Link": "https://mega.nz/embed/H1BhxZBA#ksfXVO0_3JYZx0CI7oqDAD2YkBr2iXf3zb7zgb0ZqxM"
+            }
+          ]
+        },
         {
           "Title": "Bad Genius",
           "SubCategory": "Drama",
