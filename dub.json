@@ -971,7 +971,7 @@
             }
           ]
         },
-                {
+                        {
           "Title": "Mercy for None",
           "SubCategory": "Action & Adventure",
           "Country": "",
@@ -1080,108 +1080,147 @@
             }
           ]
         },
-                {
-          "Title": "Mercy for None",
-          "SubCategory": "Action & Adventure",
-          "Country": "",
-          "Description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
-          "Poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-          "Rating": 8,
-          "Year": 2025,
-          "Seasons": [
-            {
-              "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-              "Episodes": [
-                {
-                  "Episode": 1,
-                  "Title": "Episode 1",
-                  "Duration": "42:00",
-                  "Description": "After Nam Gi-seok's mysterious death, Nam Gi-jun emerges from seclusion on a mission to find the perpetrator — no matter the cost.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/deAoPnh27iXhhAHLHQ5fMIx8ueO.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/j852ASAC#Z0DR7v13Qi5mjkqNvT19NqmH283w0vZwFOGKbEFGbek"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 2,
-                  "Title": "Episode 2",
-                  "Duration": "44:00",
-                  "Description": "After tracking down Gi-seok's hit, Gi-jun discovers the scheme's origin — forcing him to enforce a rule he established more than a decade ago.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cpkYXknjwFEfD7QSrp5RmS9VNwy.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/24AFlR4Q#CTiMgZcshlLR__-6fs5DPtB4yGPkiTyHJF31JKaCqdI"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 3,
-                  "Title": "Episode 3",
-                  "Duration": "37:00",
-                  "Description": "Despite his father's precautions, Gu Jun-mo underestimates the threat he faces. Frustrated and desperate, he decides to handle Gi-jun himself.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gyX8F65noDDKzEMfqX44zHV8vVb.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/CloDhCIT#8fOI78Hke6VKm4pR45RuOc1YWyenzjR-XW7L2NvFW7g"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 4,
-                  "Title": "Episode 4",
-                  "Duration": "39:00",
-                  "Description": "Desperate to save his son, Chairman Gu digs deeper into Gi-seok's hit. After Jun-mo attacks his friends, Gi-jun goes head-to-head with Jun-mo's army.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kA3klhd0lWe3hwT3Ye2npJGHPe8.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/i9wj0ZTQ#cxvLrzaEDBqptf3zyV4EoFtN87PMPtctQJu8VYUgxhg"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 5,
-                  "Title": "Episode 5",
-                  "Duration": "42:00",
-                  "Description": "Gi-jun quickly learns that his problems don't end with Jun-mo. A gang war breaks out after Chairman Lee suspects the real architect behind recent events.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9AkMOkYxy2XdMHE9ntmAUMvOFKQ.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/L4ZC1aRI#hEM99hC9kYXOZDAsR7tU9t3T4D0aKL5LUp5Gt0OO1PY"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 6,
-                  "Title": "Episode 6",
-                  "Duration": "45:00",
-                  "Description": "Cha Yeong-do sets his plan in motion. As Lee Geum-son seizes power, Gi-jun faces betrayal, danger, and a race to uncover the truth behind it all.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yEIwOhRIbnUU0CqZlkqgzUwzfhO.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/SsBhiAQa#U7tBXUWyNipouPOIxhpCE57crQFG3yEQo4b8p3AaadI"
-                    }
-                  ]
-                },
-                {
-                  "Episode": 7,
-                  "Title": "Episode 7",
-                  "Duration": "49:00",
-                  "Description": "With all his obstacles cleared, Geum-son puts his endgame into play. Will Gi-jun succeed in stopping him, or go down trying?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wPfVh84KxZmfGlaX00O08md2y0W.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/zp4HyABb#8krZWge979_MTALEW7gmwi1iTreuQw9NyzOPvdvG7_o"
+{
+  "Title": "When Life Gives You Tangerines",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+  "Poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+  "Rating": 9,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Spring in a Heartbeat",
+          "Duration": "58:00",
+          "Description": "Raised by a tenacious mother, a young, bright-eyed Ae-sun has dreams bigger than her village — until an unexpected tragedy changes everything.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7NZeS2RsCDb7m8QeB3jDf0EkAd.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/e2YDmSJY#QkYBOgSeG5JaH8JzmNrHdzS9mNHCH_AX4Nzl_lTLl7w"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Sassy First Love",
+          "Duration": "54:00",
+          "Description": "As love blossoms between Ae-sun and Gwan-sik, they make their first bold move together. But their romantic adventure hits a snag.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eJ3uRHVwn1qHNfGfHaxBM3ePQJX.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/D2QgmSjT#JyGeFuBGT4I8XsXTyR-0E5JEZuFkRF5Qki0LUJuf5fI"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Yesterday Was Your Spring",
+          "Duration": "1:03",
+          "Description": "After a dramatic rescue, Ae-sun and Gwan-sik return to Jeju. Soon, Ae-sun resigns herself to a sad fate — leaving Gwan-sik devastated.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9zNntKC89arsqaDXzwjqpsdXSCC.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PuxVSDpD#yXUfQ_2_HEVv8-A1NO4Po7NB7ODQJtyaLQE-51R6MfQ"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "The Blazing Summer Sunshine",
+          "Duration": "1:00",
+          "Description": "Summer brings joy as the newlyweds start a life together, but living with Gwan-sik's family tests their happiness — can they find a path to peace?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vw1mCoPLA5KX2UKcA7m1xoJCM67.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ujQEHY5B#7DTR07ydnrY47W-jLD7hOS8z2TsY5DtMeN8UkaRqv3k"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "A Midsummer Night's Full Nets",
+          "Duration": "1:01",
+          "Description": "As Gwan-sik struggles to find work, Ae-sun worries for her family — until a lifeline appears. Soon after, Ae-sun sets her ambitions higher in Jeju.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1xdpxqjXZNB2UmWUtMgcx83rdgj.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ay5myC6S#cgGWYGOVHSXSZ5OEl1Bww1c6MlTjczNLZ-ly-f8I2LA"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Life Goes on and On",
+          "Duration": "57:00",
+          "Description": "Just as Ae-sun and Gwan-sik taste the joys of their new life, a summer storm changes everything — testing their will to carry on.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gcQ1iKpaCdAW7SXb0sb4gbCJXWv.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/u3QXwZxC#n9ruibI2A6_Mch0xwHZGpeKzupt_bjgfN_n_ntq9r1s"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "A Fruitful Fall",
+          "Duration": "1:04",
+          "Description": "As the village chief election approaches, Ae-sun faces corrupt opposition. Geum-myeong receives an unusual request that tests her morals.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pYik2gc8A04rQ6XHeUMPXFeklCr.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mjw0hCIT#Mspsc6oLbJRvPCSkmuhUam2zTvmyScehvpWF3ANWVhc"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "The Moon Wanes, Yet the Young Heart Remains",
+          "Duration": "1:03",
+          "Description": "When Geum-myeong receives a chance to study in Japan, dreams take flight. Now Ae-sun and Gwan-sik must make a tough decision.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2xd5RKw18f5lHU4xYSwaokdcDpk.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zzxEHIqa#7ig3ifV6YiyOJAV_QiqNgoRcREpYHjgwzBm8Lca4TRc"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "The Wind Goes Whoosh, My Heart Goes Boo-Hoo",
+          "Duration": "49:00",
+          "Description": "Life in a small apartment tests Ae-sun and Gwan-sik as they struggle to parent Yang Eun-myeong. Meanwhile, Geum-myeong juggles love and life in Seoul.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/l8tsUtKuKAJroL0zLDXkBeVfSer.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/G2pHAIaT#6kFNqlzKHsFWdbjTBfcAVGj2x8A-UegMoJ9OFOLjVko"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "The Storm Sweeps My Heart, the Love Rocks My Heart",
+          "Duration": "57:00",
+          "Description": "While Geum-myeong grows closer to her quirky colleague, Ae-sun's troubling dreams stir real concerns. Do they hold any meaning?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pwkopTt76EgBgqPDLoh8WA3ly0U.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/7nxQELLC#uuBLBOw7jQLPyrpp7K9i0oA3lpzkwvNP5V08zipJN6c"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "My Love by My Side",
+          "Duration": "1:03",
+          "Description": "As Geum-myeong's engagement moves toward marriage, her heart fills with doubt — will her first love story find its happy ending like her mother's?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pPJ0dlSCj8HsZX6gZte7lYnJpF5.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/uiACFaQL#S3K8tSjLNoo2Z3_GZOktJhW_CiUfta2XJT9S9MvGlwU"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "A Glistening Winter",
+          "Duration": "59:00",
+          "Description": "Back in Jeju, Geum-myeong mends her heart in familiar surroundings. Ae-sun treasures sweet moments with her loved ones.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wizdl0A0iRtMpyHuj6ww6g851um.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LqghDTZR#QJnnYKLpVUhahFhr9sBgMm9ye3RWjdlPD8da3KVoGAQ"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Such an Uneven Love",
+          "Duration": "1:02",
+          "Description": "While facing a career setback during an economic downturn, Geum-myeong encounters a familiar face — sparking an unexpected new beginning.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6lXUWf7SHFqcdHlhIip3CDaz6lS.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Ty5m1L6C#JiEwHjA4D7RyK2G9mdAnOAI2J7w5k5hgdMcYeEqRJgU"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Spread Your Wings and Fly",
+          "Duration": "1:05",
+          "Description": "Ae-sun and Gwan-sik grapple with Yang Eun-myeong's misfortune, sacrificing everything they can to help him. But Eun-myeong's self-confidence takes a hit.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1Z6yGbOgHIfxqb3C25kjOIl6kEq.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/P3ZgXCzQ#n_6dVquAkbQupnGYPx7Oq4CuIW3usA2K2TkcdS1QKhQ"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "A Spring Every Day",
+          "Duration": "1:09",
+          "Description": "Between new business ventures and career changes, the family faces separate hurdles on their paths — drawing strength from their bond to press ahead.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/V3bupKEMet32iQ9fYnKa0j2WDU.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/D3ZD3T7R#O3u-Jq2ElGpds3aMP4d8nNOpMG42RnFoA7Zl03hJt5Y"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Here's to All You've Been Through",
+          "Duration": "1:25",
+          "Description": "As the Yang family finally enjoys the fruits of their labor, sudden agony strikes — testing their resolve and the strength of their enduring love.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/u2XhQS7JAk9mUBSqcpF6by47Ds7.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/f6YUUQYD#103POty2iXkAeNgn8FNcbFOvyvR8bYikAPWRS8x9hLk"
                     }
                   ]
                 }
@@ -1189,108 +1228,1722 @@
             }
           ]
         },
-                {
-          "Title": "Mercy for None",
-          "SubCategory": "Action & Adventure",
-          "Country": "",
-          "Description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
-          "Poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-          "Rating": 8,
-          "Year": 2025,
-          "Seasons": [
-            {
-              "Season": 1,
-              "SeasonPoster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-              "Episodes": [
-                {
-                  "Episode": 1,
-                  "Title": "Episode 1",
-                  "Duration": "42:00",
-                  "Description": "After Nam Gi-seok's mysterious death, Nam Gi-jun emerges from seclusion on a mission to find the perpetrator — no matter the cost.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/deAoPnh27iXhhAHLHQ5fMIx8ueO.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/j852ASAC#Z0DR7v13Qi5mjkqNvT19NqmH283w0vZwFOGKbEFGbek"
+{
+  "Title": "The First Night with the Duke",
+  "SubCategory": "Sci-Fi & Fantasy",
+  "Country": "",
+  "Description": "Reincarnated as a minor character in a novel, Cha Seon-taek unexpectedly spends a night with Prince Kyungsung, sparking an intense and unexpected romance.",
+  "Poster": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+  "Rating": 8,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Reading a Book is Inviting Another's Life into Yours",
+          "Duration": "1:01",
+          "Description": "K finds herself inhabiting the body of Cha Sun Chaek, a wealthy but completely irrelevant side character. With a VVIP ticket to watch the epic romance unfold, her simple plan is to stay out of the way and enjoy the show. But that plan is spectacularly derailed after a wild night of celebration ends with her accidentally stealing the male lead's first night.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uyNOzFLPMqGoc6UK3GIkvI5FGt1.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mWxAhSqT#5Ye4Fju6_xm8pF7Kln8kly8aEM4d51oIzS__qX28Cy8"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "The First Night in This Lifetime",
+          "Duration": "1:01",
+          "Description": "Cha Sun Chaek tried her best to run from Yi Beon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kJYtQZcm4DADDFYTPJbuYpyNfCS.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/2LpnmQqa#8HA4Yv_pl67s2-WB4Z-IA68qPFVDSEhAbSvQX4--1Gg"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Something Always Happens on a Moonlit Night",
+          "Duration": "1:04",
+          "Description": "Yi Beon encountered an unusual figure. Cha Sun Chaek tries to fix the story she broke. Jeong Su Gyeom held a gathering for the Astral Philosophy Club.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/zs3buEFLr3Sa2NdAhBdoUZBraSp.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/GaREmKyR#T84MT-VDmz_jtx8x5uq8_TKpLVZo8qGgLNY7Z_9qxkk"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "We Need a Backup Plan",
+          "Duration": "1:03",
+          "Description": "Yi Beon's persistence reached Cha Sun Chaek's family. Cha Sun Chaek encountered a foreigner. Do Hwa Sun persuaded the Queen Dowager to do something in her favor.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/aluavkGYNAvyGZxZsIxAaPiMp8Z.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zS4xjZia#2-AzjBKadeFUKY_K5b_alndgz6qyuSlw0K2PC2da7aw"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "There is No Such Thing as \"As It Was\"",
+          "Duration": "1:03",
+          "Description": "The Palace officially hold the bride selection process for Yi Beon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vFrHsx6cwKOrtVakfTMPFO9LRVn.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yCJBUIAR#lFIIWOXPa3R2dDMtfb7Q8gASExrlbIaUmKEkrjtK14g"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Playing the Field and a Disguise",
+          "Duration": "1:01",
+          "Description": "Yi Beon continues investigating the figures surrounding Cha Sun Chaek's incident. Jeong Su Gyeom gets jealous. Cha Sun Chaek made it to the final round of selection.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/hTR9lcw35tWCkKWwEFapZg7XMBe.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/XHRgSRaA#-b1hE78_L_Mk-1TQ-e-3XZr5nzZk_Rs_pLicujtADv0"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "The Inflection Point",
+          "Duration": "1:01",
+          "Description": "Yi Beon and Cha Sun Chaek are getting closer. Jeong Su Gyeom braves himself to pursue his dream woman. A new villain entered the story.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fa5cKTmqg26rwruIhYTcWuMmkxy.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fbwkEZaR#1amV0yDBk2uj-vRBKNSkoK5Eq0reDOUPRxw3gSV4orc"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "The Shadow that has Returned",
+          "Duration": "1:02",
+          "Description": "Someone from Cha Sun Chaek's childhood past emerged. Yi Beon and Cha Sun Chaek's courtship faces another obstacle. Yi Beon's relationship with the King is being tested with the return of the exiled prince.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/k2FzAU8nl2gG65UWTzKky0eA3kF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/7ewQUCJY#0lYwSnfL3randkN1NHZik39EMtmFx0iqo64v1o0ksTo"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "The Wounded Things",
+          "Duration": "1:01",
+          "Description": "Cha Sun Chaek and Yi Beon's courtship gained blessings, but the hardships remain. A highly unlikely pair starts to join forces.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bLAOfYrB4As0QmzmusrmzoUuKRn.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LT4VxJhJ#t-8VNZnrhSqdLk0NHf6ZmuUHF4LVPMKsSruuDzlQ6HQ"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Once Again, Because of Fate",
+          "Duration": "1:03",
+          "Description": "Jeong Su Gyeom obtained the truth. Yi Beon received punishment from the King. The Black Gang is getting stronger.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9iSVT26Mbr33m7Ky9iVQrUSJ110.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jWZG1AjT#DpBEfUXNEBXfz53KEynnTJiY31EfWzsPs8lVrN1xtFk"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "A Dream or an End?",
+          "Duration": "1:03",
+          "Description": "Yi Beon fights for his life, and his lover. Lee Kyu's plan fell into place. Cha Sun Chaek take matters into her own hands.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/476V7UHtlqk36Y3FI7m759LOXdw.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/SKAj0RzY#iFI-gUnfptsAvvAuZ5qWTHc2HwV41TuFAKrdtgifu2Q"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Into the New World",
+          "Duration": "1:03",
+          "Description": "Yi Beon and Cha Sun Chaek overcome their adversaries.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/hkxWQm9GQ73r852dgDSB53Tv3V3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/GLpV3BxB#Elzjhx__bsYhVOEy-hE5FMirhT_tcH6WhJ1ZB8xmNCs"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Episode 13",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mfRlHR5B#rYrD2zf_Pg6WLtFLseV9qEbgWciUHntagY3HUP5rbnE"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Episode 14",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Hao0FBBR#LIXOnpPBxDAI4ZfBHP2ZQsYn0vPFB5PEDR7CFchFB9g"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Episode 15",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/bOgkDIiT#dJadlzAVvITRQu9ZazZOJj2FuTxfkkJTSWU_u_65Zek"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Episode 16",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/nGRUiKyZ#MdzQxGrCtqhrpKyvIjI7oOu88PMYUkp5F32rYTOAp68"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Episode 17",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OGwiSCIC#WqcdlIJZpP7SWfAtBFCsQ-nEFH6NRA0yihKclWk8Xw4"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Episode 18",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/TOgRwRwS#gfNVjltAZ7k96M14YgkWzB-dROneFFkQe2aewAhvg0A"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "Episode 19",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CahGVawC#oxDtR3sJS3MQUe4Xu2uQX1toGZML2tN3tD2l5UkRA1k"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Episode 20",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dlR9GzrDjioALN9W4RMFfjYyIXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/iXwkiDgC#cRETHj-G3m572oAwiw7VDlS0DybcAmYpeKNLITNWsLU"
                     }
                   ]
-                },
-                {
-                  "Episode": 2,
-                  "Title": "Episode 2",
-                  "Duration": "44:00",
-                  "Description": "After tracking down Gi-seok's hit, Gi-jun discovers the scheme's origin — forcing him to enforce a rule he established more than a decade ago.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cpkYXknjwFEfD7QSrp5RmS9VNwy.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/24AFlR4Q#CTiMgZcshlLR__-6fs5DPtB4yGPkiTyHJF31JKaCqdI"
+                }
+              ]
+            }
+          ]
+        },
+{
+  "Title": "The Chosen",
+  "SubCategory": "Action & Adventure",
+  "Country": "",
+  "Description": "The life of Christ through the eyes of those who encountered him.",
+  "Poster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+  "Rating": 9,
+  "Year": 2019,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "I Have Called You by Name",
+          "Duration": "55:00",
+          "Description": "Two brothers struggle with their tax debts to Rome while a woman in the Red Quarter wrestles with her demons.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eOJOHuAVF8n01jZGKuD8e5f3otL.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ZVFmBAIa#qsj4Jroz-_rg6QT31wSnm_Anjd-0A1GCUwrHxpWvgKc"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Shabbat",
+          "Duration": "38:00",
+          "Description": "Matthew validates Simon's claims with Praetor Quintus, Nicodemus investigates the miracle reported in the Red Quarter, and Mary receives surprise guests at her Shabbat dinner.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4eSOVXHLoBRukvkedJn4gb83FCO.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/JB13kAyL#gpAzoorwGKB6FbhX6RoStWKQZQAoYqSyC-jIJIBHQ5Y"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Jesus Loves the Little Children",
+          "Duration": "29:00",
+          "Description": "Jesus befriends and teaches the group of children who discover His camp on the outskirts of Capernaum.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vakhgGj5qIPoBz30DHBAsGpdTrh.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/hUkhHShT#rDSxZgwAHioit7q92U8FVlacP8W5TIv2dU_wJtPXta4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "The Rock on Which it is Built",
+          "Duration": "47:00",
+          "Description": "With his life and family under threat from Rome, Simon spends one last night fishing in a desperate attempt to square his debts. Andrew spots a familiar face waiting for them on the shores of Galilee.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7nr0gddCMIYTIT6OtAETG0HkEs2.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/5VEj2bzJ#TtxHHJ6pIoNr1PPBeHIoqf-k18KPfAwRkFFw5VLCHnU"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "The Wedding Gift",
+          "Duration": "53:00",
+          "Description": "Nicodemus interrogates John the Baptizer while Jesus and his students make their way to a wedding celebration in Cana. When the wine runs low, Mary asks her son to intervene on behalf of the bridegroom's family.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xxLuinhtXhvYKriS5F4KGbmj5TF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/BUdhgQ4Q#AKNJDYKEg2afogsv6lB_Jw82RMKnVgUlIzXxtRhWFc4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Indescribable Compassion",
+          "Duration": "50:00",
+          "Description": "After witnessing the healing of a leper on the road to Capernaum, a woman brings her paralytic friend through the crowd to meet Jesus.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uv3UvEDfLB0PomuBQBRB493z1SH.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WGRBiRLb#3ve2hwhjaJa-bDfhgsO38uGY9wGBq8gJ8Af8jEyQDoo"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Invitations",
+          "Duration": "36:00",
+          "Description": "Matthew struggles to reconcile the miracles he has witnessed with reality. Nicodemus meets with Jesus by night.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/endRXmg12QtiuoB4O70LzZLXNMi.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fCpxWJDL#GjAlI6J5gy8GowoCRZLJ4gMubT3xQ4ST8rvpIrCre90"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "I Am He",
+          "Duration": "56:00",
+          "Description": "Jesus and His students complete their preparations and leave Capernaum for Samaria. Jesus meets with a suffering woman at Jacob's Well and announces that He is the Messiah.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3Zp4mSEZ51sGRdaS0TZUmfizcn1.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WKhwgKgC#1GtRMR1f2j71APZ5u4eqYBHIqAi1AdRwIv2XnCLFnSs"}]
+        }
+      ]
+    },
+    {
+      "Season": 2,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Thunder",
+          "Duration": "1:05",
+          "Description": "Tension builds among the disciples as they wrestle with the increasing fame of Jesus in Samaria. Jesus rebukes Big James and John for their prejudice and, after a near-violent encounter, gives them a new nickname.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/veYGGZcBkrrJ73WFtfjPVxmlm3t.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CW5zGQSY#ULhRnw8VLN89bJXHxnBG8wwPynRPJOcACRNrT5VPgAY"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "I Saw You",
+          "Duration": "53:00",
+          "Description": "A mysterious visitor seeks to meet Jesus, but the disciples are hesitant. Tension builds between Simon and Matthew. As the group heads to a new city, word arrives that Jesus' fame is growing.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/97LTcBNO5myOVy5tmtO2eXOLBgs.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WeAT0RpC#-E7GqpNKadweG4RT5BQypz8a_xym8L19PFCIzB_RZ_4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Matthew 4:24",
+          "Duration": "36:00",
+          "Description": "A long, exhausting day turns into night as the disciples help Jesus deal with a large crowd hoping to be healed. Around the campfire, over dinner, the group tried to get to know each other better. But tensions erupt.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xZzug3qFNJdz5vo8YnQdRe8V7cs.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zbZ3HKyJ#pgvQWoeIqyOYsJK3-25R4VHYLDpdDjcdVDZtnNbWn0Q"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "The Perfect Opportunity",
+          "Duration": "59:00",
+          "Description": "As Jesus and the disciples head to Jerusalem to celebrate the Feast of Tabernacles, a new enemy follows them, while a familiar enemy awaits.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bGfgX3nX5xgWOWzmvHcItyCXbtX.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6TIUBRpY#sk4RQmE5iYdUpLL8T4Z69DoVO1SDEZo3XGnZ7YXVZyA"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Spirit",
+          "Duration": "48:00",
+          "Description": "After stirring the water, Jesus is now pursued by Simon the Zealot, Atticus, and Shmuel. John the Baptizer visits the group and tells Jesus his dangerous mission. Meanwhile, back at the camp, Mary Magdalene is devastated by an encounter with a mysterious and dangerous stranger.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qglp6jovceCGncL6vPfF1d4Dvei.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/iKgB0TiR#YlatJCFgbb7P8QYH6bcB_q9I7puzcZwFgvERasQu16E"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Unlawful",
+          "Duration": "45:00",
+          "Description": "Matthew and Simon try to get along as they search for Mary in dark places. The group fears for Mary as they struggle with lack of food and bad news about John the Baptist. Meanwhile, Jesus continues to upset Pharisees across multiple regions.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/zsdnjukB2Qm52odGXE8DcrYqwOK.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6GxG2KbB#fyvUNuOwMNvS01qlPYmLx_x7l7cV4hdvh5B2lCPf9b8"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Reckoning",
+          "Duration": "43:00",
+          "Description": "After learning of Jesus' whereabouts, Quintus sends Gaius to arrest him. The disciples lose control as they argue about how to respond. While seeking information about where Jesus has been taken, Andrew and Philip encounter old friends.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/r3tZUs2inkBLofPHh6Da8JKQ6yt.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/3T42EZYC#n7OAbloEUO1txvZyLnDlvd2d8pFmV6uejvCm_BHqEiw"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Beyond Mountains",
+          "Duration": "56:00",
+          "Description": "While Jesus and Matthew prepare the content of the big sermon, the disciples spread the word while fighting amongst themselves. A high-ranking Sanhedrin member is shocked by Shmuel's reports on Jesus. Thousands arrive for the sermon, including familiar faces.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oXVWhQzhrbnFnotQfn4xNPRUyym.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/meRhXBqZ#qbIhhWxdmIINdg4bF9WMsZmV-sCQ9BKaIs9fA34JKSg"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Christmas with The Chosen: The Messengers",
+          "Duration": "38:00",
+          "Description": "The story of the birth of Jesus as told through the eyes of Mary and Joseph.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qewUQRRa#uUXAwo9TFoHY-jY1dFZsvT-_nIhDM_v-_fJDnfmhUXc"}]
+        }
+      ]
+    },
+    {
+      "Season": 3,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Homecoming",
+          "Duration": "1:01",
+          "Description": "Jesus delivers the most life-altering sermon in history. The result? More followers, more enemies, and disciples ready to follow Jesus anywhere. Simon and Eden reunite, Matthew faces his past, and Andrew visits John the Baptist in prison.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gPCVrcf8wBKfezwkYZp2hIUmDDn.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yKplETKR#sgblhfmDfB8HLBmqcWnUCqDeQE-ho4FZiwip3_PX4Ls"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Two by Two",
+          "Duration": "1:10",
+          "Description": "Jesus is a problem for the Romans. With pilgrims from everywhere setting up a tent city at the gates of Capernaum to see Jesus, tensions rise. Jesus officially sends the twelve apostles on an exciting but dangerous mission, causing Little James to ask why he hasn't been healed.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ttoqt6Ts7NyKCHkAdm8K3VO7Ufe.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mPwBHJiK#YATn75TF0Y3kXZTKjE5N48AmXgkE1z8BJyDW7kKlf1c"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Physician, Heal Yourself",
+          "Duration": "53:00",
+          "Description": "Jesus returns to his childhood home for the big Jewish new year celebration. His childhood friends and family are all buzzing with what they've heard about Jesus…until he tells them the truth of who He is.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lim4Tl18XCoZeiR5zaI9NrjxQe5.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/eHRRxC7T#BTNshnNv27qMikuZ_dBbtD4U0IJGhNRkf4LfgUhJSJI"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Clean, Part 1",
+          "Duration": "59:00",
+          "Description": "Two by two, the disciples carry out Jesus' mission to heal, cast out demons, and preach his words. But upon returning, they struggle with understanding what happened while Simon and Eden struggle to reconnect.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/k4TrC009oraGH4Zd9g8s4V2iBss.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/HKBwnIja#aFtyd8jFw0NcobaZ7_BwEHgEOL44yEFHLkv5V7BMo5A"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Clean, Part 2",
+          "Duration": "56:00",
+          "Description": "As tensions mount at home, Simon and Gaius work together to fix the water problem in Capernaum. Meanwhile, Jairus and Veronica are equally desperate to find Jesus as the only hope for their crises.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/h3qxCDzr3qSsESqzBGlQCo6juil.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CPo22J4T#lPl1_GOznD5Uqmbye9MVnWPjlCUsXPTyGG26Sd4_Gcs"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Intensity in Tent City",
+          "Duration": "1:12",
+          "Description": "Andrew and Philip discover their previous mission resulted in devastation that will require a return. Simon Z is finally forced to confront his past, but then two disciples of John the Baptist come to Capernaum with an important question for Jesus.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ufrR1poHcwU1qmnjUvVqEnANgcL.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/vbhVVDKb#ybCdTDwi3eWOgDAcG5ux_mLpyLu-6KpTJKuV5NqXHAU"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Ears to Hear",
+          "Duration": "1:04",
+          "Description": "\"Having ears to hear.\" Jesus leads the disciples into a dangerous region, where they will face a crowd armed with sharp tongues and dull ears… but even his closest followers are finding it very hard to hear.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nt5MxG1bUgkzMHzHqeFqyJxN6dI.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/7GxGGB7C#u9CUNYXLzRHB8z4bSFDh70--GGY6pKhPkHaoKtw0oJ8"
                     }
                   ]
-                },
-                {
-                  "Episode": 3,
-                  "Title": "Episode 3",
-                  "Duration": "37:00",
-                  "Description": "Despite his father's precautions, Gu Jun-mo underestimates the threat he faces. Frustrated and desperate, he decides to handle Gi-jun himself.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/gyX8F65noDDKzEMfqX44zHV8vVb.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/CloDhCIT#8fOI78Hke6VKm4pR45RuOc1YWyenzjR-XW7L2NvFW7g"
+                }
+              ]
+            }
+          ]
+        },
+{
+  "Title": "Tale of the Nine Tailed",
+  "SubCategory": "Sci-Fi & Fantasy",
+  "Country": "",
+  "Description": "A TV producer discovers a secret supernatural world as she becomes entangled with a former deity who's spent centuries searching for his lost lover.",
+  "Poster": "https://image.tmdb.org/t/p/w500/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
+  "Rating": 8,
+  "Year": 2020,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "The Incident That Occurred on Yeou Gogae",
+          "Duration": "1:05",
+          "Description": "As a child, Nam Ji-a loses her parents. Two decades later, a curious case involving a runaway bride and a man with a red umbrella catches her attention.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/zuDz4DIqYXsk7ovKpq0291gDQFe.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/28ZiGLxB#E-KC2_0S3J_mWjocYb-odbPcgkz2oCpqPYsUYJFX2GE"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "I've Been Waiting for You",
+          "Duration": "1:10",
+          "Description": "Recognizing Lee Yeon as her childhood savior, Ji-a thinks he might have a lead in locating her parents. A skull is discovered on a fishing boat.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/w2n0TgjT70uMhDd6mFzcDTgST8Q.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fh40kaQI#Pd_8nxSibBKvwVF1f5SaJfrCL0XAWTfYItTyH_CDUDI"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "The Secret of the Dragon King",
+          "Duration": "1:07",
+          "Description": "A pattern emerges as Ji-a looks into the island's history of strange and suspicious deaths. Lee Rang keeps Yeon distracted.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uvoOCe8dJ8WBEti0AleqGajPH42.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6k5VzSaZ#f5THcei-39EJBhAWatKomwkGoWDsYsg6TVJuFfUpMYE"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Verge of Death",
+          "Duration": "1:09",
+          "Description": "Rang pledges to hurt Yeon for his past actions. Before leaving for hell to serve his punishment, Yeon enjoys a home-cooked meal with Ji-a.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wRFmKTugX3F2mvftrjWkJgsCGjW.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/b5whWYAC#HNssWP8FQr8zqTFt-3Y-khnf5OQiiP5QUR6lbTltVuo"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "I Also Waited for You",
+          "Duration": "1:05",
+          "Description": "As he recovers, Yeon opens up to Ji-a about his first love. Rang and Ki Yu-ri are unable to ignore a creature that is crying out for help.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lZMKk3hbWSvK5EdWlL1xpJotewX.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/iwhxwZjR#yBkGAgw9Ef_IijTgY5Cqrcv4tO4FY1K8bh7lYZPOUVg"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Four Pillars of Destiny",
+          "Duration": "1:05",
+          "Description": "While seeking information about Ji-a's parents, Yeon is reunited with an old acquaintance. Rang tries to get his hands on a valuable artifact.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/t9swd6z3Oclwvc4sG6ViT9ueyC.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/79RDEB4B#K8QMlHa9QRirXbqi8hjG--YBsZSMFFFjKWGpCXetjAw"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "The Trap of Samsara",
+          "Duration": "1:09",
+          "Description": "Worried that Ji-a might not be safe without her fox marble, Yeon insists on keeping a close eye on her. Rang loses his special eyeglasses.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/aE4qTZgbeqQiKcczNw0bZ2xDpsB.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yxwWyYrY#p81CKaImiQPaKdq6y0SJ0QlWUO9iBv1Q2OwBMaAUQaA"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Reincarnation",
+          "Duration": "1:09",
+          "Description": "The eyeglasses give Ji-a a peek into her tragic history with Yeon. A woman in green traps Rang and Ji-a inside their own minds.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/hITtNqRS6oVTxjJujiwkwj9UT26.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PoJ3xTbY#y1pS2KTsnFcFz1wFZ2M1HBfVBZ_yY6N81iJ7Mojq03s"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Spirit of Darkness",
+          "Duration": "1:09",
+          "Description": "Inside the forest of demons, Rang and Yeon fight to survive. Elsewhere, Ji-a begins to forget reality as she gives into a fantasy.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pSMrQIDm9rdrXKEmRRUyOG473WW.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/z1gmEa6K#7NBEwWWpOtxK1VXCQkuUPN9oaiRPSpCnGNeMLbVwcTQ"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Déjà Vu",
+          "Duration": "1:05",
+          "Description": "Rang seeks a way to release himself from the binding debt he owes Kwon Hae-ryong. At work, Ji-a's team welcomes a new intern.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/k55rGWro18bAjuA6g9lYTH7kkXg.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/egwx0BwR#tZ5ylsCN9BGtruqc7FqfY4prB1vtWyRxOZr4JSPoEqE"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Ground Cherries",
+          "Duration": "1:06",
+          "Description": "In a confrontation with Yeon, Imugi demonstrates the terrible power he possesses. A visit to death's door yields long-sought answers for Ji-a.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/j6UL0apdlTMyqKSsgA0BIZ58qnJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/O0RlnTIQ#k-0jCUpF-dabyaE1Ida5d3DWdvaRTcPvoSXEwDBQrUE"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Catch the Tail",
+          "Duration": "1:08",
+          "Description": "Imugi interrupts Ji-a's newfound happiness with an unsettling appearance in her dreams. Yu-ri temporarily loses control over her actions.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fN4bBRovSgOV7RB1MKHQSlQTkVx.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/C94VVbZS#fyX0wRNKZLL1KISJrtsdLK_tTUgwDYjrzc9Is0R0jKE"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "The Other Imoogi",
+          "Duration": "1:07",
+          "Description": "With new revelations weighing heavily in their hearts, Ji-a and Yeon go on a getaway. Yeon identifies a weapon that could be the key to defeating Imugi.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/luVFgXLAifVPvCeRAL6MOo1XiEf.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/iw51zZoI#a9KjkOuLhrPsRdXx-z7na1vvq3IAo5TCmNRVQHz161s"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Dead End",
+          "Duration": "1:07",
+          "Description": "A mysterious plague sweeps across Seoul. Knowing that Ji-a's life is in greater danger than ever, Yeon proposes a risky alliance.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dxbA6NIfop0k7ZUKjhUOLEE6588.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jxRA1Rra#r2WJN1Wfq2TtEf6a8pueaYkh2MHVrylxKm7p3LKXMdo"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Without Knowing Imoogi's Plan",
+          "Duration": "1:11",
+          "Description": "While Yeon prepares to carry out his plan to put an end to Imugi's terror, Ji-a resolves to protect Yeon. Taluipa arrives at a difficult decision.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wp3nUdm5P515INm1iq8pXflwmBc.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DkoEiTZD#MGiKP-Lm_AzsAoXgydt80pFQHkrPB6Un408zUYoCxjA"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "The Rewritten Tale of the Nine Tailed",
+          "Duration": "1:20",
+          "Description": "Unable to move on, Ji-a begins a special project. Meanwhile, Rang refuses to give up on finding a way to bring Yeon back.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1QZZTS6vb56RGisi8nhLLLTLfdf.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/j8pC0AaR#kytJEKgOQE0nOdbKnlj0B1qw8TXqDzAojUQ-k7qDRpE"
                     }
                   ]
-                },
-                {
-                  "Episode": 4,
-                  "Title": "Episode 4",
-                  "Duration": "39:00",
-                  "Description": "Desperate to save his son, Chairman Gu digs deeper into Gi-seok's hit. After Jun-mo attacks his friends, Gi-jun goes head-to-head with Jun-mo's army.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kA3klhd0lWe3hwT3Ye2npJGHPe8.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/i9wj0ZTQ#cxvLrzaEDBqptf3zyV4EoFtN87PMPtctQJu8VYUgxhg"
+                }
+              ]
+            }
+          ]
+{
+  "Title": "Perfect Marriage Revenge",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
+  "Poster": "https://image.tmdb.org/t/p/w500/5iqVjyWAfXAFMim0Fi5QS6jUNPq.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/5iqVjyWAfXAFMim0Fi5QS6jUNPq.jpg",
+  "Rating": 8,
+  "Year": 2023,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/5iqVjyWAfXAFMim0Fi5QS6jUNPq.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Hope's Second Breath",
+          "Duration": "1:17",
+          "Description": "Yi-joo is perceived as a gentle soul, selflessly putting others first. However, the disrespect she endures is far from what she deserves. Her longing for a family leads her down a path of righteousness, but everything crumbles at the Han Gallery Charity Auction. Faced with unspeakable horrors, a fatal accident befalls her, and in her dwindling breath, she prays for a chance at redemption.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/r47CtEAhwxNnVgMnuzXbKtU7Nq1.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/7gw0yZra#f3V5pdVgFyA8QKq_PjL24paEhq7RrjyifvVMV7Nm_d0"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Another Shot at Life",
+          "Duration": "1:17",
+          "Description": "Having realized that she's returned to a point before her marriage, Yi-joo decides to navigate a different life course. Her stepmother and stepsister, no longer considered part of her familial circle, morph into her most formidable adversaries. She initiates the process by breaking off the wedding with a man more inclined toward her sister, and then she orchestrates a scheme to sow intricate chaos within her supposed family.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/zqW3KQq594uVDV52VGA8GS0hHVQ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/n9xBwKSK#I1bF2qqntrZnqV4hcKtob02t5ZgDtNHKZ_uixJJWyxg"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Would You Live with Me?",
+          "Duration": "1:16",
+          "Description": "It's only through reading an article about a small incident in the park with Do-guk that Yi-joo uncovers his ulterior motive. Confronting him, she presses for an explanation, and to her delight, it turns out to be quite heartwarming. To add to the surprise, Do-guk proposes that she reside in his house, minus his presence. Feeling a sense of dependability, Yi-joo cherishes the moment, unaware of the uncertainties ahead.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xbvFE5x4rwIOGFJ8wLSLBS02aNj.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/L9o3CTjS#HQQ3bpcimt0qNJtby72H1fDVjW0TVqfR7iLQthTm47I"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "A Line to be Crossed",
+          "Duration": "1:16",
+          "Description": "The next phase unfolds in Yi-joo and Do-guk's contractual marriage as their families meet for the initial discussion regarding their impending union. Jeong-hye remains oblivious to Yi-joo's orchestration and her amazement deepens when Yi-joo presents one of her replicas as a surprising gift. Despite the surface portrayal, Yi-joo employs stern language with Do-guk, reminding him not to cross boundaries in their feigned marriage. Do-guk struggles to mask his evident disappointment.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oBK0oQgOpwWs7ZoMnuvXCsC2PL3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mxYlWT6Z#fkwx9memWnL6NEL7n3zOTbsRUKvYalEFFrdqUMFJn5s"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Crossing the Line",
+          "Duration": "58:00",
+          "Description": "The day after the incident at the ferry port, Yi-joo learns that Do-guk is dealing with a panic disorder. Believing that Jung-wook holds crucial information about Do-guk's condition, she arranges a meeting with him, going against Do-guk's explicit request not to meet him. Despite her worry for Do-guk, he sternly warns her not to cross the boundaries of their contractual relationship. Seeking comfort, Yi-joo visits her grandfather and encounters an incredible story about her birth.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/phf3zJiOAxZovAoBq0Wm6h0tcqO.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ughiWbIB#hFVR2Hb7uQydGB_y_AiaKhzQdXFLz1vMQDc6gttL2vU"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "The Tearful Wedding",
+          "Duration": "58:00",
+          "Description": "Yi-joo comes close to a regrettable choice at her wedding with Do-guk, driven by the realization of Jeong-hye's manipulation, but Do-guk intervenes just in time. The morning after the wedding, Do-guk discovers a note from Yi-joo and her empty room. Meanwhile, Yu-ra views Jung-wook as an ideal instrument for her schemes.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sbXlrdSBnPkEY0Ge3hCDBZz1QwE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Kkgl1SrL#xmntLZc53-6WfOh-Vge7NTeqEy91oTjTgYArobyhs54"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Another Contract",
+          "Duration": "57:00",
+          "Description": "Even though it all began as a contractual arrangement between Yi-joo and Do-guk, her sentiments for him evolved over time. On the flip side, Yu-ra and Jung-wook seem on the verge of establishing their own agreement driven by sheer greed. Their sinister intentions promptly take shape as they expose the confidential contract between Yi-joo and Do-guk to the entire family.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lJmlE3hmmLXdwvSx4hKzzlraO7T.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/G4wC0JZQ#4_fU7QBrIwIAP0GViZJ-VAkuoGFM32EY5onxqh9-hoY"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Whispers of Revelation",
+          "Duration": "58:00",
+          "Description": "Now that the secret pact between Do-guk and Yi-joo has come to light, the entire family is rife with disappointment and demands for justification. Jung-wook seizes this moment to press Do-guk even harder, but Do-guk appears to be one step ahead in every move. Meanwhile, Yi-joo's plan faces unexpected disruptions as rumors about her begin circulating and spiraling out of control.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/f7Yl68ftqDWX0ghPQLdcAjsdGHq.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Xg5wnJqK#A_BSk_eBap1Fb9JL_l5XvRfRXZa62w79ovA19nTDB3A"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Discoveries and Suspicions",
+          "Duration": "58:00",
+          "Description": "With Jin-woong in the hospital, Jeong-hye declares herself the new interim chairman of Hanul. With plans to make her position permanent, she starts trying to win over shareholders. However, Yi-joo is onto her plan and starts doing the same. Meanwhile, Jin-woong becomes aware of Yi-joo's identity and starts to suspect Jeong-hye.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1gtlFednzcgnrTNt9YWTkJ7Xgxu.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/TgoR1RiY#wRCujH9bZXW941TlOFn5oYYv5bIAvbSpQ8Ap994pzgY"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Yu-ra's Reality Starts to Shift",
+          "Duration": "58:00",
+          "Description": "Jeong-hye's plans to take over Hanul for good fail as Chairman Han Woon-jae, Yi-joo, and Yi-joo's birth mother speak against her at the shareholders' meeting. Meanwhile, Yu-ra discovers that she is pregnant with Jung-wook's child and that Yi-joo is Jin-woong's biological daughter. She slowly comes to realize that her perspective of reality has been wrong all along.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/hiPKpv3DaLD93U151Tfm8d77aa2.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/GxgnwapC#ycrvgzf7XWQn0GWv9MW-63sndcsNCNdM_sP6WZtozDE"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Jeong-hye and Jung-wook's Downfall",
+          "Duration": "57:00",
+          "Description": "Cho Dong-soo rats out Jeong-hye to the police, and they both get arrested. Yi-joo and Do-guk seem to enjoy their lives until Do-guk confesses that he is the reason why they both came back in time. Meanwhile, a construction site worker hired by Taeja's subcontractor dies on the job. Jung-wook tries to sweep things under the rug.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nUlwMCBdyZXiLwuibzVr2hth5Iz.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/vsYGERaQ#OJt2oiUd9quQlfDLzoO4ASjmpY-RunhMBhuKnJcQUcM"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Changing the Future for the Better",
+          "Duration": "57:00",
+          "Description": "Jung-wook breaks out of jail and kidnaps Yi-joo in an attempt to torment Do-guk. However, Do-guk is determined to save Yi-joo from the same fate that made them go back in time that fateful day, even if it means risking his own life to do so. As their repeated time draws to an end, Yi-joo and Do-guk feel unsure about what will happen in their future. Will they find happiness and peace in the end?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2629Yd57eG15iC3tYLbKOfultGa.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WxIDCK5Z#IXZmZ5jKcM_kZg6ND63ybx0InzpSmoMiLPKHejm2DKo"
                     }
                   ]
-                },
-                {
-                  "Episode": 5,
-                  "Title": "Episode 5",
-                  "Duration": "42:00",
-                  "Description": "Gi-jun quickly learns that his problems don't end with Jun-mo. A gang war breaks out after Chairman Lee suspects the real architect behind recent events.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/9AkMOkYxy2XdMHE9ntmAUMvOFKQ.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/L4ZC1aRI#hEM99hC9kYXOZDAsR7tU9t3T4D0aKL5LUp5Gt0OO1PY"
+                }
+              ]
+            }
+          ]
+        },
+{
+  "Title": "My Troublesome Star",
+  "SubCategory": "Comedy",
+  "Country": "",
+  "Description": "A romantic comedy that follows the story of a top actress who, after reaching the peak of her career and even winning the youngest-ever Best Actress award, suffers an accident and finds herself transported 25 years into the future.",
+  "Poster": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+  "Rating": 7,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Top Star Im Se-ra",
+          "Duration": "1:02",
+          "Description": "Im Se-ra is a superstar at the peak of her fame. Go Hui-yeong, an actress envious of Se-ra's success, harbours a deep hatred toward her. Beneath her popularity, Se-ra endures a pain no one sees. During a call from Dokgo Cheol, a rookie detective, she finds comfort in him. After a car accident leaves Se-ra in a coma, she wakes up in a world that has moved on without her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/o1a867T6xcgBUaliQkgCaClCC5Q.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/TDIhXABD#Vi_TT3hEaKVE-AJHEaD0Bkwe0tP7wqSzAjhZy3iWcSM"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "A Fallen Star",
+          "Duration": "1:04",
+          "Description": "When Chung-ja wakes from her coma, she finds herself in a 50-year-old body. Yet, in her mind, she is still the top star, Se-ra. The world, however, has moved on 25 years. Kang Du-won, her former manager, is now the CEO of 2ONE Entertainment, and Go Hui-yeong has become a famous star. While in the hospital, Chung-ja encounters Dokgo Cheol, and the two immediately misunderstand each other.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/42IcY6OkjfxwXfRBoirg4EC3bAp.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qHZ3nIgZ#hZeLHxKY0UvlvCAL0e8MYTYV4D6kbs3-2njsWzVhxlo"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Reclaiming the Spotlight",
+          "Duration": "1:03",
+          "Description": "When a wallet goes missing at Jumbo Gosiwon, suspicion quickly falls on Chung-ja. Bong Chung-ja and Dokgo Cheol grow closer while searching for the person secretly trailing her. Chung-ja visits her niece to fill in the missing pieces of what happened between her and her sister, Baek-ja. After watching Go Hui-yeong at her stardom, Chung-ja becomes determined to reclaim her place.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6shbA0eWspXrjTGioxPfa3Us5JD.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CSxRwCKC#5rz6QIIuafNEHQWENa76R9PhOFMvK9ihu40vdWs2LEQ"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "A Grand Comeback",
+          "Duration": "1:04",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jFBpAoCulCuEoOoaBF4tbCWChmN.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/TSBBVIDR#L1iLaG1lFo41Xsuk5y7fiFwqnLYj5uBC-rcevb-P6kk"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Pieces of Memory",
+          "Duration": "1:00",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/iM2pzlMoQ0gvsYt12cqlYdzSQxx.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fKpEQSJQ#3S0Ro_HbB7afk9dQj9-aLL19nsiN2fvR7l2MMUC0X_A"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Danger Lurks",
+          "Duration": "1:03",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e0Fm8SaJyT0OtcCzyslLdXQr1K2.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/TPJ2mK4A#iVS9NWQ-L89JP-T9hS79i12pFPuw6ffxkPgD-6f91Is"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Hidden Evidence",
+          "Duration": "1:10",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/c4RaA4aELkIs1UOKkAAwlP0F4X2.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/3GgWzI6Z#hxFsLamM0H-dmTOarkwedG73SKe-U_99l6mhtYyWAeo"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "The Audition",
+          "Duration": "1:10",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kpm48zl05YMavj43mnduF4zuT6.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LOIVAJgJ#9VfV270YHPMAzWX6_hP9zXKwKKcDYBi0PKDOVk8nVvE"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Jealousy and Rivalry",
+          "Duration": "1:07",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uMsjoguNPjf6dEwScvqdzdlPEMV.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rbgFyLYb#zFCOHaJIzqZPSq8-1lOTNouAc8Meski30nTXVf07GCg"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "0728",
+          "Duration": "1:11",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uVlAXTLdqJF6sdR0JjF9GtK1GR2.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CTpwRBKB#L40av5oFG_HanyDjXRWfmBoMLAv9dz29L21CWQm_-h0"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Memories of Yu Ran",
+          "Duration": "1:06",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5lF2RBtjLBaa5FcO1pJcl47xXX.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OWoHWTxT#YNIzUTpHnX2GvxqLqnGIxch56yG-HwZNvZB7g2AMj7U"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Into the Spotlight",
+          "Duration": "1:17",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nij98VP7z3IGNxvVzIXGDVijwQt.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/bbZBADzY#GRCHx5qGXz-2nzJCw4plcwB_fPGbRuqAt6B81Ug8GXw"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Episode 13",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/SKognICQ#cNDrdheSml3sjlhSjxknj0c4IJJbDVPhRSu8wH_yyCY"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Episode 14",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/eHZSVKAI#l2uf5EPyNgLXH2z3NpjTW7w2gRo4vwsDOquVstwVT4U"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Episode 15",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/vfBXzRbT#yP4uGJvSZYWR9iDAwE9gi-tkqoCYQEYAVvRWAH8jKGU"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Episode 16",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/2eAAlSya#USv6ANzT3b_syKHv7gq7eOsD25ncHHLj026_RRJjMgo"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Episode 17",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/3XQASDqL#--xA0OCC2-AKs_WEILbp3n4wqVPVWFb9SmAYAXmZuBA"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Episode 18",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/aW5iCYSJ#XeFAG-Gbc4WX_2dO4s43_wz4LQUWrYVQ9lHfy-3VACY"
                     }
                   ]
-                },
-                {
-                  "Episode": 6,
-                  "Title": "Episode 6",
-                  "Duration": "45:00",
-                  "Description": "Cha Yeong-do sets his plan in motion. As Lee Geum-son seizes power, Gi-jun faces betrayal, danger, and a race to uncover the truth behind it all.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/yEIwOhRIbnUU0CqZlkqgzUwzfhO.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/SsBhiAQa#U7tBXUWyNipouPOIxhpCE57crQFG3yEQo4b8p3AaadI"
+                }
+              ]
+            }
+          ]
+        },
+{
+  "Title": "My Roommate Is a Gumiho",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "To become a human, a 999-year-old Gumiho, Shin Woo-yeo needs to fill his fox bead with human energy before he turns 1,000 years old. One day, a college girl, Lee Dam accidentally swallows Woo-yeo's fox bead.",
+  "Poster": "https://image.tmdb.org/t/p/w500/ep3TFArcl7jYipJymsKp2zuGv1m.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/ep3TFArcl7jYipJymsKp2zuGv1m.jpg",
+  "Rating": 8,
+  "Year": 2021,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/ep3TFArcl7jYipJymsKp2zuGv1m.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Episode 1",
+          "Duration": "1:05",
+          "Description": "While walking down the street with a friend, Dami accidentally swallows Woo-yeo's fox bead. The next day, Dami moves in with Woo-yeo, hoping to find a way to return the fox bead to him.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7RU47iLpPGDqnrZqVfATRzbiRp3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/bSoyRC6S#VbS8vAL41oQwsI4gt5moDvGq-x5iaku56hppEe0j-eg"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Episode 2",
+          "Duration": "1:05",
+          "Description": "Dami is shocked knowing that she could die if she fails to get the fox bead out of her body within a year, and Woo-yeo writes a contract to protect Dami and the bead. Dami struggles to survive in college among Tiger men.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sBEH5lrYt9I7wtF0WTOkMsPad8D.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/THgGzQjZ#u_NTKFzbAo1mFjv8CRyPzc2Eow1Dbr76ie-FAXDy5vg"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Episode 3",
+          "Duration": "1:05",
+          "Description": "Woo-yeo discovers a strange reaction of his bead to the woman where it's currently settling. He also finds himself connecting to her emotionally, as Lee Dam empathizes with him as well.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/tfmZSTmJCViM6IjwbBQka7pNANX.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/XahG1BbD#eTPUoRZUvqVE4Vuu92bPmGuzd0xyy7fxAbE0CSZOozk"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Episode 4",
+          "Duration": "1:05",
+          "Description": "Woo-yeo starts to get annoyed by Seon-u texting Dami, and Hye-seon tries to become a college student using Woo-yeo's magic, promising Woo-yeo that she will watch over Dami.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/K9NDV4X20uYZqWuSBFdooLfXSy.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mK4AxYjC#NZGyFKiiE0usez6uV1ZNae3Vtrznr2IuWQdI6Vv5KGg"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Episode 5",
+          "Duration": "1:05",
+          "Description": "Dam feels love for Woo-yeo, and Woo-yeo, who was trying to keep his distance, also begins to feel special feelings for Dam. Woo-yeo is suspicious of a murder case in the downtown area that has become a issue.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gvpuiy76MSad1hCNO9REKELKgcf.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/eHJ3xAyY#8v8UfYmpPFDPq9QFlWMMlBhwISdk1wXrqZP3q9qKUkQ"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Episode 6",
+          "Duration": "1:05",
+          "Description": "Dam is disturbed by the thought that Woo-yeo doesn't understand her feelings. Dam goes on a blind date with a disturbed heart, and Dam's mother visits the house where Woo-yeo is left alone.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fsI8MZn3RR9Wvi23aUfPT5UNZ2F.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/vWpTjLLL#yIvMgzpeO_kiNIsAMLJBlpU8fUknchXHjWjgVIAwgA8"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Episode 7",
+          "Duration": "1:05",
+          "Description": "Just when Woo-yeo decided to let go of Dam, an unexpected person appears to be after Dam, he decides to keep her next to him for a little longer.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4lFiFnyN8NIeQjRlm8NzhUNEafX.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/7eoVTZQb#OahnfyRmCQ1SPfhvibNPdB2TvNNBiZqMAsBk3eTS6TQ"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Episode 8",
+          "Duration": "1:05",
+          "Description": "Woo-yeo feels bitter and empty watching Dam lives on without him; Dam recalls something as Seon-woo confesses his love to her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7VcHrWhAkK4C8t40Ce0UOVTLuUg.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DbYnjJRD#C03aatyjK-lwNT28N5T5hTG189qY9WL-mrPTal4fwME"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Episode 9",
+          "Duration": "1:05",
+          "Description": "Dam is bothered that she kept on running into the professor Woo-yeo yet is curious to find out the relationship with him and Hye-sun.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vbNvC8kORRdsda9RPRJLQwi6VNw.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LLYUiIzb#_rjC-M3z1jdAyNUwsupoZmy3yCb6lQ7jXA-ECEsDSnk"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Episode 10",
+          "Duration": "1:05",
+          "Description": "As Woo-yeo begins to feel hungry, Hye-sun tells him that keeping himself from physical touch would ease the hunger; Woo-yeo tells Dam to keep a distance to prevent his spirit from losing.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oivREZXT0F8qYsRt7ZL9wb84SZ8.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WOgCyRZR#Z5NTLpIviv-66lOMXrlx6b0uFoXnew8ecT6cjds_l3s"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Episode 11",
+          "Duration": "1:05",
+          "Description": "Woo-yeo feels bitter about the thread of fate that Dam and Sun-woo share but pretends to look calm; Hye-sun gets in the way of someone unexpected.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fznPZhI0N9yMGMdafKEJZisoqIr.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6aZTXaxR#weh9ZlCRP3nWhd_wZijHX1k8cAfVGEWI2dtpByIu4-Y"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Episode 12",
+          "Duration": "1:05",
+          "Description": "Woo-yeo dreams of going on a date with Dam just like every other human but soon he is self-conscious about his real self.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/hIXlPBqMTOy4bJJDvkix1fDy02E.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DCJSHIaS#KyuYBnVH1D8ifZbR-O9cBoMCj9CTFd5frQkgjcxbSuQ"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Episode 13",
+          "Duration": "1:05",
+          "Description": "While Dam is indecisive about the breakup with Woo-yeo, she hears from Hye-sun that Woo-yeo's bead has turned blue.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9gmqNTIiR7XrITE80r8O5ORe01N.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fewDHZxC#Ck-08d1-5qttAaSNFWbOCoUGEnQ2_xOtazc50HmI3SI"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Episode 14",
+          "Duration": "1:05",
+          "Description": "Dam searches for a way for Woo-yeo to become a human and moves in together. Woo-yeo finds it difficult to share his every minute with Dam.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/46W5Y5pMT39wIVyMeU2Y5TySpoy.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qSxBzKBR#SDgJCNKqhYhK68TD_Te30ZLLQCOx0J1MMqC3_qFRIMs"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Episode 15",
+          "Duration": "1:05",
+          "Description": "Dam can't seem to get off her mind from what happened last night and feels the need for a new label with Woo-yeo; as Woo-yeo's trick fails more often, he assumes that he's becoming a human.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bA6Az8u5OlnYXABghn6gABZcGYz.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jfRHhTCb#GvyiMxb3Wh5eGXbPcq6VVS0uKQTOmgxdvINOERJBQuI"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Episode 16",
+          "Duration": "1:05",
+          "Description": "Woo-yeo tells that it's close to an end, and Dam misunderstands it as to Woo-yeo is getting close to being a human.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rEieqxDqr26sCdIfAvjyAEiGFzm.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/2OYn2YCA#WlAYlE4B5uesxycaWyQ1yyqbk8d-rA-aokK_5I3OacI"
                     }
                   ]
-                },
-                {
-                  "Episode": 7,
-                  "Title": "Episode 7",
-                  "Duration": "49:00",
-                  "Description": "With all his obstacles cleared, Geum-son puts his endgame into play. Will Gi-jun succeed in stopping him, or go down trying?",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wPfVh84KxZmfGlaX00O08md2y0W.jpg",
-                  "Servers": [
-                    {
-                      "Server": "Mega.nz",
-                       "Link": "https://mega.nz/embed/zp4HyABb#8krZWge979_MTALEW7gmwi1iTreuQw9NyzOPvdvG7_o"
+                }
+              ]
+            }
+          ]
+        },
+{
+  "Title": "My Love from the Star",
+  "SubCategory": "Comedy",
+  "Country": "",
+  "Description": "An alien who came to Earth 400 years ago is almost able to return to his own planet, but when he meets a famous actress, he doesn't want to go home.",
+  "Poster": "https://image.tmdb.org/t/p/w500/o5EYYVYCVtDUdajP4rWfv6q0BTmm.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/o5EYYVYCVtDUdajP4rWfv6q0BTmm.jpg",
+  "Rating": 8,
+  "Year": 2013,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/o5EYYVYCVtDUdajP4rWfv6q0BTmm.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Episode 1",
+          "Duration": "59:00",
+          "Description": "Having put up with the much lower intelligence of humans for 400 years, Min-Joon is preparing to return to his planet when he meets actress Song-Yi.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xuMEPOa1yfyo3Tpc4BFlnyeotIe.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6zJigbYZ#NzNY6tLhkIwjNnySNKsjBZSKC3IgHsV52gnNSrY_USo"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Episode 2",
+          "Duration": "59:00",
+          "Description": "A distraught and drunken Song-Yi barges into Min-Joon's apartment and ends up falling asleep, and it's revealed that the two have a past connection.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8kEyQ0K1VAjqfKhjRgVMZrXTIAG.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/b6Jl1CbJ#I2tP46eK2oz0uPX1yVaGy69c3frKrln5s858CEgf9TQ"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Episode 3",
+          "Duration": "59:00",
+          "Description": "Min-Joon has a premonition about Song-Yi, and when he accompanies her to the hospital for an appendix operation, he tries to subtly warn her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/m1Xg93F1Q97wDl0DyKKfH14cUTj.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/3jxSwZZJ#BFJVsR9FAHNRWORid-G6Tk5lfcQpUgNCmX3hNznZy5g"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Episode 4",
+          "Duration": "59:00",
+          "Description": "Min-Joon watches over Song-Yi while she attends a party cruise. Meanwhile, we learn more about Min-Joon's connection with a girl he met long ago.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/r9n9L7U27DcdaWwMClHwXIQDBUr.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/G3wjzQQI#h8Ai4qAke6GppOIDdUqLINbmH2wlvL43iqT63X9KQSo"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Episode 5",
+          "Duration": "59:00",
+          "Description": "Reporters are camped out in front of Song-Yi's apartment thinking she killed Yura, so she hides out at Min-Joon's and they get better acquainted.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4mj2YEZB3Spct0EmZK9uEDlSsDD.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/f75DHBQS#jCbBwgimF4TQwQCAaKjhb4diq9lj9F-2sn2GFAZD_9w"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Episode 6",
+          "Duration": "59:00",
+          "Description": "An intense rivalry has developed between Min-Joon and Hwi-Kyung, both of whom are feeling possessive of Song-Yi. Hwi-Kyung professes his love for her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3Ev2stKpsfo078IJF4U9wFTX6i3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/KugmGLyC#FOq_qv-8Dd82rV0S-HEe2jC9KXFXLUUtRNaZhvw5Gkw"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Episode 7",
+          "Duration": "59:00",
+          "Description": "Song-Yi tells Hwi-Kyung she doesn't return his feelings. Min-Joon gets more attached to Song-Yi despite himself, and she asks him to be her manager.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oghPDIeokOq5ntd5ckAAm2ymn3R.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PzgAEBLJ#hHanvY0-OhUeHevKu_u6mjSb_XEJiaU9bX6neZ8ZjRc"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Episode 8",
+          "Duration": "59:00",
+          "Description": "Min-Joon saves Song-Yi from yet another accident, but he denies being there when she claims she saw him. Jae-Kyung renews his efforts to kill Song-Yi.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5A2ajuZfZNU2fU5urcCV1NwHH4A.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/KqIESQRJ#nS1BkjeKbSIsZ-bq6weWKbHTxG-PJt5LLWkbhyBwQKc"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Episode 9",
+          "Duration": "59:00",
+          "Description": "After Min-Joon and Song-Yi kiss, his temperature spikes dangerously high and she tends to him. Jae-Kyung's minions suspect Min-Joon has the USB drive.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kIMWDHmzZs4hUhyW5vH289U31tv.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jzRUDaQR#DhLyBEalDz3bfrgpEvWxsF4XCMcHf-99FHJg2-Afexo"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Episode 10",
+          "Duration": "59:00",
+          "Description": "Hwi-Kyung and Song-Yi both confront Min-Joon about being Song-Yi's rescuer. Song-Yi's finances are falling apart. Jae-Kyung tries to frame Min-Joon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/z0N4jAtNCMEOWgdMbSsXOM131j0.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jv4TiC4S#B5gpU-tPAWUDQ3XolIlh24MFhkjWbqUrw1FWnx7wuUo"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Episode 11",
+          "Duration": "58:00",
+          "Description": "Min-Joon reveals his true self to Jae-Kyung before knocking him out. Song-Yi's brother notices her crush on Min-Joon, who keeps coldly rebuffing her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xzy5LYBTEYaDSNRorpiRSBJEr2v.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/n2JxiYRQ#iQ-H9NBK8yL_LLSYdqUrCQvxVexAZrxViu07DOQ4wRs"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Episode 12",
+          "Duration": "59:00",
+          "Description": "Song-Yi finds Min-Joon in his apartment bleeding from a serious head wound. Lawyer Jang arrives and warns Song-Yi not to get attached to Min-Joon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/v79EzRYLG6KZpGzMokJL6UynP44.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LjYFRK7K#GXL7LTW-9NQGDUJFztVO1Y4q1lVj1Gm8GTQ2b1lrw_M"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Episode 13",
+          "Duration": "59:00",
+          "Description": "Song-Yi finally learns Min-Joon's secret. He also reveals that he'd wondered if Song-Yi is the reincarnation of Yi-Hwa, a girl he met 400 years ago.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/557WCNQ7vkBsb7tiAlespVJlNXn.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LnBEQL7R#ntRHnDQFxx1mcWkq-8KS-BCJBj_feq8HNurlvNgfntY"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Episode 14",
+          "Duration": "59:00",
+          "Description": "Song-Yi is in the emergency room after an \"accident\" engineered by Jae-Kyung. Min-Joon plans to take the blame for all of Jae-Kyung's evil deeds.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/drvWMDCaVtl2egcDIRe4KgqF11P.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/GuxXURwD#cD7J7odfuwmxMmSMX8UZMiR3kOhmYKKf7pqFa2CMzUU"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Episode 15",
+          "Duration": "59:00",
+          "Description": "Min-Joon confronts Jae-Kyung about all the lives he's been destroying. Song-Yi tells Min-Joon to stay away from her, but he does quite the opposite.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/aaOUpaCZVOwQIHqDApID26O6ln3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/76pViQAD#r9LT5hCD_U9NZES4hcPoVLRqWVcRw2SdoD2KoONL4oA"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Episode 16",
+          "Duration": "59:00",
+          "Description": "Min-Joon collapses after kissing Song-Yi. Hwi-Kyung awakes and pretends he knows nothing of Jae-Kyung's schemes. Min-Joon tells Song-Yi he must leave.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/d5U0PiekbeBrDx22Cx6KUcEf24Y.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ruAWQZaL#qzsz91k32lZMOw6ZdEhTIWSE_3E-N0MH-WviTSaNExA"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Episode 17",
+          "Duration": "59:00",
+          "Description": "Song-Yi questions Min-Joon's need to return to his planet. MIn-Joon, like Song-Yi, is distraught at the prospect. Min-Joon's powers keep glitching.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/iljeZ70P8LRcM3hTYD58NSstjch.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/u7ZwUCAA#2BP1AX9IeN3VyVC0sm46Zy-MefMPrhCSnOxCwJ5kM08"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Episode 18",
+          "Duration": "57:00",
+          "Description": "Min-Joon says he won't leave after all, but Song-Yi doesn't know the real reason. Hwi-Kyung finally confronts his Jae-Kyung, rejecting him as family.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yy9B4ciJaP3tADCp1xE3FkApPnh.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/72oXGY4K#9bOtovIDZcF3C3r77l_HC5DBSbbhfue1SA7TgeDAjgM"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "Episode 19",
+          "Duration": "57:00",
+          "Description": "Song-Yi finds out about Min-Joon's likely death if he stays on Earth. Both Hwi-Kyung and Min-Joon attempt to force Jae-Kyung to turn himself in.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ws019ZCwgUQFSzHEtKLpDEk4sCn.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jup03ZqJ#PuD3vFZFjWWGjVxz4Y6eHZJ7EWM6nImqXCDJVWbFh0I"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Episode 20",
+          "Duration": "58:00",
+          "Description": "Song-Yi insists that Min-Joon should return to his planet. Min-Joon has dinner with Song-Yi's family, and her mom learns he's an alien.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dNRU0geH0oWgbCxuxnVo6l5FKgO.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/iuRQGCia#Xc5Wgi4s2G5SWZFb3WMUzM_B1KnWKbcylXXSD5lvGAU"}]
+        },
+        {
+          "Episode": 21,
+          "Title": "Episode 21",
+          "Duration": "58:00",
+          "Description": "Min-Joon professes his love for Song-Yi and then vanishes. Over time, Song-Yi and others think they catch a glimpse of him, but are they imagining it?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ckaxUsBlP58kVYDUsE6uFL8XBA4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/pBNmxRzQ#8etSm1ODDPH3gXHEpK29yqHyAq-SjNDNIBr_B3IHtIM"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+{
+  "Title": "Love, Take Two",
+  "SubCategory": "Comedy",
+  "Country": "",
+  "Description": "A single mom and her medical student daughter have entered an unexpected second act in their lives. A story of love that is not an end but a beginning that comes to them as they decide to live happily today instead of tomorrow.",
+  "Poster": "https://image.tmdb.org/t/p/w500/a96ihrij1gaDX9J7JLsG5lFbXjM.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/a96ihrij1gaDX9J7JLsG5lFbXjM.jpg",
+  "Rating": 9,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/a96ihrij1gaDX9J7JLsG5lFbXjM.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Episode 1",
+          "Duration": "1:01",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/mOfUFMkvS2KtH5ahNjRQojudQIN.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jvAQnSqB#9AG-34tbuzzjia7W3uIr0l3IoPg9mBmFYUY4kiJCZSE"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Episode 2",
+          "Duration": "1:09",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wz3y9Il6ngDMeYxn25tO0OMnw0r.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/uipnkDiC#W8V1ts25OhYkq9YfTYd2gMyJ5av006l_6wNzFM696lE"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Episode 3",
+          "Duration": "1:00",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nQpYcVOsvPcJHUsyAji5AlM5VNz.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/HuIGmY7T#B4kyBgxh3tqlgvj6POB2YBQ69qUFnwdXxqLWoBVeQ5E"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Episode 4",
+          "Duration": "1:08",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yD4OqbBDYDnT6YoHWuVsalHWoJd.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ijgBnIxC#1KHxze8mvbR-x06YgkJ3gd6lPIVXzfk4oHq48s-fOiY"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Episode 5",
+          "Duration": "1:07",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nHjZkx74PyurCbxYYEQnVFESmeQ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qiYQEJQR#fiMRkYJfONvop5ZefO4rziXS5dJArCksWl-H4DFTZOI"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Episode 6",
+          "Duration": "1:06",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dmGUHhcpsyTTmJ9mkddnWY7aiKe.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ynZFSCba#-KmtOAvWGNYem-_xY3YlMTgU8ML6xwY3lGft1gw_zXY"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Episode 7",
+          "Duration": "1:10",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nlNlAavdeLBmICuetRWthKxWgES.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PnJQEC5R#qkE03LlJ8whriRp54T2hj2lKWazW7DqGllWOpYwUuXM"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Episode 8",
+          "Duration": "1:07",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8oWDqZaIFGUAlPJwKr10NYDvPsj.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/22ZyyZAT#qOG88PDEW1pHs42ADn1Rpt8kMjysMHPBZBLKXaQeGuc"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Episode 9",
+          "Duration": "1:10",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ijGGHgUSW2SrWJKyQaB9YWriNMp.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fixSyayZ#eL2Fg2YnHHL9Q_9pFY0JX-xZldNsImDcOqgK3iHig3E"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Episode 10",
+          "Duration": "1:09",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5ggyo2D5kBoElecjmWGZzpfnTFg.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/73RgVC7a#ew-U4xEiCSAlPOKXC0H4uEHJhwFnfPnPomZ6xcaEvmg"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Episode 11",
+          "Duration": "1:12",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eoTOpyTXncPSQ0qRMik2rPTlQeU.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/X2wVkC6A#aqjMtmPZB20aQgMXGTtDDtltWsVGTHV1sompPBjReMA"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Episode 12",
+          "Duration": "1:09",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lFJTJr3KfzW13wITrRxThDBDYJN.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rnhA2RYa#hXNzY5VVJSq4Nqw8GnlOiQvOgDWRIiDRzZcliU0pbTU"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Episode 13",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/a96ihrij1gaDX9J7JLsG5lFbXjM.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/z6YknKYa#buxXBNeVrmZQcZO3z-GT1-DM8KKu3xZR0vmqUGUri0o"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Episode 14",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/a96ihrij1gaDX9J7JLsG5lFbXjM.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/KioRFLBQ#t0aNlj3sxOQ9aaxhCr8k-53p8-aQJ4B3jjSevusW03s"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Episode 15",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/a96ihrij1gaDX9J7JLsG5lFbXjM.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/f6pTESyZ#bvM5WQp7M6TXM0dH3ST7cQykVs494XgwN0WfM_TrWtM"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Episode 16",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/a96ihrij1gaDX9J7JLsG5lFbXjM.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/u3RnHT5D#gtM_okrcu4dhuT6kUuB92WrjS9yVmb4OxqtK1pv7WMQ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+{
+  "Title": "Backstreet Rookie",
+  "SubCategory": "Comedy",
+  "Country": "",
+  "Description": "It tells an unpredictable 24-hour love story of the four-dimensional innocent girl Jung Saet Byeol who was once a troublemaker and the adorkable caring male store manager, Choi Dae Hyun, in the context of a convenience store. They have met each other accidentally 4 years ago, back then Saet Byeol asked Dae Hyun to buy cigarettes for them. Until now, Saet Byeol comes to the convenience store Dae Hyun runs for a part-time job, their hilarious romantic story starts.",
+  "Poster": "https://image.tmdb.org/t/p/w500/jHoNkQhhYFXSAG0RPRnyDdGi0jy.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/jHoNkQhhYFXSAG0RPRnyDdGi0jy.jpg",
+  "Rating": 7,
+  "Year": 2020,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/jHoNkQhhYFXSAG0RPRnyDdGi0jy.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Episode 1",
+          "Duration": "1:05",
+          "Description": "In the past, Dae-Hyun is a good looking, down-on-his luck man whose girlfriend has just broken up with him while Saet-Byul is a strong, charismatic schoolgirl who is good at fighting.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/p8H7FmD9OYWW6RnKAoz0p4ToJQb.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zlBhHJxQ#XECwiwc8ch9xMoYD204TMQ32QryFX7Ot5bJG98tkM0M"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Episode 2",
+          "Duration": "1:01",
+          "Description": "Yeon-Joo, Dae-Hyun's girlfriend, sees him drinking with Saet-Byul and her friends. The police arrive accusing Dae-Hyun of selling cigarettes to a minor.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vEa1WpUZ8yCkAmyNWrro0O3hWk.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/HkBAARIZ#pXq9HbczWbFC8YnKeF24rLLmMA0dRNYvh9rbexJgvmo"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Episode 3",
+          "Duration": "1:03",
+          "Description": "Yeon-Joo's jealousy grows as she learns that Saet-Byul, the part timer Dae-Hyun hired, is good looking from a coworker. Angry with rude customers, Saet-Byul gets into a fight with them and is seen by Dal-Shik, Dae-Hyun's best friend.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/suAW06PiZHjYfMEdkzIqar0Tyxq.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/bwYEVTIZ#23tAmdKMVcHilvwLmXciUD7wqRVdEPS2i3N0qdd9Phc"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Episode 4",
+          "Duration": "1:01",
+          "Description": "Dae-Hyun misunderstood the situation between Yeon-Joo and Saet-Byul in the bathroom. Saet-Byul runs into the celebrity, and her old friend, Kang Ji-Wook, who her father used to train.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rQ25T7yrqKm1r22xMWUMdsZzp6e.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/blZA3RhD#Rt03YKhj8uRMF9iusCIfosrMHNjP_gng81-E66Xher0"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Episode 5",
+          "Duration": "1:02",
+          "Description": "Though Yeon-Joo is jealous when she witnesses Saet-Byul getting a piggyback ride from Dae-Hyun, she still invites her out to eat with them.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ojGuGW1cmPfVGJuUi3dQCHG0a5t.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/X85kga4J#AIG8X6UCq7oIVaDE0ki231oGA-JYhp7xZZDV9VkcFkw"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Episode 6",
+          "Duration": "1:01",
+          "Description": "Saet-Byul is attacked in retaliation. Dae-Hyun is close by and rushes to her aid. Despite that, Saet-Byul is fine but needs surgery for her appendicitis.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1AdjOAWSUqjhpeLo9CEeuv92N6T.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/TxJzHKoY#ckorL4tnvgb5lYmy6T3PvE1khx8koM1rDWdFbtQCwqc"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Episode 7",
+          "Duration": "1:06",
+          "Description": "Saet-Byul tells Dae-Hyun she's quitting. Saet-Byul and Eun-Byul are forced from their apartment after they find out they and several others in the building have been scammed.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nG6LmK9sVc3hHMk2ONjqX6U08Nc.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CgYwVJaZ#HM9LVCnb7B6nku5cQTXbzju_4KyeSHK9nBgYzkKykCY"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Episode 8",
+          "Duration": "1:01",
+          "Description": "Saet-Byul winds up sleeping at the Choi family home for the night, startling Dae-Hyun. She's invited to stay until she finds another place.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8O4ZUeHKB1Nslux9Y7pO17gh4pn.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/74wiTQ4C#BQ0YmG38nTYKU0NKmeYGIj4na7B0rxPoyXsgD2u5InE"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Episode 9",
+          "Duration": "1:05",
+          "Description": "Yeon-Joo is annoyed to find out that Saet-Byul is living with and well liked by the Choi family. Yeon-Joo and Dae-Hyun get into a fight.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uvgdz0OGQp8T2CY5g5KCuSCBcQR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6xAlUCaS#TQuMjmeST6-KrGX-VxIDjZQ2m5ASbtLASm2jUfmtbpQ"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Episode 10",
+          "Duration": "1:01",
+          "Description": "Dae-Hyun is heartbroken when Yeon-Joo breaks up with him and leaves with Seung-Joon. While the two go out the drink, Dae-Hyun returns to the store for work. Eun-Byul is found out when Saet-Byul witnesses her with her girl group.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bW49Vml6ZjiQNqAE1GjeIvuNm1F.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/694hySCR#FEKmZCydih9JoOrsg2X0bxrIMA1zJpovj4td_kSU_OM"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Episode 11",
+          "Duration": "1:06",
+          "Description": "Saet-Byul confesses to a sleeping Dae-Hyun that her feelings for him go back longer than the 3 years he remembers.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/q1OjTS11LEgHW64p4OaALyFaKZe.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/i0YSTbQR#QGAaUY53j9NRS-O33vphdeZIhK5DtZHmkvJ53s-mji4"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Episode 12",
+          "Duration": "1:01",
+          "Description": "Dae-Hyun is startled by Ji-Wook's easy confession about his feelings for Saet-Byul. He feels inferior compared to the celebrity Ji-Wook during the filming. He's happy to hear Saet-Byul call him handsome. Saet-Byul and her friends support Eun-Byul's debut. Meanwhile, Geum-Bi and Dal-Shik deal with the falling out from their almost dating. Eun-Byul seeks help from Ji-Wook.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xzfwWCszRdBEbUYbMfzcUARZINz.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/O8h1Tb5J#HOL_wuqO5J0m7BNivXgeeR4Ol6PvruVzFrxg3np7XFQ"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Episode 13",
+          "Duration": "1:06",
+          "Description": "Saet-Byul witnesses Yeon-Joo and Dae-Hyun outside of the store and gets jealous. She goes to see Eun-Byul but winds up in a fight. Dae-Hyun takes care of her injuries. Meanwhile, Dal-Shik and Geum-Bi run into each other.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/tiFnUi1Gyiq0L4TdMJUQoUKvrsO.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/a95xSJTY#HWGk7L4Y7ObLCPjsMs1N8jCex4tW8rJb66G-n8sWyVs"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Episode 14",
+          "Duration": "1:01",
+          "Description": "Dae-Hyun gives Saet-Byul flowers to wish her luck on her upcoming GED exams. Yeon-Joo witnesses this but remains resolute in her intentions to get back together with Dae-Hyun, leading to a fight with her mother. Eun-Byul has a brief but welcomed reunion with Fancy Girls.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jVSn7k6pPRsicBLSK89BAbtkkJ1.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/L9YBgACY#Qf-zJOY4USknbCNf3kj896-6hrwt1eqQ-oVk3FwrAao"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Episode 15",
+          "Duration": "1:05",
+          "Description": "Saet-Byul turns Dae-Hyun down by telling him she give her answer later, after she passes the GED. Dae-Hyun meets Jang-Mi who is his father's first love. Saet-Byul gets good news. Meanwhile, Dal-Shik and Geum-Bi continue getting to know each other.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/Ajgf1lrHqDyZUosTfM4EI9O36mv.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rsRhkKQS#6r-FOl_4XZiOYUd33Poj7PNjC_n1wKK9l70tpUGRHgU"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Episode 16",
+          "Duration": "1:01",
+          "Description": "Dae-Hyun finds out that Saet-Byul moved out without saying anything and worries about her. She gets a job working at a greenhouse while Dae-Hyun searches for her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gQDEZzSbRmJ6m5v9cle2CyIJ8rZ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/nlxSVDLZ#LbeGPHhLIPgPSfdAxnOuUs0OnnIlKWSvCgrrG-1W13Q"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+{
+  "Title": "Love's Ambition",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "Renowned anchor Xu Yan and urban elite Shen Haoming appear to be the perfect couple but struggle to fit into each other's social circles due to their differing backgrounds. When conflict arises, Xu Yan leaves, prompting Shen Haoming to realize his deep love for her and attempt to win her back. On their journey, they face challenges, shed their facades, and rediscover their true selves.",
+  "Poster": "https://image.tmdb.org/t/p/w500/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
+  "Rating": 8,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/iH8J36LMEYdvOlYvbBcYCK0ckpp.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Changing Names",
+          "Duration": "44:00",
+          "Description": "Xu Yan, hiding a heart condition, reinvents herself and hires strangers to pose as her parents to impress boyfriend Shen Haoming's family, testing her wit and resolve in high-stakes deception.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/b7zfvAwDGg76R7DzSH2gc6z5FU5.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/1romCA7A#WYq5zoqROCphYS6OypSWNo4KldXyOzistYsM6B9CjUo"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "A Sensitive Heart",
+          "Duration": "42:00",
+          "Description": "After collapsing at work, Xu Yan discovers Shen Haoming's caring side, but scrutiny from his mother Yu Lan and rival elites challenges her worthiness and ambition.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lMoLeyW8VMIaAUOgTvyt709YEZ3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/wq4U1ShJ#p06kjD4BPi4-cqKt3LxFTgev4ejePCp0gip_dElyFXY"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Turning the Tables",
+          "Duration": "49:00",
+          "Description": "To win over Yu Lan, Xu Yan navigates elite social circles, leveraging her resourcefulness to boost her career while deepening her bond with Shen Haoming.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gScIUbIYjE8KpMbesthFZpOSJII.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/x7Bl2BAB#MNhJCaLIcExV2vm03eSSL2FzREdvGtFoMB763MJnwEE"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "No Longer Family",
+          "Duration": "39:00",
+          "Description": "Haunted by a painful past and family neglect, Xu Yan leans on Shen Haoming and her own determination to rise above her hardships and claim her happiness.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/64GYMJwjCiarDyBJHVIsLnrUD7T.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/M6wyUSAZ#EQrpqk-taVizjgsOMXwB9J9BC5R_Zxz8pHT_SJ4f7fI"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "The Outspoken Fang Lei",
+          "Duration": "49:00",
+          "Description": "Xu Yan navigates tense family dynamics as her estranged father and sister resurface, while juggling her secret plan to marry into wealth and her growing bond with Shen Haoming.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/aJVBS75yk2xOSRQ0qM23Cebaerz.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Q7JXFJxS#yxC3DgxtFyCqKyDoa3IglShTB1agzHPZzTiuIVjaMoM"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Everything is Under Observation",
+          "Duration": "43:00",
+          "Description": "Amid wedding chaos and lingering insecurities, Xu Yan carefully manages jealous rivals, reconciles with her grandmother, and solidifies her connection with Shen Haoming.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fwzKBp16SJ5e76D8TtInOJr1TuV.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/wqQzgK7B#7ndMMUKbz1FvtMyqe-Dq2m19A4I3Q-jzVAEp73CyVpE"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Repairing Relationship",
+          "Duration": "48:00",
+          "Description": "Lin Tao tries to find Qiao Lin through Xu Yan - and causes a scene. Shen Haoming has his eye on a plot of land, but runs into funding issues.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6tn2xBRIUksR0pqdW8YUV6XuFKl.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/wiIkwZyb#5b8h6LE3dlpYUA61qOPUEnyaYrDl4Wn5UDTB41GYn9A"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Setting Up a Trap",
+          "Duration": "43:00",
+          "Description": "Shen Haoming partners with Shouke. Sun Siwei tries to set up Xu Yan, but she maneuvers cleverly and comes out on top.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vXVPhz93DN7pyBxBenwa1rBq5Ch.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Z6hjxLxA#yBcWyDYTQEJhXwCm5TPTImxZdDZzakXCOyrUE6slirA"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "A Protective Sister",
+          "Duration": "46:00",
+          "Description": "Shen Haochen is hostile toward Xu Yan. Xu Yan reunites with Zhou Zeyuan. Shen Haochen throws a tantrum, but Xu Yan deals it with effortlessly.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/449VevUKe60nJrtVrWkipP0i86v.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/5roh2Kgb#TiS0hZQqhZ4kforD98DHCU_OXxKd0j3JIg8rzVySZC4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "A Liar",
+          "Duration": "43:00",
+          "Description": "Qiao Lin meets Xu Wenjin, and later decides to pursue further studies. Zhou Zeyuan threatens Xu Yan in order to secure funds.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/aDw98sWRG12chj88iVlk9cLWm1h.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/03ZzRRqQ#ytI5aWEMkEa0l2Ag023yetJ80JpJmPKhJZYmG1gWaGo"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Standing on the Edge of a Cliff",
+          "Duration": "49:00",
+          "Description": "Zhou Zeyuan exposes Xu Yan's true identity to the Qiao family. Xu Yan attempts to test Shen Haoming — but is interrupted.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qyGkmSVkFkGFO5npyTnGmwNjQcD.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/EjBSXK5T#zhwnoDkw0i9JbdLx9fG7p3Xmp8y4BXjML93CaQvZ92Y"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Inner Conflict",
+          "Duration": "42:00",
+          "Description": "With Xu Yan's help, Shen Haoming gains support from the Yuanhang Fund. He plans to celebrate Xu Yan's birthday, but unexpected trouble arises.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8s7mgF9oNZDg41hRwIbwH1VXbwl.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/865w2JAT#U06qbXI4FO-ThupkyzbV9BXbSiR2Waw0cpWsAMsMmIM"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Admiration",
+          "Duration": "48:00",
+          "Description": "Shen Haoming implements major personnel changes at the company. Fang Lei reveals a shocking secret to Xu Yan.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fNnTn2Yqree8uux3bTpbeWjJerM.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/8u4SQBaC#e8Iy27vxL4lKLOEja-wp6y0a_5T58YAUooz2qZMeZcY"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "We Both Have Secrets",
+          "Duration": "45:00",
+          "Description": "Xu Yan confronts Shen Haoming, leading to a falling out. At the hospital, Qiao Lin secretly helps Yu Yiming, touching his heart.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bsTHlcR8x1BQh6JRv6teyuqNku2.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/BzA0SCzL#6aw4HT4_GoOvQOJI9zponDkj2HNYBvbj_6BtGTAwbrU"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "My Selfishness",
+          "Duration": "46:00",
+          "Description": "Grandma suddenly falls ill and is hospitalized. Feeling guilty, Xu Yan decides to get a divorce. Qiao Lin helps Yu Yiming relieve stress.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/YuXk2JgjEhj8Fr9GtO9b6SNjAh.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Q6oTCJBD#In4nu4fmsa7KBn-R7KMMeXUHmMsCbp8qu-iUC9DxdY4"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Divorce",
+          "Duration": "50:00",
+          "Description": "Shen Haoming is upset when he runs into Yu Yiming at Xu Yan's apartment. After the divorce, Xu Yan starts a new career online.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/opkWc0nHJ4HsGXsRfSzaPHhxGad.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/1u4VBYzY#HkcGHMwMLy0cpyvEeVv4SmylABgVQ3mRV-hDSGf3IIk"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Back to Strangers",
+          "Duration": "44:00",
+          "Description": "Shen Haoming manages to get rid of Li Baogong. Xu Yan's livestream is not performing well. Shen Haoming tries to help — but she rejects his offer.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2eZeB9HnDTwFn2XmwQnD4cyOVng.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ouBBVJ4J#auJNa1ep5uk-XP1G_PkK4Apnh1kstkTxyyrxa_ygoqw"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Sisterhood",
+          "Duration": "49:00",
+          "Description": "Xu Yan and her sisters struggle with business. Lin Tao troubles Qiao Lin, but Yu Yiming helps her. Shen Haoming looks for evidence to fix some issues.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sPIbZjXMjQgRdnxAelgYkcZuhC4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/YqJSSITD#omJjgZg6flFV62MzOtDW31FExFXS8ZRqBWWIdbvsUdA"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "Accepting the Proposal",
+          "Duration": "48:00",
+          "Description": "Jiang Liang uses work to show interest in Xu Yan. To secure a deal, Shen Haoming suggests to Xu Yan that they pretend to be a loving couple at a party.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vQqig3L4Dq54k3mKHqiQLzfOUig.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/VnQC0ZKI#QFdDNDu-jX8BSMOvhyCP5ycPVT8hNrj0Tg-QwGayoC4"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Close Yet Distant",
+          "Duration": "49:00",
+          "Description": "Shen Haoming opens up about his feelings to Xu Yan, who remains distant. Mr. and Mrs. Barakin accept Xu Yan's invitation to a festival.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1rrtUhzXfaVhzK7momubeMgN1OR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/43QBnApZ#QiiJYzSLDpFwwIHHIWujhsu7Kte8SlsSvTJeuWN2e3M"}]
+        },
+        {
+          "Episode": 21,
+          "Title": "An Excuse",
+          "Duration": "49:00",
+          "Description": "The sisters celebrate a success, but Shen Haoming is upset about Jiang Liang. Shen Jinsong and his son have an open talk and start mending their rift.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vnYrmr7twLFOMlFILPvKBhNYCFX.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/xnRAFTaa#fe-Rre7VGMhpYomWzTYmBuYvrj32KVgfxkeTMITDRQM"}]
+        },
+        {
+          "Episode": 22,
+          "Title": "Can't Sit Back and Do Nothing",
+          "Duration": "49:00",
+          "Description": "Jiang Liang tries to draw Xu Yan closer. With Yan Yifang's business booming, Xu Yan has no time for Shen Haoming. Yu Yiming and Qiao Lin face a crisis.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dn9gBZXyfjF3qhF3j9ygZydm2zp.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/5q5SjBpK#ePJg8LWjmm3_a8txSHLCBuxsWFuwWUiMLXJ2-wNNH88"}]
+        },
+        {
+          "Episode": 23,
+          "Title": "Taking the Initiative",
+          "Duration": "51:00",
+          "Description": "Yu Yiming advises Shen Haoming to take the initiative. Mr. Barakin proposes a three-month trial period. Yu Yiming opens his heart to Qiao Lin.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6RIJ5f8QSxM2TnQekadlMjtda34.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ovwUza4D#AMNzpYZvT1c5azP-CQ-e-gZIk0jvHCpyEq18knbRvgE"}]
+        },
+        {
+          "Episode": 24,
+          "Title": "Butterfly Effect",
+          "Duration": "52:00",
+          "Description": "The market is flooded with counterfeits, plunging Yan Yifang into a complete crisis. Some people make matters worse — while others offer help.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7X7ko4RXg2hZyNNXTa4u3FDnNJ5.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/kiwE2AgQ#D-L6ciq2YXPjsaIfoIVJz1JYAcne1Fw2pMBxysW1nXo"}]
+        },
+        {
+          "Episode": 25,
+          "Title": "Public Opinion",
+          "Duration": "48:00",
+          "Description": "Xu Yan and Yan Yifang participate in a design contest but are disqualified. Jiang Liang gets close to Xu Yan, sparking Shen Haoming's jealousy.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/u7p9sR9Lmt1FH2srpFip3Oz7zwy.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/N7RliIzT#rlm_VuvzqIHPp2CMpSZQVbnoOMCx4wDBNLna1igbDAc"}]
+        },
+        {
+          "Episode": 26,
+          "Title": "The Night Before",
+          "Duration": "48:00",
+          "Description": "The contest is followed by a wild night of celebrating. Shen Haoming invites Xu Yan to dinner to entertain Mrs. Barakin — but they part on bad terms.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yPfoK8IsZlOtu5igBYWJ7EimvIV.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/V3ZngKwI#L78UMIubxD0DFAMNXHK3f5h7_GavF7NmZzngPDRFNjE"}]
+        },
+        {
+          "Episode": 27,
+          "Title": "What Kind of Person Are You, After All?",
+          "Duration": "56:00",
+          "Description": "Shen Haoming arranges a series of chance encounters in Gubei. Xu Yan can't help but laugh. Xu Yan hopes to find a certain artisan, but faces setbacks.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ebXYMAIuRAhVnV4bO3xFoPW6fBl.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/IQ1gkAJC#On8SYSQJwkW_8ED3fGS5ypNlBSB5id9jjDCJ9cBz0Os"}]
+        },
+        {
+          "Episode": 28,
+          "Title": "Self-Reflection",
+          "Duration": "52:00",
+          "Description": "Shen Haoming and Xu Yan engineer a reconciliation. Haoming makes peace with his father, while his relationship with Haochen causes speculation.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eHerM5ox6eIyUN7E9pjm3oyhVQM.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/0yIhgJxJ#N_xqBqQZHYWMIbgf0kkjvVh25-tVbi49QCFEwDAi8BY"}]
+        },
+        {
+          "Episode": 29,
+          "Title": "True Colors Revealed",
+          "Duration": "51:00",
+          "Description": "The Shen family company faces a crisis, devastating Shen Haochen. Tensions rise between Fang Lei and Han Weiping. Lin Tao's true colors emerge.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5dnM24KjZsZ8L5U2dlG90PrDsZq.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/EypSXJ7C#xQlLKtDU5tpWtgUiYE4L0qI81WGnybDhaZx-n742DfQ"}]
+        },
+        {
+          "Episode": 30,
+          "Title": "Weathering the Storm",
+          "Duration": "51:00",
+          "Description": "Lin Tao reveals the truth. Shen Haoming and Xu Yan choose to unite to overcome challenges. Qiao Lin has to part ways with Yu Yiming.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/iVss3ftJYPzn7uHIbONDgie8H3l.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ZixHHYBI#VNPzV843swwTYKjpH9Ccwc74hGLgrPG3BAWP3EiN3Lo"
                     }
                   ]
                 }
