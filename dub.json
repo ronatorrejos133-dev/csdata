@@ -22,7 +22,9 @@
         "Horror",
         "Sci-Fi",
         "Adventure",
-        "Romance"
+        "Romance",
+        "Animation",
+        "Thriller"
       ],
       "Entries": [
         {
@@ -42,7 +44,192 @@
             }
           ]
         },
-        
+        {
+          "Title": "The Assignment",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "Ace assassin Frank Kitchen is double crossed by gangsters and falls into the hands of rogue surgeon known as The Doctor who turns him into a woman. The hitman, now a hitwoman, sets out for revenge, aided by a nurse named Johnnie who also has secrets.",
+          "Poster": "https://image.tmdb.org/t/p/w500/3wx83iGCATiIAyrZHI6AeeNfiAT.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3wx83iGCATiIAyrZHI6AeeNfiAT.jpg",
+          "Rating": 6,
+          "Duration": "1:35",
+          "Year": 2016,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/NV90Ra5J#uPk2ymztwb1DVC09cjaMsoAXWrDlWoN6udas52tesM4"
+            }
+          ]
+        },
+        {
+          "Title": "Peninsula",
+          "SubCategory": "Horror",
+          "Country": "",
+          "Description": "A soldier and his team battle hordes of post-apocalyptic zombies in the wastelands of the Korean Peninsula.",
+          "Poster": "https://image.tmdb.org/t/p/w500/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg",
+          "Rating": 7,
+          "Duration": "1:56",
+          "Year": 2020,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/XzQTTAoR#oT_6r9LAnbT2eEhUUEfijm5qpcw1vepwFvWaMhyhJPI"
+            }
+          ]
+        },
+        {
+          "Title": "Silenced",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "Based on actual events that took place at Gwangju Inhwa School for the hearing-impaired, where young deaf students were the victims of repeated sexual assaults by faculty members over a period of five years in the early 2000s.",
+          "Poster": "https://image.tmdb.org/t/p/w500/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+          "Rating": 8,
+          "Duration": "2:05",
+          "Year": 2011,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/6uAjSRZb#gMANDKBRWNH4CQw6kI9liS0j0CFN6h1IX0eUia5kB-8"
+            }
+          ]
+        },
+        {
+          "Title": "Looper",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.",
+          "Poster": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+          "Rating": 7,
+          "Duration": "1:58",
+          "Year": 2012,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/file/oJEhzJBD#uoySEh-0y3ckt4TtZEg49v4qnpjXmR7gsuqfGlEpC-8"
+            },
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/oJEhzJBD#uoySEh-0y3ckt4TtZEg49v4qnpjXmR7gsuqfGlEpC-8"
+            }
+          ]
+        },
+        {
+          "Title": "Lucy",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+          "Poster": "https://image.tmdb.org/t/p/w500/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+          "Rating": 6,
+          "Duration": "1:29",
+          "Year": 2014,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/file/tVcwwRiT#r_vbkktwDyejJkSquFGnaYt-2lFlBmrACo9cP_257_g"
+            },
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/tVcwwRiT#r_vbkktwDyejJkSquFGnaYt-2lFlBmrACo9cP_257_g"
+            }
+          ]
+        },
+        {
+          "Title": "Ready Player One",
+          "SubCategory": "Adventure",
+          "Country": "",
+          "Description": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+          "Poster": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+          "Rating": 8,
+          "Duration": "2:20",
+          "Year": 2018,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/file/BBdWxRhB#TkwihfkaEKlVb0davoeS2R5YQdqzNYuqiUku7nlGZ4A"
+            },
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/BBdWxRhB#TkwihfkaEKlVb0davoeS2R5YQdqzNYuqiUku7nlGZ4A"
+            }
+          ]
+        },
+        {
+          "Title": "Source Code",
+          "SubCategory": "Thriller",
+          "Country": "",
+          "Description": "When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.",
+          "Poster": "https://image.tmdb.org/t/p/w500/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+          "Rating": 7,
+          "Duration": "1:33",
+          "Year": 2011,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/file/sZFGhISA#F28xRVFEhwzFf5eo4KUlgPchYQ3rB5317zjqjJG1Dcs"
+            },
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/sZFGhISA#F28xRVFEhwzFf5eo4KUlgPchYQ3rB5317zjqjJG1Dcs"
+            }
+          ]
+        },
+        {
+          "Title": "Upgrade",
+          "SubCategory": "Action",
+          "Country": "",
+          "Description": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life.",
+          "Poster": "https://image.tmdb.org/t/p/w500/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
+          "Rating": 8,
+          "Duration": "1:40",
+          "Year": 2018,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/wBlxjaRJ#omLChjSsV_qAmMSZ9_yP188_XVokjcSCTCkkMf3EAbg"
+            }
+          ]
+        },
+        {
+          "Title": "The Passion of the Christ",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+          "Poster": "https://image.tmdb.org/t/p/w500/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+          "Rating": 8,
+          "Duration": "2:07",
+          "Year": 2004,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/IUUSiIiD#JwtGupl8Ud9gvWmIybQj9LTdsJcsWBhQHKIlZFA3gVc"
+            }
+          ]
+        },
+        {
+          "Title": "Inside Out",
+          "SubCategory": "Animation",
+          "Country": "",
+          "Description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+          "Poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+          "Rating": 8,
+          "Duration": "1:35",
+          "Year": 2015,
+          "Servers": [
+            {
+              "Server": "a",
+              "Link": "https://mega.nz/embed/4A0XGCIb#0ufApm8-1WePRQ0jySDuwa6aooT3_CdGOb8DDkwbsjQ"
+            }
+          ]
+        },
         {
           "Title": "Bad Genius",
           "SubCategory": "Drama",
