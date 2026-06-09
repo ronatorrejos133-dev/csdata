@@ -1229,6 +1229,624 @@
             }
           ]
         },
+{
+  "Title": "Fighting Spirit",
+  "SubCategory": "Animation",
+  "Country": "",
+  "Description": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
+  "Poster": "https://image.tmdb.org/t/p/w500/1LApB9C9kEkh2ZU2vzAhurNDipl.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/1LApB9C9kEkh2ZU2vzAhurNDipl.jpg",
+  "Rating": 9,
+  "Year": 2000,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/1LApB9C9kEkh2ZU2vzAhurNDipl.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "The First Step",
+          "Duration": "24:00",
+          "Description": "Ippo is a high school student who works full time at his mother's fishing though. Because of this, he gets bullied on by the kids at his school. That's when his life turns around, when a professional boxer happens to be jogging along the way, and introduces Ippo to the world of boxing.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rybQGtjwLN6mdI8ObtfQOZCfBmP.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yTAVmBaK#VGhkWO4a5S_KZZXQi3JDS0yJOJkU4-MAMieqhTNCfKE"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Fruits of Labor",
+          "Duration": "24:00",
+          "Description": "Ippo succeeds in catching 10 falling leaves, and is granted his first sparring session.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qDjasQhjLX9ErGMV2lRi6iyYnOS.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yKQXHCiC#ohmXUJFxEHgS4Ni6VTCqg5J16h8FawhREImXyBmNlBw"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Tears of Joy",
+          "Duration": "24:00",
+          "Description": "Ippo loses his first sparring session, but shows enough potential to be accepted into the gym.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9Pt4wEEDOizl5epFUK8PdMr3lyd.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/7Co3lJoR#hwbersMxdHjp1_F4Tonx5Bq7DYfUjr1b0ETHpiAo_2w"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Shadow Boxing",
+          "Duration": "24:00",
+          "Description": "Ippo practices shadow boxing.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/A8wAOBI4l0ttEM8OTlUxOaPgCoS.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OPZFHJTS#7gUf6s-eZVze5e1BhvX6aZkGcA3tQuf4U-EW2SLrYUE"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "3 Months to Counter",
+          "Duration": "24:00",
+          "Description": "Ippo trains for a rematch.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5xNMTUhBsgsXuM01tHZd4CJh5Va.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DGY1TBoY#ubI80t_QhNENtlqX-IUQJA6xvKMMnMPCnp97GE8DD68"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "The Opening Bell of the Rematch",
+          "Duration": "24:00",
+          "Description": "Ippo and Miyata face off in a rematch.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/aHK3g2ZaSDraungdNUMjf3U6HBf.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/XDQy2A6Q#lnQ29HCZfE_B_fWEIp6kB7O2Qde5s7tC8vUnVodK8Zc"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "The Destructive Force Of One CM",
+          "Duration": "24:00",
+          "Description": "Ippo and Miyata are in the last round of the rematch",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/z58h6guq2hORMwrQm5Z6ATRJtYb.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OKBlWTzC#TXlvS_d3l6PSHS_9QfZY5dtddw2grgpOcASG7MqX0hU"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Promise to Meet Again",
+          "Duration": "24:00",
+          "Description": "Ippo trains with Takamura and discovers the hardship of pro boxing.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kpEl4zJraN7vKvBF6aTDVmJvoem.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/HDQkmJZT#8baZlaiTRCUsP6uJgfck4AFJHf2XqUKQ_-_xvaTW-6M"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "C Class License",
+          "Duration": "24:00",
+          "Description": "Ippo takes the License Test and meets Mashiba.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kU3wMfiQshDcR8ezzesF0WlYwmY.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zGxQyIKS#FcEa8w8foVcqpIPh1R5qV3Qmo5sPdk0EVX40l7xBDYg"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Debut Match!",
+          "Duration": "24:00",
+          "Description": "Ippo and his opponent Yusuke train for Ippo's debut match.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nu9uC15HvvGSPRjzRlcDEBCe6L8.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/eKITSBDR#nhagzn7FajrAvEqcNHBq4UZW9rSkv3LuLE5XlgVQ_WY"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Obsession for Victory",
+          "Duration": "24:00",
+          "Description": "Ippo defeats Yusuke via K.O.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dNPvows5jfEqta90d86rpMABJhi.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/eDQmUTQa#W2p8eaWEsIfe_J3u4WYBt61g22I2pffiWh6KpZwJQtM"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Becoming a Bully's Buddy",
+          "Duration": "24:00",
+          "Description": "Ippo fights and wins his second match via K.O.,After the fight he was befriended by Umezawa, his former bully.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/g0w2DbmigL5wzzvPqDXd3hEjquv.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/3D5lEB5L#r3KeWyMm5dC7Un5LkR6Spp0OHHKFJPY3jC8gc2slmA4"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "The Eastern Japan Rookie Championship Tournament Begins",
+          "Duration": "24:00",
+          "Description": "Ippo and his opponent Jason prepare for the first match of the Rookie King Tournament.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rKR3XswCYrnUlFOpUQmGRcButXm.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rK4W0L7b#9NWJ6XXJjos5NN5yINifOF-7sH4sk16KJAI2NjR84cU"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Powerful Arms! Hooks vs. Uppercut!",
+          "Duration": "24:00",
+          "Description": "Start of Ippo vs Jason match, both men exchange powerful punches but neither goes down.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1bD9OT0Qnr7uFUuosLz1qBfvCjU.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mS5VAYjR#dVEkqtttI6URTtNbaKKHQevNT1lGE0KpY0U3DR21gOA"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Test of Endurance",
+          "Duration": "24:00",
+          "Description": "Ippo defeats Jason via K.O. after a tough match.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e6RGbMTYIApYMrxklU2v8IO4Plg.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6OI3xJST#OvaCbczRMccOiIvh3DtaGC1tPqszPxKP63IvFMQ9nuQ"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Premonition of a Hard Battle",
+          "Duration": "24:00",
+          "Description": "Ippo watches the fight videos of Kobashi and Hayami, his future opponents.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/cYwIAy8YmqjIypiOfemHHvIqXUq.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zHggVDCB#m5AfYhTghBLKKYfKoknT_OruyIJ12sUG1xcuHMVaDhQ"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Ippo on the Beach",
+          "Duration": "24:00",
+          "Description": "Ippo joins Takamura, Kimura, and Aoki in a training camp near the beach.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yYAW7NXHpNtyGePjFmY0lsxGmpd.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OHACGA5J#50i0mH-qUH5XiAd_ATP3inoOBmlIQPNaFo_HR035D1k"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Clinch",
+          "Duration": "24:00",
+          "Description": "Start of Ippo vs Kobashi match, Ippo is loosing by points because of Kobashi's strategy.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/zcT7lrLoRm4D4KHvvWGxNbggLi3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6OhBER6R#7c2Agk9q2AInoPDLkK8IP3jEWZMl7bfn5h7KLcIQDyY"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "K.O. Dream",
+          "Duration": "24:00",
+          "Description": "Kobashi abandoned his strategy and loses the match to Ippo via K.O.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/moZoKkeryR0rhmUQIOlDjWb9ZgT.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/uLIlCTbS#68w-_3UqnN1DIBjqtM-eJQVMTLBbJMwKZFjT-Kj5Zdo"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Threat of Shotgun",
+          "Duration": "24:00",
+          "Description": "Takamura wins the Japanese Middleweight Championship belt, Ippo trains with Aoki to counter Hayami's Shotgun punch.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/p00h98msVQkI3D7mhU2bueb05z3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zTwRFZiR#YrB3pjkPDn9dOyWCfiMMuUhvTQ_U6ZFilMJOv_tILZk"}]
+        },
+        {
+          "Episode": 21,
+          "Title": "The Way to Capture a Prodigy",
+          "Duration": "24:00",
+          "Description": "Start of Ippo vs Hayami fight, Hayami takes the advantage during the early rounds.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wP7kWg96PpX5HDvYdSmdfB1Y60R.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Ca4SkDII#Lu3BuBeUcRUptJBKZGd0bihBMUJs0Etv5f0pP8XCmsg"}]
+        },
+        {
+          "Episode": 22,
+          "Title": "Forward! Forward!!",
+          "Duration": "24:00",
+          "Description": "Ippo defeats Hayami via K.O. Ippo's training with Aoki and Kimura's help Ippo win the match.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/huVtAXz6gH8swObLwurTLW2Fg7d.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CPw03TIZ#usteeJGGhpzhqgiO91GXwdEQbxxLSzSVuQi32120JyQ"}]
+        },
+        {
+          "Episode": 23,
+          "Title": "Another Semi-Final",
+          "Duration": "24:00",
+          "Description": "Ippos day off. Miyata and Mashiba face off.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/s26WX4MnOLHYWHbeAgAptj8ql76.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CfJggLhA#yhxKK1ISdU3jaiccoFW0Cz2CQXytG3s6kPnn6WKFdd8"}]
+        },
+        {
+          "Episode": 24,
+          "Title": "To the Place We Promised...",
+          "Duration": "24:00",
+          "Description": "Miyata and Mashiba continues to fight. Ippo is angred by the outcome.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lTOES77dZpckxImGdsVTxumLZy4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Xa4ACZAY#SFyYEQpC6pemDmkzaCxPmpDdt7hPDJ90nAz1Usqkm7U"}]
+        },
+        {
+          "Episode": 25,
+          "Title": "Every Emotion",
+          "Duration": "24:00",
+          "Description": "Ippo trains for Mashiba flicker jabs.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7nkGtfRpMB5fSW52Zbb7k1FEOM6.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/THB0BQQA#gw0NiAxinGq2MUS2R7z2YGT65oHzCq30j2zVG5MORyY"}]
+        },
+        {
+          "Episode": 26,
+          "Title": "Battle for Distance",
+          "Duration": "24:00",
+          "Description": "Ippo VS Mashiba Round 1",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wKxyXH2jivTxTOJkNebLWohvhka.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DexXFSJI#WHS14DxGbmFG3ODirFfARkyPHmU_pETmtUbOGj8k6mI"}]
+        },
+        {
+          "Episode": 27,
+          "Title": "Death Match",
+          "Duration": "24:00",
+          "Description": "Ippo VS Mashiba continues.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/iPtlKDG5v1ucjgtnIUaKwKE8XnN.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/SDg11KrA#Ix2Yk_UzyIRT3MoxVl8Ug57onmK3e6dS5f8bfsG7p8k"}]
+        },
+        {
+          "Episode": 28,
+          "Title": "Victory or Defeat",
+          "Duration": "24:00",
+          "Description": "Ippo defeats Mashiba for Rookie King of Eastern Japan.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vRDwQXZLKab2ldvuY9EV7b3kIl4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/bShVjCxB#4pVCdWuyGZ1XYMAgL2Wr1sG70ALrp8DvhB_iGwLamN4"}]
+        },
+        {
+          "Episode": 29,
+          "Title": "Rocky of Naniwa",
+          "Duration": "24:00",
+          "Description": "Sendo goes to Japan to meet Ippo and make him go to All Japan and gets a chance to spar with Takamura.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ohx5EbwPJ7E5AFEIOVX7zBHx47q.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mTpgzawZ#8XxkpuLHE37rlC13CVy39BL9Ai4UUB9dJ-PMmfpIkh4"}]
+        },
+        {
+          "Episode": 30,
+          "Title": "To Enemy Ground",
+          "Duration": "24:00",
+          "Description": "Ippo learns how to heal his right fist and gets ready for the All Japan but something happens his powerful right punches!",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/hhG1hG60guRISge292JG50H0yv6.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CHRDQAqY#p0iAzmKVPTBGXVFRcfWrkjBmDxrkDqDTNcC_-Weq8YA"}]
+        },
+        {
+          "Episode": 31,
+          "Title": "Traces of Intense Battles",
+          "Duration": "24:00",
+          "Description": "Episode 31 is a retrospective on the hope that managed Ippo championship. It is made in the form of a newspaper article commented and written Fuuji, journalist of the monthly \"boxing fan.\"",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5eugmgtAoHRx8j7CWYatHMFQXsK.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zaxT0L5I#Ty26jVuuo03JkrfOtFCuGix0BeOv_KLVOKuDLhZIjEw"}]
+        },
+        {
+          "Episode": 32,
+          "Title": "Throw Your Right!",
+          "Duration": "24:00",
+          "Description": "After two straight missed Ippo, the sparring match is abandoned. Meanwhile, Sendo, the great favorites of the match, continues to train. Just before the game, the pain in the fist Makunouchi have not disappeared, his orthopedic injects an anesthetic. The pain, however, can return at any time of the match, but Ippo is determined to face Sendo costs!",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/263eCLczSpjBMJfj2QDxUTH2ggp.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zPACRJDb#0WYF7a4ZTr58IevJ-WAw-CBcMUSRa16ZSUk5Cm5rUgo"}]
+        },
+        {
+          "Episode": 33,
+          "Title": "Smash Force",
+          "Duration": "24:00",
+          "Description": "Makunouchi takes the smash improved Sendo, and crashed into the ropes, but do not fall! Alas, his legs tremble, Sendo and the opportunity to boost its smash. Ippo then chooses the combat body to body pure to prevent Sendo launched its smash, blow midway. Both boxers are equal forces in this area, and no stroke reaches its target.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sV802Ry0zo1zATaWYZedmuYIPnm.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qfwBTJQI#Da7oEmLSmAJfE8Hp0laH7pZeeXMnlJsMMpUanOjUXss"}]
+        },
+        {
+          "Episode": 34,
+          "Title": "The Rookie King",
+          "Duration": "24:00",
+          "Description": "Sendo Makunouchi and continues to cast powerful blows to turn, but neither weakens, they are very determined !! But after a few moments, Sendo eventually take the lead, and pushes Ippo the ropes. Our hero then decides to fight back, he took advantage of a moment's respite to launch its right on Sendo, but he dodges and launches Smash Makunouchi that takes the brunt, then connects with an uppercut and a violent series Ippo preventing strokes to attack ...",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sBiJ9dS8RhT2E2iuLnixncXupec.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OXwGTJzL#ohpAzBaidXf3Sq09_chzenqsFRtQQEU_At1sLVygOsE"}]
+        },
+        {
+          "Episode": 35,
+          "Title": "The Continuing Journey",
+          "Duration": "24:00",
+          "Description": "It is the day of graduation, Ippo has also obtained his. At his high school, he became The Star, Idol of all students. This awareness leads logically significant upsurge in new boxers Club Kamogawa, known mainly through Takamura, Aoki and Kimura. But most do not have the mind needed to make boxing, and quickly brought back to reality by Takamura which they all did make a fool of jogging. Only a poor fan Ippo Yamada, managed to keep up, somehow.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7aTTqCaA8jveoEBpNEqChthw6IZ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WXhiWToI#ehC_Tb7tE8toyESJG_gm3eCGXDy8XeNtAD0Y9Nvli0Y"}]
+        },
+        {
+          "Episode": 36,
+          "Title": "The Champ and I",
+          "Duration": "24:00",
+          "Description": "Ippo finally meets the champion in its class, Eiji Date. The latter is there to comment on the evening's matches as a guest. It turns out that date and Takamura are old friends. It is then time fighting. Aoki and Kimura wins them narrowly, and ranks both 5 of their category. Takamura broke his opponent as usual. Ippo meanwhile, is ranked 10 ° in its class. A few days later, the right fist Ippo is healed and he immediately asked by Newest Eiji in person for a sparring.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/cMOe9BPUjwHGJWC5A1SqaS2FWTt.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/GPQwXSKY#Xb21s3oB79iJuvtUbvumfYrW0oPJSS-elvOqGLdTZ6Q"}]
+        },
+        {
+          "Episode": 37,
+          "Title": "A Thing to Strive For",
+          "Duration": "24:00",
+          "Description": "Ippo gets to get up, the game resumes. Date returned, and hardly the match resumed, Ippo is again stuck in the ropes. Date then returns its corkscrew, trying to anticipate where Ippo Date will strike, and protects his body. But the blow-out date is very accurate and comes crashing right in the heart of Ippo. The latter is then locked again, and again takes the left of Date. Our young boxer collapses into the ring for the 2nd time. Date who just wanted to test this one, decided to no longer use and Sparring resumes...",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5cQipp6lwbtkMpP096f7StFvPCs.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/uPYVDRDJ#6umPbFRzeYhoOv5YGNAbUhgVLYxWgtWOfWnMiPCt8LU"}]
+        },
+        {
+          "Episode": 38,
+          "Title": "Two Rookies of the Year",
+          "Duration": "24:00",
+          "Description": "Okita also control the blow that had allowed Date set down Ippo 2 times !! Ippo, panicked, took distance, and Okita feints put the uncomfortable, it can not predict its moves. Ippo then test to get closer, but is kept at bay by jabs Okita !! The latter took the lead thanks to its experience and managed to place all his shots !! He finally ends up stuck Ippo in the corner, what he expected from the beginning of the round, in order to launch its Corkscrew, once dreaded by Makunouchi !!!",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/k8U7AlKsAnLiHNz7EFkQhqndrs6.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/2PQVgCCI#4gH_Xgc2AzoH7TydykqQV28oPAiNvmtCr-HcOpAeJoA"}]
+        },
+        {
+          "Episode": 39,
+          "Title": "Challenge in a Foreign Land",
+          "Duration": "24:00",
+          "Description": "In Thailand, Miyata a draw against a second-class boxer. Decision of the arbitrator although debatable, the Japanese are not welcome there, and Miyata seems to be the target of combatants wishing to earn points easily. But our young prodigy does not intend to scroll and accept a new challenge, against the wishes of his father, who would rather see it go up in the lightweight category. For Miyata, that change is impossible, it MUST NOT prevent Ippo, about dignity, he refused to flee the face of obstacles.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/52bJczPbr1GpCyjLq2ujb7aFSbs.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OLBHUY7Z#ZCKsCHq0Ds1xcXvXj2iQBT8scXCsNNZYQGRQAU9N-SE"}]
+        },
+        {
+          "Episode": 40,
+          "Title": "A Counter to Surpass All Counters",
+          "Duration": "24:00",
+          "Description": "The boxing stadium tremble with excitement, the crowd goes wild and wants to see only one thing, the victory of Jimmy Sisfer, and the defeat of Ichiro Miyata ... While the gong is about sound, Payao and baby Chana brother are on their way to see one of the most beautiful game of the life Miyata. Back at the stadium Runpini, Miyata can only see the reputation of Jimmy Sisfer, while his father described the situation of the failed against Ichiro. Payao Chana and finally arrives at the stadium before the match is over.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bcpfZ0mYVKsQmiR8iHpG8wUu37A.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qOJ2zCZR#l3elkIYaGpKJD8wLYZSpH_JNBsmaSvHIsFkHXDwAkU0"}]
+        },
+        {
+          "Episode": 41,
+          "Title": "Barf-michi's Big Fight",
+          "Duration": "24:00",
+          "Description": "At sunset, While Ippo's mother prepares the material for fishing, it can hardly his training, sorry for being late to help his mother. The next day at Kamogawa club, while everybody is training, the coach delivers some news: Aoki and Kimura are registered in Class A tournament - a competition of the highest level. Ippo learns with astonishment that it is also registered for this tournament. But always with astonishment, Geromichi learns that he was included in Pro test.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ndevaETAbB6Q8EAGOaApDcWzNFz.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/KWg2HJjb#lEAuCUf8z3e5W6gED57QJPA0g90ne3BTQKqYrvFtZ5E"}]
+        },
+        {
+          "Episode": 42,
+          "Title": "Sharing a Dream",
+          "Duration": "24:00",
+          "Description": "Ippo thinks of quitting boxing.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3zOgOZzvn2xLZPk2klCk9AIRHJP.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rKQE1JZK#OqJYjToqmu4jdH6hBADhuO5AayUviLkp0adOUaBCxK8"}]
+        },
+        {
+          "Episode": 43,
+          "Title": "The Speed Star",
+          "Duration": "24:00",
+          "Description": "Ippo gets ready for his match against Saeki the Speed Star.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jFZp4L2RpejwegnYRt8R1iQnUY4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/XfIXEILY#aBgtGJsXPCYX5zJv6IQh3NG8NMNFqwCnRKH9291NTiE"}]
+        },
+        {
+          "Episode": 44,
+          "Title": "Blind Spot in the Ring",
+          "Duration": "24:00",
+          "Description": "Ippo fights Saeki.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vDth2c4aSPydbNdgFcYo2yVsJmr.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/uSJFnKaR#4CGzB1QiyLoZIyHlRS86zjo9pPBPwWz6rMeNOXyp1B0"}]
+        },
+        {
+          "Episode": 45,
+          "Title": "The White Fangs of the Wolf",
+          "Duration": "24:00",
+          "Description": "Gero-michi leaves and has to move away.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/Ao5vRweXSIJECP3dvdrZBbvxsPa.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ST50EQ4Y#mR8saMUBWg28jhkkeEHqynoUHUSQRop63YDX09HmpLE"}]
+        },
+        {
+          "Episode": 46,
+          "Title": "Be the Gazelle",
+          "Duration": "24:00",
+          "Description": "Aoki, Kimura & Ippo train hard for their next match of the tournament class A. They linked together jogging, sparring and Shadow Boxing to be at their best. It is time for the semifinals of Aoki. The match was balanced, but the 4th round, Aoki is counter to \"the shot of the Frog\" and collapses in the ring. But he gets up, feint and then delivers a powerful one to two who puts his opponent down. The latter in turn reports to, and through a nice web...",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/exsyxVslXJdSBljb5CnPBgEUYH4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/SW5z2SLL#UOeLzNC-4rT0Sq93vgr3kaETl3TOS0EujtHS05JgQfs"}]
+        },
+        {
+          "Episode": 47,
+          "Title": "The Fighting Spirit Within",
+          "Duration": "24:00",
+          "Description": "The tactics of the coach against Vorg is based on a succession of sudden melee after which the least enduring two boxers will drop his guard for breath. The victory Ippo so upon his endurance. He will have to work hard breathing and cardiovascular system. In order to have a chance, the coach must impose an extremely strong pace to Ippo. Because of that, a few days before the game, Ippo begins to think that it will not recover in time from his training.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bydRVYYfux8WI6qrNBUJgZbQP1H.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/KWJUmaTB#jS67cEr4kVXj1YEjGdCm2Gf0-Ao3ydDn2v_uR7iuiIc"}]
+        },
+        {
+          "Episode": 48,
+          "Title": "The Red Wolf",
+          "Duration": "24:00",
+          "Description": "The match between Volg and Ippo begins.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dH0jWLYA4TC9CUdCbkXA7UVEePS.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WHBFAYiL#g1B7T5o_cRkW_xz-fu-aq9pkhY5a68uQ5t4o6vfvTus"}]
+        },
+        {
+          "Episode": 49,
+          "Title": "The Courage to Believe",
+          "Duration": "24:00",
+          "Description": "Volg and Ippo continue to duke it out in a hard-fought and long battle.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dr0iTP57GdyZJn3O3FZ5erYP8Co.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OeByVbrR#FgWyFcZPXtzVi91ubXyApMyAxsBFb4FiOBV93CwUUu8"}]
+        },
+        {
+          "Episode": 50,
+          "Title": "Something to Convey",
+          "Duration": "24:00",
+          "Description": "The end of the Volg match.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eupvFLDIWPOSjyMO6zGD29YHvNv.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/GGxEzayC#slIQSHjWEUOhD6pUjDBKwUb7vZbaRBfFAet4CWqBIMw"}]
+        },
+        {
+          "Episode": 51,
+          "Title": "Group Date",
+          "Duration": "24:00",
+          "Description": "Group date, literally. Ippo walks Mashiba's Kumi home.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sjqPbWRLo46wUeQGq7q1mQfoLpJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jXoXXBpQ#wv6vXNVV8LLnfVWqSly8yd5I6ya8p9_aGTZ5DG2m6yE"}]
+        },
+        {
+          "Episode": 52,
+          "Title": "The Challenger",
+          "Duration": "24:00",
+          "Description": "Recap episode.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/s2He64riAPws5AxYDJhdXwMrieF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LPZgAbjZ#-06mipliJbNrdYHnltJHLXkxnqjTiEeljQgpjFm25o8"}]
+        },
+        {
+          "Episode": 53,
+          "Title": "So That I Can Be Myself",
+          "Duration": "24:00",
+          "Description": "Background episode for Date Eiji.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ezpOiOkP7pPtTt2mzdVHQnZFFe6.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/iS5gybQZ#ftXvPyUjwkBq06btvwlLcn3bCOZBMcTIT4t_iyx9zak"}]
+        },
+        {
+          "Episode": 54,
+          "Title": "Fists of the Champ",
+          "Duration": "24:00",
+          "Description": "\"The champions have special powers! \"That is what was said to Takamura Ippo before his defense of the title match. But after weight problems and a passage in a sauna that has significantly weakened, Takamura finds himself in trouble with his challenger Tamaki but still holds out and the gong sounds the end of the 1st round. The 2nd round barely begun, but Takamura load Tamaki is pushing his fitness is at its lowest, it is out of breath and roll with the punches of his opponent.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eVU7njcQV8txpjcnIb2S7hVdxm5.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yW5yRDzQ#vYMnBLQvh694eNgGAHHcCWymTPbZF5-Y8OTiVlfmgJI"}]
+        },
+        {
+          "Episode": 55,
+          "Title": "The Japan Featherweight Title Match",
+          "Duration": "24:00",
+          "Description": "The episode begins the day before the match for the title of Ippo, during training with mittens. But the latter is shortened, the coach looks ill. While Aoki asks Ippo to reach him, Kimura Takamura and Tomiko to make something interesting ... When the young boxer arrives, he learns that Tomiko will predict his future, but then refuses Takamura and Kimura are there to prevent him from leaving the coach then makes appearance and berates everyone !!!",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wh4xpIlNJ44rUQaArMcpmaNt9Io.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rKIT1a7B#17F-hiv7zZ1dBWRH7F-JTX29UjXPZYzNdG0O3tXOsko"}]
+        },
+        {
+          "Episode": 56,
+          "Title": "The Power that Stands in the Way",
+          "Duration": "24:00",
+          "Description": "During the break, Ippo is concerned, he has not had the sensation he usually hit when Date but his coach made him regain confidence in him. The beginning of the 3rd round is the perfect copy of the 2nd, shots exchanges and this time it's the date that takes advantage. But Ippo not allowed to do, Liver Blow launches and connects to a violent attack! Ippo but still has that feeling to touch and see in fact nothing Date Eiji swinging his head depending on the direction of the shot, a technique made to dissipate the power of the blows ...",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fd9eyINZGuYY65YpC04qOcZVfM4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/KW5n0SCS#x11ngitdUg6JgRNE2k2MOtmlpwBYqmnkqbagLw2uLKI"}]
+        },
+        {
+          "Episode": 57,
+          "Title": "Conclusion",
+          "Duration": "24:00",
+          "Description": "\"What should I do?\". This is the question that arises while Ippo Date streets shots, then he remembers that he told Takamura just give the maximum for this fight. It resumes and cons Date of overkill shot! Champion legs no longer obey him and Ippo launches a huge live date but with its iron will narrowly dodge and 4th round ends. No one in the audience knows what will happen, not even the defending champion of average weight Takamura Mamoru.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qZh3zDyT4b3Kb4iSVcpcTEwv3Td.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/iTAGEQoC#LooBxuWNYLaf3-O2fJ8FvPu3MAqYIuMDXTLnMyXJunY"}]
+        },
+        {
+          "Episode": 58,
+          "Title": "Heartbroken",
+          "Duration": "24:00",
+          "Description": "While the coach Okita Date and congratulated the champion, Ippo wishes to thank for this game then goes on a stretcher to applause from the audience ... We then see Takeshi Sendo raging against Ippo! He thought that he would win and would give him a match demand, but he realizes that there are now two people above him. Vorg then appeared, both boxers are actually in the same situation, they want to take their revenge on Makunouchi!",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xs1l7ackXQV1jhqhrH3NE0ZyeFo.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/eDolDSZQ#m0psXN66nE6ZUTGGB9W2kgxPoSR1HqoJXfwEWdGppyw"}]
+        },
+        {
+          "Episode": 59,
+          "Title": "Look of Determination",
+          "Duration": "24:00",
+          "Description": "The match between Sendou Takeshi and Volg Zangief starts.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qY3dMnHI75lxRGomKzaflF5Cdm5.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jTAXxahA#4PKH0DtuQ-I4-wlZ6JB72rDSZUCVlSf2ScSIAgoAO6M"}]
+        },
+        {
+          "Episode": 60,
+          "Title": "Rival",
+          "Duration": "24:00",
+          "Description": "Sendou wins the match versus Volg.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2O7SMVbZOzrWU1fDTZUGVFRsVYQ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Cf5QlSIa#9ICLbFT776N0tQBTiQ4Bo_dapj4WEk3AD0ktQfEyp0Q"}]
+        },
+        {
+          "Episode": 61,
+          "Title": "Comeback Anxiety",
+          "Duration": "24:00",
+          "Description": "Miyata Ichirou defeats Li Chou Bil.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/w8l6mdsDXQesCtCNS8eJ9hNGPpe.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/aPo2FBKb#iIjUK6vg-mQKtQQrUo4F1JOZzGu0qnT8VTu4zKwK90U"}]
+        },
+        {
+          "Episode": 62,
+          "Title": "Revival",
+          "Duration": "24:00",
+          "Description": "Coach returns from the hospital, and Makunochi \"hits without being hit\".",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/tloyJjIXAq8hnwh1Ei9u0lqoC6z.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LSY01KSZ#zevknmSsLYwxAuRZShmaewJQZW07WamQOApfbnJ3XwI"}]
+        },
+        {
+          "Episode": 63,
+          "Title": "Youth of Fire",
+          "Duration": "24:00",
+          "Description": "The past of Aoki and Kimura is shown.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oJrQh0SF77Fnn2um2UiE5AjUULZ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rSwBUJZZ#XFL-7aZBwdxLal3zgSbkYA6Gl5wuzBWPFuCkgh6QNww"}]
+        },
+        {
+          "Episode": 64,
+          "Title": "Hot Rod Era",
+          "Duration": "24:00",
+          "Description": "Second part of Aoki's and Kimura's past.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jLtjxN9gxpIEndbVQEeANbNtOOQ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PfI12KyR#UtFj2SM_rN7LkrU13Pmctfx-AQxFI9aDdtZ2llrq8Wo"}]
+        },
+        {
+          "Episode": 65,
+          "Title": "The Summer of the Kamogawa Corps",
+          "Duration": "24:00",
+          "Description": "The group go to training camp in the mountains.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/32MKNu3B6kzVDtkxkjrpH6CySHU.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DO5FyIoL#F_Dr9ilzJG3aX09SCUu8kWgaL8S56QSaALAbuKao8hc"}]
+        },
+        {
+          "Episode": 66,
+          "Title": "Mr. Takamura's Tears",
+          "Duration": "24:00",
+          "Description": "Takamura fights a bear.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/geF1ZKv1I15hSHpy0Qro6HdkV1a.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/aaBUzKjB#GAM5aSMGv3XqzfYRsFzzqXXkdRkDrW9JPIVwv1TjAEU"}]
+        },
+        {
+          "Episode": 67,
+          "Title": "The Kamogawa Gym Swings Into Action",
+          "Duration": "24:00",
+          "Description": "After this strong hectic camp, we find our boxers at the gym. While the coach told them all to go to rest, two men have one a shin-coach nihon club and the other being Shigeta Akira, a young boxer ranked 4th featherweight and will therefore fight for the title against Sendo. The coach asks the coach if his boxer could eventually do a sparring ippo face. The coach agrees. We then see ippo completely lost against an opponent whose main feature is ...",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/GnZcR30drQ4SSUbFc1btlImnPt.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yHJFRQ6J#3DX4OI767jqTnvlrZCVvb4zwJqzz7QvzoGG4PRGobI0"}]
+        },
+        {
+          "Episode": 68,
+          "Title": "The Chief's Peril",
+          "Duration": "24:00",
+          "Description": "Finally the day of the games of our boxers happens, Kimura very fit explodes his opponent, when Aoki to beat his opponent but as usual with a little more difficulty. But hey go to the main match of the evening, obviously this is the game Takamura who calls himself \"the bear killer\" now. While everyone is impatient in the room. Takamura offers us a memorable entrance, nay exceptional !!! He wears the skin of the bear Nekota-san brought him mountains.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ng6D0aSYvgRFP4S9pkamjfPx3n9.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zeZB1IRC#VU4HLtUicjoQD8lvz6kgaq5F4tvtF53nzdbnpBuhrOU"}]
+        },
+        {
+          "Episode": 69,
+          "Title": "The Trap of the Southpaw",
+          "Duration": "24:00",
+          "Description": "Ippo and coach arriving in the city where the featherweight champion, Takeshi Sendo must defend his title against Shigeta Akira, 4th category. At the beginning of the match, we see very manhandled by the champion challenger. Indeed, as Ippo, Sendo is struggling to impose its style of boxing against a southpaw boxer, that is to say a southpaw boxer. Sendo tries to put his best shots Shigeta, but it dodges every time and even manages to outsmart his famous fatal blow, the Smash.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9k3RuvdetLQw3GPwV91Tfz4Nu4g.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rK4zyDLS#1bGKYHysz9PISE346_UrofPPJFk4vDCI_2WrdsnlaNw"}]
+        },
+        {
+          "Episode": 70,
+          "Title": "The Young Punk",
+          "Duration": "24:00",
+          "Description": "We find our hero in him, in his room, he can not help thinking about the game he has just seen in Osaka, acceleration Sendo, his blows so powerful and his expression bloodthirsty killer scared. The Ippo thoughts suddenly stopped by his mother. Kumi, the friend of ippo wants to talk on the phone joy Ho, Ho love, Ippo is quick to take the handset. After some discussion between timid, our lovebirds decide when even an appointment.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/s0QpTpOjtJwgkygLYqXasXHgM0k.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/SSYmUA5D#i9MtoWimvjDGNc2XKzTVQuX2ZVlZvuC79t0GjtFWv5c"}]
+        },
+        {
+          "Episode": 71,
+          "Title": "Time for the Showdown",
+          "Duration": "24:00",
+          "Description": "While the title match approach Ippo trains again and again. As it enters its footing, a crowd gathered in front of the room, there are people coming to buy their tickets for this match promises to be memorable. Yagi advertisement for Ippo that all match tickets were sold in one day, amazing. The next day is the day of the weigh-in. Ippo enters the room, always a little anxious, he sees Sendo, the defending champion has not changed, still relaxed too.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/l7HA1Si0zogxlDnzE2SmPE4JUki.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DHhlgLRJ#Vmw6yZngIutcIeimYOYX3WNiAUEasbMxipbs5rBIsYg"}]
+        },
+        {
+          "Episode": 72,
+          "Title": "Lollapalooza",
+          "Duration": "24:00",
+          "Description": "What wonder what Dempsey Roll early in the 1st round, Ippo sends his best and most powerful blow while Sendo had not yet had time to get into position. The champion is found on land that is a panic down. But we suspected that Sendo was not going to stop there, he gets up with difficulty ... In revenge and especially to repel the new qu'Ippo Dempsey Roll is about to launch, the champion sent a straight right in the custody of our hero, not to worry, in theory ...",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ncxYH7KFnFhmdFUpT339FpWDVol.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/vaIX2J4T#tWPxZua5fQiSZwxTtNuJX4nrL1M7uNPD1HBzJlNf1rQ"}]
+        },
+        {
+          "Episode": 73,
+          "Title": "Surpass That Moment",
+          "Duration": "24:00",
+          "Description": "Ippo happens somehow to join his corner. This end of the second round was very rude for the challenger, the 3rd round starts in exactly the same way as has finished the second. Ippo gets scared, he knows a single shot Sendo could send it to the mat. Distraught, our hero does not know what to do, he took refuge behind his guard and cash titanic blows champion. After an uppercut and a smash Sendo took the full brunt, it makes up for in accuracy and sends a desperate shot ...",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/zPiiOIb23720DiQwDh96VskDva5.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PKIVFYoC#b6UZjVCnaGbIqQzPL5f6sQU8fCNX6fYroohFZYCHLg0"}]
+        },
+        {
+          "Episode": 74,
+          "Title": "Mixup",
+          "Duration": "24:00",
+          "Description": "Takamura has noticed, Ippo has had enough it is burnt and courage in this game is like a time bomb because if Sendo quite put down Ippo, it will never recover. 5th round begins with a superb one to two of Ippo, but Sendo replica and sends ippo the ropes and starts sending high-powered shots in the custody of the challenger. Seeing his boxer so ready for victory, the coach still Sendo revisit it when it was just a thug brawler.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lIb9V64bhNXqrZYCx4r9uJFTz8w.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OPxmUBBR#cSYRnnpI7qKxfeYRn3mWkYlYko4f0NzU5thDisU-f_Y"}]
+        },
+        {
+          "Episode": 75,
+          "Title": "One Step Further",
+          "Duration": "24:00",
+          "Description": "Ippo and Sendo's match concludes.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/h3tt5OE0n35KPMtAfpz8RJE96tv.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/aXxB2RpR#dYTXDpBwgdz8HVGfKP5klTAkggNggStwvJko3j2Di0g"}]
+        }
+      ]
+    }
+  ]
+},
         {
   "Title": "Slam Dunk",
   "SubCategory": "Animation",
