@@ -10,6 +10,16 @@
     "tv": "https://www.vidfast.net/tv/{id}/{s}/{e}"
   },
   {
+    "name": "VidEasy",
+    "movie": "https://player.videasy.net/movie/{id}",
+    "tv": "https://player.videasy.net/tv/{id}/{s}/{e}"
+  },
+  {
+    "name": "Vidfast",
+    "movie": "https://vidfast.pro/movie/{id}",
+    "tv": "https://vidfast.pro/tv/{id}/{s}/{e}"
+  },
+  {
     "name": "111moviest",
     "movie": "https://111movies.com/movie/{id}",
     "tv": "https://111movies.com/tv/{id}/{s}/{e}"
@@ -80,11 +90,6 @@
     "tv": "https://www.2embed.online/embed/tv/{id}/{s}/{e}"
   },
   {
-    "name": "Vidfast",
-    "movie": "https://vidfast.pro/movie/{id}",
-    "tv": "https://vidfast.pro/tv/{id}/{s}/{e}"
-  },
-  {
     "name": "AutoEmbed",
     "movie": "https://player.autoembed.cc/embed/movie/{id}",
     "tv": "https://player.autoembed.cc/embed/tv/{id}/{s}/{e}"
@@ -93,10 +98,6 @@
     "name": "MoviesAPI",
     "movie": "https://moviesapi.club/movie/{id}",
     "tv": "https://moviesapi.club/tv/{id}-{s}-{e}"
-  },
-  {
-    "name": "VidEasy",
-    "movie": "https://player.videasy.net/movie/{id}",
-    "tv": "https://player.videasy.net/tv/{id}/{s}/{e}"
   }
+  
 ]
