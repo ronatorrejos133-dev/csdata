@@ -796,13 +796,16 @@
     {
       "MainCategory": "TV Series",
       "SubCategories": [
-        "Anime",
+       "Anime",
         "Action",
         "Comedy",
         "Drama",
         "Sci-Fi & Fantasy",
         "Action & Adventure",
-        "Mystery"
+        "Mystery",
+        "Documentary",
+        "Animation",
+        "Crime"
       ],
       "Entries": [
         {
@@ -1226,6 +1229,350 @@
             }
           ]
         },
+        {
+  "Title": "Partners for Justice",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "Baek Beom has worked as a forensic doctor for 10 years. He has a bad personality, but he is excellent with his work. Baek Beom does not open his mind to other people. Eun Sol is a rookie prosecutor with a warm heart. She has a bright personality and she comes from wealth family background. The forensic doctor and prosecutor work together to solve cases.",
+  "Poster": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+  "Rating": 7,
+  "Year": 2018,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Episode 1",
+          "Duration": "30:00",
+          "Description": "Baek Beom, a medical examiner, performs an autopsy on a young victim. Cha Soo Ho, a detective, watches the procedure from behind a glass. He mentions the disappearance of the victim's underwear and skirt and tells Beom that the victim was raped and murdered. However, after a short while of examination, Beom tells him that it is a car accident disguised as rape and provides medical evidence.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/w75C2uDfLWdPbbBnamM5PiYYHSM.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mlgRQQRD#CR09U3GN-l0YENroAOjoCOO30UF8TjJQPuPhf1ENoFk"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Episode 2",
+          "Duration": "30:00",
+          "Description": "Eun Sol, a newbie prosecutor, holds hands with Baek Beom and Cha Soo Ho to investigate a murder case of a conglomerate's son's wife. Sol and Beom specu-lates that the husband beat her, who was pregnant, to death. However, Beom tells her never to trust the corpse itself because once a body decomposes, new scars may show up, and existing wounds may vanish.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ftyx88CrY94vyakcnZHkHUZC8EI.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qhoA1ThD#lRCBZTHqEkGrDdALiXSDFt78q_I88uom6l_VRle6Cbw"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Episode 3",
+          "Duration": "30:00",
+          "Description": "Eun Sol is shocked to see Baek Beom stand as a witness for the conglomerate son, Oh Man Sang. Beom testifies that the cause of Kwon Hee Kyung's death is not assault. Meanwhile, due to the lack of evidence, the trial is postponed for three days. Will Sol be able to find more evidence to prove that Man Sang is the killer, or will Man Sang be set free?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uvVHjqd39uhUEbSWzi8ap5T52b6.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CpAR2LAK#vCyorKOsGI0K32trX_x8Qo-ty8DUL6WvexvGprWwJ9c"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Episode 4",
+          "Duration": "30:00",
+          "Description": "Although the trial seems to be leaning in the defendant's favor, Sol does not lose heart and begs Beom to analyze the heels that she wore to the crime sce-ne. The results show that on the carpet where Hee Kyung was found, traces of pills are found. Sol immediately believes that Man Sang has replaced the con-tents of Hee Kyung's pills into those that would kill her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/hvTQneyNAdSIsXNMaR2GV0dEa9K.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/usg2zAJA#Sn1iJafIu6HSyCwkzk7Q0QleeZZ6Yqvl2vHHwFDVEn0"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Episode 5",
+          "Duration": "30:00",
+          "Description": "Sol goes on her 99th blind date and is not impressed with the low self-esteemed mama's boy. To his mother who has been watching them the entire date and has handed her three million dollars in order to convince her to marry him, Sol tells her that her son should learn how to grow his self-esteem and figure out his own life. Meanwhile, Deuk Nam's three sisters find out that their brother's body is missing and goes berserk.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/y86RfWIyL9fr3DW2VQWByFg5Ymp.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ulYBxTrL#Rly9RCR7gdAFY7oxOSe6OcbdjlZGB8bF7AKD6e7VzrA"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Episode 6",
+          "Duration": "30:00",
+          "Description": "Suspecting the late Jang Deuk Nam's death to be a murder case, Sol indicts his three sisters and his wife, Choi Hwa Ja, for murder. Meanwhile, while talking with Kang Hyun regarding the murder case, Hyun tells Sol not to trust Baek Beom too much. When she asks him whether there was a conflict between him and Beom, he just warns her to be careful.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9ms2DlzH5omuyawidCTQqscQJtJ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ihxghJTC#vpT1rxczHTfGmu31ZV0n48M_rPGZeDxCtVUWAp4BHZs"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Episode 7",
+          "Duration": "30:00",
+          "Description": "Baek Beom finds Choi Hwa Ja's fingerprints on the dead Byun Soo Kyung's blouse. He immediately calls Kang Dong Sik to ask where Eun Sol is, only to find out that she has left to meet Hwa Ja. Frantically, Beom calls Sol's phone. Meanwhile, after waving to Sol and telling her to come in, Hwa Ja mixes an un-known substance in Sol's drink.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8MFV389EfEI5MHZ7TJVCEDmLY3E.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/21h2zAiR#VI00f8dmxzdZoWk86hnVewmbEG7y9XnTWKh8TWEOqh0"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Episode 8",
+          "Duration": "30:00",
+          "Description": "All the wicked deeds that Choi Hwa Ja has done are revealed, and the dead body turns out not to be Jang Deuk Nam. In addition, Hwa Ja had a lover on the side, and the corpse belongs to that man. It is revealed that Hwa Ja murdered both of the men all because of the inheritance. Despite the result claiming that Hwa Ja's kid is actually Deuk Nam's and not her lover's, Sol requests a heavy verdict.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vXK8gTzP5jAG0714xqZzGBO3EOw.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/apYTTC6Z#u66QytXHTz1iy2UeswO2mfo3gSSacmJIGp7KOpDL82I"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Episode 9",
+          "Duration": "30:00",
+          "Description": "Soo Ho's shoe is found at the house of Yeon Mi Rae, who has been found dead. Sol and Dong Sik immediately go to his place to find him reeking of alco-hol. Soo Ho is taken to the police station as a suspect. When Dong Sik asks him what happened last night, Soo Ho tells him that he cannot remember.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8eAh17GN9qavC6F0KQaoNRL5kVt.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/D15S1YpK#NtJL8RgJRWtmDFLILVp-HTA7NMb3Cg_YIBIyU0BjAq8"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Episode 10",
+          "Duration": "30:00",
+          "Description": "All the evidence that they find point toward Soo Ho. Although he cannot re-member much from the night before, he implores that he did not kill Yeon Mi Rae. Due to Sol's relationship with Soo Ho, Kang Hyun is appointed as the lead prosecutor for the case, and Sol is only allowed to work with him. Although she cannot find any sturdy evidence that can help Soo Ho, she feels it in her stomach that he is not the murderer.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qgM4doKunkxrWvKgRkC6n69ExGE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/K8IARIwZ#48npd5-IAuWmIFxL9rvru44BMFuivKhZhSkG2iX6CJY"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Episode 11",
+          "Duration": "30:00",
+          "Description": "It turns out that the killer is in fact Mi Rae's boyfriend, Kim Joon Tae, and the team successfully arrests him. Sol asks Joon Tae the reason why he killed her, and he tells her that it was because he loved her. In addition, Joon Tae con-fesses about how he watched Soo Ho for several days in order to figure out his pattern and frame him. Meanwhile, Hyun tells Sol about his first case.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pKAAvNkqBas9tjZJdkJgyFNcext.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ikYHFISS#z8ODfL30QuTwx336MnCekJpF2SvCmOS-lWuhbhmF9e4"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Episode 12",
+          "Duration": "30:00",
+          "Description": "This time, Sol and Beom are faced with a car accident case. The driver of the car, Choi Mi Jin, has died at the scene of the accident while her boyfriend, Jeong Ji Hoon, came out unscathed. While performing Mi Jin's autopsy, Beom finds it odd and tells Sol that Mi Jin was not behind the wheels from the beginning.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/Auvlmn6etgyOZ8MbKauauQtdV2o.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/itBGVRCA#V6tA9dAo16MwB0J0v5RUY4iaqoqp3rHYRIP7noeFGX4"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Episode 13",
+          "Duration": "30:00",
+          "Description": "While helping Beom with the autopsy of a man suspected of MERS, Sol feels faint and gets her palm cut by a scalpel. Not being able to get any help from an-yone outside due to being quarantined, Beom stitches her palm himself. Hyun rushes over to the autopsy room and becomes enraged by what has happened to her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kRaafxA13qp6cMcC4UwsHWKU6RI.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DlpWTBxD#7xKQFtZe2mKiZqOGQzmrR7lCaTLlvn4viVB0DEQx6Os"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Episode 14",
+          "Duration": "30:00",
+          "Description": "While inside the autopsy room, both Sol and Beom start to feel sick. They both suffer from a fever, and Beom even collapses. The NFS goes to late Lee Dong Jae's place, and Hyun finds out that Dong Jae had a sizable life insurance. Now, the cause of his death could either be due to an illness or murder. Mean-while, another secret is revealed regarding Beom's past.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/w8PnmrFIXOhOQvwOqDLH8orHT5s.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6hYThYzL#0kUTnUIjyl2txBporFPSHt9hxz-lFaZTGoWXFblmVkc"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Episode 15",
+          "Duration": "30:00",
+          "Description": "Kang Hyun meets Baek Beom while commemorating his late, older brother, Kang Yong. Beom finds out that Hyun is Yong's younger brother, and Hyun tells him that he will make sure he pays. Meanwhile, a young boy's corpse is brought into the autopsy room. As if it's not depressing enough, the corpse turns out to be Ma Do Nam's son.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sfbOrdQnYzvpVJpsfJh7LeqeNbO.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DkxUyTaS#Zm26KHWQqZaBu3sqNizhaYkYvvYPzmWKRvJrYhzJGGw"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Episode 16",
+          "Duration": "30:00",
+          "Description": "Do Nam and his wife mourn heavily over the loss of their son, Sung Jae. Initially, Sung Jae is believed to have fallen from a building. However, judging by the absence of blood at the crime scene and how the top of his head hit the ground first, Beom and the crew suspects this to be a homicide, not an accidental fall.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oP6OxwxN3D8qYXKEbb1n3Ka1yKD.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/OoQXBR6L#s3uhmcutpS5g9jz4qgprQlN3pl9efy7MYU9pD3f0a-0"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Episode 17",
+          "Duration": "30:00",
+          "Description": "Ma Do Nam becomes enraged when he hears that his late son, Sung Jae, has probably committed suicide. He shouts at Beom, telling him that his son would never do something like that. However, the autopsy result shows that Sung Jae has committed suicide approximately four hours after eating, which is around the time he was alone.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8HAIJIFWwBYitzvlmsF5EU2Q5Wy.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/7wQmFJKS#wLQpFAyBa2e78UVZLzEx_By8uitvR6JljT3c1Q2wKX0"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Episode 18",
+          "Duration": "30:00",
+          "Description": "Sol remembers seeing many different pill containers on Sung Jae's desk. After confirming that Sung Jae was alone during the time of the accident, she visits Sung Jae's roommate, Park Jun Ha, and apologizes for suspecting him. Feeling understood, Jun Ha tells her exactly what happened on that day.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ezzkrsxciRG1KqkwLwEgIETr96A.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PtRVhRQR#BzAzApiYXHL2MTm57TBhFLWJCwB4pGHMwKjlPfZXY9U"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "Episode 19",
+          "Duration": "30:00",
+          "Description": "Right when Beom is about to perform an autopsy on Seo Jeong Min, Kang Hyun's colleague, Kang Hyun suddenly stops him from doing so. He tells Beom that he is not allowed to perform the autopsy in case of destruction of ev-idence. When Sol asks why he is being so cold toward Beom, Hyun tells her that the last person Jeong Min talked to on the phone prior to getting killed was Beom.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/y7662M0I5vLNuzN2nobFiMhEjUO.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/z9ZhxLAQ#o4BGLGzEYaPXiePoM0k1phTvys-DRbZ8e1AB0RI0vvg"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Episode 20",
+          "Duration": "30:00",
+          "Description": "As all the evidence of the murder points to Beom, he is taken into custody as a suspect. Furthermore, he decides not to explain himself which does not do well for him. Those who have been working close to him cannot and does not believe that Beom is the true suspect of this crime. However, Hyun is more than just determined to indict Beom once and for all.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1iYqsFyQxZFqciskJtz5VPoYHpG.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zxo0mQZQ#P7-VG9eI7EqkaRKrqM_Hi2TEVTPHiTDI1GQ-zifr3Nw"}]
+        },
+        {
+          "Episode": 21,
+          "Title": "Episode 21",
+          "Duration": "30:00",
+          "Description": "Eun Sol arrives too late and finds the body already in the process of cremation. However, Beom tells Hyun that if he can obtain even one piece of the bone, the autopsy can be performed. Hyun, who's hesitant at first, orders the body to be brought to the NFS. Dong Sik doesn't understand why Beom is so determined to prove that it's a homicide since that will only make Beom himself suspicious.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/usQGzRDW33Tk7gxu4GorqHpi9C9.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LkpijCAJ#4-R3N4aOa6zC1JHP-BHMteIDPAyRXOPUyAkXiSgxqJU"}]
+        },
+        {
+          "Episode": 22,
+          "Title": "Episode 22",
+          "Duration": "30:00",
+          "Description": "It turns out that the real murderer is actually a woman. Hyun confesses that he omitted some parts from the late Seo Jeong Min's call history and that he knows who the murderer is. The team makes an urgent, public arrest for Lee Hye Seong, and during the interrogation, she explains that she had been threatened by Jeong Min.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/u0jssjJYn1AtMszBFd9OXgYKiCn.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/vtIilazT#Z4_lzOPzscq9lOY6SGhk0DSg_1x_EZUjoOp1bkTivzk"}]
+        },
+        {
+          "Episode": 23,
+          "Title": "Episode 23",
+          "Duration": "30:00",
+          "Description": "Yeom Sang Goo, a 76-year-old man, is found dead in his sleep. Although shocked by their father's sudden passing, his three children prepare for the funeral. However, they seem very suspicious. They decide not to report his death and go straight to the funeral hall. In addition, they do not seem to mourn for him and even ask the doctor to write up his cause of death as a heart attack.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vZQpjaxkOmeTkdXH9dPi0ohiTLU.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qghhjI7J#5NuGOkKsXfytxvWXDpS4-VaWtqCuozOWyrFbjcmPj_4"}]
+        },
+        {
+          "Episode": 24,
+          "Title": "Episode 24",
+          "Duration": "30:00",
+          "Description": "Dae Sik is taken into custody and is interrogated after being suspected for mur-dering his own father. It turns out that he is seriously addicted to bitcoins and also suffers from anger management issues. Meanwhile, a dead rat is found at Sang Goo's place, and Beom decides to perform an autopsy on it. This brings an unexpected result.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vjoQXiJGb01t0KemUJnObZWnw0S.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yp5hmChD#ACjEMBpZ2gQeTG_yn3VHdp2DAm578LXWd1NIewsRWuM"}]
+        },
+        {
+          "Episode": 25,
+          "Title": "Episode 25",
+          "Duration": "30:00",
+          "Description": "It turns out that the amount of poison the late Yeom Sang Goo took was minimal and thus, he did not die due to that. The team is back to square one and begin the investigation all over again. Meanwhile, Eun Sol obtains footages of both Sang Goo's son and daughter taking him outside of his home. She also finds out that Sang Goo left around 600,000 to 700,000 dollars in inheritance.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vZZMG86AIb8hzZPgFC7FE93WmK5.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/X5ggEbib#jovL4N8lxUpVjS99PaYjYKHBjGsey6BjJ3HD9joc6z4"}]
+        },
+        {
+          "Episode": 26,
+          "Title": "Episode 26",
+          "Duration": "30:00",
+          "Description": "While grilling some pork skin at a restaurant with Beom, Sol suddenly has an epiphany and asks for surveillance footages of Yeom Sang Goo's area on the day of his death. Although Sang Goo's children have done nothing good, their physical altercations with their father fails to prove to be the cause of death. Meanwhile, Sol finds an important lead.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kMjP2hR7XBzOgRHmA26dWb1jqXs.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LhokwLiL#018PPp2_v9lJm4T_Z6JXuvuujSr8GtkAup2CRfMOvYM"}]
+        },
+        {
+          "Episode": 27,
+          "Title": "Episode 27",
+          "Duration": "30:00",
+          "Description": "Prosecutor Do Ji Han firmly believes that the killer is the same killer from 30 years ago, and therefore, is a serial killer. Realizing the graveness of the situa-tion, a new team is formed solely for this case, and Pyo Yoo Seong takes the lead. Although Sol repeatedly tells Ji Han that they cannot ignore the possibility of a copycat, Ji Han refuses to listen.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oGEwLUeZlGSqDWRO3DxShAwPxFG.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/HlhUEIQI#sBh4fEyIpofHhG9KpolR0d4pnvecKgX6T3aEBznrFQc"}]
+        },
+        {
+          "Episode": 28,
+          "Title": "Episode 28",
+          "Duration": "30:00",
+          "Description": "The body of Seong Hye Bin, a young woman, is found in the mountain by a hiker. Beom notices that her limbs are tied with a knot and that her fingerprints are missing. He also meets with Deputy Chief Prosecutor Do Ji Han, but the two do not get along at all. Ji Han tells him that the culprit is a serial killer.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1Hdh1j0h6281QNIdwpsF4TvzcCl.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LtpWiTrb#hne1IfJmA1vMRgRql5lJXLAfLYy42EqMHA-vD9rw_Z4"}]
+        },
+        {
+          "Episode": 29,
+          "Title": "Episode 29",
+          "Duration": "30:00",
+          "Description": "Lee Kyung Ja, a past victim and survivor of the Wuseong Serial Murder case, is found dead. Pyo Yoo Seong leads the autopsy himself while Beom grudgingly obliges to be his assistant. During the autopsy, Beom smells something odd and starts sniffing around. Meanwhile, news reporters ask Do Ji Han if he is to blame for the death of Kyung Ja.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kU1HhnWaQlEvAweoJSjBW2VUITc.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Hs4RXIpb#qZWjACoYSaDMW0ymNvNOu5hcV1ryE1ZV_yycpxUFMSk"}]
+        },
+        {
+          "Episode": 30,
+          "Title": "Episode 30",
+          "Duration": "30:00",
+          "Description": "The team begins narrowing down the culprit. They compile a list of home addresses where the water usage has been unusually high. While investigating, Ji Han finds Detective Choi Hyun Seok's wheelchair and a rifle bore-cleaner next to it. Suddenly, Oh Jong Cheol, another detective, greets him warmly and invites him over to his house.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2XyE2tfBaSVUT9ZIU3mMBn5xf3b.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/O0Z02IqC#NHh5Yfqd_qa9af5Bw0Amdr0CTSH23AFRiCQZbnzCIsM"}]
+        },
+        {
+          "Episode": 31,
+          "Title": "Episode 31",
+          "Duration": "30:00",
+          "Description": "Baek Beom finds out the truth behind all the events that had occurred in the past. Man Sang is called into the prosecution once again when his lawyer was found dead in her car. Eun Sol is convinced that Man Sang is behind her death, but there is no evidence to support it. Meanwhile, Beom takes his first vacation in 10 years.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/trxjMwyrh1jmzi1vfyZclpuV2wi.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/KgRXwDKR#gn58alYmgrj3WkXgvIVZI_IPAs17wCAwx8-3Z2DNR8k"}]
+        },
+        {
+          "Episode": 32,
+          "Title": "Episode 32",
+          "Duration": "30:00",
+          "Description": "They have all the suspicions, but none of the evidence. All the puzzle pieces of Han Ji Won's death don't fit to find a cause of death. However, Beom goes through all the autopsy records to figure it out and help solve the case.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4NkbRzxuF5Eff0FUnG0DLRRXQAx.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/XwhmWDxR#NM7S7yldP0mvYyZtp5JppmBGWqOPWTctBO9L5qPPN7s"}]
+        }
+      ]
+    },
+    {
+      "Season": 2,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Episode 1",
+          "Duration": "30:00",
+          "Description": "A female victim is taken to the hospital with seven stab wounds on her body. She says that her boss tried to kill her, however, the suspect denies all the charges against him. Prosecutor Eun Sol is in charge of the case, and at the trial, she encounters Doctor Baek Beom who comes to the court to provide his expert opinion on the stab wounds.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/c7pzMVoqS7wS2snFAh0VjJHkBVb.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/D8hzjSoB#YP4Cf2s5EY2MazYA_ZN-1Wpiwd3BrbeldfEIwTqzLiU"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Episode 2",
+          "Duration": "30:00",
+          "Description": "Eun Sol continues to find more evidence related to the case and visits the female victim's house. Meanwhile, two members of a gang are found dead, and Baek Beom is asked to perform autopsies on them. In the middle of the autopsy, unexpected guests visit Baek Beom and his colleagues.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fhAkRQJC#v0VnagyVQjhnrILPWxajrHA1rRabIp_OKEOjLT0Rods"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Episode 3",
+          "Duration": "30:00",
+          "Description": "Eun Sol goes to meet Baek Beom without knowing that he's been taken hostage. Before she opens the doors of the building, she realizes that something is going wrong. Inside the autopsy room, Baek Beom finds out that who took the drugs among the thugs.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/cTWkTZQvgwf7WKocfzHg15JHQEQ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/HogVDCQD#kHGIHA9XWcAqYzhWc-Rt0GJVRRzngxy74Kn7aqYPRyw"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Episode 4",
+          "Duration": "30:00",
+          "Description": "Baek Beom starts to perform an autopsy on Kang Ah Reum's dead body. Eun Sol pushes him to finish the autopsy before the trial ends. Meanwhile, Gal Dae Cheol attends the trial as the prosecutor and reveals a shocking video clip that shows what happened between Kang Ah Reum and Jin Sang Chul in the women's restroom.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PtpUFA6K#wICf9WWwJ7_uRpHGkXZgF6RmM27_68k9i2NeojRL6aY"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Episode 5",
+          "Duration": "30:00",
+          "Description": "A married couple dies in two different car accidents almost at the same time. After their death, the bereaved families of the husband and the wife starts to fight over the inheritance. In order to find out the time of death of the two people, Baek Beom and Do Nam perform autopsies on them.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6PRvnbErETkDdJn4h8YFaawHUpZ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ihADgahL#oQ5Dr2PLE4D3NtewYdpIY7RJZnaM7n-yixsCBKamdDY"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Episode 6",
+          "Duration": "30:00",
+          "Description": "The prosecution and the NFS continue to work hard to find out the truth behind the couple's death. Through security camera footage and a background check on Cha Do Hee, the female victim's sister, Eun Sol realizes that Cha Do Hee has fabricated the time of death of her sister.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ekJDyIaI#UAaov6yr36TSLL963Lg9bFSbbBo3kZoqglW46x-AY48"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Episode 7",
+          "Duration": "30:00",
+          "Description": "Everyone believed Cha Joo Hee died in a car accident, but according to Baek Beom's opinion, her accidental death is now a homicide. And based on a chemical substance found in the female victim's body, the female victim's sister Cha Do Hee is now the prime suspect.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2ePRHj0p6x8cjrOy9FMejFeyqQs.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6lAFRTwJ#HHzh7Q-f0l_0CcABle1uHFXGtGVMTCcISb5G8-YjJfU"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Episode 8",
+          "Duration": "30:00",
+          "Description": "The prosecution and the NFS keep working on finding out the real culprit who killed Cha Joo Hee and made it look like an accidental death. They continue to follow the evidence and end up suspecting more than two people as suspects.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lPU34PKrjJNISguneRdAB7zQfTj.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WwAkmDCD#0xh32U7ai4NkdlxQ2hgx6njw4sJXSKKb-fscM4WtoqM"}]
+        }
+      ]
+    }
+  ]
+},
                         {
           "Title": "Mercy for None",
           "SubCategory": "Action & Adventure",
