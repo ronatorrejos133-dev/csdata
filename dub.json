@@ -792,7 +792,17 @@
         "Crime"
       ],
       "Entries": [
-        {
+       {
+  "Title": "Bring It On, Ghost",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "Hyun-Ji, a 19-year-old ghost meets exorcist Park Bong-Pal. They team up to listen to and solve the problems of various ghosts in order to help them rest peacefully.",
+  "Poster": "https://image.tmdb.org/t/p/w500/6tPDqJOnOPDwYv2CN7OPE29UoS.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/6tPDqJOnOPDwYv2CN7OPE29UoS.jpg",
+  "Rating": 8,
+  "Year": 2016,
+  "Seasons": [
+    {
           "Title": "Guardian: The Lonely and Great God",
           "SubCategory": "Drama",
           "Country": "",
@@ -819,130 +829,130 @@
                     }
                   ]
                 },
-                {
-                  "Episode": 2,
-                  "Title": "I'll Become Your Bride in 200 Years",
-                  "Duration": "1:17",
-                  "Description": "Eun-tak follows Shin and suddenly finds herself transported to Quebec. Realizing she is in a foreign country, she is convinced of Shin's true nature.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4LCSJNcM8uiOZa84Oy2ehst8TWg.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 3,
-                  "Title": "I See the Sword",
-                  "Duration": "1:22",
-                  "Description": "Shin and a Grim Reaper rescue Eun-tak after she is kidnapped by loan sharks. Shin has Deok-hwa investigate Eun-tak's aunt who got her into trouble.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/v95JacsmdRWV0F3GvFzK46lOcgq.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 4,
-                  "Title": "I Won't Leave You",
-                  "Duration": "1:02",
-                  "Description": "Shaken when Eun-tak tells him that she could see the sword all along, Shin still wants to live. The Reaper offers to bring her to the afterlife.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8Q4s3KqRoC38ixTDp5w1N6EPOuc.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 5,
-                  "Title": "I Have to End My Life",
-                  "Duration": "1:07",
-                  "Description": "Sunny and the Reaper meet again and go to a café. She grows impatient and tries to have a conversation, but when she asks his name he abruptly leaves.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uDB1IKT02J9NBbaj7wWLLG2pGHi.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 6,
-                  "Title": "Tomorrow",
-                  "Duration": "1:16",
-                  "Description": "Shin sees Eun-tak in the future and asks her to pull out the sword. But Eun-tak doesn't understand the consequences that would bring.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oBOMMP5EUYeZjM7tcp8iIJ4tfWW.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 7,
-                  "Title": "I Think It's Your Face",
-                  "Duration": "1:14",
-                  "Description": "When Eun-tak returns home after her test, Shin, Deok-hwa and the Reaper greet her with a cake. She and Shin head out to the movies.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2t43RzvBSFjfGXANLXXsMW8IJ4W.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 8,
-                  "Title": "You Gave Her That Fate",
-                  "Duration": "1:12",
-                  "Description": "Eun-tak finally takes hold of the sword but Shin pushes her away. She is happy to know that she is the bride, but he doesn't seem to share her joy.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2XdmuFEmQYrBz5EsITJzfbOs2zU.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 9,
-                  "Title": "He'll Vanish Forever From This World to Another",
-                  "Duration": "1:18",
-                  "Description": "After hearing the truth of the sword from the Reaper, Eun-tak runs away from Shin. He looks everywhere he can think of but she is nowhere to be found.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kyHZWIMOvJ2bS54gyJgxshqWMNX.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 10,
-                  "Title": "Is She Really Your Sister?",
-                  "Duration": "1:16",
-                  "Description": "After the Reaper forgets that he erased Sunny's memory and makes a slip of the tongue, she demands to know who he is and why he knows her real name.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ysPuoVLmdzix5eoAJ33nWL1JCoU.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 11,
-                  "Title": "The Deity Is So Cruel to You and Me",
-                  "Duration": "1:14",
-                  "Description": "Shin learns from the Reaper that Sunny is the reincarnation of his sister. They go to the chicken shop, but the incredulous Sunny tells them to leave.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/HCAXsi0xdn24Wju7aMQmX3rUMu.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 12,
-                  "Title": "Forget About Me",
-                  "Duration": "1:23",
-                  "Description": "Eun-tak remembers the Reaper's words when she sees a creepy ghost while at work. Shin and the Reaper realize that Deok-hwa is not who he seems.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wSAsOyFvO7jYcKiNf0sh5Pj8SRo.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 13,
-                  "Title": "Protect Her",
-                  "Duration": "1:24",
-                  "Description": "The Reaper receives a punishment from the underworld authorities for revealing his identity and using his special powers for his own purposes.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cZkX2dwOviXiOJrZZqQ9xG9uact.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 14,
-                  "Title": "Whom Have I Forgotten?",
-                  "Duration": "1:15",
-                  "Description": "Shin pulls out the sword to protect Eun-tak from Park Joong-heon. He then departs for a desolate place where he struggles against loneliness.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zGaLvy8Y9bSzfi3SU6cKI8Mex6U.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 15,
-                  "Title": "Will You Be My Bride?",
-                  "Duration": "1:03",
-                  "Description": "Eun-tak is suspicious when Shin suddenly appears on the street in Canada, but he reminds her of her promise to treat him to a meal.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5JXnETEvAvmJ79SH27hwQIdCKDK.jpg",
-                  "Servers": []
-                },
-                {
-                  "Episode": 16,
-                  "Title": "Goodbye and See You Again",
-                  "Duration": "1:13",
-                  "Description": "Shin proposes to Eun-tak amid the falling cherry blossoms. On a whim he wants to have the wedding in a few days, so they jump right into preparations.",
-                  "Thumbnail": "https://image.tmdb.org/t/p/w500/okMuAjdEalSLtWyxImCPhi0qGZE.jpg",
-                  "Servers": []
-                }
-              ]
-            }
-          ]
+        {
+          "Episode": 2,
+          "Title": "Gampo Inn",
+          "Duration": "58:00",
+          "Description": "Hyun Ji refuses to leave Bong Pal alone. Chun Sang and In Rang are given a week to evacuate their club space.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/o7Rd6YV8MUiDbjnQEq05GeQDrSC.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/d202Vb7C#jBKbBy8rOIZWqtwWUqcYaBbzF0CuJ05Yn1yQUZJ759g"}]
         },
+        {
+          "Episode": 3,
+          "Title": "Miz and Her Haters",
+          "Duration": "59:00",
+          "Description": "Bong Pal and Hyun Ji decide to live together. A gamer who hacked Chun Sang's account gets him suspected of murder",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/iCQRNah8cEpYEfrDNuUhV4tuKF3.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/k60DHT6S#i7wUvfaIF8HKB5uSh_XRiTSvrIWgBHagU0uEDFkqXoY"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "At Sauna",
+          "Duration": "59:00",
+          "Description": "Hyun Ji's tutoring does not go as well as expected. Chun Sang and In Rang scramble to pay off their debts.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yxtInW0QuRRREu2fWLKIm444qMC.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Zrky0D4S#N1p6Qd5vWKgJCLJhsKjC6Nk7tYTD-v3Vk6QCIguaU0Q"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "A Child Ghost and Bong Pal's Memories",
+          "Duration": "1:00",
+          "Description": "Chun Sang and In Rang offer Bong Pal a partnership deal. Hyun Ji finds herself getting jealous of Seo Yeon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8SbR2Jw0pbpNRpnxMZnvtrqXihn.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/1ydm3LbA#x5DQCcgAsGDtuYr60UpMsUWz9i_doF2PsMvuDt1QV00"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "A Ghost in the Water",
+          "Duration": "1:00",
+          "Description": "The newly formed ghost-hunting club goes on a retreat. Hey Sung is questioned by the police about No Hyun Joo's death.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/euwbk9eUEVo81qUayqPeUm7CJiB.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/wncUmLAB#ulJyuW9dkd_JXefxQ-nGsAagUnNEReVzyurYxBI9z2k"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Mother",
+          "Duration": "59:00",
+          "Description": "Myung Chul investigates his suspicions. Chun Sang lands a potential investor for Blood Sausage Soup.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dtN90EnzgDWzuBPuoAVGvtU02eB.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/InVFGAwJ#ipMm0qgCYY1YoZmBDZDoshDLzTw4XeWcNVkKcRDYfhw"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "The Ferris Wheel",
+          "Duration": "1:00",
+          "Description": "In Rang's crush on Hyun Ji grows. Blood Sausage Soup is called to a closed mental institute.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1eTfI1prBCqMOyt384I1EuBIYlF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/8nVWDLCB#7gLN-Wn8sXqftlzZkIe1Yw6FRE1BRt5Huz09cDxfTEc"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "A Human and a Ghost",
+          "Duration": "59:00",
+          "Description": "Bong Pal and Hyun Ji go on a date. The police receive a confession about Hyun Joo.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4wZuPGJ6iNorFxAfhsv3eyQJJLx.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/UrFWhTIK#PTHJAOd2yhjRMuDGN5irEWPUJGSonAdWTv4KsN0P6WE"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Bong Pal's Birthday",
+          "Duration": "1:03",
+          "Description": "Myung Chul meets Hye Sung and decides Bong Pal needs protection. Hyun Ji questions if staying with Bong Pal is the right decision.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7VH290xxK2xu7fPxu8ev9MR12Qc.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/tq8FGTBQ#zQQ99pnBJoKx7TEIJpx1YBi0CxG1DOwLAQCvnY_euGE"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Hyun Ji Starts to Remember",
+          "Duration": "1:00",
+          "Description": "Bong Pal and In Rang have a hard time committing to work. Hyun Ji gains more memories and unwittingly puts herself in danger.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pBEz6Bjd4hzvyQ5t39RN9CBHf6N.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/s2sz2JDA#eAVZ-1eypLW5536eUTi1vMpzX5BY9aOFLjLEcA1aHsU"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Hyun Ji Wakes Up from a Coma",
+          "Duration": "1:00",
+          "Description": "Bong Pal is at a loss when Hyun Ji doesn't remember him. Hye Sung starts a new plan to silence Hyun Ji.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/53nElqo6lXGvTmLWsbx2KTAJzTO.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/EnFEgY5K#5siKpTFNib53uyOigo7NDhp1t9FF2LgrCeeuAYlvgI0"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Hyun Ji Tries to Get Her Life Back",
+          "Duration": "1:03",
+          "Description": "Bong Pal distances himself as he waits for Hyun Ji's memory to return. Chun Sang and In Rang ask the police to reinvestigate the hit-and-run.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/laSLThSXPEhlS97jyjky0eTS2XI.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/tzsmlSJC#z4LLGWD7PZwNk5J_NAJ5M-HIgnPD1rqTvlurZwUH3hU"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Bong Pal's Father Is Found",
+          "Duration": "59:00",
+          "Description": "Park Ji Hoon's body is found. Myung Chul realizes what happened five years ago, but hesitates to tell Bong Pal.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2kd9H4ccAIql3dpzjLNSyyUHvlk.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/5vUBCRgR#WJbqpw-yh88Q2Y4bXSU44ATrhJ1Z8nszMn4P_Q8vkOk"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "The Grand Battle",
+          "Duration": "59:00",
+          "Description": "Bong Pal, Chun Sang, and In Rang chase Professor Joo after he kidnaps Hyun Ji.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5iB0aPg41uRBIvQsBobkqIrLoON.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Zy1mzaZQ#asSg3owqwl8GK8wcxSMeOSr4Jg8Obmaz6MSghclzSw8"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Happily Ever After",
+          "Duration": "1:06",
+          "Description": "Bong Pal waits for Hyun Ji to get into college so they can attend together. Chun Sang and In Rang try to keep Blood Sausage Soup alive.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lhMopcLnaOGctIfpugd9ZLjZ6Hq.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/wq03jDLb#TRCMEccn8Zi5IVSsSQVGD2b1Sgx-GvmspNJIfIXlDmY"}]
+        }
+      ]
+    }
+  ]
+},
 {
   "Title": "Bring It On, Ghost",
   "SubCategory": "Drama",
