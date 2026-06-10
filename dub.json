@@ -792,6 +792,157 @@
         "Crime"
       ],
       "Entries": [
+        {
+          "Title": "Guardian: The Lonely and Great God",
+          "SubCategory": "Drama",
+          "Country": "",
+          "Description": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+          "Poster": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+          "Rating": 9,
+          "Year": 2016,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "What Kind of a Guardian Are You?",
+                  "Duration": "1:28",
+                  "Description": "After Kim Shin is sentenced to death for treason, he is reborn and wanders the earth in search of the bride who can release him from his immortality.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/mx5YxKTY3PNJhGo1JMITxaBKuvR.jpg",
+                  "Servers": [
+                    {
+                      "Server": "a",
+                      "Link": "https://ia600507.us.archive.org/4/items/g1_20260610/g1.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "I'll Become Your Bride in 200 Years",
+                  "Duration": "1:17",
+                  "Description": "Eun-tak follows Shin and suddenly finds herself transported to Quebec. Realizing she is in a foreign country, she is convinced of Shin's true nature.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/4LCSJNcM8uiOZa84Oy2ehst8TWg.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 3,
+                  "Title": "I See the Sword",
+                  "Duration": "1:22",
+                  "Description": "Shin and a Grim Reaper rescue Eun-tak after she is kidnapped by loan sharks. Shin has Deok-hwa investigate Eun-tak's aunt who got her into trouble.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/v95JacsmdRWV0F3GvFzK46lOcgq.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 4,
+                  "Title": "I Won't Leave You",
+                  "Duration": "1:02",
+                  "Description": "Shaken when Eun-tak tells him that she could see the sword all along, Shin still wants to live. The Reaper offers to bring her to the afterlife.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/8Q4s3KqRoC38ixTDp5w1N6EPOuc.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 5,
+                  "Title": "I Have to End My Life",
+                  "Duration": "1:07",
+                  "Description": "Sunny and the Reaper meet again and go to a café. She grows impatient and tries to have a conversation, but when she asks his name he abruptly leaves.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/uDB1IKT02J9NBbaj7wWLLG2pGHi.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Tomorrow",
+                  "Duration": "1:16",
+                  "Description": "Shin sees Eun-tak in the future and asks her to pull out the sword. But Eun-tak doesn't understand the consequences that would bring.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/oBOMMP5EUYeZjM7tcp8iIJ4tfWW.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 7,
+                  "Title": "I Think It's Your Face",
+                  "Duration": "1:14",
+                  "Description": "When Eun-tak returns home after her test, Shin, Deok-hwa and the Reaper greet her with a cake. She and Shin head out to the movies.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2t43RzvBSFjfGXANLXXsMW8IJ4W.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 8,
+                  "Title": "You Gave Her That Fate",
+                  "Duration": "1:12",
+                  "Description": "Eun-tak finally takes hold of the sword but Shin pushes her away. She is happy to know that she is the bride, but he doesn't seem to share her joy.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2XdmuFEmQYrBz5EsITJzfbOs2zU.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 9,
+                  "Title": "He'll Vanish Forever From This World to Another",
+                  "Duration": "1:18",
+                  "Description": "After hearing the truth of the sword from the Reaper, Eun-tak runs away from Shin. He looks everywhere he can think of but she is nowhere to be found.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/kyHZWIMOvJ2bS54gyJgxshqWMNX.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Is She Really Your Sister?",
+                  "Duration": "1:16",
+                  "Description": "After the Reaper forgets that he erased Sunny's memory and makes a slip of the tongue, she demands to know who he is and why he knows her real name.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/ysPuoVLmdzix5eoAJ33nWL1JCoU.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 11,
+                  "Title": "The Deity Is So Cruel to You and Me",
+                  "Duration": "1:14",
+                  "Description": "Shin learns from the Reaper that Sunny is the reincarnation of his sister. They go to the chicken shop, but the incredulous Sunny tells them to leave.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/HCAXsi0xdn24Wju7aMQmX3rUMu.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 12,
+                  "Title": "Forget About Me",
+                  "Duration": "1:23",
+                  "Description": "Eun-tak remembers the Reaper's words when she sees a creepy ghost while at work. Shin and the Reaper realize that Deok-hwa is not who he seems.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/wSAsOyFvO7jYcKiNf0sh5Pj8SRo.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 13,
+                  "Title": "Protect Her",
+                  "Duration": "1:24",
+                  "Description": "The Reaper receives a punishment from the underworld authorities for revealing his identity and using his special powers for his own purposes.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/cZkX2dwOviXiOJrZZqQ9xG9uact.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 14,
+                  "Title": "Whom Have I Forgotten?",
+                  "Duration": "1:15",
+                  "Description": "Shin pulls out the sword to protect Eun-tak from Park Joong-heon. He then departs for a desolate place where he struggles against loneliness.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/zGaLvy8Y9bSzfi3SU6cKI8Mex6U.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 15,
+                  "Title": "Will You Be My Bride?",
+                  "Duration": "1:03",
+                  "Description": "Eun-tak is suspicious when Shin suddenly appears on the street in Canada, but he reminds her of her promise to treat him to a meal.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5JXnETEvAvmJ79SH27hwQIdCKDK.jpg",
+                  "Servers": []
+                },
+                {
+                  "Episode": 16,
+                  "Title": "Goodbye and See You Again",
+                  "Duration": "1:13",
+                  "Description": "Shin proposes to Eun-tak amid the falling cherry blossoms. On a whim he wants to have the wedding in a few days, so they jump right into preparations.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/okMuAjdEalSLtWyxImCPhi0qGZE.jpg",
+                  "Servers": []
+                }
+              ]
+            }
+          ]
+        },
 {
   "Title": "Bring It On, Ghost",
   "SubCategory": "Drama",
