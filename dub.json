@@ -27,23 +27,7 @@
         "Thriller"
       ],
       "Entries": [
-        {
-          "Title": "Along with the Gods: The Two Worlds",
-          "SubCategory": "Action",
-          "Country": "",
-          "Description": "Having died unexpectedly, firefighter Ja-hong is taken to the afterlife by 3 afterlife guardians. Only when he passes 7 trials over 49 days and proves he was innocent in human life, he’s able to reincarnate, and his 3 afterlife guardians are by his side to defend him in trial.",
-          "Poster": "https://image.tmdb.org/t/p/w500/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg",
-          "Rating": 8,
-          "Duration": "2:19",
-          "Year": 2017,
-          "Servers": [
-            {
-              "Server": "Mega.nz",
-              "Link": "https://ia600507.us.archive.org/4/items/g1_20260610/g1.mp4"
-            }
-          ]
-        },
+
         {
           "Title": "The Assignment",
           "SubCategory": "Action",
