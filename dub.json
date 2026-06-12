@@ -793,6 +793,304 @@
       ],
       "Entries": [
   {
+  "Title": "A Secret in Prague",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "In a world where love is rarely simple, two people find themselves drawn to each other despite the expectations and struggles surrounding them. As family ties, personal choices, and difficult circumstances test their bond, they must decide how far they are willing to go to protect what they feel.",
+  "Poster": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+  "Rating": 0,
+  "Year": 2026,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Pilot",
+          "Duration": "36:00",
+          "Description": "Mikoy leaves his hometown to work abroad in Prague. While working as a waiter, he runs into trouble and the enigmatic Chiara saves him from some thugs.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Welcome to the Family",
+          "Duration": "28:00",
+          "Description": "Viktor welcomes Mikoy into the Valtrovi family, but Chiara tries to shield the waiter from danger. Meanwhile, Agent Alex watches from a distance.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Leverage",
+          "Duration": "24:00",
+          "Description": "As Agents Alex and Sianong aggressively pull Mikoy into their surveillance, Alex crosses the line and involves Mikoy's family back home.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "A Difficult Choice",
+          "Duration": "28:00",
+          "Description": "Mikoy refuses to bend to the agents' threats and must choose between protecting his family or betraying Chiara and the powerful Valtrovi family.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Home Court",
+          "Duration": "26:00",
+          "Description": "Realizing he is no spy, Mikoy decides to bring the mission back to his home turf. But will his hometown of Cebu City prove charming enough for Chiara?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "A Secret in Cebu",
+          "Duration": "26:00",
+          "Description": "As Mikoy and Chiara receive a grand welcome in Cebu, the rest of the Valtrovi soon arrive and Agent Alex continues her investigation.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Getting to Know You",
+          "Duration": "24:00",
+          "Description": "While the Valtrovi enjoy Pinoy hospitality, the Pinagpalas wonder if Mikoy's new job is as good as it seems. Agent Kian uncovers a serious threat.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E07.mp4"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Direct Command",
+          "Duration": "26:00",
+          "Description": "Viktor receives orders from Sicily. With Agent Kian in danger, Agent Alex and Sianong set out to seek justice. Meanwhile, Mikoy enjoys a makeover.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E08.mp4"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "The New Role",
+          "Duration": "27:00",
+          "Description": "Now sporting a new look, Mikoy visits his younger brother and has an uncomfortable family dinner. Agent Alex infiltrates Vertex Global.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E09.mp4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Not Who She Seems",
+          "Duration": "27:00",
+          "Description": "The agents keep their eyes on Mikoy as he starts his new role at Vertex. But while the Pinagpalas enjoy their new life, something seems off with Chiara.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E10.mp4"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "A Glimpse Into the Past",
+          "Duration": "29:00",
+          "Description": "Mikoy settles into his new role at Vertex, but he may be in over his head. Meanwhile, Chiara's past and Viktor Valtrov's true nature come to light.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E11.mp4"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Secrets",
+          "Duration": "27:00",
+          "Description": "A close call puts Mikoy on edge as Chiara bonds with his family. Angelito's mystery girl resurfaces, and secrets threaten to unravel everything.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E12.mp4"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "New Introductions",
+          "Duration": "26:00",
+          "Description": "Mikoy meets the rest of the team and begins intense training with Agent Alex. Meanwhile, the Valtrovis clash over family expectations and dynamics.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E13.mp4"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Old Friends, New Deals",
+          "Duration": "25:00",
+          "Description": "Mikoy and Chiara strike a new deal as she rises in the Moraviano syndicate. Caught off guard, Mikoy turns to Agent Alex for relationship advice.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E14.mp4"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "A Night Off",
+          "Duration": "26:00",
+          "Description": "Mikoy and Chiara go on a date, while Angelito reaches out to his mystery girl. Agent Alex and Syano share a heart-to-heart over their own struggles.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E15.mp4"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "A Memorable Night",
+          "Duration": "25:00",
+          "Description": "Agent Kian rejoins the team as the Vertex Global grand reveal party kicks off. Mikoy takes the stage, but unwelcome gate-crashers crash the event.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E16.mp4"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Hangover",
+          "Duration": "25:00",
+          "Description": "The Vertex party spirals into chaos as the Valtrovis scramble to escape. Donabel is captured, but the family's strength is underestimated.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E17.mp4"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Do You Remember?",
+          "Duration": "27:00",
+          "Description": "Mikoy wakes up next to Chiara with no memory of the night before. The Valtrovis regroup with La Morte Bianca as the agents close in on their next move.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E18.mp4"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "A Reliable Source",
+          "Duration": "26:00",
+          "Description": "The agency debates who rescued Donabel as a \"reliable source\" delivers a warning to the Pinagpalas. Meanwhile, Chiara bonds with Nanay Tess.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E19.mp4"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Friend or Foe?",
+          "Duration": "25:00",
+          "Description": "A foreign asset introduces La Fornarina to the agents — but can he be trusted? Meanwhile, a senator's visit to the agency brings uncertain news.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E20.mp4"}]
+        },
+        {
+          "Episode": 21,
+          "Title": "Old Friends, New Problems",
+          "Duration": "27:00",
+          "Description": "Agents Alex and Sianong meet with Director Ruiz and voice their concerns over the agency's closure. Chiara turns to Donabel for motherly advice.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E21.mp4"}]
+        },
+        {
+          "Episode": 22,
+          "Title": "The Other Mario",
+          "Duration": "26:00",
+          "Description": "During a family meal, the Valtrovis discuss their situation in the country while Chiara begins to doubt Mikoy. Meanwhile, Tatay Mario lands in trouble.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E22.mp4"}]
+        },
+        {
+          "Episode": 23,
+          "Title": "Getting Closer",
+          "Duration": "27:00",
+          "Description": "Mikoy grows closer to Alex, building trust as they uncover more about La Fornarina. Angelito finally gets the chance to meet Sophie's father.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E23.mp4"}]
+        },
+        {
+          "Episode": 24,
+          "Title": "Girls' Night, Boys' Trouble",
+          "Duration": "25:00",
+          "Description": "During a night out, Mikoy introduces Chiara to the rest of his friends, and she immediately takes a liking to one person in particular: Alex.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E24.mp4"}]
+        },
+        {
+          "Episode": 25,
+          "Title": "Meet the Family",
+          "Duration": "24:00",
+          "Description": "Tensions rise at the agency over a missing asset. Mikoy and Chiara spend time with her family, while Angelito and Sophie continue to grow closer.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E25.mp4"}]
+        },
+        {
+          "Episode": 26,
+          "Title": "Realizations",
+          "Duration": "28:00",
+          "Description": "Viktor and Chiara clash over a disagreement. Sophie works on a favor for Angelito, while a senator delivers news that shakes up the agency.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E26.mp4"}]
+        },
+        {
+          "Episode": 27,
+          "Title": "Fathers and Daughters",
+          "Duration": "26:00",
+          "Description": "The agents receive crucial intel as a plan hits a snag. Director Ruiz makes time for his daughter, while Viktor and Chiara's conflict deepens.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E27.mp4"}]
+        },
+        {
+          "Episode": 28,
+          "Title": "Conversations",
+          "Duration": "25:00",
+          "Description": "The senator has a serious talk with the agents as Alex and Sianong clash over a lead. Mikoy and Chiara decide to take the next step together.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E28.mp4"}]
+        },
+        {
+          "Episode": 29,
+          "Title": "New Hires",
+          "Duration": "27:00",
+          "Description": "Director Ruiz returns as the team gains a new member. Mikoy asks Chiara to share more about her life, while she and Viktor remain at odds.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E29.mp4"}]
+        },
+        {
+          "Episode": 30,
+          "Title": "Changing Directions",
+          "Duration": "28:00",
+          "Description": "Viktor comes clean to Donabel. Alex pushes forward with her suspicions, but new intel steers the team another way. Chiara helps Mikoy prep for work.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E30.mp4"}]
+        },
+        {
+          "Episode": 31,
+          "Title": "New Bonds",
+          "Duration": "25:00",
+          "Description": "Agents Alex and Sianong report back after trailing a new suspect. Mikoy bonds with Carlotta, while Chiara settles into a more domestic role.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E31.mp4"}]
+        },
+        {
+          "Episode": 32,
+          "Title": "A Surprise Visit",
+          "Duration": "26:00",
+          "Description": "Alex and Chiara bond during a surprise visit. The general receives word about his old friend, Isidro, while Carlotta delivers a report to Viktor.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E32.mp4"}]
+        },
+        {
+          "Episode": 33,
+          "Title": "Secrets in Play",
+          "Duration": "23:00",
+          "Description": "A game among friends exposes secrets, and Carlotta's lead pays off. Sianong confronts Alex, sparking a realization about her true feelings.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E33.mp4"}]
+        },
+        {
+          "Episode": 34,
+          "Title": "The Missing Agent",
+          "Duration": "26:00",
+          "Description": "Alex is uncharacteristically late for work, so Sianong goes looking for her. Back at the Vertex offices, Mikoy receives a personal visit from Viktor.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E34.mp4"}]
+        },
+        {
+          "Episode": 35,
+          "Title": "Choosing Sides",
+          "Duration": "25:00",
+          "Description": "Mikoy finally reunites with the agents after weeks on his own. The Valtrovi family feud comes to a head with Chiara and Viktor locked in a standoff.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E35.mp4"}]
+        }
+      ]
+    }
+  ]
+},
+  {
   "Title": "Doctor Stranger",
   "SubCategory": "Drama",
   "Country": "",
