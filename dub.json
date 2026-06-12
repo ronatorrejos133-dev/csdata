@@ -1091,6 +1091,152 @@
   ]
 },
 {
+  "Title": "Encounter",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "Following a chance encounter overseas, a woman with much to lose and a man with little to his name meet again as employer and employee.",
+  "Poster": "https://image.tmdb.org/t/p/w500/dtP3ZJoMrKYVqPyz6ypHvveaKFo.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/dtP3ZJoMrKYVqPyz6ypHvveaKFo.jpg",
+  "Rating": 8,
+  "Year": 2018,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/dtP3ZJoMrKYVqPyz6ypHvveaKFo.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Enchanted",
+          "Duration": "1:07",
+          "Description": "While in Havana on a business trip, Cha Su-hyeon meets Kim Jin-hyeok, a tourist she spends an impromptu romantic evening with around the city.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/10GTnoTCyj2uBibBHL5meu1cQfQ.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "We Sincerely Welcome You",
+          "Duration": "1:10",
+          "Description": "Upon learning Jin-hyeok is a new employee at her hotel, Su-hyeon looks through his file. Later, she proposes they grab a meal together.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xcIRqjmi6yaVtlYdl9wRgT1JklJ.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Yearning",
+          "Duration": "1:04",
+          "Description": "After photos of herself and Jin-hyeok together make the news, Su-hyeon asks Jung U-seok to speak to his meddling mother.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vFwBPglZ2wVSgspXeQTJzobGZkq.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "That's Why I'm Trying to Stop",
+          "Duration": "1:03",
+          "Description": "Jang Mi-jin shows up in Jin-hyeok's neighborhood with a message. A false online post threatens to turn Su-hyeon's employees against her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ix0TScuup1Ai7xlsATw1QvMdxbm.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "I'm Good at Holding Back",
+          "Duration": "1:04",
+          "Description": "To protect Su-hyeon, Jin-hyeok makes a bold move in front of their coworkers. The pair plays hooky from work to enjoy an afternoon together.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gPGNCCbvwAkCE5tsrPPXGhzdVRw.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "It's Already Spring for Us",
+          "Duration": "1:05",
+          "Description": "Su-hyeon and Jin-hyeok put a name to their relationship. On the day of the opening of a new hotel, Kim Hwa-jin has nasty words for Jin-hyeok.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eHm7neEyeLePIJIxsTmSx30OVfv.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Sudden Personnel Appointment",
+          "Duration": "1:05",
+          "Description": "Su-hyeon's gutsy announcement to the world comes with consequences for both herself and Jin-hyeok. Cho Hye-in warns Jin-hyeok to be careful.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/amMOVWANES0pLZmmcKW4HSiR1gj.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E07.mp4"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Party Must Go On",
+          "Duration": "1:04",
+          "Description": "Jin-hyeok and Su-hyeon bid each other a temporary farewell as he's transferred to another office. At the hotel, a masquerade ball rings in the new year.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/d5qKR6B87CZjEgb3BmA2ziak5DM.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E08.mp4"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Don't Be Afraid",
+          "Duration": "1:10",
+          "Description": "With his identity revealed as Su-hyeon's boyfriend, Jin-hyeok faces new challenges. U-seok makes a heartfelt proposal.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/88oOKmqDeOCpGRx5UKledIYJAww.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E09.mp4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "It Proves That I Was the First to like You",
+          "Duration": "1:09",
+          "Description": "A plot to hurt Su-hyeon's standing places her efforts to buy a property at risk. To fix the situation, Jin-hyeok books a plane ticket back to Cuba.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uuwVIYZLnzHknuZsDOUm36h87Ha.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E10.mp4"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "My Heart Is Full of You",
+          "Duration": "1:08",
+          "Description": "Jin-hyeok returns to the Seoul office, Su-hyeon searches for answers and U-seok sends an incriminating video to his mother's lackey.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5dP9O93JQlEQdT1MvAbA7DE90Dz.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E11.mp4"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "I Cherish You Very Much",
+          "Duration": "1:08",
+          "Description": "Intent on getting his way, U-seok has himself named the co-CEO of the hotel. Su-hyeon must make a difficult choice between heart and duty.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bLGq1EVPOiq41Aa3MBFPduGtlNw.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E12.mp4"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "I Can No Longer Live Without You",
+          "Duration": "1:08",
+          "Description": "A surprise confession halts the company board's vote. Meanwhile, not everyone in Jin-hyeok's family feels comfortable with him dating Su-hyeon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qzlr7lD1NAoqWzPNuKZM2UPYkLL.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E13.mp4"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "It's Your First Love Too",
+          "Duration": "1:08",
+          "Description": "Su-hyeon grapples with the future of her relationship with Jin-hyeok. Elsewhere, her father makes an unanticipated move in his political career.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bJ0PLROzNrDxzDdieF1kqzYXAeN.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E14.mp4"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "I'm Sorry",
+          "Duration": "1:12",
+          "Description": "Su-hyeon believes she's doing the right thing by ending it with Jin-hyeok. Heartbroken, he struggles to understand her decision.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sSvfFf5d2albSZFjnFz5m8fAKYA.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E15.mp4"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "I'll Wait in My Place",
+          "Duration": "1:15",
+          "Description": "Su-hyeon's father does the only thing he can to truly free his daughter from Taegyeong Group's grasp. Jin-hyeok prepares a meaningful gift for Su-hyeon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/k8YsWDEeflQKBo9vDoYNIh1tqxA.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E16.mp4"}]
+        }
+      ]
+    }
+  ]
+},
+{
   "Title": "Put Your Head on My Shoulder",
   "SubCategory": "Drama",
   "Country": "",
