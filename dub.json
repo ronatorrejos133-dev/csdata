@@ -792,7 +792,7 @@
         "Crime"
       ],
       "Entries": [
-  {
+{
   "Title": "A Secret in Prague",
   "SubCategory": "Drama",
   "Country": "",
@@ -962,7 +962,7 @@
           "Episode": 20,
           "Title": "Friend or Foe?",
           "Duration": "25:00",
-          "Description": "A foreign asset introduces La Fornarina to the agents — but can he be trusted? Meanwhile, a senator's visit to the agency brings uncertain news.",
+          "Description": "A foreign asset introduces La Fornarina to the agents — but can he be trusted? Meanwhile,a senator's visit to the agency brings uncertain news.",
           "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
           "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E20.mp4"}]
         },
@@ -970,7 +970,7 @@
           "Episode": 21,
           "Title": "Old Friends, New Problems",
           "Duration": "27:00",
-          "Description": "Agents Alex and Sianong meet with Director Ruiz and voice their concerns over the agency's closure. Chiara turns to Donabel for motherly advice.",
+          "Description": "Agents Alex and Sianong meet with Director Ruiz and voice their concerns over the agency's closure. Chiara turns Donabel for motherly advice.",
           "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
           "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E21.mp4"}]
         },
@@ -1010,7 +1010,7 @@
           "Episode": 26,
           "Title": "Realizations",
           "Duration": "28:00",
-          "Description": "Viktor and Chiara clash over a disagreement. Sophie works on a favor for Angelito, while a senator delivers news that shakes up the agency.",
+          "Description": "Viktor and Chiara clash over a disagreement. Sophie works on a favor for Angelito, while a senator delivers new that shakes up the agency.",
           "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
           "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E26.mp4"}]
         },
@@ -1026,7 +1026,7 @@
           "Episode": 28,
           "Title": "Conversations",
           "Duration": "25:00",
-          "Description": "The senator has a serious talk with the agents as Alex and Sianong clash over a lead. Mikoy and Chiara decide to take the next step together.",
+          "Description": "The senator has a serious talk with the agents as Alex and Sinong clash over a lead. Mikoy and Chiara decide to take the next step together.",
           "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
           "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E28.mp4"}]
         },
@@ -1085,11 +1085,1427 @@
           "Description": "Mikoy finally reunites with the agents after weeks on his own. The Valtrovi family feud comes to a head with Chiara and Viktor locked in a standoff.",
           "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
           "Servers": [{"Server": "Archive.org", "Link": "https://ia600509.us.archive.org/5/items/asip_20260612/ASiP_S01_E35.mp4"}]
+        },
+        {
+          "Episode": 36,
+          "Title": "Episode 36",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia903203.us.archive.org/29/items/asip_20260616/ASiP_S01_E36.mp4"}]
+        },
+        {
+          "Episode": 37,
+          "Title": "Episode 37",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia903203.us.archive.org/29/items/asip_20260616/ASiP_S01_E37.mp4"}]
+        },
+        {
+          "Episode": 38,
+          "Title": "Episode 38",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia903203.us.archive.org/29/items/asip_20260616/ASiP_S01_E38.mp4"}]
+        },
+        {
+          "Episode": 39,
+          "Title": "Episode 39",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e9S0DItbVnyD7qwoqNtx4LZZ6KD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia903203.us.archive.org/29/items/asip_20260616/ASiP_S01_E39.mp4"}]
         }
       ]
     }
   ]
 },
+ {
+  "Title": "Crushology 101",
+  "SubCategory": "Comedy",
+  "Country": "",
+  "Description": "Bunny is a talented sculpture student with a warm personality but struggles with low self-esteem due to a failed first love.",
+  "Poster": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+  "Rating": 8,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Episode 1",
+          "Duration": "1:02",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/d50VPqPrGcBr0QqF3Lin56QuqCr.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6SQ2lTZL#QK_cU7bAwl2Jmmh2e40OtqAcOgIE0EqZGn6LReUHCxI"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Episode 2",
+          "Duration": "1:03",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5STrDhuyTgqRcxLveYyAgtJUOmx.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/aHA1gJAY#VBvRjP_zuU7j0P_rYD7OmCufzBMx55Yl7dl0L__a_wM"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Episode 3",
+          "Duration": "1:04",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lkfTyszrgsxApCYvloMnRyjj51.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/DWoQEAwb#Xwa-h4wUE9n7hhdJllbfGT-Lvt6BlJT-uyroa-9g7qc"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Episode 4",
+          "Duration": "1:06",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2o5plWbpCFKiThRZGmVf4GCi9Yw.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/2SoxXbpZ#8VyanO9FQCMzD89NAsBr3zWczbGbylhJGuP7YEKUJqM"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Episode 5",
+          "Duration": "1:02",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4uNRBNcAyPWUF2cBfCDuQMygn9E.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/uegTzJbJ#nr4ayE7WzLRpj_iBxKZjAw_VdKqD_TcDzSuSJrfUddY"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Episode 6",
+          "Duration": "1:03",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/cC89l8gKjZX1npDt3UVndn3rHad.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fX4hQaJK#cv1CFhk-pE0sjdC7jpddgSg6cSd2nyxW837LjGzZMjQ"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Episode 7",
+          "Duration": "1:10",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/pHw7DedgrLZpuVQeIuhVyuIrbEu.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/qDwBzRqZ#0eR-1bviRepSR2-ndhGf9P9yI_BmTPdnFZxK5yquVlE"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Episode 8",
+          "Duration": "1:04",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2sgLBhsrRPYkj3k4rltPuSXK5aF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Deoj1JwI#m_KrpmrdQMihh37e2FaNAuULlR1ji0Wz8IZxceVFQkw"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Episode 9",
+          "Duration": "1:04",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yA8csN4DufJ0H8P08em0fdoOiZ2.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/zTh3xQIb#2Y1_F6WqTLseXQJUVhCLxdheewOhcNzuWp3s1H5Y6JY"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Episode 10",
+          "Duration": "1:03",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7Ou5WKBV3dTT8L3KEB3eNCW71AC.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6PgHhTTa#TlEnhidjMp6mPKC1kee9bxgRtVEc01VtySvUi_5F6ZU"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Episode 11",
+          "Duration": "1:02",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yozDhShVWVV1YvQ2YPjooTncOTC.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mWJiEKLK#lXZxWUcJimTLZPYt3Q7-TmkDplqnT9tfxHP6H5QLPO0"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Episode 12",
+          "Duration": "1:06",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jhCQZEHbAdfGxodbitHnSplj24Q.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fKQGWZ4Q#j-8RkghE01mJ0ydGMWBva6AaQSgJeQtR7bhHYu9ZoIw"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Episode 13",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ObAkhRAY#FOCmGj7VgEYzDAKdr1PRKwtX3JMnpooHzVAfJxiKRqU"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Episode 14",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mS4mWLST#DYYybNIbaCzAfNanUk2H2GSrmzRONrZMnuuQeGeXBqQ"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Episode 15",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PCx3UICD#PZR6isYq6fUW_HOerNSCF36PLxTp_cGlVRX7SQWREgk"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Episode 16",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/yHIi2axC#-_GLlKoUlHUG5YIVMnmpU2f3k7BtXQt--XrrnSPu9zI"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Episode 17",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/vG5UDJYR#nCRrcS3dm9ioc4aEyN-T2F_wDDLx7fow17uiCFzLpBo"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Episode 18",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/XCJmxYxQ#S_FZ5l6Zlmmr6cUQm4Z0-QRXJZlXZJx6lo5LdP-xbGk"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "Episode 19",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/bGQlTJZS#Ut315Rk_K-uX1iKyN7ulrdt0Q60KPQJl7GU_QbwMBKk"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Episode 20",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/GH4FSLwA#_6cmDrqFM2rW5akXw__U9CLQ1JMY5rylphG1e41B92g"}]
+        },
+        {
+          "Episode": 21,
+          "Title": "Episode 21",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/fOp00ChT#Vc6Ke8XEOkXzSp4TDgoADQjM-LTXMhCuyLq888OJPZE"}]
+        },
+        {
+          "Episode": 22,
+          "Title": "Episode 22",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/jHhngCKA#0WVesZZHQRgEja5WWl4pm_Bw4krnXG5CYjtVOm7C1YY"}]
+        },
+        {
+          "Episode": 23,
+          "Title": "Episode 23",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/iLhUhYqL#jogyneUcKBS_iaCwtwzjjFr_Ws9s_CEMPliwD8Lwo8w"}]
+        },
+        {
+          "Episode": 24,
+          "Title": "Episode 24",
+          "Duration": "Unknown",
+          "Description": "No description available",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9K4rTjVM9YLsYLeQxgKuea8qonE.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/uCgFzQjJ#TQmbZ_kMFM0qqvVL_09vZpFDxhTBuClzcqe-HDP_Pws"}]
+        }
+      ]
+    }
+  ]
+},
+{
+  "Title": "Gachiakuta",
+  "SubCategory": "Animation",
+  "Country": "",
+  "Description": "Accused of murder and thrown into the Pit, a young orphan joins a group of monster fighters with special powers to uncover the truth and seek vengeance.",
+  "Poster": "https://image.tmdb.org/t/p/w500/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
+  "Rating": 9,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "The Sphere",
+          "Duration": "24:00",
+          "Description": "Bullied outcast Rudo finds respite in repurposing trash, until a terrible tragedy changes his life forever.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gUg7D9CpjpCHUue0OAHVemG55Rs.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "The Inhabited",
+          "Duration": "24:00",
+          "Description": "Cast into the Pit, Rudo is saved by the mysterious Enjin who may not have his best interests at heart.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bx5BDggucxheJqYfmMYzNRU3zfx.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "The Ground",
+          "Duration": "24:00",
+          "Description": "Enjin is a Giver, a being who can give life to things and draw out their power. Ludo, who has also awakened to his power as a Giver, is scouted by Enjin to join an organization called the Cleaners, which fights against the Spotted Beasts born from garbage. Ludo accepts the offer in order to find a way to return to the Heavenly World where he has lived until now, but he suddenly gets into a fight with his trainer, Zanca.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bmWMdGBlTLKOwbX7d5EQiOZBtFX.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Cleaner HQ",
+          "Duration": "24:00",
+          "Description": "After being introduced to Cleaner HQ, Rudo follows Riyo on a job to learn the business.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7Y3O7q3mOt9f4FSChUIFyAZyRGa.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Raiders",
+          "Duration": "24:00",
+          "Description": "The Cleaners go on a job to save another Sphereite who survived the fall. Rudo tags along to learn more.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ztEDVMzddKRUQtvExgKaOVd8pHw.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "One Good Strike!!",
+          "Duration": "24:00",
+          "Description": "With the job having gone terribly wrong, Rudo finds himself face to face with a merciless Raider named Jabber.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eWgtva5EavsnGIf3fRZD6Lxj7ge.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "A Score to Settle",
+          "Duration": "24:00",
+          "Description": "Jabber employs a new strategy to get through Rudo's defenses, and another ally joins the fray.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ne5S6caYYa5hr3yuZR9ZkmPQ9qn.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E07.mp4"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Moving Forward",
+          "Duration": "24:00",
+          "Description": "Rudo deals with the emotional aftermath of the Jabber fight and gets a new lead about returning to the Sphere.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3caLcoFAgTPEA4QDMxJWUFIFR6g.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E08.mp4"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "The City of Graffiti",
+          "Duration": "24:00",
+          "Description": "To get a \"spell\" for their next mission, the Cleaners head to Canvas Town, where they make a tragic discovery.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qJ4aOklpW9t9HLltLo8y3HthOZL.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E09.mp4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Penta: The Desert No Man's Land",
+          "Duration": "24:00",
+          "Description": "With their gear-up complete, the crew heads into the No Man's Land, Penta, to get clues about the Sphere.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e2iniIW4GZOfpzsYm3Gs9V3rrTa.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E10.mp4"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Amo's Hospitality",
+          "Duration": "24:00",
+          "Description": "A mysterious woman living in the No Man's Land challenges the crew from an unexpected angle.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/a8FkL2y74TlH8T7FroXRVPn2O9a.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E11.mp4"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Something Like a Curse",
+          "Duration": "24:00",
+          "Description": "Tamsy and Zanka fight to save their captive allies. In the aftermath, Rudo has an unexpected reaction.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/iM9y3lJYQXifyvu9NPZIXW1qKGk.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E12.mp4"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "An Empty Gaze",
+          "Duration": "24:00",
+          "Description": "Amo tells the story of how she came to the tower and of the \"angels\" who came to visit her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bf1akAaPwfA8X5s2rVBwXj6Fl4I.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E13.mp4"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "The Storm Before the Storm",
+          "Duration": "24:00",
+          "Description": "After returning from the Penta No Man's Land, Rudo and the Cleaners face a series of new threats.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/efY8OZLlkjYZTXap0CQzXlUkVyH.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E14.mp4"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Clash!",
+          "Duration": "24:00",
+          "Description": "Taken by the Raiders to an unknown setting, the Cleaners fight for their lives, and Zodyl makes Rudo an offer.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1Qzvoq3MddBP6GigTKgHxp4l3pS.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E15.mp4"}]
+        },
+        {
+          "Episode": 22,
+          "Title": "The Power of Protection",
+          "Duration": "24:00",
+          "Description": "Noerde is doing everything he can to prevent the cleaning crew from escaping before they cross the border on the haphazard contraption.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/2In8eyBswA8ZqgGYxNcTqXserAr.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia802804.us.archive.org/13/items/gchkt/Gchkt_S01_E22.mp4"}]
+        },
+        {
+          "Episode": 23,
+          "Title": "The Man Who Will Be Stronger",
+          "Duration": "23:00",
+          "Description": "As the Cleaners take stock after the battle, a convalescing Zanka receives some surprising news.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/tfk85anbQEgvBsR068Q2AbrVdvN.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E23.mp4"}]
+        },
+        {
+          "Episode": 24,
+          "Title": "Field Trip",
+          "Duration": "23:00",
+          "Description": "Rudo and the other child Cleaners take a trip to Canvas Town while Corvus entertains some unwanted guests.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eEtcfbX2hATG14Qv29DmpIBF8PT.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia902804.us.archive.org/13/items/gchkt/Gchkt_S01_E24.mp4"}]
+        }
+      ]
+    }
+  ]
+},
+{
+  "Title": "Encounter",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "Following a chance encounter overseas, a woman with much to lose and a man with little to his name meet again as employer and employee.",
+  "Poster": "https://image.tmdb.org/t/p/w500/dtP3ZJoMrKYVqPyz6ypHvveaKFo.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/dtP3ZJoMrKYVqPyz6ypHvveaKFo.jpg",
+  "Rating": 8,
+  "Year": 2018,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/dtP3ZJoMrKYVqPyz6ypHvveaKFo.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Enchanted",
+          "Duration": "1:07",
+          "Description": "While in Havana on a business trip, Cha Su-hyeon meets Kim Jin-hyeok, a tourist she spends an impromptu romantic evening with around the city.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/10GTnoTCyj2uBibBHL5meu1cQfQ.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "We Sincerely Welcome You",
+          "Duration": "1:10",
+          "Description": "Upon learning Jin-hyeok is a new employee at her hotel, Su-hyeon looks through his file. Later, she proposes they grab a meal together.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xcIRqjmi6yaVtlYdl9wRgT1JklJ.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Yearning",
+          "Duration": "1:04",
+          "Description": "After photos of herself and Jin-hyeok together make the news, Su-hyeon asks Jung U-seok to speak to his meddling mother.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vFwBPglZ2wVSgspXeQTJzobGZkq.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "That's Why I'm Trying to Stop",
+          "Duration": "1:03",
+          "Description": "Jang Mi-jin shows up in Jin-hyeok's neighborhood with a message. A false online post threatens to turn Su-hyeon's employees against her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ix0TScuup1Ai7xlsATw1QvMdxbm.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "I'm Good at Holding Back",
+          "Duration": "1:04",
+          "Description": "To protect Su-hyeon, Jin-hyeok makes a bold move in front of their coworkers. The pair plays hooky from work to enjoy an afternoon together.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gPGNCCbvwAkCE5tsrPPXGhzdVRw.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "It's Already Spring for Us",
+          "Duration": "1:05",
+          "Description": "Su-hyeon and Jin-hyeok put a name to their relationship. On the day of the opening of a new hotel, Kim Hwa-jin has nasty words for Jin-hyeok.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eHm7neEyeLePIJIxsTmSx30OVfv.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Sudden Personnel Appointment",
+          "Duration": "1:05",
+          "Description": "Su-hyeon's gutsy announcement to the world comes with consequences for both herself and Jin-hyeok. Cho Hye-in warns Jin-hyeok to be careful.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/amMOVWANES0pLZmmcKW4HSiR1gj.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E07.mp4"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Party Must Go On",
+          "Duration": "1:04",
+          "Description": "Jin-hyeok and Su-hyeon bid each other a temporary farewell as he's transferred to another office. At the hotel, a masquerade ball rings in the new year.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/d5qKR6B87CZjEgb3BmA2ziak5DM.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E08.mp4"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Don't Be Afraid",
+          "Duration": "1:10",
+          "Description": "With his identity revealed as Su-hyeon's boyfriend, Jin-hyeok faces new challenges. U-seok makes a heartfelt proposal.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/88oOKmqDeOCpGRx5UKledIYJAww.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E09.mp4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "It Proves That I Was the First to like You",
+          "Duration": "1:09",
+          "Description": "A plot to hurt Su-hyeon's standing places her efforts to buy a property at risk. To fix the situation, Jin-hyeok books a plane ticket back to Cuba.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uuwVIYZLnzHknuZsDOUm36h87Ha.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E10.mp4"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "My Heart Is Full of You",
+          "Duration": "1:08",
+          "Description": "Jin-hyeok returns to the Seoul office, Su-hyeon searches for answers and U-seok sends an incriminating video to his mother's lackey.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5dP9O93JQlEQdT1MvAbA7DE90Dz.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E11.mp4"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "I Cherish You Very Much",
+          "Duration": "1:08",
+          "Description": "Intent on getting his way, U-seok has himself named the co-CEO of the hotel. Su-hyeon must make a difficult choice between heart and duty.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bLGq1EVPOiq41Aa3MBFPduGtlNw.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E12.mp4"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "I Can No Longer Live Without You",
+          "Duration": "1:08",
+          "Description": "A surprise confession halts the company board's vote. Meanwhile, not everyone in Jin-hyeok's family feels comfortable with him dating Su-hyeon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qzlr7lD1NAoqWzPNuKZM2UPYkLL.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E13.mp4"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "It's Your First Love Too",
+          "Duration": "1:08",
+          "Description": "Su-hyeon grapples with the future of her relationship with Jin-hyeok. Elsewhere, her father makes an unanticipated move in his political career.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bJ0PLROzNrDxzDdieF1kqzYXAeN.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E14.mp4"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "I'm Sorry",
+          "Duration": "1:12",
+          "Description": "Su-hyeon believes she's doing the right thing by ending it with Jin-hyeok. Heartbroken, he struggles to understand her decision.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sSvfFf5d2albSZFjnFz5m8fAKYA.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E15.mp4"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "I'll Wait in My Place",
+          "Duration": "1:15",
+          "Description": "Su-hyeon's father does the only thing he can to truly free his daughter from Taegyeong Group's grasp. Jin-hyeok prepares a meaningful gift for Su-hyeon.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/k8YsWDEeflQKBo9vDoYNIh1tqxA.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601606.us.archive.org/11/items/encntr/encntr_S01_E16.mp4"}]
+        }
+      ]
+    }
+  ]
+},
+{
+  "Title": "Hierarchy",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "The top 0.01% of students control law and order at Jooshin High School, but a secretive transfer student chips a crack in their indomitable world.",
+  "Poster": "https://image.tmdb.org/t/p/w500/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+  "Rating": 8,
+  "Year": 2024,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Newbie Party: Truth or Dare",
+          "Duration": "58:00",
+          "Description": "Kang Ha enters Jooshin High and quickly ruffles some feathers. He soon attends a rowdy party — and partakes in a provocative game of truth or dare.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/f12hr4nE278fojfpE8wAwM0kkEe.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia801009.us.archive.org/8/items/hrrchy/hrrchy_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Secret: Within a Secret",
+          "Duration": "1:07",
+          "Description": "After Kang Ha's daring stunt at the party, he faces the vengeful Kim Ri-an at school. Later, at a retreat, Kang Ha and Jung Jae-i begin to get closer.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/5NlHhiXF5JP5U37W2hqgvxtVhxt.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/8/items/hrrchy/hrrchy_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Hierarchy: A League of Their Own",
+          "Duration": "1:03",
+          "Description": "As Jae-i and Kang Ha present as a couple, a jealous Ri-an resorts to his own tactics. At the lavish Parent's Night, Yoon He-ra pulls a hostile stunt.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/sqCWOCuLuRknu9M5QG566KDz0vi.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia801009.us.archive.org/8/items/hrrchy/hrrchy_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Revenge, Desire, Romance: The Heart of the Matter",
+          "Duration": "1:01",
+          "Description": "He-ra plants a suspicion about Jae-i in Kang Ha's head. As anonymous threats continue to plague Jae-i, she disappears from school.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bgkpYlvKSgcs7PmZEe5ADdrqPHY.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/8/items/hrrchy/hrrchy_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Outstanding Outsiders: The Kangs",
+          "Duration": "1:04",
+          "Description": "After Kang Ha's confession, Jae-i is overwhelmed by the truth and decides to leave. At her farewell party, Ri-an makes an entrance — and a declaration.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/iJm9RuRflT2AoI3PFw7zMLsw9XE.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/8/items/hrrchy/hrrchy_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "An Arrow: To the Heart",
+          "Duration": "1:10",
+          "Description": "Kang Ha plans a strike to make the school an even playing field. But Jae-i attempts to protect Ri-an from the blow, revealing a hidden secret to Kang Ha.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/kPe2ult0XQ1hKO8kSnMPfRmEPAV.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia801009.us.archive.org/8/items/hrrchy/hrrchy_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Spring Time: Our Short, Vulnerable Yet Precious Chapter",
+          "Duration": "1:15",
+          "Description": "Kang Ha's crusade against the bullies wreaks havoc at the school. As a reckoning unfolds at Jooshin, will Kang Ha finally be able to fulfill his purpose?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/a4VzjIz0XC7egUf6pg7Q9ZaWJey.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia801009.us.archive.org/8/items/hrrchy/hrrchy_S01_E07.mp4"}]
+        }
+      ]
+    }
+  ]
+},
+{
+  "Title": "Lovers of the Red Sky",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "Set during the Joseon era, Hong Cheon Ki is a female painter with a genius like painting talent. She is picked as the first female painter of the Dohwaseo. Hong Cheon Ki also has a beautiful appearance and a bright personality. For her, painting is everything. One day, she meets Ha Ram.",
+  "Poster": "https://image.tmdb.org/t/p/w500/lzKiEoVUTdhGDOuqNoYoL0Q1FYA.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/lzKiEoVUTdhGDOuqNoYoL0Q1FYA.jpg",
+  "Rating": 7,
+  "Year": 2021,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/lzKiEoVUTdhGDOuqNoYoL0Q1FYA.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "The Red Sky",
+          "Duration": "1:10",
+          "Description": "When the Devil gets out of control, the shaman is able to lock him away in the portrait of a king, but the Devil puts a curse on the land. Years later, Hong Cheon Gi, a blind girl who loves art, meets Ha Ram, a boy who was on his way to a rain making ritual. During the ritual the Devil gets loose and possesses Ha Ram, but his eyes, which are the source of his power, gets taken away and are given to Cheon Gi.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rYNXFc4PiNYNMjCQjj7y2qPt73U.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "19 Years Later",
+          "Duration": "1:10",
+          "Description": "19 years later, Cheon Gi has become a painter who paints imitation and sells them for money so she can buy medicine for her father. Ha Ram has become an astrologist of the palace and also goes by the name of Ilwolseong who gives people information they seek for a price. Cheon Gi tries to get revenge after getting scammed by Jung, but ends up running into Ha Ram.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/tPdidyyq9PTY2iXSWoxQko3sjpS.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "The Demon Awakens",
+          "Duration": "1:10",
+          "Description": "After helping Cheon Gi and accidentally making physical contact, the demon inside Ha Ram wakes up. But Sam Sin and the Tiger Spirit are able to lock the demon back inside Ha Ram's body. When Cheon Gi finds Ha Ram passed out, she takes him to a safe place and looks after him.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4xtVHTlPaGlRWpsy8kxZwBZ7lVF.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Maejukheon Painting Contest",
+          "Duration": "1:10",
+          "Description": "Ha Ram thanks Cheon Gi for taking care of him and finds out she's the girl he met when he was a boy. Meanwhile, Cheon Gi's father collapse and she's told that he doesn't have a lot of time. Cheon Gi decides to participate in Maejukheon Painting Contest when she hears that Prince Yangmyeong grants the winner one wish to save her father.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fhLO6goIx3jAGmGBgoVhHCMkL3e.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "The Butterflies",
+          "Duration": "1:10",
+          "Description": "Cheon Gi is able to enter the painting contest thanks to Ha Ram. When her painting is evaluated for the first round, Prince Yangmyeong figures out that she's the one who painted the fake paintings and fails her. However, Han Geon the expert of Gohwawon gives her a free pass because he's sure she's a blessed painter. Ha Ram gives the topic for the second round which is about a peach orchard and Cheon Gi starts to realize who he really is.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/4AolGyuBdVmzLHRwckuSGi0THgO.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "The Final Round",
+          "Duration": "1:10",
+          "Description": "Cheon Gi moves on to the final round of the contest. Prince Yangmyeong gives her advice about how to paint with her heart. Later on, Cheon Gi and Ha Ram go on a stroll and end up kissing which almost wakes up the Demon inside Ha Ram. Afterwards, Ha Ram decides to hide his feelings for Cheon Gi, afraid she might get hurt.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qB74nLti7gSAcsbjXY0dVlbSwPl.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Reunion",
+          "Duration": "1:10",
+          "Description": "After Cheon Gi wins the contest, her father throws a paint brush to Prince Joohyang while having a fit. Prince Yangmyeong and Ha Ram convince Prince Joohyang not to punish him. Later, the King orders Cheon Gi to enter Gohwawon, but Cheon Gi refuses to leave her sick dad. After hearing about how her father went mad from Prince Yangmyeong, Cheon Gi decides to go to Gohwawon to find the truth about her father's madness.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ugtynIYh9TxZuWRtnHLG9CAkm6v.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E07.mp4"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "The Burned King's Portrait",
+          "Duration": "1:10",
+          "Description": "Cheon Gi enters Gohwawon to start working on the King's portrait. Expert Han shows Cheon Gi around and explain what kind work she'll be dong. When Cheon Gi sees the late King's portrait it makes her fall down due to a mysterious energy and she drops her bandage. When she later returns with Ha Ram to retrieve the bandage, the portrait calls the demon inside Ha Ram.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/oFvF0AqzacAuWOJurU1mEPYFxpJ.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E08.mp4"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Physiognomy Of The Immortal",
+          "Duration": "1:10",
+          "Description": "The demon almost gets out, but the white tiger is able to subdue it. Cheon Gi, who's having a hard time drawing the portrait, goes to a physiognomist with Ha Ram to learn about different face shapes and different types of facial bone structure. Ha Ram finds out about the demon inside of him when he meets Prince Joohyang as Ilwolseong and Cheon Gi also finds out why she was chosen to restore the portrait.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3Ey8HOxzAgLKNVbqAWFz18ZII92.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E09.mp4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "The Painter Of The King's Portrait",
+          "Duration": "1:10",
+          "Description": "Cheon Gi finds out about the Demon and why she was chosen to draw King Youngjong's portrait. She also finds out that if she paints the portrait, something bad might happen to her like her father. She gets scared and makes an excuse not to paint. Meanwhile, Ha Ram also finds out about the Demon inside him and how Cheon Gi might be in danger so he prepares a boat ticket to Yeon for Cheon Gi and her father.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wTeU0AxHZOgoxIKX2JAUD5CTB1s.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E10.mp4"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "The Ring Of Fate",
+          "Duration": "1:10",
+          "Description": "Ha Ram gets arrested under the suspicion of killing the soldiers on Mount Inwang. Cheon Gi continues to draw the king's portrait but heard that her painting does not have any divine powers. Cheon Gi begs Yangmyeong to let her see Ha Ram, but Yangmyeong doesn't allow it so Cheon Gi and her friends forge a document and break into the prison and ends up getting arrested.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rHjUtVPH8eIi6ykLwaOG5E9sirr.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E11.mp4"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "Fight To The Death",
+          "Duration": "1:10",
+          "Description": "Cheon Gi starts repainting the portrait. King Seongjo tells Prince Yangmyeong he plans on installing him as the next Crown Prince. Prince Joohyang who hears everything visits Ha Ram in his cell and tells him to hand over the Demon. Afterwards, he confronts King Seongjo about it and King Seongjo collapses.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ma3V6GIkJ1oTRg8Ds8nn0K7EcCh.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E12.mp4"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "The Sealing Ceremony",
+          "Duration": "1:10",
+          "Description": "Cheon Gi finishes the portrait. Prince Joohyang asks Ha Ram to find a divine object that'll help him stay in control even when he gets possessed by the demon. Ha Ram realizes the ring he gave to Cheon Gi is the divine object and gives Prince Joohyang a fake ring. The ritual starts and the demon is released from Ha Ram's body.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qq4TCweyKI0SNDkLsOpFvRsMwgR.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E13.mp4"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "From the Jaws of Death",
+          "Duration": "1:10",
+          "Description": "The Sealing Ceremony is unsuccessful. The portrait rips and Prince Yangmyeong barely manages to confine the Demon in Ha Ram's body. Ha Ram and Cheon Gi run away to a safe place, but Prince Joohyang uses Cheon Gi's father to lure her out and Cheon Gi ends up getting caught. Ha Ram and his bodyguard Moo Young tries to save Cheon Gi and her father, but her father dies after getting hit with a poison arrow. Later on, Prince Joohyang arrests everyone in Baekyu Painters Society and orders them to be executed.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/mCpuaxOSUlJm9eEs3dH7MG3GGPA.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E14.mp4"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "To Observe The Planets",
+          "Duration": "1:10",
+          "Description": "King Seongjo wakes up and stop Prince Joohyang from killing the members of Baekyu Painters Society. With the help of Ha Ram, Cheon Gi gives her father a proper burial. Ha Ram finds out the Demon inside of him was the one who killed his father. Once again, the preparation for the Sealing Ceremony begins and Cheon Gi makes a deal with Hwacha in order to succeed in drawing the portrait.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7tdTKxF60CqbmIYq35kZN628TA4.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E15.mp4"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Lovers Of The Red Sky",
+          "Duration": "1:10",
+          "Description": "The Demon is finally sealed in the painting once again, but Prince Joohyang hasn't given up yet. Years later, Ha Ram and Cheon Gi gets married and lives happily with their son. On the day of their birthday, Prince Yangmyeong and the members of Baekyu Painters Society have come to congratulate them. However, Prince Yangmyeong returns to the palace to stop Prince Joohyang from taking the throne.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/cjhyZD9MWFmv4trShVRoB4s3xvK.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600102.us.archive.org/2/items/lotrs/lotrs_S01_E16.mp4"}]
+        }
+      ]
+    }
+  ]
+},
+{
+  "Title": "Revenged Love",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "After Wu Suo-wei's girlfriend dumps him, he decides to get revenge by seducing her new boyfriend, Chi Cheng! It started as a game, but falling in love was never part of the plan.",
+  "Poster": "https://image.tmdb.org/t/p/w500/75AHBCFwER2FGmMZEgFqafwHxWz.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/75AHBCFwER2FGmMZEgFqafwHxWz.jpg",
+  "Rating": 8,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/75AHBCFwER2FGmMZEgFqafwHxWz.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "A Gentleman Will Surely Take Revenge",
+          "Duration": "47:00",
+          "Description": "After heartbreak, Wu Suowei plots revenge and collides with Chi Cheng in love and rivalry.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dAKj2djRVulWBvfOWpAvnSy1Kg8.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600706.us.archive.org/0/items/rl_20260615/rl_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Ex-Girlfriend's Current Boyfriend",
+          "Duration": "38:00",
+          "Description": "Wu Suowei schemes chance meetings with Chi Cheng while diving deeper into snake-raising.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/A6p1MjrdkCSVHKjXnAYULBbYuwq.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600706.us.archive.org/0/items/rl_20260615/rl_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "The Apprentice Has Graduated",
+          "Duration": "42:00",
+          "Description": "A park meeting sparks first hand-holding, while an injury reveals dangerous secrets.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8I430DCC9OOfQAPn6Mhnk9nDqPl.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600706.us.archive.org/0/items/rl_20260615/rl_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "He's the One You Like?",
+          "Duration": "44:00",
+          "Description": "Wu Suowei fakes brains to lure Chi Cheng, leading to a kiss that blurs truth and lies.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6U7r98xPJNPY9CeLPYHhYUE7h1f.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600706.us.archive.org/0/items/rl_20260615/rl_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Just Charge Forward, the Bully Has Your Back",
+          "Duration": "44:00",
+          "Description": "Chi Cheng shows care, and after tension, Wu Suowei accepts his invitation to stay over.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eiriT7tG1KROr0D9vtvjWGbmF1A.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600706.us.archive.org/0/items/rl_20260615/rl_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "My Heart is All Shaken Up",
+          "Duration": "44:00",
+          "Description": "Chi Cheng keeps Wu Suowei's gifts, but past loves and fears complicate their growing bond.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/y3pnetJiRkYUZ7ZMaiyMWYbUXC0.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600706.us.archive.org/0/items/rl_20260615/rl_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Anyone Can Be Mad at Me But You",
+          "Duration": "40:00",
+          "Description": "Chi Cheng's awkward family visit stirs old ties, while Wu Suowei suspects rare stolen snakes.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/aOOkg7m9ETHfRxTIgMGXqaCyOUD.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia800706.us.archive.org/0/items/rl_20260615/rl_S01_E07.mp4"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "I Decide Who You're Missing",
+          "Duration": "41:00",
+          "Description": "Wu Suowei dreams big with Chi Cheng's support, while jealousy sparks a deadly plot.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ePhfGuIIwMxlQUf3T20sHa0Hdky.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia800706.us.archive.org/0/items/rl_20260615/rl_S01_E08.mp4"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Snakes Aren't More Important than People",
+          "Duration": "39:00",
+          "Description": "A snake smuggling tip ends in blood and hospital care, deepening Wu and Chi's bond.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rTPTiwK1pnqj6remLnY30PXCgIC.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600706.us.archive.org/0/items/rl_20260615/rl_S01_E09.mp4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Can You Turn Straight Again after Being Bent?",
+          "Duration": "39:00",
+          "Description": "Wu Suowei rejects Yue Yue, but doubts about his sexuality ignite anger in Chi Cheng.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/9IwAbVF5jT4ZcDf91mhKmgH2UMt.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia800706.us.archive.org/0/items/rl_20260615/rl_S01_E10.mp4"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Come On, Let's Go Home and Get Registered",
+          "Duration": "38:00",
+          "Description": "Possessive sparks fly as Wu Suowei demands exclusivity, and they plan a future together.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/mdo5ICd34NcAnBC4RCcdCmO2fXs.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia800706.us.archive.org/0/items/rl_20260615/rl_S01_E11.mp4"}]
+        }
+      ]
+    }
+  ]
+},
+ {
+  "Title": "Ski into Love",
+  "SubCategory": "Drama",
+  "Country": "",
+  "Description": "After a scandal threatens her career, manga artist Wei Zhi escapes to a ski resort, where she meets instructor Shan Chong and begins to heal.",
+  "Poster": "https://image.tmdb.org/t/p/w500/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
+  "Rating": 7,
+  "Year": 2025,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/t8OKl6AmOe9DkNe3dIIVPK2HJVP.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Desire to Create",
+          "Duration": "43:00",
+          "Description": "Dan Chong helps his sister, Dan Shan, to buy a 2nd-hand drawing tablet online. He and the seller arrange to meet at Nancheng's Anime Carnival for the trade. Wu Man Man replaces Wi Zhi as Azhai for the book-signing event held there. Dan Chong helps his sister to acquire the signature of Azhai. He accidentally finds out that the seller of the drawing tablet is actually Wei Zhi, whom he met at the subway by coincidence.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/uyOSLvj9Wn0A6u0SZJEnGlK51Ca.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/mbYFQRhL#qnph79Q_MsPSqATJxClvZKYprj2P1Duhae7jCqcKnWU"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Snowboarding Pro",
+          "Duration": "48:00",
+          "Description": "Wei Zhi meets the main character of the snowboarding promotional video who made her heart flutter at the convention. She also becomes elated after receiving a piece of goggle cloth from him. However, Wei Zhi doesn't realize that the pro is Shan Chong.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vYL3xDBXTfgQZo1rWdhoFzr1JcQ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WShzAKBC#CXNOKAz3DvbCf3JMNK_7fMTpgywAkrb4iE-sa1ds4Hk"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Her Own Story",
+          "Duration": "47:00",
+          "Description": "Wei Zhi sits alone by the slopes and watches the video of Shan Chong and Dai Duo to search for inspiration for her work. Wei Zhi begins to fall in love with snowboarding.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wFFamYWiTknfztjwPey7Lfo3TbB.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WXo3QZbA#HMvgOl_yHA-tMrpZ56EGRv4eHy7ummHQCX5SrlJ6_-E"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Joining the Comic Contest",
+          "Duration": "46:00",
+          "Description": "Wei Zhi finds out about the original snow sports comic drawing contest. She decides to join it. She invites Shan Chong to join her as a character in her comic.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/fe1gAzBoeSZgvBnfPQJJJQVqi4n.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/naZAwJpS#CV4QiqZR3Y406g9W-0FqRDr0ymUp5StaBNm_-ezW-YI"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Battle",
+          "Duration": "48:00",
+          "Description": "Yan and Bei Ci go to Wantong Academy to argue with K. Shan Chong agrees to face K at the terrain park in a tricks battle.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lDbpyirsn51ODrbxjrBAomVbZJN.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ebYXFSbA#i3_UsXn68ey-SViBF6AAiYtoI50PA4cOOn6bGUmrpDI"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "The Real Him",
+          "Duration": "47:00",
+          "Description": "Wei Zhi meets up with Shan Shan. She is shocked when she finds out that Shan Chong is her older brother.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1uw4tKLtu177JcQ9AO2l4bXuHKa.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/aDBgWBja#SRkFZ7_QANw9kduqBqpIxV_xvqq6kFBYunT4HSsWmzE"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "The Past",
+          "Duration": "47:00",
+          "Description": "Wang Xin, Shan Chong's snowboarding coach, tries to persuade him to return to the national team, causing them to think about his retirement after getting injured five years ago.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/i8wORKAVWzwcAstwK5gJgfdrY4a.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/6CY3nRoL#Q8m9mwFhX3YmIMkLF99hucu5JPyT0Iqoj15dgRFRkxE"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Pursuing Dreams",
+          "Duration": "46:00",
+          "Description": "Wei Zhi wants to continue her career in comics. So, she musters up her courage to find Da Xiang and invite Da Xiang to join her studio.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7Sj4rUCqRcRbvsvXjS4tdNnOll2.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ebhyUK4b#4WLP3Nf1pFXfu11KbP-Gm6t10_KfAcQ-WfcLXhu65ns"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Return to Xicheng",
+          "Duration": "46:00",
+          "Description": "Wei Zhi pleads with her mother to let her go to Xicheng Ski Resort for research, but Mrs. Wei urges her to give up her comic career and marry Jiang Yi Ming as soon as possible.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bLgK9Q5qb4BAwM9aDgnMx3whuHz.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/behmHBpZ#xWUVF0hqNU6qgbsg3OhPr4BRfjTtKC0LopxTcH5xYqk"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Love Rivals",
+          "Duration": "47:00",
+          "Description": "Jiang Nan Feng wants to find Wei Zhi at Xicheng. When Wei Zhi goes to the airport to pick her up, she finds out that Jiang Yi Ming has come to Xicheng together with his sister.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gv2SCuPCphuB3heyEwUfER0vYwR.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WPwESbCL#DxOnxV_uL7wF2upsv_jTQKdpYlBwul9xLeDbA_p3LxE"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Heartfelt Conversations",
+          "Duration": "48:00",
+          "Description": "Shan Chong sends a drunk Wei Zhi back to the hotel. Both of them have a heartfelt conversation in the hotel room. Shan Chong asks Wei Zhi about her relationship with Jiang Yi Ming.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lElnzVx0FvUFligQjo2bU5XmJ8o.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/uWJ3lb4C#Pz5v-HVpytZEHHC9UagOvpT2HhWEp7JWgZzVOT57lmU"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "The Hidden Gem",
+          "Duration": "47:00",
+          "Description": "Wei Zhi, Shan Chong, and the group travel to Lezhou. After dinner, Yan and Bei Ci ask Jiang Yi Ming about his relationship with Wei Zhi. After overhearing their conversation, Shan Chong goes to find Wei Zhi and tells her he wants to take her to a place.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/Am6HSsSXFFVS78Qv25S9P9DXNXF.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/LaYwyCzC#ETqkEV88VwEutZksAfSbZmSXUqDnE1T7tCG_e20Htcc"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Confession",
+          "Duration": "46:00",
+          "Description": "Shan Chong tells Wei Zhi his story. At night, both of them squeeze into a sleeping bag intimately.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3NLi60DPDurFzqorN8kf2GRFjCf.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/WbBzDL5I#xcF6ZD3l7VXK_0TJ26CZoVJZvybnxZ9GvgFurVbvcjg"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Promise of Return",
+          "Duration": "49:00",
+          "Description": "The coach invites Shan Chong to return to the national team again. Shan Chong agrees to it. He states that he'll return to the team once he saves enough money to buy Shan Shan a pair of prosthetics.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/l1aeotXDfLCjR675wWi5OhHeQB0.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/CL40UDgD#Od-ltt4nVA0vTLIg5y8S23ebyQ1NLXBE-LyFxL-PEZA"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Visiting the Shan Family",
+          "Duration": "47:00",
+          "Description": "Shan Chong brings Wei Zhi home to see his parents. He tells them his plan to get prosthetic limbs fitted for Shan Shan, and that the attending physician, Jiang Yi Ming, is Wei Zhi's childhood friend. Shan Chong's parents express their gratitude to Wei Zhi.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/w76yXmZX8ys9LOLIc6oSLUeKuzV.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/PDRm3CaY#jLSXvi6Br6LaaDa9DDQDs627Qy-raHNpcgCuzufvurs"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Exposed Relationship",
+          "Duration": "46:00",
+          "Description": "Dai Duo sends Shan Shan home but both are reluctant to say goodbye to each other. Their relationship is exposed when Wei Zhi and Shan Chong catch them kissing.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/tOns6iPKdhQhyOLv8ULy87WhAA0.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/aShyTTiB#_2e37-DJ1_xxRtRbJmls0h_OTwxTcprOcMod9QYIz1o"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Breaking Up",
+          "Duration": "48:00",
+          "Description": "Wei Zhi's mother belittles Shan Chong with her words. Shan Chong thinks that he cannot provide Wei Zhi with a dependable future as of yet. He breaks up with Wei Zhi.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3T7eWYTc79PIYjC2mQLRfOkRrzg.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Db42kR5D#ZFzBCrWF8k18DUzHuF2iEsPUMR98mrLQq2gLn8ac8sw"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Perseverance and Courage",
+          "Duration": "48:00",
+          "Description": "Wei Zhi meets with Wu Man Man and asks her whether she is facing creative burnout and pressure from Wang Lao Hu. Drawing from her own experiences, Wei Zhi encourages Wu Man Man.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3bLtHQWf5LQ9vKAGMiWs1GWMuuW.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/Pf4Q3CTL#V-3XFvS8jhh9z_mupCxiKJTJ9NMf7o-Oo_wGTWwnUV4"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "Rewrite the Ending",
+          "Duration": "47:00",
+          "Description": "Wei Zhi invites Wu Man Man to the studio. Everyone gathers at Wei Zhi's studio to complete the finale of Farewell Song together.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/cflUo9TObml7NzRVEDWJ82p3CzZ.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/HLoQQYrQ#IExt7Fpg7hzyOK1iqDBncmzbssUiNXFqwli8nrp3BSM"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Returning to the National Team",
+          "Duration": "46:00",
+          "Description": "Shan Chong tells his parents that he has decided to return to the national team. His parents support his decision.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/bjc670oODs0ZnVK5PRR5qQ07uD9.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/rPhgSJDD#7Kw8ynxg69mdufVK6HxuFcHlb-6DohryLrvKbpV-fTM"}]
+        },
+        {
+          "Episode": 21,
+          "Title": "A Long-Awaited Reunion",
+          "Duration": "47:00",
+          "Description": "Wei Zhi travels to Xicheng for an inspiration searching trip, with the first stop being a visit to the national snowboarding training center. She sees Shan Chong again after a long time apart.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/gPGrs7dXUWcAvmZg6glZsKf1teB.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/nTxjDYyD#jFqHbs1qUCnv2Lo2b-_3OUKTADDV8T8z_nl4f0zTjtI"}]
+        },
+        {
+          "Episode": 22,
+          "Title": "Deemed Worthy",
+          "Duration": "47:00",
+          "Description": "Wei Zhi reconciles with Shan Chong. They decide to split up and persuade Wei Zhi's father and mother respectively to agree to their relationship.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/onTmxJgSlQntZ3z896WkHHE9Pa9.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/vKhghJbJ#43jdgDHGoMoc8hdV4Hj6fBzzauZvsQ5EzsL1G1eKjdU"}]
+        },
+        {
+          "Episode": 23,
+          "Title": "A Promised Future",
+          "Duration": "47:00",
+          "Description": "Shan Chong and Dai Duo reach the finals in the Men's Snowboard Big Air event. Wei Zhi and the gang go there to support them.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yhd7MZKWZvkD9idnaPMBwIKxUE4.jpg",
+          "Servers": [{"Server": "Mega.nz", "Link": "https://mega.nz/embed/ye5jAYSR#SsqzBDtg6QEAbxC7baX3hbWbKrVOOPxKlOvs4mgBMjo"}]
+        }
+      ]
+    }
+  ]
+},
+{
+  "Title": "Gyeongseong Creature",
+  "SubCategory": "Sci-Fi & Fantasy",
+  "Country": "",
+  "Description": "Gyeongseong, 1945. In Seoul's grim era under colonial rule, an entrepreneur and a sleuth fight for survival and face a monster born out of human greed.",
+  "Poster": "https://image.tmdb.org/t/p/w500/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
+  "Rating": 8,
+  "Year": 2023,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Najin",
+          "Duration": "1:08",
+          "Description": "Facing financial ruin, Jang Tae-sang agrees to track down a missing person — but two figures trail him. Meanwhile, sinister operations occur underground.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ormRRPmSdaxTc6fpLsfEyjV0R6v.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Mother",
+          "Duration": "1:09",
+          "Description": "Yoon Chae-ok and Yoon Jung-won find a lead on Myeong-ja, leading them to a hospital. Soon, a calamity traps the two inside, leaving Tae-sang concerned.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/mJWRkFdg1o6dEjEYjSAD2IxYX4F.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Signal",
+          "Duration": "1:14",
+          "Description": "Tae-sang decides to reenter the hospital, but discovers that Ryu Sachimoto is nearby. At the hospital, Chae-ok and Jung-won devise a risky rescue plan.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lt6G704DKPRHSR6c3ekWsf39Ge8.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Imprinting",
+          "Duration": "1:06",
+          "Description": "Reunited in their search for Myeong-ja, Tae-sang and Chae-ok attempt to also save other survivors. But soon, the monster makes itself known.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/77AjDw34uFNJzX0TYMM5jGiKDSl.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Desperation",
+          "Duration": "1:08",
+          "Description": "After coming face to face with the creature, Tae-sang and Chae-ok get captured. But as one plans his escape, the other stays to find a person dear to her.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/qEao47ad8eVDs5rOESeGvwaRWiw.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Chaos",
+          "Duration": "1:09",
+          "Description": "Tae-sang steadfastly remains to save Chae-ok and the captives. On a mission to find her mother, Chae-ok learns the grisly truth — and confronts the beast.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/e6qAh7Y2Nk1i49wE7BS08kdUAZH.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Chase",
+          "Duration": "1:05",
+          "Description": "With only 10 minutes to act, Tae-sang and Chae-ok risk it all to get everyone to safety. But just as all goes to plan, one of them may not get out alive.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/AfHcsfPdJ1k7gj1NgidCc4t2z70.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E07.mp4"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "Awakening",
+          "Duration": "1:05",
+          "Description": "An unlikely acquaintance becomes Tae-sang's ticket out of the hospital. After a touching reunion, Tae-sang and Chae-ok encounter a transformed Myeong-ja.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eSWZzsNBM0hss2CNq79KujuY8ws.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E08.mp4"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "Atrocity",
+          "Duration": "1:10",
+          "Description": "After a series of grisly deaths, Ishikawa finds Myeong-ja in her new state. Tae-sang shares a tender moment with Chae-ok, unaware of her hidden plan.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/vwYouok2Sq6yKhRiEbPvI5ArLHL.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E09.mp4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Tear",
+          "Duration": "1:18",
+          "Description": "In order to rescue Chae-ok and stop the atrocity, Tae-sang and Jung-won forge a plan. But just as the coast seems clear, Yukiko Maeda stands in the way.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/rpIS5XGSQIUXNBuKYL5WbhKr5sC.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S01_E10.mp4"}]
+        }
+      ]
+    },
+    {
+      "Season": 2,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Ho-jae",
+          "Duration": "47:00",
+          "Description": "On a mission to clear his name, Jang Ho-jae searches for a mysterious woman. On the job, Chae-ok encounters a familiar person from decades ago.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/jBjo2HOI9Gh4MYKMsi7WYVWivvx.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S02_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "Sign",
+          "Duration": "50:00",
+          "Description": "While looking for the same person, Ho-jae ends up saving Chae-ok, who's being chased by a mysterious being. Ho-jae begins to wonder more about his past.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/axihAJpJtfLgddH3MYfmJSIH8rF.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S02_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "Pieces of Memories",
+          "Duration": "43:00",
+          "Description": "Chae-ok agrees to work with Ho-jae to find Seung-jo, but they soon find themselves in peril. Meanwhile, Chae-ok's monstrous instincts begin to surface.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/cPzrwUVxlecLXPe7t0sMaHHEMt2.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S02_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "The Other Side",
+          "Duration": "46:00",
+          "Description": "Ho-jae tries to piece together everything that has been hidden from him. Chae-ok discovers that the atrocities of the past continue to the present day.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/dNiK2XN0gWE4WUlr6K5l5OsLYtS.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S02_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "The Creature",
+          "Duration": "51:00",
+          "Description": "In his effort to save Chae-ok, Ho-jae makes a momentous decision. Having sustained severe injuries, they must battle through a treacherous escape.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ny5dgoRfXbsWp9IjCLJ8mkZkDG8.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S02_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "Bait",
+          "Duration": "48:00",
+          "Description": "After a test subject wreaks havoc in public, Jeonseung Biotech goes into damage control. Fate drives Ho-jae and Chae-ok to confront the company head-on.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/eKQHMiLAit6yFdBToxUXEVtt0zY.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S02_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "Marginal Man",
+          "Duration": "57:00",
+          "Description": "As Ho-jae's enemy threatens to hurt those closest to him, he risks everything to protect them. Will he survive the ferocious beasts and save Chae-ok?",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/l0ukajEYsY2NPNRSJRDWaA5qGlT.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia600502.us.archive.org/26/items/gynsngcrtre/gynsngcrtre_S02_E07.mp4"}]
+        }
+      ]
+    }
+  ]
+},
+{
+  "Title": "Reply 1988",
+  "SubCategory": "Comedy",
+  "Country": "",
+  "Description": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+  "Poster": "https://image.tmdb.org/t/p/w500/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+  "Thumbnail": "https://image.tmdb.org/t/p/w500/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+  "Rating": 9,
+  "Year": 2015,
+  "Seasons": [
+    {
+      "Season": 1,
+      "SeasonPoster": "https://image.tmdb.org/t/p/w500/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+      "Episodes": [
+        {
+          "Episode": 1,
+          "Title": "Hand in Hand",
+          "Duration": "1:28",
+          "Description": "In 1988 Seoul, Deok-sun spends her days hanging out with childhood friends and practicing her role in the upcoming Olympics opening ceremony.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/curntgeV9HKtvDjShjh6u62qtti.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E01.mp4"}]
+        },
+        {
+          "Episode": 2,
+          "Title": "One Thing You Misunderstood About Me",
+          "Duration": "1:29",
+          "Description": "Choi Taek's latest win calls for a neighborhood celebration. Deok-sun and Dong-il grieve for their loved one's passing in different ways.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/UdKIwN0Ibg9ijA1qKp7GkqWDuQ.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E02.mp4"}]
+        },
+        {
+          "Episode": 3,
+          "Title": "The Rich are Innocent, and the Poor are Guilty",
+          "Duration": "1:26",
+          "Description": "Despite her disastrous dance skills, Deok-sun is determined to win a cassette player at a talent show being held during her school retreat.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ioSXDzQCkCrkZ3bTWAKNP1efN3i.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E03.mp4"}]
+        },
+        {
+          "Episode": 4,
+          "Title": "Can't Help~ing",
+          "Duration": "1:15",
+          "Description": "Deok-sun declares she wants to get into college, Seong-gyun nurses hurt feelings, and Taek deals poorly with losing.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/yHMBMXwsPczJy0xJp8MIptMSk7z.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E04.mp4"}]
+        },
+        {
+          "Episode": 5,
+          "Title": "Preparing for Winter",
+          "Duration": "1:30",
+          "Description": "Bo-ra's participation in risky student protests upsets Dong-il. Sun-young wants to show her mother she's doing all right, even when she isn't.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/l2uGq8E2xz0ZK8SytI34MeEXgv0.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E05.mp4"}]
+        },
+        {
+          "Episode": 6,
+          "Title": "The First Snow is Falling",
+          "Duration": "1:21",
+          "Description": "Taek shoulders heavy pressure as he heads to China for a tournament. Deok-sun writes about experiencing first love, which Jung-hwan happens to read.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/nEupru89HNg6faACil6NNu8OV9N.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E06.mp4"}]
+        },
+        {
+          "Episode": 7,
+          "Title": "To That Person",
+          "Duration": "1:33",
+          "Description": "With Christmas around the corner, everyone picks names for Secret Santa. Jung-hwan notices Deok-sun wants a pair of pink mittens.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/xm8a2BoAO4YTbseb5QBFzvFby8A.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E07.mp4"}]
+        },
+        {
+          "Episode": 8,
+          "Title": "One Warm Remark",
+          "Duration": "1:30",
+          "Description": "While the Kim family braces for Jung-bong's heart surgery, Bo-ra runs into relationship trouble, and Deok-sun meets No-eul's girlfriend.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/121xmj6JjAgg2QI802O39SGCPq1.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E08.mp4"}]
+        },
+        {
+          "Episode": 9,
+          "Title": "What it Means to Cross the Line",
+          "Duration": "1:37",
+          "Description": "The new year comes with money trouble for Sun-young and a health scare for Moo-sung. Deok-sun gets a glimpse of Taek's life in the spotlight.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/6OMyr8431tPlJvrv2ogxXy9HE6j.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E09.mp4"}]
+        },
+        {
+          "Episode": 10,
+          "Title": "Memory",
+          "Duration": "1:23",
+          "Description": "Everyone piles into Bo-ra's car to fetch Dong-ryong after he runs away from home on his birthday. Deok-sun and Taek take a detour on the way back.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/ncFC2l6PeTJfGO0x7JDDwHfWoS3.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E10.mp4"}]
+        },
+        {
+          "Episode": 11,
+          "Title": "Three Prophecies",
+          "Duration": "1:44",
+          "Description": "The moms see a fortuneteller. Jung-hwan grapples with complicated feelings, made worse when Deok-sun and her family temporarily move into his house.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/p5jNiuIH4wo5YGlBsBlJEI7TL5.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E11.mp4"}]
+        },
+        {
+          "Episode": 12,
+          "Title": "What It Means To Love Someone",
+          "Duration": "1:36",
+          "Description": "Secrets abound as Sun-young keeps news about her part-time job from Sun-woo, who sneaks around with Bo-ra. Moo-sung babysits.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/8mrAIXPxwFakB6nZ8TC9aBDQFc3.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E12.mp4"}]
+        },
+        {
+          "Episode": 13,
+          "Title": "Superman is Back",
+          "Duration": "1:39",
+          "Description": "Il-hwa gets anxious about a lump on her chest before a physical at the hospital. Taek leaves for a big competition in Tokyo.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/apORE7qcCLCGwU6m1ncmfMjMD3V.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E13.mp4"}]
+        },
+        {
+          "Episode": 14,
+          "Title": "Don't You Worry",
+          "Duration": "1:38",
+          "Description": "Sun-woo doesn't like that Sun-young and Moo-sung have grown so close. Deok-sun gifts Jung-hwan a pink shirt for his birthday.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/lcb75MOq7kVjV6iATnowdVrPjzG.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E14.mp4"}]
+        },
+        {
+          "Episode": 15,
+          "Title": "Between Love and Friendship",
+          "Duration": "1:39",
+          "Description": "Deok-sun faces a harsh reality check about getting into college. Dong-ryong ends up at the police station. Seong-gyun takes a bad fall.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/7lrHyMpdG9KoZk54p8NdJiQC2ja.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E15.mp4"}]
+        },
+        {
+          "Episode": 16,
+          "Title": "Life is an Irony (1)",
+          "Duration": "1:37",
+          "Description": "When a TV singing competition rolls into town, Mi-ran and Dong-ryong are eager to audition. Bo-ra moves out to study for the bar exam.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1uuoX7AoVOxbSELMsghDs0Mt9Ki.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E16.mp4"}]
+        },
+        {
+          "Episode": 17,
+          "Title": "Life is an Irony (2)",
+          "Duration": "1:50",
+          "Description": "As Deok-sun and the boys ponder their futures, the parents discuss their own bygone dreams. Meanwhile, Taek dreams of something sweeter.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/1hbuSbUthrqsQhwvIqY1gOkt4KL.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E17.mp4"}]
+        },
+        {
+          "Episode": 18,
+          "Title": "Goodbye, My First Love",
+          "Duration": "1:42",
+          "Description": "It's 1994, and the friends are back in town for Taek's birthday. Deok-sun gets stood up for a concert, and Bo-ra agrees to a blind date.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/o9hSrUhrh4zGcWPPsI1TuliA5fp.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E18.mp4"}]
+        },
+        {
+          "Episode": 19,
+          "Title": "You Did Your Very Best",
+          "Duration": "1:52",
+          "Description": "During a layover in Beijing, Deok-sun makes sure to stop by to take care of Taek. Jung-hwan puts together a touching surprise for Mi-ran.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/otF0BxNuvCuIYlHidzEnUTIFGgU.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E19.mp4"}]
+        },
+        {
+          "Episode": 20,
+          "Title": "Goodbye, My Youth. Goodbye, Ssangmundong.",
+          "Duration": "1:53",
+          "Description": "While Sun-woo and Bo-ra set out to change their parents' minds about their relationship, juicy gossip about Taek turns up on the news.",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/3CB5JZf10SBQ6DLg38VpmNztamL.jpg",
+          "Servers": [{"Server": "Archive.org", "Link": "https://ia601009.us.archive.org/31/items/rply1988/rply1988_S01_E20.mp4"}]
+        }
+      ]
+    }
+  ]
+},        
 {
   "Title": "Encounter",
   "SubCategory": "Drama",
