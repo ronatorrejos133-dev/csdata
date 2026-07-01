@@ -7675,104 +7675,154 @@
             }
           ]
         },
-    {
-  "Title": "Teach You a Lesson",
-  "SubCategory": "Action & Adventure",
-  "Country": "",
-  "Description": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
-  "Poster": "https://image.tmdb.org/t/p/w500/wd14C18cey46iCj9pedMSM4kXE6.jpg",
-  "Thumbnail": "https://image.tmdb.org/t/p/w500/wd14C18cey46iCj9pedMSM4kXE6.jpg",
-  "Rating": 9,
-  "Year": 2026,
-  "Seasons": [
-    {
-      "Season": 1,
-      "SeasonPoster": "https://image.tmdb.org/t/p/w500/wd14C18cey46iCj9pedMSM4kXE6.jpg",
-      "Episodes": [
         {
-          "Episode": 1,
-          "Title": "Episode 1",
-          "Duration": "52:00",
-          "Description": "Inspector Na Hwa-jin steps into the chaos and takes control of a school plagued by the spoiled son of a powerful politician — to teach him a lesson.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/v7TeS7axjt1GVs466xDe2zTdjcx.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E01.mp4"}]
+          "Title": "Teach You a Lesson",
+          "SubCategory": "Action & Adventure",
+          "Country": "",
+          "Description": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+          "Poster": "https://image.tmdb.org/t/p/w500/wd14C18cey46iCj9pedMSM4kXE6.jpg",
+          "Thumbnail": "https://image.tmdb.org/t/p/w500/wd14C18cey46iCj9pedMSM4kXE6.jpg",
+          "Rating": 9,
+          "Year": 2026,
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://image.tmdb.org/t/p/w500/wd14C18cey46iCj9pedMSM4kXE6.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Episode 1",
+                  "Duration": "52:00",
+                  "Description": "Inspector Na Hwa-jin steps into the chaos and takes control of a school plagued by the spoiled son of a powerful politician — to teach him a lesson.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/v7TeS7axjt1GVs466xDe2zTdjcx.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E01.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Duration": "57:00",
+                  "Description": "With unassuming Bong Geun-dae on his side, Hwa-jin uses his special ops skills to handle a school gang and defend a student who just wants to study.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/2cS6yBRF0v7eTFekaSaMtNHhOcr.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E02.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 3,
+                  "Title": "Episode 3",
+                  "Duration": "1:12",
+                  "Description": "When a teen influencer spreads false claims about her teachers, the team's loose-cannon Inspector Im Han-rim steps in to set the record straight.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/lsYCxY52UkU1tqnviMc9iO0wsXj.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E03.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 4,
+                  "Title": "Episode 4",
+                  "Duration": "1:08",
+                  "Description": "Choi Gang-seok weathers a political attack on his bureau. Hwa-jin's team visits an elite school to uncover why a student attacked a respected teacher.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/y0GLxdY9hhHH3Cr6PlH4bL89Sza.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E04.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 5,
+                  "Title": "Episode 5",
+                  "Duration": "1:06",
+                  "Description": "When an elementary school teacher's spirit wears down under pressure, Hwa-jin steps in to be her substitute — turning the tables to solve the case.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/jOJU4d6vJMuKd5qsOIfC8MAN0RN.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E05.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 6,
+                  "Title": "Episode 6",
+                  "Duration": "1:09",
+                  "Description": "Four juvenile delinquents think they're above the law — until the team takes an interest in their extracurricular crimes and gives a harsh reality check.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/5UGkIWxXCXWe7cqwiZP73UvbXbE.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E06.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 7,
+                  "Title": "Episode 7",
+                  "Duration": "1:04",
+                  "Description": "Geun-dae goes undercover to help a father find his gambling addict son. To undermine the bureau politically, Hwang Gi-tae visits a juvenile inmate.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/hVjPp718P5X67n6q6nkWNj9iqhv.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E07.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 8,
+                  "Title": "Episode 8",
+                  "Duration": "1:00",
+                  "Description": "After a pre-med student collapses in class, Hwa-jin investigates his obsessive mother, whose access to illicit pills hints at a larger conspiracy.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/toovTpmURzWw7WdX5eNEUVVeM9p.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E08.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 9,
+                  "Title": "Episode 9",
+                  "Duration": "1:07",
+                  "Description": "To help a student escape his exploitative friends, Han-rim adopts a new persona to join his circle. Cho Gyu-cheol's return puts the bureau in danger.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/1I33eidUEq15l9jur4nadKSXpHl.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "hhttps://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E09.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 10,
+                  "Title": "Episode 10",
+                  "Duration": "1:01",
+                  "Description": "After public backlash hits the bureau, Hwa-jin and his team go rogue to expose a deadly conspiracy led by a violent student-run gang.",
+                  "Thumbnail": "https://image.tmdb.org/t/p/w500/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
+                  "Servers": [
+                    {
+                      "Server": "Archive.org",
+                      "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E10.mp4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
-        {
-          "Episode": 2,
-          "Title": "Episode 2",
-          "Duration": "57:00",
-          "Description": "With unassuming Bong Geun-dae on his side, Hwa-jin uses his special ops skills to handle a school gang and defend a student who just wants to study.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/2cS6yBRF0v7eTFekaSaMtNHhOcr.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E02.mp4"}]
-        },
-        {
-          "Episode": 3,
-          "Title": "Episode 3",
-          "Duration": "1:12",
-          "Description": "When a teen influencer spreads false claims about her teachers, the team's loose-cannon Inspector Im Han-rim steps in to set the record straight.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/lsYCxY52UkU1tqnviMc9iO0wsXj.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E03.mp4"}]
-        },
-        {
-          "Episode": 4,
-          "Title": "Episode 4",
-          "Duration": "1:08",
-          "Description": "Choi Gang-seok weathers a political attack on his bureau. Hwa-jin's team visits an elite school to uncover why a student attacked a respected teacher.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/y0GLxdY9hhHH3Cr6PlH4bL89Sza.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E04.mp4"}]
-        },
-        {
-          "Episode": 5,
-          "Title": "Episode 5",
-          "Duration": "1:06",
-          "Description": "When an elementary school teacher's spirit wears down under pressure, Hwa-jin steps in to be her substitute — turning the tables to solve the case.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/jOJU4d6vJMuKd5qsOIfC8MAN0RN.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E05.mp4"}]
-        },
-        {
-          "Episode": 6,
-          "Title": "Episode 6",
-          "Duration": "1:09",
-          "Description": "Four juvenile delinquents think they're above the law — until the team takes an interest in their extracurricular crimes and gives a harsh reality check.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/5UGkIWxXCXWe7cqwiZP73UvbXbE.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E06.mp4"}]
-        },
-        {
-          "Episode": 7,
-          "Title": "Episode 7",
-          "Duration": "1:04",
-          "Description": "Geun-dae goes undercover to help a father find his gambling addict son. To undermine the bureau politically, Hwang Gi-tae visits a juvenile inmate.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/hVjPp718P5X67n6q6nkWNj9iqhv.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E07.mp4"}]
-        },
-        {
-          "Episode": 8,
-          "Title": "Episode 8",
-          "Duration": "1:00",
-          "Description": "After a pre-med student collapses in class, Hwa-jin investigates his obsessive mother, whose access to illicit pills hints at a larger conspiracy.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/toovTpmURzWw7WdX5eNEUVVeM9p.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E08.mp4"}]
-        },
-        {
-          "Episode": 9,
-          "Title": "Episode 9",
-          "Duration": "1:07",
-          "Description": "To help a student escape his exploitative friends, Han-rim adopts a new persona to join his circle. Cho Gyu-cheol's return puts the bureau in danger.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/1I33eidUEq15l9jur4nadKSXpHl.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E09.mp4"}]
-        },
-        {
-          "Episode": 10,
-          "Title": "Episode 10",
-          "Duration": "1:01",
-          "Description": "After public backlash hits the bureau, Hwa-jin and his team go rogue to expose a deadly conspiracy led by a violent student-run gang.",
-          "Thumbnail": "https://image.tmdb.org/t/p/w500/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg",
-          "Servers": [{"Server": "Archive.org", "Link": "https://ia600902.us.archive.org/10/items/tyal_S01_E06/tyal_S01_E10.mp4"}]
-        }
-      ]
-    }
-  ]
-},
         {
           "Title": "Tokyo Revengers",
           "SubCategory": "Animation",
