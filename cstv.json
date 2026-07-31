@@ -79,7 +79,7 @@
           ]
         },
         {
-          "Title": "NBCSports.us",
+          "Title": "NBA TV",
           "SubCategory": "Sports",
           "Country": "USA",
           "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
@@ -91,7 +91,24 @@
           "Servers": [
             {
               "name": "HD",
-              "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8"
+              "url": "http://40.160.24.58/NBA_TV/index.m3u8"
+            }
+          ]
+        },
+                {
+          "Title": "Cine Mo!",
+          "SubCategory": "Movies",
+          "Country": "🇵🇭 PH",
+          "Description": "Cine Mo! is a Filipino pay television channel owned by ABS-CBN.",
+          "Poster": "https://i.imgur.com/KUwrSOH.png",
+          "Thumbnail": "https://i.imgur.com/KUwrSOH.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "SD",
+              "url": "https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index.m3u8"
             }
           ]
         },
@@ -1191,23 +1208,7 @@
           ]
         },
         
-        {
-          "Title": "Cine Mo!",
-          "SubCategory": "Movies",
-          "Country": "🇵🇭 PH",
-          "Description": "Cine Mo! is a Filipino pay television channel owned by ABS-CBN.",
-          "Poster": "https://i.imgur.com/KUwrSOH.png",
-          "Thumbnail": "https://i.imgur.com/KUwrSOH.png",
-          "Rating": 0.0,
-          "Duration": "",
-          "Year": 0,
-          "Servers": [
-            {
-              "name": "SD",
-              "url": "https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index.m3u8"
-            }
-          ]
-        },
+
         {
           "Title": ",Mindanow Network TV",
           "SubCategory": "News",
