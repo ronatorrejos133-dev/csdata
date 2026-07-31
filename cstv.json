@@ -44,7 +44,57 @@
             }
           ]
         },
-       
+        {
+          "Title": "GMA TV",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://i.imgur.com/cGvKkQy.png",
+          "Thumbnail": "https://i.imgur.com/cGvKkQy.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+            }
+          ]
+        },
+        {
+          "Title": "AZ2",
+          "SubCategory": "Entertainment",
+          "Country": "🇵🇭 Philippines",
+          "Description": "AZ2",
+          "Poster": "https://i.imgur.com/1zsdloF.png",
+          "Thumbnail": "https://i.imgur.com/1zsdloF.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+  "name": "HD",
+  "url": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+}
+          ]
+        },
+        {
+          "Title": "RPTV",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://i.imgur.com/cGvKkQy.png",
+          "Thumbnail": "https://i.imgur.com/",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=e.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+            }
+          ]
+        },
         {
           "Title": "NBCSports.us",
           "SubCategory": "Sports",
@@ -144,23 +194,6 @@
             {
               "name": "HD",
               "url": "http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-            }
-          ]
-        },
-        {
-          "Title": "GMA PinoyTV",
-          "SubCategory": "General Entertainment",
-          "Country": "Philippines",
-          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
-          "Poster": "https://i.imgur.com/Jinf00v.png",
-          "Thumbnail": "https://i.imgur.com/Jinf00v.png",
-          "Rating": 0.0,
-          "Duration": "",
-          "Year": 0,
-          "Servers": [
-            {
-              "name": "HD",
-              "url": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
             }
           ]
         },
@@ -283,24 +316,6 @@
             }
           ]
         },
-        {
-          "Title": "AZ2",
-          "SubCategory": "Entertainment",
-          "Country": "🇵🇭 Philippines",
-          "Description": "AZ2",
-          "Poster": "https://i.imgur.com/1zsdloF.png",
-          "Thumbnail": "https://i.imgur.com/1zsdloF.png",
-          "Rating": 0.0,
-          "Duration": "",
-          "Year": 0,
-          "Servers": [
-            {
-  "name": "HD",
-  "url": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-}
-          ]
-        },
-        
         {
           "Title": "Thrill",
           "SubCategory": "Action/Entertainment",
