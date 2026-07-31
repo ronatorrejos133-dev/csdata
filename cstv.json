@@ -79,6 +79,23 @@
           ]
         },
         {
+          "Title": "NBCSports.us",
+          "SubCategory": "Sports",
+          "Country": "USA",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+          "Thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8"
+            }
+          ]
+        },
+        {
           "Title": "RPTV",
           "SubCategory": "General Entertainment",
           "Country": "Philippines",
