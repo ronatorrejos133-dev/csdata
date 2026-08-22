@@ -130,6 +130,23 @@
           ]
         },
         {
+          "Title": "Peppa Pig",
+          "SubCategory": "Movies",
+          "Country": "🇵🇭 PH",
+          "Description": "Cine Mo! is a Filipino pay television channel owned by ABS-CBN.",
+          "Poster": "https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoSVG_1730825749550.svg",
+          "Thumbnail": "https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoSVG_1730825749550.svg",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "SD",
+              "url": "https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8"
+            }
+          ]
+        },
+        {
           "Title": "NBCSports.us",
           "SubCategory": "Sports",
           "Country": "USA",
