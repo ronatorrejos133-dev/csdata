@@ -130,6 +130,23 @@
           ]
         },
         {
+          "Title": "SMNI",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://smni.com",
+          "Thumbnail": "https://smni.com",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "https://stream.kdlc.click/hls/0/stream.m3u8"
+            }
+          ]
+        },
+        {
           "Title": "NBCSports.us",
           "SubCategory": "Sports",
           "Country": "USA",
