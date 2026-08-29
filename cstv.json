@@ -147,6 +147,23 @@
           ]
         },
         {
+          "Title": "Fox News Channel",
+          "SubCategory": "General Entertainment",
+          "Country": "Philippines",
+          "Description": "GMA PinoyTV is an international channel broadcasting popular Filipino shows, including dramas, news, and variety programs, to overseas audiences.",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+          "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+          "Rating": 0.0,
+          "Duration": "",
+          "Year": 0,
+          "Servers": [
+            {
+              "name": "HD",
+              "url": "http://45.190.28.50/FOX_NEWS/index.m3u8"
+            }
+          ]
+        },
+        {
           "Title": "NBCSports.us",
           "SubCategory": "Sports",
           "Country": "USA",
